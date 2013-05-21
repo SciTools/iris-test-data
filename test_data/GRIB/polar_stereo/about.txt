@@ -1,0 +1,6 @@
+ST4.2013052010.01h
+    "...it is from NOAA and it is available via public ftp."
+
+CMC_glb_TMP_ISBL_1015_ps30km_2013052000_P006.grib2
+    http://weather.gc.ca/grib/grib2_glb_66km_e.html
+    http://dd.weather.gc.ca/model_gem_global/66km/grib2/polar_stereographic/00/006/
