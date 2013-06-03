@@ -1,7 +1,7 @@
 iris_test_data
 ==============
 
-Full Iris test data.
+Full Iris test data v1.3.
 
 This repository includes artificially created data.
 
