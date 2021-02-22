@@ -13,7 +13,7 @@ Data found in this repository are licensed under the UK's Open Government Licenc
 Documentation, example and data license
 ---------------------------------------
  
-    |copy| British Crown copyright, 2012.
+    |copy| British Crown copyright, 2021.
     
     You may use and re-use the information featured in this repository (not including logos) free of 
     charge in any format or medium, under the terms of the 
@@ -22,5 +22,3 @@ Documentation, example and data license
     
     Any email enquiries regarding the use and re-use of this information resource should be 
     sent to: psi@nationalarchives.gsi.gov.uk.
-
-
