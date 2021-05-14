@@ -1,0 +1,45 @@
+# Creates a new bugfix release whenever a push is made to master.
+
+name: release
+
+# Controls when the action will run. 
+on:
+  push:
+    branches:
+      - master
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      
+      - name: Calculate next version
+        run: |
+          git pull
+          export CURRENT_VERSION=$(cat version.txt)
+          export THIS_VERSION=$(echo $CURRENT_VERSION | awk -F. -v OFS=. '{$NF++;print}')
+          echo "THIS_VERSION=$THIS_VERSION" >> $GITHUB_ENV
+      
+      - name: Store next version
+        run: |          
+          echo ${{ env.THIS_VERSION }} > version.txt
+          
+          git config user.name "GitHub Actions"
+          git config user.email "actions@users.noreply.github.com"
+          git commit -am "Automated release - advance the release version."
+          git push          
+      
+      - name: Cut release
+        uses: softprops/action-gh-release@91409e712cf565ce9eff10c87a8d1b11b81757ae
+        with:
+          tag_name: v${{ env.THIS_VERSION }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
