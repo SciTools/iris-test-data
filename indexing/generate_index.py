@@ -54,7 +54,7 @@ def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
         
         file_infos.append(
             FileInfo(
-                filepath,
+                filepath.relative_to(TEST_DATA_ROOT),
                 cube_strs,
                 warning_list,
                 exception_list,
