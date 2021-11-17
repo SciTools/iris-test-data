@@ -7,9 +7,9 @@ import warnings
 
 import iris
 
-TEST_DATA_ROOT = Path("../test_data")
-TEMPLATE_FILE = Path("INDEX_template.rst")
-OUTPUT_FILE = Path("../INDEX.rst")
+TEST_DATA_ROOT = Path(__file__).parent / Path("../test_data")
+TEMPLATE_FILE = Path(__file__).parent / Path("INDEX_template.rst")
+OUTPUT_FILE = Path(__file__).parent / Path("../INDEX.rst")
 
 class FileInfo(NamedTuple):
     path: Path

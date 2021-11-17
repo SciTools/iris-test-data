@@ -3,8 +3,8 @@ Contents
 ========
 
 
-../test_data/FF/ancillary_fixed_length_header
----------------------------------------------
+FF/ancillary_fixed_length_header
+--------------------------------
 
 
 
@@ -14,8 +14,8 @@ UserWarning: Input field skipped as PPField creation failed : error = 'Unsupport
 
 
 
-../test_data/FF/lbrel_missing
------------------------------
+FF/lbrel_missing
+----------------
 
 
 .. code-block::
@@ -59,8 +59,8 @@ UserWarning: Input field skipped as PPField creation failed : error = 'Unsupport
 
 
 
-../test_data/FF/lbrel_test_data
--------------------------------
+FF/lbrel_test_data
+------------------
 
 
 .. code-block::
@@ -90,8 +90,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/FF/n48_multi_field
--------------------------------
+FF/n48_multi_field
+------------------
 
 
 .. code-block::
@@ -164,8 +164,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/FF/n48_multi_field.ieee32.gz
------------------------------------------
+FF/n48_multi_field.ieee32.gz
+----------------------------
 
 
 
@@ -176,8 +176,8 @@ ValueError: No format specification could be found for the given buffer. File el
  {'UriProtocol()': 'file', 'LeadingLine()': "b'\\x1f\\x8b\\x08\\x08\\xef\\xe8\\x9dQ\\x00\\x03n48_multi_f...", 'MagicNumber(4, None)': '529205256', 'MagicNumber(8, None)': '2272919271416307025', 'FileExtension()': '.gz', 'MagicNumber(100, None)': "b'\\x1f\\x8b\\x08\\x08\\xef\\xe8\\x9dQ\\x00\\x03n48_multi_f..."}
 
 
-../test_data/FF/n48_multi_field_table_count
--------------------------------------------
+FF/n48_multi_field_table_count
+------------------------------
 
 
 .. code-block::
@@ -250,8 +250,8 @@ ValueError: No format specification could be found for the given buffer. File el
 
 
 
-../test_data/FF/n48_multi_field.ieee32
---------------------------------------
+FF/n48_multi_field.ieee32
+-------------------------
 
 
 .. code-block::
@@ -324,8 +324,8 @@ ValueError: No format specification could be found for the given buffer. File el
 
 
 
-../test_data/FF/ancillary/qrparm.mask
--------------------------------------
+FF/ancillary/qrparm.mask
+------------------------
 
 
 .. code-block::
@@ -344,8 +344,8 @@ ValueError: No format specification could be found for the given buffer. File el
 
 
 
-../test_data/FF/landsea_masked/testdata_mini_lsm.ff
----------------------------------------------------
+FF/landsea_masked/testdata_mini_lsm.ff
+--------------------------------------
 
 
 .. code-block::
@@ -380,8 +380,8 @@ ValueError: No format specification could be found for the given buffer. File el
 
 
 
-../test_data/FF/lbc/small_lbc
------------------------------
+FF/lbc/small_lbc
+----------------
 
 
 .. code-block::
@@ -580,8 +580,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/FF/structured/small
---------------------------------
+FF/structured/small
+-------------------
 
 
 .. code-block::
@@ -610,8 +610,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/3_layer_viz/3_layer.grib2
--------------------------------------------
+GRIB/3_layer_viz/3_layer.grib2
+------------------------------
 
 
 .. code-block::
@@ -665,8 +665,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/bulletin/40bytes.grib
----------------------------------------
+GRIB/bulletin/40bytes.grib
+--------------------------
 
 
 .. code-block::
@@ -687,8 +687,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/bulletin/41bytes.grib
----------------------------------------
+GRIB/bulletin/41bytes.grib
+--------------------------
 
 
 .. code-block::
@@ -707,8 +707,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/fp_units/days.grib2
--------------------------------------
+GRIB/fp_units/days.grib2
+------------------------
 
 
 .. code-block::
@@ -730,8 +730,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/fp_units/hours.grib2
---------------------------------------
+GRIB/fp_units/hours.grib2
+-------------------------
 
 
 .. code-block::
@@ -753,8 +753,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/fp_units/minutes.grib2
-----------------------------------------
+GRIB/fp_units/minutes.grib2
+---------------------------
 
 
 .. code-block::
@@ -776,8 +776,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/fp_units/seconds.grib2
-----------------------------------------
+GRIB/fp_units/seconds.grib2
+---------------------------
 
 
 .. code-block::
@@ -799,8 +799,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/gaussian/regular_gg.grib1
--------------------------------------------
+GRIB/gaussian/regular_gg.grib1
+------------------------------
 
 
 .. code-block::
@@ -820,8 +820,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/gaussian/regular_gg.grib2
--------------------------------------------
+GRIB/gaussian/regular_gg.grib2
+------------------------------
 
 
 .. code-block::
@@ -843,8 +843,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/global_t/global.grib2
----------------------------------------
+GRIB/global_t/global.grib2
+--------------------------
 
 
 .. code-block::
@@ -868,8 +868,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/grib1_second_order_packing/GRIB_00008_FRANX01
----------------------------------------------------------------
+GRIB/grib1_second_order_packing/GRIB_00008_FRANX01
+--------------------------------------------------
 
 
 .. code-block::
@@ -888,8 +888,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/ij_directions/ineg_jneg.grib2
------------------------------------------------
+GRIB/ij_directions/ineg_jneg.grib2
+----------------------------------
 
 
 .. code-block::
@@ -913,8 +913,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/ij_directions/ineg_jpos.grib2
------------------------------------------------
+GRIB/ij_directions/ineg_jpos.grib2
+----------------------------------
 
 
 .. code-block::
@@ -938,8 +938,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/ij_directions/ipos_jneg.grib2
------------------------------------------------
+GRIB/ij_directions/ipos_jneg.grib2
+----------------------------------
 
 
 .. code-block::
@@ -963,8 +963,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/ij_directions/ipos_jpos.grib2
------------------------------------------------
+GRIB/ij_directions/ipos_jpos.grib2
+----------------------------------
 
 
 .. code-block::
@@ -988,8 +988,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/jpeg2000/file.grib2
--------------------------------------
+GRIB/jpeg2000/file.grib2
+------------------------
 
 
 .. code-block::
@@ -1013,8 +1013,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/lambert/lambert.grib1
----------------------------------------
+GRIB/lambert/lambert.grib1
+--------------------------
 
 
 .. code-block::
@@ -1034,8 +1034,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/lambert/lambert.grib2
----------------------------------------
+GRIB/lambert/lambert.grib2
+--------------------------
 
 
 .. code-block::
@@ -1057,8 +1057,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/missing_values/missing_values.grib2
------------------------------------------------------
+GRIB/missing_values/missing_values.grib2
+----------------------------------------
 
 
 .. code-block::
@@ -1079,8 +1079,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/polar_stereo/CMC_glb_TMP_ISBL_1015_ps30km_2013052000_P006.grib2
----------------------------------------------------------------------------------
+GRIB/polar_stereo/CMC_glb_TMP_ISBL_1015_ps30km_2013052000_P006.grib2
+--------------------------------------------------------------------
 
 
 .. code-block::
@@ -1102,8 +1102,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/polar_stereo/ST4.2013052210.01h
--------------------------------------------------
+GRIB/polar_stereo/ST4.2013052210.01h
+------------------------------------
 
 
 .. code-block::
@@ -1124,8 +1124,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/GRIB/reduced/reduced_gg.grib2
-------------------------------------------
+GRIB/reduced/reduced_gg.grib2
+-----------------------------
 
 
 .. code-block::
@@ -1152,8 +1152,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/reduced/reduced_ll.grib1
-------------------------------------------
+GRIB/reduced/reduced_ll.grib1
+-----------------------------
 
 
 .. code-block::
@@ -1170,8 +1170,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/reduced/reduced_ll_missing.grib1
---------------------------------------------------
+GRIB/reduced/reduced_ll_missing.grib1
+-------------------------------------
 
 
 .. code-block::
@@ -1188,8 +1188,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/rotated_nae_t/sensible_pole.grib2
----------------------------------------------------
+GRIB/rotated_nae_t/sensible_pole.grib2
+--------------------------------------
 
 
 .. code-block::
@@ -1211,8 +1211,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/rotated_uk/uk_wrongparam.grib1
-------------------------------------------------
+GRIB/rotated_uk/uk_wrongparam.grib1
+-----------------------------------
 
 
 .. code-block::
@@ -1232,8 +1232,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/shape_of_earth/0.grib2
-----------------------------------------
+GRIB/shape_of_earth/0.grib2
+---------------------------
 
 
 .. code-block::
@@ -1257,8 +1257,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/shape_of_earth/1.grib2
-----------------------------------------
+GRIB/shape_of_earth/1.grib2
+---------------------------
 
 
 .. code-block::
@@ -1282,8 +1282,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/shape_of_earth/2.grib2
-----------------------------------------
+GRIB/shape_of_earth/2.grib2
+---------------------------
 
 
 .. code-block::
@@ -1307,8 +1307,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/shape_of_earth/3.grib2
-----------------------------------------
+GRIB/shape_of_earth/3.grib2
+---------------------------
 
 
 .. code-block::
@@ -1332,8 +1332,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/shape_of_earth/4.grib2
-----------------------------------------
+GRIB/shape_of_earth/4.grib2
+---------------------------
 
 
 .. code-block::
@@ -1357,8 +1357,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/shape_of_earth/5.grib2
-----------------------------------------
+GRIB/shape_of_earth/5.grib2
+---------------------------
 
 
 .. code-block::
@@ -1382,8 +1382,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/shape_of_earth/6.grib2
-----------------------------------------
+GRIB/shape_of_earth/6.grib2
+---------------------------
 
 
 .. code-block::
@@ -1407,8 +1407,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/shape_of_earth/7.grib2
-----------------------------------------
+GRIB/shape_of_earth/7.grib2
+---------------------------
 
 
 .. code-block::
@@ -1432,8 +1432,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/shape_of_earth/global.grib1
----------------------------------------------
+GRIB/shape_of_earth/global.grib1
+--------------------------------
 
 
 .. code-block::
@@ -1453,8 +1453,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/time_processed/time_bound.grib1
--------------------------------------------------
+GRIB/time_processed/time_bound.grib1
+------------------------------------
 
 
 .. code-block::
@@ -1475,8 +1475,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/time_processed/time_bound.grib2
--------------------------------------------------
+GRIB/time_processed/time_bound.grib2
+------------------------------------
 
 
 .. code-block::
@@ -1500,8 +1500,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/uk_t/uk_t.grib2
----------------------------------
+GRIB/uk_t/uk_t.grib2
+--------------------
 
 
 .. code-block::
@@ -1523,8 +1523,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/GRIB/umukv/ukv_chan9.grib2
----------------------------------------
+GRIB/umukv/ukv_chan9.grib2
+--------------------------
 
 
 .. code-block::
@@ -1547,8 +1547,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/WO0000000003452/201007020900_u1096_ng_ey00_visibility0180_screen_2km
-----------------------------------------------------------------------------------------------
+NIMROD/uk2km/WO0000000003452/201007020900_u1096_ng_ey00_visibility0180_screen_2km
+---------------------------------------------------------------------------------
 
 
 .. code-block::
@@ -1575,8 +1575,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/probability_fields
-----------------------------------------------------
+NIMROD/uk2km/cutouts/probability_fields
+---------------------------------------
 
 
 .. code-block::
@@ -2496,8 +2496,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_bmr04_precip_2km
------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_bmr04_precip_2km
+----------------------------------------------
 
 
 .. code-block::
@@ -2527,8 +2527,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_bsr05_precip_accum60_2km
--------------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_bsr05_precip_accum60_2km
+------------------------------------------------------
 
 
 .. code-block::
@@ -2557,8 +2557,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_cloud3d0060_2km
----------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_cloud3d0060_2km
+--------------------------------------------------
 
 
 .. code-block::
@@ -2608,8 +2608,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_cloud_2km
----------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_cloud_2km
+--------------------------------------------
 
 
 .. code-block::
@@ -2762,8 +2762,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_convection_2km
---------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_convection_2km
+-------------------------------------------------
 
 
 .. code-block::
@@ -2960,8 +2960,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_convwind_2km
-------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_convwind_2km
+-----------------------------------------------
 
 
 .. code-block::
@@ -3095,8 +3095,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_frzlev_2km
-----------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_frzlev_2km
+---------------------------------------------
 
 
 .. code-block::
@@ -3268,8 +3268,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_height_2km
-----------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_height_2km
+---------------------------------------------
 
 
 .. code-block::
@@ -3297,8 +3297,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_precip_2km
-----------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_precip_2km
+---------------------------------------------
 
 
 .. code-block::
@@ -3368,8 +3368,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_precipaccum_2km
----------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_precipaccum_2km
+--------------------------------------------------
 
 
 .. code-block::
@@ -3399,8 +3399,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_preciptype_2km
---------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_preciptype_2km
+-------------------------------------------------
 
 
 .. code-block::
@@ -3594,8 +3594,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_pressure_2km
-------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_pressure_2km
+-----------------------------------------------
 
 
 .. code-block::
@@ -3643,8 +3643,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_radiation_2km
--------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_radiation_2km
+------------------------------------------------
 
 
 .. code-block::
@@ -3792,8 +3792,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_radiationuv_2km
----------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_radiationuv_2km
+--------------------------------------------------
 
 
 .. code-block::
@@ -3861,8 +3861,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_refl_2km
---------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_refl_2km
+-------------------------------------------
 
 
 .. code-block::
@@ -3891,8 +3891,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity3d0060_2km
----------------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity3d0060_2km
+--------------------------------------------------------
 
 
 .. code-block::
@@ -3921,8 +3921,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity_2km
----------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity_2km
+--------------------------------------------------
 
 
 .. code-block::
@@ -3951,8 +3951,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_snow_2km
---------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_snow_2km
+-------------------------------------------
 
 
 .. code-block::
@@ -4021,8 +4021,8 @@ UserWarning: Unable to create instance of HybridPressureFactory. The source data
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_soil3d0060_2km
---------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_soil3d0060_2km
+-------------------------------------------------
 
 
 .. code-block::
@@ -4116,8 +4116,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_soil_2km
---------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_soil_2km
+-------------------------------------------
 
 
 .. code-block::
@@ -4189,8 +4189,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_temperature_2km
----------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_temperature_2km
+--------------------------------------------------
 
 
 .. code-block::
@@ -4284,8 +4284,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_visibility_2km
---------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_visibility_2km
+-------------------------------------------------
 
 
 .. code-block::
@@ -4398,8 +4398,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_wind_2km
---------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_wind_2km
+-------------------------------------------
 
 
 .. code-block::
@@ -4535,8 +4535,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv3d0015_2km
-----------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv3d0015_2km
+---------------------------------------------------
 
 
 .. code-block::
@@ -4586,8 +4586,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv_2km
-----------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv_2km
+---------------------------------------------
 
 
 .. code-block::
@@ -4637,8 +4637,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek01_cape_2km
---------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek01_cape_2km
+-------------------------------------------
 
 
 .. code-block::
@@ -4767,8 +4767,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_ek07_precip0540_accum180_18km
-------------------------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_ek07_precip0540_accum180_18km
+-----------------------------------------------------------
 
 
 .. code-block::
@@ -4797,8 +4797,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NIMROD/uk2km/cutouts/u1096_ng_umqv_fog_2km
--------------------------------------------------------
+NIMROD/uk2km/cutouts/u1096_ng_umqv_fog_2km
+------------------------------------------
 
 
 .. code-block::
@@ -4827,8 +4827,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NetCDF/ORCA2/votemper.nc
--------------------------------------
+NetCDF/ORCA2/votemper.nc
+------------------------
 
 
 .. code-block::
@@ -4876,8 +4876,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NetCDF/global/xyt/SMALL_hires_wind_u_for_ipcc4.nc
---------------------------------------------------------------
+NetCDF/global/xyt/SMALL_hires_wind_u_for_ipcc4.nc
+-------------------------------------------------
 
 
 .. code-block::
@@ -4913,8 +4913,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NetCDF/global/xyt/SMALL_total_column_co2.nc
---------------------------------------------------------
+NetCDF/global/xyt/SMALL_total_column_co2.nc
+-------------------------------------------
 
 
 .. code-block::
@@ -4933,8 +4933,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NetCDF/global/xyt/SMALL_total_column_co2.nc.k2
------------------------------------------------------------
+NetCDF/global/xyt/SMALL_total_column_co2.nc.k2
+----------------------------------------------
 
 
 .. code-block::
@@ -4953,8 +4953,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NetCDF/global/xyt/SMALL_total_column_co2.nc4.k3
-------------------------------------------------------------
+NetCDF/global/xyt/SMALL_total_column_co2.nc4.k3
+-----------------------------------------------
 
 
 .. code-block::
@@ -4973,8 +4973,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NetCDF/global/xyt/SMALL_total_column_co2.nc4.k4
-------------------------------------------------------------
+NetCDF/global/xyt/SMALL_total_column_co2.nc4.k4
+-----------------------------------------------
 
 
 .. code-block::
@@ -4993,8 +4993,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NetCDF/global/xyz_t/GEMS_CO2_Apr2006.nc
-----------------------------------------------------
+NetCDF/global/xyz_t/GEMS_CO2_Apr2006.nc
+---------------------------------------
 
 
 .. code-block::
@@ -5026,8 +5026,8 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
 
 
 
-../test_data/NetCDF/label_and_climate/A1B-99999a-river-sep-2070-2099.nc
------------------------------------------------------------------------
+NetCDF/label_and_climate/A1B-99999a-river-sep-2070-2099.nc
+----------------------------------------------------------
 
 
 .. code-block::
@@ -5041,31 +5041,6 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
             institution                 Met Office Hadley Centre
             invalid_standard_name       realization_weights
             meaning_period              sep
-            references                  Murphy, J.M., B. B. B. Booth, M. Collins, G. R. Harris, D. M. H. Sexton...
-            scenario                    IPCC SRES A1B
-            source                      Probabilistic climate prediction based on family of Met Office Hadley Centre...
-            title                       Change in SEP mean Max air temperature at 1.5m relative to 1961-90 for...
-
-.. code-block::
-
-    Max air temperature at 1.5m / (K)   (time: 1; -- : 23; sample number: 10000)
-        Dimension coordinates:
-            time                             x       -                  -
-            sample number                    -       -                  x
-        Auxiliary coordinates:
-            region                           -       x                  -
-        Cell methods:
-            maximum within days         time
-            mean within years           time
-            mean over years             time
-        Attributes:
-            Conventions                 CF-1.0
-            base_units                  K
-            comment                     Anomaly of 30-year average of monthly/seasonal/annual average of daily...
-            history                     12/07/2007: MAA CREATE_PROBDF_FILE: Version Beta
-            institution                 Met Office Hadley Centre
-            meaning_period              sep
-            realization_weights         weights
             references                  Murphy, J.M., B. B. B. Booth, M. Collins, G. R. Harris, D. M. H. Sexton...
             scenario                    IPCC SRES A1B
             source                      Probabilistic climate prediction based on family of Met Office Hadley Centre...
@@ -5094,13 +5069,38 @@ UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
             source                           Probabilistic climate prediction based on family of Met Office Hadley Centre...
             title                            Change in SEP mean Max air temperature at 1.5m relative to 1961-90 for...
 
+.. code-block::
+
+    Max air temperature at 1.5m / (K)   (time: 1; -- : 23; sample number: 10000)
+        Dimension coordinates:
+            time                             x       -                  -
+            sample number                    -       -                  x
+        Auxiliary coordinates:
+            region                           -       x                  -
+        Cell methods:
+            maximum within days         time
+            mean within years           time
+            mean over years             time
+        Attributes:
+            Conventions                 CF-1.0
+            base_units                  K
+            comment                     Anomaly of 30-year average of monthly/seasonal/annual average of daily...
+            history                     12/07/2007: MAA CREATE_PROBDF_FILE: Version Beta
+            institution                 Met Office Hadley Centre
+            meaning_period              sep
+            realization_weights         weights
+            references                  Murphy, J.M., B. B. B. Booth, M. Collins, G. R. Harris, D. M. H. Sexton...
+            scenario                    IPCC SRES A1B
+            source                      Probabilistic climate prediction based on family of Met Office Hadley Centre...
+            title                       Change in SEP mean Max air temperature at 1.5m relative to 1961-90 for...
 
 
 
 
 
-../test_data/NetCDF/label_and_climate/small_FC_167_mon_19601101.nc
-------------------------------------------------------------------
+
+NetCDF/label_and_climate/small_FC_167_mon_19601101.nc
+-----------------------------------------------------
 
 
 .. code-block::
@@ -5157,8 +5157,8 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
 
 
 
-../test_data/NetCDF/lambert_azimuthal_equal_area/euro_air_temp.nc
------------------------------------------------------------------
+NetCDF/lambert_azimuthal_equal_area/euro_air_temp.nc
+----------------------------------------------------
 
 
 .. code-block::
@@ -5182,8 +5182,8 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
 
 
 
-../test_data/NetCDF/lambert_conformal/test_lcc.nc
--------------------------------------------------
+NetCDF/lambert_conformal/test_lcc.nc
+------------------------------------
 
 
 .. code-block::
@@ -5211,8 +5211,8 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
 
 
 
-../test_data/NetCDF/mercator/toa_brightness_temperature.nc
-----------------------------------------------------------
+NetCDF/mercator/toa_brightness_temperature.nc
+---------------------------------------------
 
 
 .. code-block::
@@ -5252,8 +5252,8 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
 
 
 
-../test_data/NetCDF/rotated/xy/rotPole_landAreaFraction.nc
-----------------------------------------------------------
+NetCDF/rotated/xy/rotPole_landAreaFraction.nc
+---------------------------------------------
 
 
 .. code-block::
@@ -5280,8 +5280,8 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
 
 
 
-../test_data/NetCDF/rotated/xyt/small_rotPole_precipitation.nc
---------------------------------------------------------------
+NetCDF/rotated/xyt/small_rotPole_precipitation.nc
+-------------------------------------------------
 
 
 .. code-block::
@@ -5309,8 +5309,8 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
 
 
 
-../test_data/NetCDF/stereographic/toa_brightness_temperature.nc
----------------------------------------------------------------
+NetCDF/stereographic/toa_brightness_temperature.nc
+--------------------------------------------------
 
 
 .. code-block::
@@ -5350,56 +5350,100 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
 
 
 
-../test_data/NetCDF/testing/cell_methods.nc
--------------------------------------------
+NetCDF/testing/cell_methods.nc
+------------------------------
 
 
 .. code-block::
 
-    cube_comment_2 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+    cube_interval_3 / (unknown)         (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
+            maximum                     time (1 day)
+            minimum                     latitude (0.1 degrees), longitude (0.1 degrees)
+
+.. code-block::
+
+    cube_comment_4 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            maximum                     time (this is a time comment)
             mean                        latitude (this is a shared comment), longitude (this is a shared comment)
 
 .. code-block::
 
-    cube_axes_3 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+    cube_standard_deviation / (unknown) (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            standard_deviation          time
+
+.. code-block::
+
+    cube_comment_1 / (unknown)          (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            mean                        time
-            maximum                     latitude, longitude
+            mean                        time (this is a time comment)
 
 .. code-block::
 
-    cube_mean / (unknown)               (time: 1)
+    cube_interval_4 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            maximum                     time (1 day)
+            minimum                     latitude (0.1 degree_n)
+            mean                        longitude (0.2 degree_e)
+
+.. code-block::
+
+    cube_mode / (unknown)               (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            mean                        time
+            mode                        time
 
 .. code-block::
 
-    cube_variance / (unknown)           (time: 1)
+    cube_comment_3 / (unknown)          (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
-            time                             x
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
         Cell methods:
-            variance                    time
+            mean                        latitude (this a lat comment), longitude (this is a lon comment)
 
 .. code-block::
 
-    cube_axes_0 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+    cube_mix_1 / (unknown)              (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude (0.1 degree_n, area-weighted), longitude (0.2 degree_e, area-weighted)
+
+.. code-block::
+
+    cube_axes_4 / (unknown)             (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
             mean                        latitude, longitude
+            maximum                     time
 
 .. code-block::
 
@@ -5423,74 +5467,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
 
 .. code-block::
 
-    cube_comment_4 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            maximum                     time (this is a time comment)
-            mean                        latitude (this is a shared comment), longitude (this is a shared comment)
-
-.. code-block::
-
-    cube_maximum / (unknown)            (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            maximum                     time
-
-.. code-block::
-
-    cube_axes_1 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        time, latitude, longitude
-
-.. code-block::
-
-    cube_median / (unknown)             (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            median                      time
-
-.. code-block::
-
-    cube_comment_1 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        time (this is a time comment)
-
-.. code-block::
-
-    cube_comment_0 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        time (this is a time comment)
-
-.. code-block::
-
-    cube_interval_3 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            maximum                     time (1 day)
-            minimum                     latitude (0.1 degrees), longitude (0.1 degrees)
-
-.. code-block::
-
     cube_mix_2 / (unknown)              (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
@@ -5499,42 +5475,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
         Cell methods:
             mean                        latitude (0.1 degree_n, area-weighted), longitude (0.2 degree_e, area-weighted)
             sum                         time (7 days, weekly sum)
-
-.. code-block::
-
-    cube_interval_1 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude (0.1 degrees), longitude (0.1 degrees)
-
-.. code-block::
-
-    cube_point / (unknown)              (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            point                       time
-
-.. code-block::
-
-    cube_interval_0 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        time (1 day)
-
-.. code-block::
-
-    cube_minimum / (unknown)            (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            minimum                     time
 
 .. code-block::
 
@@ -5548,43 +5488,27 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
 
 .. code-block::
 
-    cube_interval_4 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            maximum                     time (1 day)
-            minimum                     latitude (0.1 degree_n)
-            mean                        longitude (0.2 degree_e)
-
-.. code-block::
-
-    cube_mix_1 / (unknown)              (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude (0.1 degree_n, area-weighted), longitude (0.2 degree_e, area-weighted)
-
-.. code-block::
-
-    cube_comment_3 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude (this a lat comment), longitude (this is a lon comment)
-
-.. code-block::
-
-    cube_sum / (unknown)                (time: 1)
+    cube_point / (unknown)              (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            sum                         time
+            point                       time
+
+.. code-block::
+
+    cube_median / (unknown)             (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            median                      time
+
+.. code-block::
+
+    cube_variance / (unknown)           (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            variance                    time
 
 .. code-block::
 
@@ -5598,38 +5522,114 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
 
 .. code-block::
 
-    cube_mode / (unknown)               (time: 1)
+    cube_minimum / (unknown)            (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            mode                        time
+            minimum                     time
 
 .. code-block::
 
-    cube_standard_deviation / (unknown) (time: 1)
+    cube_maximum / (unknown)            (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            standard_deviation          time
+            maximum                     time
 
 .. code-block::
 
-    cube_axes_4 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+    cube_axes_3 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        time
+            maximum                     latitude, longitude
+
+.. code-block::
+
+    cube_comment_0 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        time (this is a time comment)
+
+.. code-block::
+
+    cube_sum / (unknown)                (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            sum                         time
+
+.. code-block::
+
+    cube_interval_0 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        time (1 day)
+
+.. code-block::
+
+    cube_comment_2 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude (this is a shared comment), longitude (this is a shared comment)
+
+.. code-block::
+
+    cube_mean / (unknown)               (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            mean                        time
+
+.. code-block::
+
+    cube_interval_1 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude (0.1 degrees), longitude (0.1 degrees)
+
+.. code-block::
+
+    cube_axes_0 / (unknown)             (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
             mean                        latitude, longitude
-            maximum                     time
+
+.. code-block::
+
+    cube_axes_1 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        time, latitude, longitude
 
 
 
 
 
 
-../test_data/NetCDF/testing/small_theta_colpex.nc
--------------------------------------------------
+NetCDF/testing/small_theta_colpex.nc
+------------------------------------
 
 
 .. code-block::
@@ -5666,8 +5666,8 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
 
 
 
-../test_data/NetCDF/testing/test_monotonic_coordinate.cdl
----------------------------------------------------------
+NetCDF/testing/test_monotonic_coordinate.cdl
+--------------------------------------------
 
 
 
@@ -5678,20 +5678,9 @@ ValueError: No format specification could be found for the given buffer. File el
  {'UriProtocol()': 'file', 'LeadingLine()': "b'netcdf weak_monotonic_coordinate {\\n'", 'MagicNumber(4, None)': '1852142691', 'MagicNumber(8, None)': '7954892287054848119', 'FileExtension()': '.cdl', 'MagicNumber(100, None)': "b'netcdf weak_monotonic_coordinate {\\n\\ndimensions..."}
 
 
-../test_data/NetCDF/testing/test_monotonic_coordinate.nc
---------------------------------------------------------
+NetCDF/testing/test_monotonic_coordinate.nc
+-------------------------------------------
 
-
-.. code-block::
-
-    eastward_wind / (m s-1)             (-- : 3; latitude: 3; longitude: 3)
-        Dimension coordinates:
-            latitude                        -            x             -
-            longitude                       -            -             x
-        Auxiliary coordinates:
-            time                            x            -             -
-        Attributes:
-            test                        weak-monotonic time coordinate
 
 .. code-block::
 
@@ -5712,14 +5701,25 @@ ValueError: No format specification could be found for the given buffer. File el
         Auxiliary coordinates:
             time                            x            -             -
         Attributes:
+            test                        weak-monotonic time coordinate
+
+.. code-block::
+
+    eastward_wind / (m s-1)             (-- : 3; latitude: 3; longitude: 3)
+        Dimension coordinates:
+            latitude                        -            x             -
+            longitude                       -            -             x
+        Auxiliary coordinates:
+            time                            x            -             -
+        Attributes:
             test                        masked non-monotonic time coordinate
 
 
 
+UserWarning: Gracefully filling 'time2' dimension coordinate masked points
+
 UserWarning: Failed to create 'time1' dimension coordinate: The 'time' DimCoord points array must be strictly monotonic.
 Gracefully creating 'time1' auxiliary coordinate instead.
-
-UserWarning: Gracefully filling 'time2' dimension coordinate masked points
 
 UserWarning: Gracefully filling 'time3' dimension coordinate masked points
 
@@ -5729,9 +5729,17 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
 
 
-../test_data/NetCDF/testing/units.nc
-------------------------------------
+NetCDF/testing/units.nc
+-----------------------
 
+
+.. code-block::
+
+    air_temperature / (kelvin)          (time: 5)
+        Dimension coordinates:
+            time                             x
+        Scalar coordinates:
+            height                      100 meters
 
 .. code-block::
 
@@ -5743,27 +5751,19 @@ Gracefully creating 'time3' auxiliary coordinate instead.
         Attributes:
             invalid_units               kevin
 
-.. code-block::
-
-    air_temperature / (kelvin)          (time: 5)
-        Dimension coordinates:
-            time                             x
-        Scalar coordinates:
-            height                      100 meters
 
 
+UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 UserWarning: Ignoring netCDF variable 'cube_1' invalid units 'kevin'
 
 UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
-UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 
 
-
-../test_data/NetCDF/transverse_mercator/projection_origin_attributes.nc
------------------------------------------------------------------------
+NetCDF/transverse_mercator/projection_origin_attributes.nc
+----------------------------------------------------------
 
 
 .. code-block::
@@ -5792,8 +5792,8 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 
 
-../test_data/NetCDF/transverse_mercator/tmean_1910_1910.nc
-----------------------------------------------------------
+NetCDF/transverse_mercator/tmean_1910_1910.nc
+---------------------------------------------
 
 
 .. code-block::
@@ -5822,9 +5822,30 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 
 
-../test_data/NetCDF/ugrid/21_triangle_example.nc
-------------------------------------------------
+NetCDF/ugrid/21_triangle_example.nc
+-----------------------------------
 
+
+.. code-block::
+
+    model boundary conditions / (no_unit) (-- : 19)
+        Auxiliary coordinates:
+            latitude                          x
+            longitude                         x
+        Attributes:
+            Conventions                   UGRID-0.9
+            flag_meanings                 no_flow_boundary  open_boundary
+            flag_values                   0 1
+            location                      boundary
+            mesh                          mesh
+
+.. code-block::
+
+    Maps every boundary segment to the two nodes that it connects. / (unknown) (-- : 19; -- : 2)
+        Attributes:
+            Conventions                                                        UGRID-0.9
+            cf_role                                                            boundary_node_connectivity
+            start_index                                                        0
 
 .. code-block::
 
@@ -5836,11 +5857,22 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    Maps every boundary segment to the two nodes that it connects. / (unknown) (-- : 19; -- : 2)
+    Maps every triangular face to its three corner nodes. / (unknown) (-- : 21; -- : 3)
         Attributes:
-            Conventions                                                        UGRID-0.9
-            cf_role                                                            boundary_node_connectivity
-            start_index                                                        0
+            Conventions                                               UGRID-0.9
+            cf_role                                                   face_node_connectivity
+            start_index                                               0
+
+.. code-block::
+
+    volume flux between cells / (m^3/s) (-- : 41)
+        Auxiliary coordinates:
+            latitude                        x
+            longitude                       x
+        Attributes:
+            Conventions                 UGRID-0.9
+            location                    edge
+            mesh                        mesh
 
 .. code-block::
 
@@ -5857,38 +5889,6 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
             face_node_connectivity                    mesh_face_nodes
             node_coordinates                          mesh_node_lon mesh_node_lat
             topology_dimension                        2
-
-.. code-block::
-
-    volume flux between cells / (m^3/s) (-- : 41)
-        Auxiliary coordinates:
-            latitude                        x
-            longitude                       x
-        Attributes:
-            Conventions                 UGRID-0.9
-            location                    edge
-            mesh                        mesh
-
-.. code-block::
-
-    Maps every triangular face to its three corner nodes. / (unknown) (-- : 21; -- : 3)
-        Attributes:
-            Conventions                                               UGRID-0.9
-            cf_role                                                   face_node_connectivity
-            start_index                                               0
-
-.. code-block::
-
-    model boundary conditions / (no_unit) (-- : 19)
-        Auxiliary coordinates:
-            latitude                          x
-            longitude                         x
-        Attributes:
-            Conventions                   UGRID-0.9
-            flag_meanings                 no_flow_boundary  open_boundary
-            flag_values                   0 1
-            location                      boundary
-            mesh                          mesh
 
 .. code-block::
 
@@ -5929,9 +5929,17 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 
 
-../test_data/NetCDF/unstructured_grid/data_C4.nc
-------------------------------------------------
+NetCDF/unstructured_grid/data_C4.nc
+-----------------------------------
 
+
+.. code-block::
+
+    Maps every quadrilateral face to its four corner nodes. / (unknown) (-- : 96; -- : 4)
+        Attributes:
+            Conventions                                                 UGRID-1.0
+            cf_role                                                     face_node_connectivity
+            start_index                                                 1
 
 .. code-block::
 
@@ -5944,14 +5952,6 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
             face_node_connectivity                    face_nodes
             node_coordinates                          node_lat node_lon
             topology_dimension                        2
-
-.. code-block::
-
-    Maps every quadrilateral face to its four corner nodes. / (unknown) (-- : 96; -- : 4)
-        Attributes:
-            Conventions                                                 UGRID-1.0
-            cf_role                                                     face_node_connectivity
-            start_index                                                 1
 
 .. code-block::
 
@@ -5981,9 +5981,53 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 
 
-../test_data/NetCDF/unstructured_grid/lfric_ngvat_2D_1t_face_half_levels_main_conv_rain.nc
-------------------------------------------------------------------------------------------
+NetCDF/unstructured_grid/lfric_ngvat_2D_1t_face_half_levels_main_conv_rain.nc
+-----------------------------------------------------------------------------
 
+
+.. code-block::
+
+    Topology data of 2D unstructured mesh / (unknown) (scalar cube)
+        Attributes:
+            Conventions                               UGRID
+            cf_role                                   mesh_topology
+            description                               Created by xios
+            edge_coordinates                          Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y
+            edge_node_connectivity                    Mesh2d_half_levels_edge_nodes
+            face_coordinates                          Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y
+            face_node_connectivity                    Mesh2d_half_levels_face_nodes
+            name                                      lfric_ngvat_2D_1t_face_half_levels_main_conv_rain
+            node_coordinates                          Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y
+            timeStamp                                 2020-Oct-18 21:20:18 GMT
+            title                                     Created by xios
+            topology_dimension                        2
+            uuid                                      85317dbf-79e1-44d6-9032-a8c9b76b6fc0
+
+.. code-block::
+
+    Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       UGRID
+            cf_role                           face_edge_connectivity
+            description                       Created by xios
+            name                              lfric_ngvat_2D_1t_face_half_levels_main_conv_rain
+            start_index                       0
+            timeStamp                         2020-Oct-18 21:20:18 GMT
+            title                             Created by xios
+            uuid                              85317dbf-79e1-44d6-9032-a8c9b76b6fc0
+
+.. code-block::
+
+    Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                                             UGRID
+            cf_role                                                 edge_node_connectivity
+            description                                             Created by xios
+            name                                                    lfric_ngvat_2D_1t_face_half_levels_main_conv_rain
+            start_index                                             0
+            timeStamp                                               2020-Oct-18 21:20:18 GMT
+            title                                                   Created by xios
+            uuid                                                    85317dbf-79e1-44d6-9032-a8c9b76b6fc0
 
 .. code-block::
 
@@ -6023,32 +6067,6 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       UGRID
-            cf_role                           face_edge_connectivity
-            description                       Created by xios
-            name                              lfric_ngvat_2D_1t_face_half_levels_main_conv_rain
-            start_index                       0
-            timeStamp                         2020-Oct-18 21:20:18 GMT
-            title                             Created by xios
-            uuid                              85317dbf-79e1-44d6-9032-a8c9b76b6fc0
-
-.. code-block::
-
-    Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             UGRID
-            cf_role                                                 edge_node_connectivity
-            description                                             Created by xios
-            name                                                    lfric_ngvat_2D_1t_face_half_levels_main_conv_rain
-            start_index                                             0
-            timeStamp                                               2020-Oct-18 21:20:18 GMT
-            title                                                   Created by xios
-            uuid                                                    85317dbf-79e1-44d6-9032-a8c9b76b6fc0
-
-.. code-block::
-
     Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
         Attributes:
             Conventions                                        UGRID
@@ -6061,24 +6079,6 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
             timeStamp                                          2020-Oct-18 21:20:18 GMT
             title                                              Created by xios
             uuid                                               85317dbf-79e1-44d6-9032-a8c9b76b6fc0
-
-.. code-block::
-
-    Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               UGRID
-            cf_role                                   mesh_topology
-            description                               Created by xios
-            edge_coordinates                          Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y
-            edge_node_connectivity                    Mesh2d_half_levels_edge_nodes
-            face_coordinates                          Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y
-            face_node_connectivity                    Mesh2d_half_levels_face_nodes
-            name                                      lfric_ngvat_2D_1t_face_half_levels_main_conv_rain
-            node_coordinates                          Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y
-            timeStamp                                 2020-Oct-18 21:20:18 GMT
-            title                                     Created by xios
-            topology_dimension                        2
-            uuid                                      85317dbf-79e1-44d6-9032-a8c9b76b6fc0
 
 .. code-block::
 
@@ -6095,7 +6095,7 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    latitude / (degrees)                (-- : 1728)
+    latitude / (degrees)                (-- : 866)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -6106,7 +6106,7 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    latitude / (degrees)                (-- : 866)
+    latitude / (degrees)                (-- : 1728)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -6142,9 +6142,53 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 
 
-../test_data/NetCDF/unstructured_grid/lfric_ngvat_2D_72t_face_half_levels_main_conv_rain.nc
--------------------------------------------------------------------------------------------
+NetCDF/unstructured_grid/lfric_ngvat_2D_72t_face_half_levels_main_conv_rain.nc
+------------------------------------------------------------------------------
 
+
+.. code-block::
+
+    Topology data of 2D unstructured mesh / (unknown) (scalar cube)
+        Attributes:
+            Conventions                               UGRID
+            cf_role                                   mesh_topology
+            description                               Created by xios
+            edge_coordinates                          Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y
+            edge_node_connectivity                    Mesh2d_half_levels_edge_nodes
+            face_coordinates                          Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y
+            face_node_connectivity                    Mesh2d_half_levels_face_nodes
+            name                                      lfric_ngvat_2D_72t_face_half_levels_main_conv_rain
+            node_coordinates                          Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y
+            timeStamp                                 2020-Oct-18 21:18:35 GMT
+            title                                     Created by xios
+            topology_dimension                        2
+            uuid                                      b3dc0fb4-9828-4663-a5ac-2a5763280159
+
+.. code-block::
+
+    Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       UGRID
+            cf_role                           face_edge_connectivity
+            description                       Created by xios
+            name                              lfric_ngvat_2D_72t_face_half_levels_main_conv_rain
+            start_index                       0
+            timeStamp                         2020-Oct-18 21:18:35 GMT
+            title                             Created by xios
+            uuid                              b3dc0fb4-9828-4663-a5ac-2a5763280159
+
+.. code-block::
+
+    Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                                             UGRID
+            cf_role                                                 edge_node_connectivity
+            description                                             Created by xios
+            name                                                    lfric_ngvat_2D_72t_face_half_levels_main_conv_rain
+            start_index                                             0
+            timeStamp                                               2020-Oct-18 21:18:35 GMT
+            title                                                   Created by xios
+            uuid                                                    b3dc0fb4-9828-4663-a5ac-2a5763280159
 
 .. code-block::
 
@@ -6184,32 +6228,6 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       UGRID
-            cf_role                           face_edge_connectivity
-            description                       Created by xios
-            name                              lfric_ngvat_2D_72t_face_half_levels_main_conv_rain
-            start_index                       0
-            timeStamp                         2020-Oct-18 21:18:35 GMT
-            title                             Created by xios
-            uuid                              b3dc0fb4-9828-4663-a5ac-2a5763280159
-
-.. code-block::
-
-    Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             UGRID
-            cf_role                                                 edge_node_connectivity
-            description                                             Created by xios
-            name                                                    lfric_ngvat_2D_72t_face_half_levels_main_conv_rain
-            start_index                                             0
-            timeStamp                                               2020-Oct-18 21:18:35 GMT
-            title                                                   Created by xios
-            uuid                                                    b3dc0fb4-9828-4663-a5ac-2a5763280159
-
-.. code-block::
-
     Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
         Attributes:
             Conventions                                        UGRID
@@ -6222,24 +6240,6 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
             timeStamp                                          2020-Oct-18 21:18:35 GMT
             title                                              Created by xios
             uuid                                               b3dc0fb4-9828-4663-a5ac-2a5763280159
-
-.. code-block::
-
-    Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               UGRID
-            cf_role                                   mesh_topology
-            description                               Created by xios
-            edge_coordinates                          Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y
-            edge_node_connectivity                    Mesh2d_half_levels_edge_nodes
-            face_coordinates                          Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y
-            face_node_connectivity                    Mesh2d_half_levels_face_nodes
-            name                                      lfric_ngvat_2D_72t_face_half_levels_main_conv_rain
-            node_coordinates                          Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y
-            timeStamp                                 2020-Oct-18 21:18:35 GMT
-            title                                     Created by xios
-            topology_dimension                        2
-            uuid                                      b3dc0fb4-9828-4663-a5ac-2a5763280159
 
 .. code-block::
 
@@ -6256,7 +6256,7 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    latitude / (degrees)                (-- : 1728)
+    latitude / (degrees)                (-- : 866)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -6267,7 +6267,7 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    latitude / (degrees)                (-- : 866)
+    latitude / (degrees)                (-- : 1728)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -6303,9 +6303,50 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 
 
-../test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1.nc
---------------------------------------------------------------------------------------------------------
+NetCDF/unstructured_grid/lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1.nc
+-------------------------------------------------------------------------------------------
 
+
+.. code-block::
+
+    Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                                             UGRID
+            cf_role                                                 edge_node_connectivity
+            description                                             Created by xios
+            name                                                    lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1
+            start_index                                             0
+            timeStamp                                               2020-Oct-18 21:20:19 GMT
+            title                                                   Created by xios
+            uuid                                                    e9218bc2-9665-4ee8-ac7c-b456c02ff9af
+
+.. code-block::
+
+    Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                              UGRID
+            cf_role                                  face_node_connectivity
+            description                              Created by xios
+            name                                     lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1
+            start_index                              0
+            timeStamp                                2020-Oct-18 21:20:19 GMT
+            title                                    Created by xios
+            uuid                                     e9218bc2-9665-4ee8-ac7c-b456c02ff9af
+
+.. code-block::
+
+    Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        UGRID
+            cf_role                                            face_face connectivity
+            description                                        Created by xios
+            flag_meanings                                      out_of_mesh
+            flag_values                                        -1
+            name                                               lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1
+            start_index                                        0
+            timeStamp                                          2020-Oct-18 21:20:19 GMT
+            title                                              Created by xios
+            uuid                                               e9218bc2-9665-4ee8-ac7c-b456c02ff9af
 
 .. code-block::
 
@@ -6322,30 +6363,21 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+    Topology data of 2D unstructured mesh / (unknown) (scalar cube)
         Attributes:
-            Conventions                  UGRID
-            cf_role                      edge_face connectivity
-            comment                      missing neighbor faces are indicated using _FillValue
-            description                  Created by xios
-            name                         lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1
-            start_index                  0
-            timeStamp                    2020-Oct-18 21:20:19 GMT
-            title                        Created by xios
-            uuid                         e9218bc2-9665-4ee8-ac7c-b456c02ff9af
-
-.. code-block::
-
-    Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              UGRID
-            cf_role                                  face_node_connectivity
-            description                              Created by xios
-            name                                     lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1
-            start_index                              0
-            timeStamp                                2020-Oct-18 21:20:19 GMT
-            title                                    Created by xios
-            uuid                                     e9218bc2-9665-4ee8-ac7c-b456c02ff9af
+            Conventions                               UGRID
+            cf_role                                   mesh_topology
+            description                               Created by xios
+            edge_coordinates                          Mesh2d_full_levels_edge_x Mesh2d_full_levels_edge_y
+            edge_node_connectivity                    Mesh2d_full_levels_edge_nodes
+            face_coordinates                          Mesh2d_full_levels_face_x Mesh2d_full_levels_face_y
+            face_node_connectivity                    Mesh2d_full_levels_face_nodes
+            name                                      lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1
+            node_coordinates                          Mesh2d_full_levels_node_x Mesh2d_full_levels_node_y
+            timeStamp                                 2020-Oct-18 21:20:19 GMT
+            title                                     Created by xios
+            topology_dimension                        2
+            uuid                                      e9218bc2-9665-4ee8-ac7c-b456c02ff9af
 
 .. code-block::
 
@@ -6373,49 +6405,17 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+    neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
-            Conventions                                        UGRID
-            cf_role                                            face_face connectivity
-            description                                        Created by xios
-            flag_meanings                                      out_of_mesh
-            flag_values                                        -1
-            name                                               lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1
-            start_index                                        0
-            timeStamp                                          2020-Oct-18 21:20:19 GMT
-            title                                              Created by xios
-            uuid                                               e9218bc2-9665-4ee8-ac7c-b456c02ff9af
-
-.. code-block::
-
-    Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               UGRID
-            cf_role                                   mesh_topology
-            description                               Created by xios
-            edge_coordinates                          Mesh2d_full_levels_edge_x Mesh2d_full_levels_edge_y
-            edge_node_connectivity                    Mesh2d_full_levels_edge_nodes
-            face_coordinates                          Mesh2d_full_levels_face_x Mesh2d_full_levels_face_y
-            face_node_connectivity                    Mesh2d_full_levels_face_nodes
-            name                                      lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1
-            node_coordinates                          Mesh2d_full_levels_node_x Mesh2d_full_levels_node_y
-            timeStamp                                 2020-Oct-18 21:20:19 GMT
-            title                                     Created by xios
-            topology_dimension                        2
-            uuid                                      e9218bc2-9665-4ee8-ac7c-b456c02ff9af
-
-.. code-block::
-
-    Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             UGRID
-            cf_role                                                 edge_node_connectivity
-            description                                             Created by xios
-            name                                                    lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1
-            start_index                                             0
-            timeStamp                                               2020-Oct-18 21:20:19 GMT
-            title                                                   Created by xios
-            uuid                                                    e9218bc2-9665-4ee8-ac7c-b456c02ff9af
+            Conventions                  UGRID
+            cf_role                      edge_face connectivity
+            comment                      missing neighbor faces are indicated using _FillValue
+            description                  Created by xios
+            name                         lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1
+            start_index                  0
+            timeStamp                    2020-Oct-18 21:20:19 GMT
+            title                        Created by xios
+            uuid                         e9218bc2-9665-4ee8-ac7c-b456c02ff9af
 
 .. code-block::
 
@@ -6466,23 +6466,27 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 
 
-../test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3.nc
----------------------------------------------------------------------------------------------------
+NetCDF/unstructured_grid/lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3.nc
+--------------------------------------------------------------------------------------
 
 
 .. code-block::
 
-    neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+    Topology data of 2D unstructured mesh / (unknown) (scalar cube)
         Attributes:
-            Conventions                  UGRID
-            cf_role                      edge_face connectivity
-            comment                      missing neighbor faces are indicated using _FillValue
-            description                  Created by xios
-            name                         lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3
-            start_index                  0
-            timeStamp                    2020-Oct-18 21:20:19 GMT
-            title                        Created by xios
-            uuid                         412ffe9b-6a55-420e-940b-051e7d9f24bb
+            Conventions                               UGRID
+            cf_role                                   mesh_topology
+            description                               Created by xios
+            edge_coordinates                          Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y
+            edge_node_connectivity                    Mesh2d_half_levels_edge_nodes
+            face_coordinates                          Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y
+            face_node_connectivity                    Mesh2d_half_levels_face_nodes
+            name                                      lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3
+            node_coordinates                          Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y
+            timeStamp                                 2020-Oct-18 21:20:19 GMT
+            title                                     Created by xios
+            topology_dimension                        2
+            uuid                                      412ffe9b-6a55-420e-940b-051e7d9f24bb
 
 .. code-block::
 
@@ -6512,6 +6516,20 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
+    neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  UGRID
+            cf_role                      edge_face connectivity
+            comment                      missing neighbor faces are indicated using _FillValue
+            description                  Created by xios
+            name                         lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3
+            start_index                  0
+            timeStamp                    2020-Oct-18 21:20:19 GMT
+            title                        Created by xios
+            uuid                         412ffe9b-6a55-420e-940b-051e7d9f24bb
+
+.. code-block::
+
     Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
         Attributes:
             Conventions                                        UGRID
@@ -6524,24 +6542,6 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
             timeStamp                                          2020-Oct-18 21:20:19 GMT
             title                                              Created by xios
             uuid                                               412ffe9b-6a55-420e-940b-051e7d9f24bb
-
-.. code-block::
-
-    Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               UGRID
-            cf_role                                   mesh_topology
-            description                               Created by xios
-            edge_coordinates                          Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y
-            edge_node_connectivity                    Mesh2d_half_levels_edge_nodes
-            face_coordinates                          Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y
-            face_node_connectivity                    Mesh2d_half_levels_face_nodes
-            name                                      lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3
-            node_coordinates                          Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y
-            timeStamp                                 2020-Oct-18 21:20:19 GMT
-            title                                     Created by xios
-            topology_dimension                        2
-            uuid                                      412ffe9b-6a55-420e-940b-051e7d9f24bb
 
 .. code-block::
 
@@ -6582,7 +6582,7 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    latitude / (degrees)                (-- : 1728)
+    latitude / (degrees)                (-- : 866)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -6593,7 +6593,7 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    latitude / (degrees)                (-- : 866)
+    latitude / (degrees)                (-- : 1728)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -6629,23 +6629,27 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 
 
-../test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_temp.nc
--------------------------------------------------------------------------------------------------------------------
+NetCDF/unstructured_grid/lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_temp.nc
+------------------------------------------------------------------------------------------------------
 
 
 .. code-block::
 
-    neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+    Topology data of 2D unstructured mesh / (unknown) (scalar cube)
         Attributes:
-            Conventions                  UGRID
-            cf_role                      edge_face connectivity
-            comment                      missing neighbor faces are indicated using _FillValue
-            description                  Created by xios
-            name                         lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_...
-            start_index                  0
-            timeStamp                    2020-Oct-18 21:20:18 GMT
-            title                        Created by xios
-            uuid                         798b1d5b-05e3-4380-a3b9-822709b0b74c
+            Conventions                               UGRID
+            cf_role                                   mesh_topology
+            description                               Created by xios
+            edge_coordinates                          Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y
+            edge_node_connectivity                    Mesh2d_half_levels_edge_nodes
+            face_coordinates                          Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y
+            face_node_connectivity                    Mesh2d_half_levels_face_nodes
+            name                                      lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_...
+            node_coordinates                          Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y
+            timeStamp                                 2020-Oct-18 21:20:18 GMT
+            title                                     Created by xios
+            topology_dimension                        2
+            uuid                                      798b1d5b-05e3-4380-a3b9-822709b0b74c
 
 .. code-block::
 
@@ -6697,6 +6701,20 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
+    neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  UGRID
+            cf_role                      edge_face connectivity
+            comment                      missing neighbor faces are indicated using _FillValue
+            description                  Created by xios
+            name                         lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_...
+            start_index                  0
+            timeStamp                    2020-Oct-18 21:20:18 GMT
+            title                        Created by xios
+            uuid                         798b1d5b-05e3-4380-a3b9-822709b0b74c
+
+.. code-block::
+
     Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
         Attributes:
             Conventions                                        UGRID
@@ -6709,24 +6727,6 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
             timeStamp                                          2020-Oct-18 21:20:18 GMT
             title                                              Created by xios
             uuid                                               798b1d5b-05e3-4380-a3b9-822709b0b74c
-
-.. code-block::
-
-    Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               UGRID
-            cf_role                                   mesh_topology
-            description                               Created by xios
-            edge_coordinates                          Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y
-            edge_node_connectivity                    Mesh2d_half_levels_edge_nodes
-            face_coordinates                          Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y
-            face_node_connectivity                    Mesh2d_half_levels_face_nodes
-            name                                      lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_...
-            node_coordinates                          Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y
-            timeStamp                                 2020-Oct-18 21:20:18 GMT
-            title                                     Created by xios
-            topology_dimension                        2
-            uuid                                      798b1d5b-05e3-4380-a3b9-822709b0b74c
 
 .. code-block::
 
@@ -6743,7 +6743,7 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    latitude / (degrees)                (-- : 1728)
+    latitude / (degrees)                (-- : 866)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -6754,7 +6754,7 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    latitude / (degrees)                (-- : 866)
+    latitude / (degrees)                (-- : 1728)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -6790,9 +6790,66 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 
 
-../test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temperature.nc
---------------------------------------------------------------------------------------------------------------------
+NetCDF/unstructured_grid/lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temperature.nc
+-------------------------------------------------------------------------------------------------------
 
+
+.. code-block::
+
+    Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                              UGRID
+            cf_role                                  face_node_connectivity
+            description                              Created by xios
+            name                                     lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
+            start_index                              0
+            timeStamp                                2020-Oct-18 21:20:18 GMT
+            title                                    Created by xios
+            uuid                                     bcb9d574-1c71-40bc-99a2-67ae2ba08e18
+
+.. code-block::
+
+    Topology data of 2D unstructured mesh / (unknown) (scalar cube)
+        Attributes:
+            Conventions                               UGRID
+            cf_role                                   mesh_topology
+            description                               Created by xios
+            edge_coordinates                          Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y
+            edge_node_connectivity                    Mesh2d_half_levels_edge_nodes
+            face_coordinates                          Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y
+            face_node_connectivity                    Mesh2d_half_levels_face_nodes
+            name                                      lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
+            node_coordinates                          Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y
+            timeStamp                                 2020-Oct-18 21:20:18 GMT
+            title                                     Created by xios
+            topology_dimension                        2
+            uuid                                      bcb9d574-1c71-40bc-99a2-67ae2ba08e18
+
+.. code-block::
+
+    Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       UGRID
+            cf_role                           face_edge_connectivity
+            description                       Created by xios
+            name                              lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
+            start_index                       0
+            timeStamp                         2020-Oct-18 21:20:18 GMT
+            title                             Created by xios
+            uuid                              bcb9d574-1c71-40bc-99a2-67ae2ba08e18
+
+.. code-block::
+
+    Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                                             UGRID
+            cf_role                                                 edge_node_connectivity
+            description                                             Created by xios
+            name                                                    lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
+            start_index                                             0
+            timeStamp                                               2020-Oct-18 21:20:18 GMT
+            title                                                   Created by xios
+            uuid                                                    bcb9d574-1c71-40bc-99a2-67ae2ba08e18
 
 .. code-block::
 
@@ -6810,16 +6867,18 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+    Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
         Attributes:
-            Conventions                       UGRID
-            cf_role                           face_edge_connectivity
-            description                       Created by xios
-            name                              lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
-            start_index                       0
-            timeStamp                         2020-Oct-18 21:20:18 GMT
-            title                             Created by xios
-            uuid                              bcb9d574-1c71-40bc-99a2-67ae2ba08e18
+            Conventions                                        UGRID
+            cf_role                                            face_face connectivity
+            description                                        Created by xios
+            flag_meanings                                      out_of_mesh
+            flag_values                                        -1
+            name                                               lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
+            start_index                                        0
+            timeStamp                                          2020-Oct-18 21:20:18 GMT
+            title                                              Created by xios
+            uuid                                               bcb9d574-1c71-40bc-99a2-67ae2ba08e18
 
 .. code-block::
 
@@ -6845,66 +6904,7 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             UGRID
-            cf_role                                                 edge_node_connectivity
-            description                                             Created by xios
-            name                                                    lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
-            start_index                                             0
-            timeStamp                                               2020-Oct-18 21:20:18 GMT
-            title                                                   Created by xios
-            uuid                                                    bcb9d574-1c71-40bc-99a2-67ae2ba08e18
-
-.. code-block::
-
-    Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        UGRID
-            cf_role                                            face_face connectivity
-            description                                        Created by xios
-            flag_meanings                                      out_of_mesh
-            flag_values                                        -1
-            name                                               lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
-            start_index                                        0
-            timeStamp                                          2020-Oct-18 21:20:18 GMT
-            title                                              Created by xios
-            uuid                                               bcb9d574-1c71-40bc-99a2-67ae2ba08e18
-
-.. code-block::
-
-    Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               UGRID
-            cf_role                                   mesh_topology
-            description                               Created by xios
-            edge_coordinates                          Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y
-            edge_node_connectivity                    Mesh2d_half_levels_edge_nodes
-            face_coordinates                          Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y
-            face_node_connectivity                    Mesh2d_half_levels_face_nodes
-            name                                      lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
-            node_coordinates                          Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y
-            timeStamp                                 2020-Oct-18 21:20:18 GMT
-            title                                     Created by xios
-            topology_dimension                        2
-            uuid                                      bcb9d574-1c71-40bc-99a2-67ae2ba08e18
-
-.. code-block::
-
-    Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              UGRID
-            cf_role                                  face_node_connectivity
-            description                              Created by xios
-            name                                     lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
-            start_index                              0
-            timeStamp                                2020-Oct-18 21:20:18 GMT
-            title                                    Created by xios
-            uuid                                     bcb9d574-1c71-40bc-99a2-67ae2ba08e18
-
-.. code-block::
-
-    latitude / (degrees)                (-- : 1728)
+    latitude / (degrees)                (-- : 866)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -6915,7 +6915,7 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    latitude / (degrees)                (-- : 866)
+    latitude / (degrees)                (-- : 1728)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -6951,36 +6951,9 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 
 
-../test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile.nc
---------------------------------------------------------------------------------------------------------------
+NetCDF/unstructured_grid/lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile.nc
+-------------------------------------------------------------------------------------------------
 
-
-.. code-block::
-
-    neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  UGRID
-            cf_role                      edge_face connectivity
-            comment                      missing neighbor faces are indicated using _FillValue
-            description                  Created by xios
-            name                         lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile
-            start_index                  0
-            timeStamp                    2020-Oct-18 21:20:17 GMT
-            title                        Created by xios
-            uuid                         f42f46fc-d879-479b-ab60-73b76b8b5816
-
-.. code-block::
-
-    Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       UGRID
-            cf_role                           face_edge_connectivity
-            description                       Created by xios
-            name                              lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile
-            start_index                       0
-            timeStamp                         2020-Oct-18 21:20:17 GMT
-            title                             Created by xios
-            uuid                              f42f46fc-d879-479b-ab60-73b76b8b5816
 
 .. code-block::
 
@@ -7006,34 +6979,6 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             UGRID
-            cf_role                                                 edge_node_connectivity
-            description                                             Created by xios
-            name                                                    lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile
-            start_index                                             0
-            timeStamp                                               2020-Oct-18 21:20:17 GMT
-            title                                                   Created by xios
-            uuid                                                    f42f46fc-d879-479b-ab60-73b76b8b5816
-
-.. code-block::
-
-    Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        UGRID
-            cf_role                                            face_face connectivity
-            description                                        Created by xios
-            flag_meanings                                      out_of_mesh
-            flag_values                                        -1
-            name                                               lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile
-            start_index                                        0
-            timeStamp                                          2020-Oct-18 21:20:17 GMT
-            title                                              Created by xios
-            uuid                                               f42f46fc-d879-479b-ab60-73b76b8b5816
-
-.. code-block::
-
     Topology data of 2D unstructured mesh / (unknown) (scalar cube)
         Attributes:
             Conventions                               UGRID
@@ -7052,6 +6997,61 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
+    Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       UGRID
+            cf_role                           face_edge_connectivity
+            description                       Created by xios
+            name                              lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile
+            start_index                       0
+            timeStamp                         2020-Oct-18 21:20:17 GMT
+            title                             Created by xios
+            uuid                              f42f46fc-d879-479b-ab60-73b76b8b5816
+
+.. code-block::
+
+    Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                                             UGRID
+            cf_role                                                 edge_node_connectivity
+            description                                             Created by xios
+            name                                                    lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile
+            start_index                                             0
+            timeStamp                                               2020-Oct-18 21:20:17 GMT
+            title                                                   Created by xios
+            uuid                                                    f42f46fc-d879-479b-ab60-73b76b8b5816
+
+.. code-block::
+
+    neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  UGRID
+            cf_role                      edge_face connectivity
+            comment                      missing neighbor faces are indicated using _FillValue
+            description                  Created by xios
+            name                         lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile
+            start_index                  0
+            timeStamp                    2020-Oct-18 21:20:17 GMT
+            title                        Created by xios
+            uuid                         f42f46fc-d879-479b-ab60-73b76b8b5816
+
+.. code-block::
+
+    Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        UGRID
+            cf_role                                            face_face connectivity
+            description                                        Created by xios
+            flag_meanings                                      out_of_mesh
+            flag_values                                        -1
+            name                                               lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile
+            start_index                                        0
+            timeStamp                                          2020-Oct-18 21:20:17 GMT
+            title                                              Created by xios
+            uuid                                               f42f46fc-d879-479b-ab60-73b76b8b5816
+
+.. code-block::
+
     Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
         Attributes:
             Conventions                              UGRID
@@ -7065,7 +7065,7 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    latitude / (degrees)                (-- : 1728)
+    latitude / (degrees)                (-- : 866)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -7076,7 +7076,7 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    latitude / (degrees)                (-- : 866)
+    latitude / (degrees)                (-- : 1728)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -7112,64 +7112,9 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 
 
-../test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_density.nc
--------------------------------------------------------------------------------------------------------------------
+NetCDF/unstructured_grid/lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_density.nc
+------------------------------------------------------------------------------------------------------
 
-
-.. code-block::
-
-    neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  UGRID
-            cf_role                      edge_face connectivity
-            comment                      missing neighbor faces are indicated using _FillValue
-            description                  Created by xios
-            name                         lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den...
-            start_index                  0
-            timeStamp                    2020-Oct-18 21:20:18 GMT
-            title                        Created by xios
-            uuid                         a73698fe-8d84-4d55-baa7-bebfc0e5025e
-
-.. code-block::
-
-    Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       UGRID
-            cf_role                           face_edge_connectivity
-            description                       Created by xios
-            name                              lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den...
-            start_index                       0
-            timeStamp                         2020-Oct-18 21:20:18 GMT
-            title                             Created by xios
-            uuid                              a73698fe-8d84-4d55-baa7-bebfc0e5025e
-
-.. code-block::
-
-    Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        UGRID
-            cf_role                                            face_face connectivity
-            description                                        Created by xios
-            flag_meanings                                      out_of_mesh
-            flag_values                                        -1
-            name                                               lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den...
-            start_index                                        0
-            timeStamp                                          2020-Oct-18 21:20:18 GMT
-            title                                              Created by xios
-            uuid                                               a73698fe-8d84-4d55-baa7-bebfc0e5025e
-
-.. code-block::
-
-    Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             UGRID
-            cf_role                                                 edge_node_connectivity
-            description                                             Created by xios
-            name                                                    lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den...
-            start_index                                             0
-            timeStamp                                               2020-Oct-18 21:20:18 GMT
-            title                                                   Created by xios
-            uuid                                                    a73698fe-8d84-4d55-baa7-bebfc0e5025e
 
 .. code-block::
 
@@ -7213,6 +7158,61 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
+    Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       UGRID
+            cf_role                           face_edge_connectivity
+            description                       Created by xios
+            name                              lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den...
+            start_index                       0
+            timeStamp                         2020-Oct-18 21:20:18 GMT
+            title                             Created by xios
+            uuid                              a73698fe-8d84-4d55-baa7-bebfc0e5025e
+
+.. code-block::
+
+    Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                                             UGRID
+            cf_role                                                 edge_node_connectivity
+            description                                             Created by xios
+            name                                                    lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den...
+            start_index                                             0
+            timeStamp                                               2020-Oct-18 21:20:18 GMT
+            title                                                   Created by xios
+            uuid                                                    a73698fe-8d84-4d55-baa7-bebfc0e5025e
+
+.. code-block::
+
+    neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  UGRID
+            cf_role                      edge_face connectivity
+            comment                      missing neighbor faces are indicated using _FillValue
+            description                  Created by xios
+            name                         lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den...
+            start_index                  0
+            timeStamp                    2020-Oct-18 21:20:18 GMT
+            title                        Created by xios
+            uuid                         a73698fe-8d84-4d55-baa7-bebfc0e5025e
+
+.. code-block::
+
+    Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        UGRID
+            cf_role                                            face_face connectivity
+            description                                        Created by xios
+            flag_meanings                                      out_of_mesh
+            flag_values                                        -1
+            name                                               lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den...
+            start_index                                        0
+            timeStamp                                          2020-Oct-18 21:20:18 GMT
+            title                                              Created by xios
+            uuid                                               a73698fe-8d84-4d55-baa7-bebfc0e5025e
+
+.. code-block::
+
     Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
         Attributes:
             Conventions                              UGRID
@@ -7226,7 +7226,7 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    latitude / (degrees)                (-- : 1728)
+    latitude / (degrees)                (-- : 866)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -7237,7 +7237,7 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    latitude / (degrees)                (-- : 866)
+    latitude / (degrees)                (-- : 1728)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -7273,22 +7273,9 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 
 
-../test_data/NetCDF/unstructured_grid/lfric_surface_mean.nc
------------------------------------------------------------
+NetCDF/unstructured_grid/lfric_surface_mean.nc
+----------------------------------------------
 
-
-.. code-block::
-
-    Maps every edge/link to two nodes that it connects. / (unknown) (-- : 27648; -- : 2)
-        Attributes:
-            Conventions                                             UGRID
-            cf_role                                                 edge_node_connectivity
-            description                                             Created by xios
-            name                                                    lfric_surface
-            start_index                                             0
-            timeStamp                                               2020-Feb-07 16:23:14 GMT
-            title                                                   Created by xios
-            uuid                                                    489bcef5-3d1c-4529-be42-4ab5f8c8497b
 
 .. code-block::
 
@@ -7317,6 +7304,19 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
             timeStamp                                2020-Feb-07 16:23:14 GMT
             title                                    Created by xios
             uuid                                     489bcef5-3d1c-4529-be42-4ab5f8c8497b
+
+.. code-block::
+
+    Maps every face to its edges. / (unknown) (-- : 13824; -- : 4)
+        Attributes:
+            Conventions                       UGRID
+            cf_role                           face_edge_connectivity
+            description                       Created by xios
+            name                              lfric_surface
+            start_index                       0
+            timeStamp                         2020-Feb-07 16:23:14 GMT
+            title                             Created by xios
+            uuid                              489bcef5-3d1c-4529-be42-4ab5f8c8497b
 
 .. code-block::
 
@@ -7352,16 +7352,16 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    Maps every face to its edges. / (unknown) (-- : 13824; -- : 4)
+    Maps every edge/link to two nodes that it connects. / (unknown) (-- : 27648; -- : 2)
         Attributes:
-            Conventions                       UGRID
-            cf_role                           face_edge_connectivity
-            description                       Created by xios
-            name                              lfric_surface
-            start_index                       0
-            timeStamp                         2020-Feb-07 16:23:14 GMT
-            title                             Created by xios
-            uuid                              489bcef5-3d1c-4529-be42-4ab5f8c8497b
+            Conventions                                             UGRID
+            cf_role                                                 edge_node_connectivity
+            description                                             Created by xios
+            name                                                    lfric_surface
+            start_index                                             0
+            timeStamp                                               2020-Feb-07 16:23:14 GMT
+            title                                                   Created by xios
+            uuid                                                    489bcef5-3d1c-4529-be42-4ab5f8c8497b
 
 .. code-block::
 
@@ -7457,17 +7457,6 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    latitude / (degrees)                (-- : 27648)
-        Attributes:
-            Conventions                 UGRID
-            description                 Created by xios
-            name                        lfric_surface
-            timeStamp                   2020-Feb-07 16:23:14 GMT
-            title                       Created by xios
-            uuid                        489bcef5-3d1c-4529-be42-4ab5f8c8497b
-
-.. code-block::
-
     latitude / (degrees)                (-- : 13826)
         Attributes:
             Conventions                 UGRID
@@ -7479,7 +7468,7 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    longitude / (degrees)               (-- : 27648)
+    latitude / (degrees)                (-- : 27648)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -7491,6 +7480,17 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 .. code-block::
 
     longitude / (degrees)               (-- : 13826)
+        Attributes:
+            Conventions                 UGRID
+            description                 Created by xios
+            name                        lfric_surface
+            timeStamp                   2020-Feb-07 16:23:14 GMT
+            title                       Created by xios
+            uuid                        489bcef5-3d1c-4529-be42-4ab5f8c8497b
+
+.. code-block::
+
+    longitude / (degrees)               (-- : 27648)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -7826,9 +7826,39 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 
 
-../test_data/NetCDF/unstructured_grid/mesh_C12.nc
--------------------------------------------------
+NetCDF/unstructured_grid/mesh_C12.nc
+------------------------------------
 
+
+.. code-block::
+
+    Maps every edge to the two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            cf_role                                                edge_node_connectivity
+            start_index                                            1
+
+.. code-block::
+
+    Maps every quadrilateral face to its four edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            cf_role                                              face_edge_connectivity
+            start_index                                          1
+
+.. code-block::
+
+    Indicates which other faces neighbour each face. / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            cf_role                                              face_face_connectivity
+            flag_meanings                                        out_of_mesh
+            flag_values                                          -1
+            start_index                                          1
+
+.. code-block::
+
+    Maps every quadrilateral face to its four corner nodes. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            cf_role                                                     face_node_connectivity
+            start_index                                                 1
 
 .. code-block::
 
@@ -7847,36 +7877,6 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
             periodic_x                                F
             periodic_y                                F
             topology_dimension                        2
-
-.. code-block::
-
-    Maps every edge to the two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            cf_role                                                edge_node_connectivity
-            start_index                                            1
-
-.. code-block::
-
-    Maps every quadrilateral face to its four edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            cf_role                                              face_edge_connectivity
-            start_index                                          1
-
-.. code-block::
-
-    Maps every quadrilateral face to its four corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            cf_role                                                     face_node_connectivity
-            start_index                                                 1
-
-.. code-block::
-
-    Indicates which other faces neighbour each face. / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            cf_role                                              face_face_connectivity
-            flag_meanings                                        out_of_mesh
-            flag_values                                          -1
-            start_index                                          1
 
 .. code-block::
 
@@ -7899,58 +7899,9 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 
 
-../test_data/NetCDF/unstructured_grid/theta_nodal_not_ugrid.nc
---------------------------------------------------------------
+NetCDF/unstructured_grid/theta_nodal_not_ugrid.nc
+-------------------------------------------------
 
-
-.. code-block::
-
-    Potential Temperature / (K)         (time: 1; levels: 6; -- : 866)
-        Dimension coordinates:
-            time                             x          -       -
-            levels                           -          x       -
-        Auxiliary coordinates:
-            time                             x          -       -
-            latitude                         -          -       x
-            longitude                        -          -       x
-        Cell methods:
-            point                       time
-        Attributes:
-            Conventions                 UGRID
-            description                 Created by xios
-            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
-            interval_operation          5 s
-            interval_write              5 s
-            invalid_standard_name       Potential Temperature
-            name                        theta_nodal_xios
-            online_operation            instant
-            production                  An IPSL model
-            timeStamp                   2016-Oct-24 15:16:48 BST
-            title                       Created by xios
-
-.. code-block::
-
-    radius / (radians)                  (time: 1; levels: 6; -- : 866)
-        Dimension coordinates:
-            time                             x          -       -
-            levels                           -          x       -
-        Auxiliary coordinates:
-            time                             x          -       -
-            latitude                         -          -       x
-            longitude                        -          -       x
-        Cell methods:
-            point                       time
-        Attributes:
-            Conventions                 UGRID
-            description                 Created by xios
-            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
-            interval_operation          5 s
-            interval_write              5 s
-            name                        theta_nodal_xios
-            online_operation            instant
-            production                  An IPSL model
-            timeStamp                   2016-Oct-24 15:16:48 BST
-            title                       Created by xios
 
 .. code-block::
 
@@ -7967,14 +7918,29 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
             title                                     Created by xios
             topology_dimension                        2
 
+.. code-block::
 
-
-
-
-
-../test_data/NetCDF/unstructured_grid/theta_nodal_xios.nc
----------------------------------------------------------
-
+    radius / (radians)                  (time: 1; levels: 6; -- : 866)
+        Dimension coordinates:
+            time                             x          -       -
+            levels                           -          x       -
+        Auxiliary coordinates:
+            time                             x          -       -
+            latitude                         -          -       x
+            longitude                        -          -       x
+        Cell methods:
+            point                       time
+        Attributes:
+            Conventions                 UGRID
+            description                 Created by xios
+            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
+            interval_operation          5 s
+            interval_write              5 s
+            name                        theta_nodal_xios
+            online_operation            instant
+            production                  An IPSL model
+            timeStamp                   2016-Oct-24 15:16:48 BST
+            title                       Created by xios
 
 .. code-block::
 
@@ -8000,6 +7966,30 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
             production                  An IPSL model
             timeStamp                   2016-Oct-24 15:16:48 BST
             title                       Created by xios
+
+
+
+
+
+
+NetCDF/unstructured_grid/theta_nodal_xios.nc
+--------------------------------------------
+
+
+.. code-block::
+
+    Topology data of 2D unstructured mesh / (unknown) (scalar cube)
+        Attributes:
+            Conventions                               UGRID
+            cf_role                                   mesh_topology
+            description                               Created by xios
+            history                                   'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
+            name                                      theta_nodal_xios
+            node_coordinates                          Mesh0_node_x Mesh0_node_y
+            production                                An IPSL model
+            timeStamp                                 2016-Oct-24 15:16:48 BST
+            title                                     Created by xios
+            topology_dimension                        2
 
 .. code-block::
 
@@ -8027,26 +8017,36 @@ UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
 
 .. code-block::
 
-    Topology data of 2D unstructured mesh / (unknown) (scalar cube)
+    Potential Temperature / (K)         (time: 1; levels: 6; -- : 866)
+        Dimension coordinates:
+            time                             x          -       -
+            levels                           -          x       -
+        Auxiliary coordinates:
+            time                             x          -       -
+            latitude                         -          -       x
+            longitude                        -          -       x
+        Cell methods:
+            point                       time
         Attributes:
-            Conventions                               UGRID
-            cf_role                                   mesh_topology
-            description                               Created by xios
-            history                                   'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
-            name                                      theta_nodal_xios
-            node_coordinates                          Mesh0_node_x Mesh0_node_y
-            production                                An IPSL model
-            timeStamp                                 2016-Oct-24 15:16:48 BST
-            title                                     Created by xios
-            topology_dimension                        2
+            Conventions                 UGRID
+            description                 Created by xios
+            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
+            interval_operation          5 s
+            interval_write              5 s
+            invalid_standard_name       Potential Temperature
+            name                        theta_nodal_xios
+            online_operation            instant
+            production                  An IPSL model
+            timeStamp                   2016-Oct-24 15:16:48 BST
+            title                       Created by xios
 
 
 
 
 
 
-../test_data/NetCDF/volcello/volcello_Ofx_CESM2_deforest-globe_r1i1p1f1_gn.nc
------------------------------------------------------------------------------
+NetCDF/volcello/volcello_Ofx_CESM2_deforest-globe_r1i1p1f1_gn.nc
+----------------------------------------------------------------
 
 
 .. code-block::
@@ -8125,8 +8125,8 @@ UserWarning: Missing CF-netCDF measure variable 'areacello', referenced by netCD
 
 
 
-../test_data/NetCDF/regrid/regrid_template_global_latlon.nc
------------------------------------------------------------
+NetCDF/regrid/regrid_template_global_latlon.nc
+----------------------------------------------
 
 
 .. code-block::
@@ -8143,8 +8143,8 @@ UserWarning: Missing CF-netCDF measure variable 'areacello', referenced by netCD
 
 
 
-../test_data/NetCDF/regrid/regrid_xyt.nc
-----------------------------------------
+NetCDF/regrid/regrid_xyt.nc
+---------------------------
 
 
 .. code-block::
@@ -8171,8 +8171,8 @@ UserWarning: Missing CF-netCDF measure variable 'areacello', referenced by netCD
 
 
 
-../test_data/PP/nzgust.pp
--------------------------
+PP/nzgust.pp
+------------
 
 
 .. code-block::
@@ -8198,8 +8198,8 @@ UserWarning: Missing CF-netCDF measure variable 'areacello', referenced by netCD
 
 
 
-../test_data/PP/COLPEX/small_colpex_theta_p_alt.pp
---------------------------------------------------
+PP/COLPEX/small_colpex_theta_p_alt.pp
+-------------------------------------
 
 
 .. code-block::
@@ -8266,8 +8266,8 @@ UserWarning: Missing CF-netCDF measure variable 'areacello', referenced by netCD
 
 
 
-../test_data/PP/COLPEX/small_eastward_wind.pp
----------------------------------------------
+PP/COLPEX/small_eastward_wind.pp
+--------------------------------
 
 
 .. code-block::
@@ -8296,8 +8296,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/COLPEX/theta_and_orog_subset.pp
------------------------------------------------
+PP/COLPEX/theta_and_orog_subset.pp
+----------------------------------
 
 
 .. code-block::
@@ -8343,8 +8343,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/aPPglob1/global.pp
-----------------------------------
+PP/aPPglob1/global.pp
+---------------------
 
 
 .. code-block::
@@ -8370,8 +8370,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/aPPglob1/global_little_endian.pp
-------------------------------------------------
+PP/aPPglob1/global_little_endian.pp
+-----------------------------------
 
 
 
@@ -8381,8 +8381,8 @@ UserWarning: Unable to interpret field 0. Unsupported header release number: 335
 
 
 
-../test_data/PP/aPPglob1/global_t_forecast.pp
----------------------------------------------
+PP/aPPglob1/global_t_forecast.pp
+--------------------------------
 
 
 .. code-block::
@@ -8405,8 +8405,8 @@ UserWarning: Unable to interpret field 0. Unsupported header release number: 335
 
 
 
-../test_data/PP/aPProt1/rotated.pp
-----------------------------------
+PP/aPProt1/rotated.pp
+---------------------
 
 
 .. code-block::
@@ -8429,8 +8429,8 @@ UserWarning: Unable to interpret field 0. Unsupported header release number: 335
 
 
 
-../test_data/PP/aPProt1/rotatedMHtimecube.pp
---------------------------------------------
+PP/aPProt1/rotatedMHtimecube.pp
+-------------------------------
 
 
 .. code-block::
@@ -8454,8 +8454,8 @@ UserWarning: Unable to interpret field 0. Unsupported header release number: 335
 
 
 
-../test_data/PP/cf_processing/000003000000.03.236.000128.1990.12.01.00.00.b.pp
-------------------------------------------------------------------------------
+PP/cf_processing/000003000000.03.236.000128.1990.12.01.00.00.b.pp
+-----------------------------------------------------------------
 
 
 .. code-block::
@@ -8480,8 +8480,8 @@ UserWarning: Unable to interpret field 0. Unsupported header release number: 335
 
 
 
-../test_data/PP/cf_processing/000003000000.03.236.004224.1990.12.01.00.00.b.pp
-------------------------------------------------------------------------------
+PP/cf_processing/000003000000.03.236.004224.1990.12.01.00.00.b.pp
+-----------------------------------------------------------------
 
 
 .. code-block::
@@ -8506,8 +8506,8 @@ UserWarning: Unable to interpret field 0. Unsupported header release number: 335
 
 
 
-../test_data/PP/cf_processing/000003000000.03.236.008320.1990.12.01.00.00.b.pp
-------------------------------------------------------------------------------
+PP/cf_processing/000003000000.03.236.008320.1990.12.01.00.00.b.pp
+-----------------------------------------------------------------
 
 
 .. code-block::
@@ -8531,8 +8531,8 @@ UserWarning: Unable to interpret field 0. Unsupported header release number: 335
 
 
 
-../test_data/PP/cf_processing/000003000000.16.202.000128.1860.09.01.00.00.b.pp
-------------------------------------------------------------------------------
+PP/cf_processing/000003000000.16.202.000128.1860.09.01.00.00.b.pp
+-----------------------------------------------------------------
 
 
 .. code-block::
@@ -8557,8 +8557,8 @@ UserWarning: Unable to interpret field 0. Unsupported header release number: 335
 
 
 
-../test_data/PP/cf_processing/001000000000.00.000.000000.1860.01.01.00.00.f.b.pp
---------------------------------------------------------------------------------
+PP/cf_processing/001000000000.00.000.000000.1860.01.01.00.00.f.b.pp
+-------------------------------------------------------------------
 
 
 .. code-block::
@@ -8577,8 +8577,8 @@ UserWarning: Unable to interpret field 0. Unsupported header release number: 335
 
 
 
-../test_data/PP/cf_processing/002000000000.44.101.131200.1920.09.01.00.00.b.pp
-------------------------------------------------------------------------------
+PP/cf_processing/002000000000.44.101.131200.1920.09.01.00.00.b.pp
+-----------------------------------------------------------------
 
 
 .. code-block::
@@ -8601,8 +8601,8 @@ UserWarning: Unable to interpret field 0. Unsupported header release number: 335
 
 
 
-../test_data/PP/cf_processing/008000000000.44.101.000128.1890.09.01.00.00.b.pp
-------------------------------------------------------------------------------
+PP/cf_processing/008000000000.44.101.000128.1890.09.01.00.00.b.pp
+-----------------------------------------------------------------
 
 
 .. code-block::
@@ -8622,8 +8622,8 @@ UserWarning: Unable to interpret field 0. Unsupported header release number: 335
 
 
 
-../test_data/PP/cf_processing/12187.b.pp
-----------------------------------------
+PP/cf_processing/12187.b.pp
+---------------------------
 
 
 .. code-block::
@@ -8654,8 +8654,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/cf_processing/HadCM2_ts_SAT_ann_18602100.b.pp
--------------------------------------------------------------
+PP/cf_processing/HadCM2_ts_SAT_ann_18602100.b.pp
+------------------------------------------------
 
 
 .. code-block::
@@ -8678,8 +8678,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/cf_processing/aaxzc_level_lat_orig.b.pp
--------------------------------------------------------
+PP/cf_processing/aaxzc_level_lat_orig.b.pp
+------------------------------------------
 
 
 .. code-block::
@@ -8704,8 +8704,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/cf_processing/aaxzc_lon_lat_press_orig.b.pp
------------------------------------------------------------
+PP/cf_processing/aaxzc_lon_lat_press_orig.b.pp
+----------------------------------------------
 
 
 .. code-block::
@@ -8731,8 +8731,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/cf_processing/aaxzc_lon_lat_several.b.pp
---------------------------------------------------------
+PP/cf_processing/aaxzc_lon_lat_several.b.pp
+-------------------------------------------
 
 
 .. code-block::
@@ -8758,8 +8758,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/cf_processing/aaxzc_n10r13xy.b.pp
--------------------------------------------------
+PP/cf_processing/aaxzc_n10r13xy.b.pp
+------------------------------------
 
 
 .. code-block::
@@ -8783,8 +8783,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/cf_processing/aaxzc_time_press.b.pp
----------------------------------------------------
+PP/cf_processing/aaxzc_time_press.b.pp
+--------------------------------------
 
 
 .. code-block::
@@ -8804,8 +8804,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/cf_processing/aaxzc_tseries.b.pp
-------------------------------------------------
+PP/cf_processing/aaxzc_tseries.b.pp
+-----------------------------------
 
 
 .. code-block::
@@ -8831,8 +8831,8 @@ RuntimeWarning: invalid value encountered in true_divide
 
 
 
-../test_data/PP/cf_processing/abcza_pa19591997_daily_29.b.pp
-------------------------------------------------------------
+PP/cf_processing/abcza_pa19591997_daily_29.b.pp
+-----------------------------------------------
 
 
 .. code-block::
@@ -8893,8 +8893,8 @@ RuntimeWarning: invalid value encountered in true_divide
 
 
 
-../test_data/PP/cf_processing/abxpa_press_lat.b.pp
---------------------------------------------------
+PP/cf_processing/abxpa_press_lat.b.pp
+-------------------------------------
 
 
 .. code-block::
@@ -8918,8 +8918,8 @@ RuntimeWarning: invalid value encountered in true_divide
 
 
 
-../test_data/PP/cf_processing/integer.b.pp
-------------------------------------------
+PP/cf_processing/integer.b.pp
+-----------------------------
 
 
 .. code-block::
@@ -8943,8 +8943,8 @@ RuntimeWarning: invalid value encountered in true_divide
 
 
 
-../test_data/PP/cf_processing/model.b.pp
-----------------------------------------
+PP/cf_processing/model.b.pp
+---------------------------
 
 
 .. code-block::
@@ -8970,8 +8970,8 @@ RuntimeWarning: invalid value encountered in true_divide
 
 
 
-../test_data/PP/cf_processing/ocean_xsect.b.pp
-----------------------------------------------
+PP/cf_processing/ocean_xsect.b.pp
+---------------------------------
 
 
 .. code-block::
@@ -8995,8 +8995,8 @@ RuntimeWarning: invalid value encountered in true_divide
 
 
 
-../test_data/PP/cf_processing/st0fc699.b.pp
--------------------------------------------
+PP/cf_processing/st0fc699.b.pp
+------------------------------
 
 
 .. code-block::
@@ -9020,8 +9020,8 @@ RuntimeWarning: invalid value encountered in true_divide
 
 
 
-../test_data/PP/cf_processing/st0fc942.b.pp
--------------------------------------------
+PP/cf_processing/st0fc942.b.pp
+------------------------------
 
 
 .. code-block::
@@ -9047,8 +9047,8 @@ RuntimeWarning: invalid value encountered in true_divide
 
 
 
-../test_data/PP/cf_processing/st30211.b.pp
-------------------------------------------
+PP/cf_processing/st30211.b.pp
+-----------------------------
 
 
 .. code-block::
@@ -9078,8 +9078,8 @@ RuntimeWarning: invalid value encountered in true_divide
 
 
 
-../test_data/PP/globClim1/dec_subset.pp
----------------------------------------
+PP/globClim1/dec_subset.pp
+--------------------------
 
 
 .. code-block::
@@ -9173,8 +9173,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/globClim1/theta.pp
-----------------------------------
+PP/globClim1/theta.pp
+---------------------
 
 
 .. code-block::
@@ -9205,8 +9205,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/globClim1/u_wind.pp
------------------------------------
+PP/globClim1/u_wind.pp
+----------------------
 
 
 .. code-block::
@@ -9237,8 +9237,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/globClim1/v_wind.pp
------------------------------------
+PP/globClim1/v_wind.pp
+----------------------
 
 
 .. code-block::
@@ -9269,8 +9269,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/little_endian/qrparm.orog.pp
---------------------------------------------
+PP/little_endian/qrparm.orog.pp
+-------------------------------
 
 
 .. code-block::
@@ -9376,8 +9376,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/mdi_handmade_small/mdi_test_1000_0.pp
------------------------------------------------------
+PP/mdi_handmade_small/mdi_test_1000_0.pp
+----------------------------------------
 
 
 .. code-block::
@@ -9400,8 +9400,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/mdi_handmade_small/mdi_test_1000_3.pp
------------------------------------------------------
+PP/mdi_handmade_small/mdi_test_1000_3.pp
+----------------------------------------
 
 
 .. code-block::
@@ -9424,8 +9424,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/mdi_handmade_small/mdi_test_1000_6.pp
------------------------------------------------------
+PP/mdi_handmade_small/mdi_test_1000_6.pp
+----------------------------------------
 
 
 .. code-block::
@@ -9448,8 +9448,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/mdi_handmade_small/mdi_test_800_0.pp
-----------------------------------------------------
+PP/mdi_handmade_small/mdi_test_800_0.pp
+---------------------------------------
 
 
 .. code-block::
@@ -9472,8 +9472,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/mdi_handmade_small/mdi_test_800_3.pp
-----------------------------------------------------
+PP/mdi_handmade_small/mdi_test_800_3.pp
+---------------------------------------
 
 
 .. code-block::
@@ -9496,8 +9496,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/mdi_handmade_small/mdi_test_800_6.pp
-----------------------------------------------------
+PP/mdi_handmade_small/mdi_test_800_6.pp
+---------------------------------------
 
 
 .. code-block::
@@ -9520,8 +9520,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/mdi_handmade_small/mdi_test_900_0.pp
-----------------------------------------------------
+PP/mdi_handmade_small/mdi_test_900_0.pp
+---------------------------------------
 
 
 .. code-block::
@@ -9544,8 +9544,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/mdi_handmade_small/mdi_test_900_6.pp
-----------------------------------------------------
+PP/mdi_handmade_small/mdi_test_900_6.pp
+---------------------------------------
 
 
 .. code-block::
@@ -9568,8 +9568,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/meanMaxMin/200806081200__qwpb.T24.pp
-----------------------------------------------------
+PP/meanMaxMin/200806081200__qwpb.T24.pp
+---------------------------------------
 
 
 .. code-block::
@@ -11642,8 +11642,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/model_comp/dec_first_field.pp
----------------------------------------------
+PP/model_comp/dec_first_field.pp
+--------------------------------
 
 
 .. code-block::
@@ -11673,8 +11673,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/ocean_rle/ocean_rle.pp
---------------------------------------
+PP/ocean_rle/ocean_rle.pp
+-------------------------
 
 
 .. code-block::
@@ -11739,8 +11739,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/rotated_uk/rotated_uk.pp
-----------------------------------------
+PP/rotated_uk/rotated_uk.pp
+---------------------------
 
 
 .. code-block::
@@ -11767,8 +11767,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/simple_pp/bad_global.pp
----------------------------------------
+PP/simple_pp/bad_global.pp
+--------------------------
 
 
 .. code-block::
@@ -11791,8 +11791,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/simple_pp/global.pp
------------------------------------
+PP/simple_pp/global.pp
+----------------------
 
 
 .. code-block::
@@ -11815,8 +11815,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/simple_pp/partial_mask.pp
------------------------------------------
+PP/simple_pp/partial_mask.pp
+----------------------------
 
 
 .. code-block::
@@ -11837,8 +11837,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/structured/small.pp
------------------------------------
+PP/structured/small.pp
+----------------------
 
 
 .. code-block::
@@ -11867,8 +11867,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/ukV1/ukVpmslont.pp
-----------------------------------
+PP/ukV1/ukVpmslont.pp
+---------------------
 
 
 .. code-block::
@@ -11892,8 +11892,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/ukV1/ukVpmslont_first_field.pp
-----------------------------------------------
+PP/ukV1/ukVpmslont_first_field.pp
+---------------------------------
 
 
 .. code-block::
@@ -11916,8 +11916,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/ukVorog/ukv_orog_refonly.pp
--------------------------------------------
+PP/ukVorog/ukv_orog_refonly.pp
+------------------------------
 
 
 .. code-block::
@@ -11938,8 +11938,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/wgdos_packed/nae.20100104-06_0001.pp
-----------------------------------------------------
+PP/wgdos_packed/nae.20100104-06_0001.pp
+---------------------------------------
 
 
 .. code-block::
@@ -12007,8 +12007,8 @@ UserWarning: Unable to create instance of HybridHeightFactory. The source data c
 
 
 
-../test_data/PP/zonal_mean/zonal_mean.pp
-----------------------------------------
+PP/zonal_mean/zonal_mean.pp
+---------------------------
 
 
 .. code-block::
@@ -12039,8 +12039,8 @@ RuntimeWarning: invalid value encountered in true_divide
 
 
 
-../test_data/abf/AVHRRBUVI01.1985apra.abf
------------------------------------------
+abf/AVHRRBUVI01.1985apra.abf
+----------------------------
 
 
 .. code-block::
@@ -12059,8 +12059,8 @@ RuntimeWarning: invalid value encountered in true_divide
 
 
 
-../test_data/stock/stock_arrays.npz
------------------------------------
+stock/stock_arrays.npz
+----------------------
 
 
 
@@ -12071,8 +12071,8 @@ ValueError: No format specification could be found for the given buffer. File el
  {'UriProtocol()': 'file', 'LeadingLine()': 'b"PK\\x03\\x04\\x14\\x00\\x00\\x00\\x00\\x00\\xe9Z\\xe5@\\xc7...', 'MagicNumber(4, None)': '1347093252', 'MagicNumber(8, None)': '5785721462337830912', 'FileExtension()': '.npz', 'MagicNumber(100, None)': 'b"PK\\x03\\x04\\x14\\x00\\x00\\x00\\x00\\x00\\xe9Z\\xe5@\\xc7...'}
 
 
-../test_data/stock/stock_mdi_arrays.npz
----------------------------------------
+stock/stock_mdi_arrays.npz
+--------------------------
 
 
 
