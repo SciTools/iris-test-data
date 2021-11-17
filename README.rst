@@ -3,7 +3,7 @@ iris_test_data
 
 Full Iris test data.
 
-This repository includes artificially created data (and index can be found `here </index.rst>`_).
+This repository includes artificially created data (an index can be found `here </INDEX.rst>`_).
 
 Pushes to ``master`` branch (i.e. pull request merges) will trigger an
 automatic increment of iris-test-data's minor release version (via a GitHub
