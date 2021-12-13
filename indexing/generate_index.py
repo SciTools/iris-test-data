@@ -1,6 +1,10 @@
+# TODO: Remove "contents"
+#       Add links within the doc (contents in a hierarchy?)
+#       Consider auto-gen on release
+
+from collections import defaultdict
 from jinja2 import Environment, FileSystemLoader
 import os
-import sys
 from pathlib import Path
 from typing import List, NamedTuple
 import warnings
@@ -25,7 +29,7 @@ def getFilepaths(path : Path) -> List[Path]:
     return path_list
 
 def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
-    file_infos = []
+    file_infos = defaultdict(list)
 
     for filepath in filepaths:
         
@@ -52,7 +56,7 @@ def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
                 w_name = warning._category_name
                 warning_list.append(w_name + ": " + str(warning.message))
         
-        file_infos.append(
+        file_infos[filepath.parent].append(
             FileInfo(
                 filepath.relative_to(TEST_DATA_ROOT),
                 cube_strs,
