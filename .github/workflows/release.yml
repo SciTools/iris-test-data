@@ -13,7 +13,29 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
+  build_index:
+    name: Build test-data index
+    runs-on: "ubuntu-latest"
+    working-directory: indexing
+    steps:
+      - uses: actions/checkout@v2
+      - name: install iris-grib
+        run: |
+          source $CONDA/bin/activate base
+          conda install -y -c conda-forge iris-grib
+      - name: generate index
+        run: |
+          $CONDA/bin/python generate_index.py
+    
+      - name: Store index
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@users.noreply.github.com"
+          git commit -am "Automated index - update index."
+          git push 
+
   release:
+    if: ${{ github.event.label.name != 'norelease' }}
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job

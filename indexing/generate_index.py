@@ -33,7 +33,7 @@ def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
 
     for filepath in filepaths:
         
-        if filepath.suffix in [".py", ".rst", ".txt"]:
+        if filepath.suffix in [".py", ".rst", ".txt", ".md"]:
             continue
 
         cube_strs = []
