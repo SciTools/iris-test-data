@@ -58,6 +58,7 @@ jobs:
       - name: generate index
         working-directory: indexing
         run: |
+          git pull
           $CONDA/bin/python generate_index.py
 
       - name: Store index
