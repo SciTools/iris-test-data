@@ -16,7 +16,6 @@ jobs:
   build_index:
     name: Build test-data index
     runs-on: "ubuntu-latest"
-    working-directory: indexing
     steps:
       - uses: actions/checkout@v2
       - name: install iris-grib
@@ -24,6 +23,7 @@ jobs:
           source $CONDA/bin/activate base
           conda install -y -c conda-forge iris-grib
       - name: generate index
+        working-directory: indexing
         run: |
           $CONDA/bin/python generate_index.py
     
