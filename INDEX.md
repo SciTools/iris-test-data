@@ -11,10 +11,11 @@
 
   
   ```
+  
   UserWarning: Input field skipped as PPField creation failed : error = 'Unsupported header release number: 0'
+  
   ```
   
-
   
 
   # FF/lbrel_missing
@@ -57,10 +58,11 @@
 
   
   ```
+  
   UserWarning: Input field skipped as PPField creation failed : error = 'Unsupported header release number: -32768'
+  
   ```
   
-
   
 
   # FF/lbrel_test_data
@@ -87,26 +89,19 @@
 
   
   ```
+  
   UserWarning: Input field skipped as PPField creation failed : error = 'Unsupported header release number: -32768'
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
   ```
   
-
   
 
   # FF/n48_multi_field
@@ -179,7 +174,6 @@
   
 
   
-
   
 
   # FF/n48_multi_field.ieee32.gz
@@ -187,11 +181,12 @@
   
 
   
-
   
   ```
+  
   ValueError: No format specification could be found for the given buffer. File element cache:
  {'UriProtocol()': 'file', 'LeadingLine()': "b'\\x1f\\x8b\\x08\\x08\\xef\\xe8\\x9dQ\\x00\\x03n48_multi_f...", 'MagicNumber(4, None)': '529205256', 'MagicNumber(8, None)': '2272919271416307025', 'FileExtension()': '.gz', 'MagicNumber(100, None)': "b'\\x1f\\x8b\\x08\\x08\\xef\\xe8\\x9dQ\\x00\\x03n48_multi_f..."}
+  
   ```
   
 
@@ -265,7 +260,6 @@
   
 
   
-
   
 
   # FF/n48_multi_field.ieee32
@@ -338,18 +332,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>FF/ancillary</summary>
-
-  
   # FF/ancillary/qrparm.mask
 
   
@@ -366,18 +350,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>FF/landsea_masked</summary>
-
-  
   # FF/landsea_masked/testdata_mini_lsm.ff
 
   
@@ -410,18 +384,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>FF/lbc</summary>
-
-  
   # FF/lbc/small_lbc
 
   
@@ -617,21 +581,13 @@
 
   
   ```
+  
   UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
   ```
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>FF/structured</summary>
-
-  
   # FF/structured/small
 
   
@@ -657,22 +613,17 @@
 
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
   UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
   ```
   
-
   
 
 </details>
@@ -681,7 +632,7 @@
 
 <details>
 
-  <summary>GRIB/3_layer_viz</summary>
+  <summary>GRIB</summary>
 
   
   # GRIB/3_layer_viz/3_layer.grib2
@@ -735,18 +686,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/bulletin</summary>
-
-  
   # GRIB/bulletin/40bytes.grib
 
   
@@ -765,7 +706,6 @@
   
 
   
-
   
 
   # GRIB/bulletin/41bytes.grib
@@ -784,18 +724,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/fp_units</summary>
-
-  
   # GRIB/fp_units/days.grib2
 
   
@@ -815,7 +745,6 @@
   
 
   
-
   
 
   # GRIB/fp_units/hours.grib2
@@ -837,7 +766,6 @@
   
 
   
-
   
 
   # GRIB/fp_units/minutes.grib2
@@ -859,7 +787,6 @@
   
 
   
-
   
 
   # GRIB/fp_units/seconds.grib2
@@ -881,18 +808,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/gaussian</summary>
-
-  
   # GRIB/gaussian/regular_gg.grib1
 
   
@@ -910,7 +827,6 @@
   
 
   
-
   
 
   # GRIB/gaussian/regular_gg.grib2
@@ -932,18 +848,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/global_t</summary>
-
-  
   # GRIB/global_t/global.grib2
 
   
@@ -965,18 +871,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/grib1_second_order_packing</summary>
-
-  
   # GRIB/grib1_second_order_packing/GRIB_00008_FRANX01
 
   
@@ -993,18 +889,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/ij_directions</summary>
-
-  
   # GRIB/ij_directions/ineg_jneg.grib2
 
   
@@ -1026,7 +912,6 @@
   
 
   
-
   
 
   # GRIB/ij_directions/ineg_jpos.grib2
@@ -1050,7 +935,6 @@
   
 
   
-
   
 
   # GRIB/ij_directions/ipos_jneg.grib2
@@ -1074,7 +958,6 @@
   
 
   
-
   
 
   # GRIB/ij_directions/ipos_jpos.grib2
@@ -1098,18 +981,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/jpeg2000</summary>
-
-  
   # GRIB/jpeg2000/file.grib2
 
   
@@ -1131,18 +1004,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/lambert</summary>
-
-  
   # GRIB/lambert/lambert.grib1
 
   
@@ -1160,7 +1023,6 @@
   
 
   
-
   
 
   # GRIB/lambert/lambert.grib2
@@ -1182,18 +1044,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/missing_values</summary>
-
-  
   # GRIB/missing_values/missing_values.grib2
 
   
@@ -1212,18 +1064,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/polar_stereo</summary>
-
-  
   # GRIB/polar_stereo/CMC_glb_TMP_ISBL_1015_ps30km_2013052000_P006.grib2
 
   
@@ -1243,7 +1085,6 @@
   
 
   
-
   
 
   # GRIB/polar_stereo/ST4.2013052210.01h
@@ -1264,18 +1105,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/reduced</summary>
-
-  
   # GRIB/reduced/reduced_gg.grib2
 
   
@@ -1299,10 +1130,11 @@
 
   
   ```
+  
   UserWarning: Unable to create instance of HybridPressureFactory. The source data contains no field(s) for 'ref_surface_pressure'.
+  
   ```
   
-
   
 
   # GRIB/reduced/reduced_ll.grib1
@@ -1319,7 +1151,6 @@
   
 
   
-
   
 
   # GRIB/reduced/reduced_ll_missing.grib1
@@ -1336,18 +1167,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/rotated_nae_t</summary>
-
-  
   # GRIB/rotated_nae_t/sensible_pole.grib2
 
   
@@ -1367,18 +1188,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/rotated_uk</summary>
-
-  
   # GRIB/rotated_uk/uk_wrongparam.grib1
 
   
@@ -1396,18 +1207,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/shape_of_earth</summary>
-
-  
   # GRIB/shape_of_earth/0.grib2
 
   
@@ -1429,7 +1230,6 @@
   
 
   
-
   
 
   # GRIB/shape_of_earth/1.grib2
@@ -1453,7 +1253,6 @@
   
 
   
-
   
 
   # GRIB/shape_of_earth/2.grib2
@@ -1477,7 +1276,6 @@
   
 
   
-
   
 
   # GRIB/shape_of_earth/3.grib2
@@ -1501,7 +1299,6 @@
   
 
   
-
   
 
   # GRIB/shape_of_earth/4.grib2
@@ -1525,7 +1322,6 @@
   
 
   
-
   
 
   # GRIB/shape_of_earth/5.grib2
@@ -1549,7 +1345,6 @@
   
 
   
-
   
 
   # GRIB/shape_of_earth/6.grib2
@@ -1573,7 +1368,6 @@
   
 
   
-
   
 
   # GRIB/shape_of_earth/7.grib2
@@ -1597,7 +1391,6 @@
   
 
   
-
   
 
   # GRIB/shape_of_earth/global.grib1
@@ -1617,18 +1410,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/time_processed</summary>
-
-  
   # GRIB/time_processed/time_bound.grib1
 
   
@@ -1647,7 +1430,6 @@
   
 
   
-
   
 
   # GRIB/time_processed/time_bound.grib2
@@ -1671,18 +1453,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/uk_t</summary>
-
-  
   # GRIB/uk_t/uk_t.grib2
 
   
@@ -1702,18 +1474,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>GRIB/umukv</summary>
-
-  
   # GRIB/umukv/ukv_chan9.grib2
 
   
@@ -1734,7 +1496,6 @@
   
 
   
-
   
 
 </details>
@@ -1743,7 +1504,7 @@
 
 <details>
 
-  <summary>NIMROD/uk2km/WO0000000003452</summary>
+  <summary>NIMROD</summary>
 
   
   # NIMROD/uk2km/WO0000000003452/201007020900_u1096_ng_ey00_visibility0180_screen_2km
@@ -1770,18 +1531,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>NIMROD/uk2km/cutouts</summary>
-
-  
   # NIMROD/uk2km/cutouts/probability_fields
 
   
@@ -2699,7 +2450,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_bmr04_precip_2km
@@ -2729,7 +2479,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_bsr05_precip_accum60_2km
@@ -2758,7 +2507,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_cloud3d0060_2km
@@ -2808,7 +2556,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_cloud_2km
@@ -2961,7 +2708,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_convection_2km
@@ -3158,7 +2904,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_convwind_2km
@@ -3292,7 +3037,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_frzlev_2km
@@ -3464,7 +3208,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_height_2km
@@ -3492,7 +3235,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_precip_2km
@@ -3562,7 +3304,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_precipaccum_2km
@@ -3592,7 +3333,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_preciptype_2km
@@ -3786,7 +3526,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_pressure_2km
@@ -3834,7 +3573,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_radiation_2km
@@ -3982,7 +3720,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_radiationuv_2km
@@ -4050,7 +3787,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_refl_2km
@@ -4079,7 +3815,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity3d0060_2km
@@ -4108,7 +3843,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity_2km
@@ -4137,7 +3871,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_snow_2km
@@ -4206,7 +3939,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_soil3d0060_2km
@@ -4299,10 +4031,11 @@
 
   
   ```
+  
   UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
+  
   ```
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_soil_2km
@@ -4374,7 +4107,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_temperature_2km
@@ -4468,7 +4200,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_visibility_2km
@@ -4581,7 +4312,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_wind_2km
@@ -4717,7 +4447,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv3d0015_2km
@@ -4767,7 +4496,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv_2km
@@ -4817,7 +4545,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek01_cape_2km
@@ -4946,7 +4673,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_ek07_precip0540_accum180_18km
@@ -4975,7 +4701,6 @@
   
 
   
-
   
 
   # NIMROD/uk2km/cutouts/u1096_ng_umqv_fog_2km
@@ -5004,7 +4729,6 @@
   
 
   
-
   
 
 </details>
@@ -5013,7 +4737,7 @@
 
 <details>
 
-  <summary>NetCDF/ORCA2</summary>
+  <summary>NetCDF</summary>
 
   
   # NetCDF/ORCA2/votemper.nc
@@ -5061,18 +4785,8 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>NetCDF/global/xyt</summary>
-
-  
   # NetCDF/global/xyt/SMALL_hires_wind_u_for_ipcc4.nc
 
   
@@ -5106,7 +4820,6 @@
   
 
   
-
   
 
   # NetCDF/global/xyt/SMALL_total_column_co2.nc
@@ -5125,7 +4838,6 @@
   
 
   
-
   
 
   # NetCDF/global/xyt/SMALL_total_column_co2.nc.k2
@@ -5144,7 +4856,6 @@
   
 
   
-
   
 
   # NetCDF/global/xyt/SMALL_total_column_co2.nc4.k3
@@ -5163,7 +4874,6 @@
   
 
   
-
   
 
   # NetCDF/global/xyt/SMALL_total_column_co2.nc4.k4
@@ -5182,32 +4892,10 @@
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>NetCDF/global/xyz_t</summary>
-
-  
   # NetCDF/global/xyz_t/GEMS_CO2_Apr2006.nc
 
-  
-  ```
-      Carbon Dioxide / (kg kg**-1)        (time: 1; model_level_number: 60; latitude: 181; longitude: 360)
-        Dimension coordinates:
-            time                             x                      -             -               -
-            model_level_number               -                      x             -               -
-            latitude                         -                      -             x               -
-            longitude                        -                      -             -               x
-        Attributes:
-            Conventions                 CF-1.0
-            history                     2009-08-25 13:46:31 GMT by mars2netcdf-0.92
-  ```
   
   ```
       Logarithm of surface pressure / (no_unit) (time: 1; model_level_number: 60; latitude: 181; longitude: 360)
@@ -5221,20 +4909,22 @@
             history                           2009-08-25 13:46:31 GMT by mars2netcdf-0.92
   ```
   
-
+  ```
+      Carbon Dioxide / (kg kg**-1)        (time: 1; model_level_number: 60; latitude: 181; longitude: 360)
+        Dimension coordinates:
+            time                             x                      -             -               -
+            model_level_number               -                      x             -               -
+            latitude                         -                      -             x               -
+            longitude                        -                      -             -               x
+        Attributes:
+            Conventions                 CF-1.0
+            history                     2009-08-25 13:46:31 GMT by mars2netcdf-0.92
+  ```
   
 
   
-
-</details>
-
-
-
-<details>
-
-  <summary>NetCDF/label_and_climate</summary>
-
   
+
   # NetCDF/label_and_climate/A1B-99999a-river-sep-2070-2099.nc
 
   
@@ -5304,7 +4994,6 @@
   
 
   
-
   
 
   # NetCDF/label_and_climate/small_FC_167_mon_19601101.nc
@@ -5355,30 +5044,18 @@
 
   
   ```
+  
   UserWarning: Ignoring variable 'time_bnd' referenced by variable 'tas': Dimensions ('time', 'time_bnd') do not span ('time', 'ensemble', 'latitude', 'longitude')
-  ```
   
-  ```
   UserWarning: Gracefully filling 'latitude' dimension coordinate masked points
-  ```
   
-  ```
   UserWarning: Failed to create 'latitude' dimension coordinate: The 'latitude' DimCoord points array must be strictly monotonic.
 Gracefully creating 'latitude' auxiliary coordinate instead.
+  
   ```
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>NetCDF/lambert_azimuthal_equal_area</summary>
-
-  
   # NetCDF/lambert_azimuthal_equal_area/euro_air_temp.nc
 
   
@@ -5400,18 +5077,8 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>NetCDF/lambert_conformal</summary>
-
-  
   # NetCDF/lambert_conformal/test_lcc.nc
 
   
@@ -5437,18 +5104,8 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>NetCDF/mercator</summary>
-
-  
   # NetCDF/mercator/toa_brightness_temperature.nc
 
   
@@ -5486,18 +5143,8 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>NetCDF/rotated/xy</summary>
-
-  
   # NetCDF/rotated/xy/rotPole_landAreaFraction.nc
 
   
@@ -5522,18 +5169,8 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>NetCDF/rotated/xyt</summary>
-
-  
   # NetCDF/rotated/xyt/small_rotPole_precipitation.nc
 
   
@@ -5559,18 +5196,8 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>NetCDF/stereographic</summary>
-
-  
   # NetCDF/stereographic/toa_brightness_temperature.nc
 
   
@@ -5608,85 +5235,19 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>NetCDF/testing</summary>
-
-  
   # NetCDF/testing/cell_methods.nc
 
   
   ```
-      cube_point / (unknown)              (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            point                       time
-  ```
-  
-  ```
-      cube_mid_range / (unknown)          (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            mid_range                   time
-  ```
-  
-  ```
-      cube_comment_2 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+      cube_mix_0 / (unknown)              (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            mean                        latitude (this is a shared comment), longitude (this is a shared comment)
-  ```
-  
-  ```
-      cube_axes_1 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        time, latitude, longitude
-  ```
-  
-  ```
-      cube_mix_1 / (unknown)              (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude (0.1 degree_n, area-weighted), longitude (0.2 degree_e, area-weighted)
-  ```
-  
-  ```
-      cube_comment_1 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        time (this is a time comment)
-  ```
-  
-  ```
-      cube_comment_3 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude (this a lat comment), longitude (this is a lon comment)
+            mean                        time (1 day, daily mean time)
   ```
   
   ```
@@ -5701,120 +5262,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_interval_3 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            maximum                     time (1 day)
-            minimum                     latitude (0.1 degrees), longitude (0.1 degrees)
-  ```
-  
-  ```
-      cube_axes_0 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude, longitude
-  ```
-  
-  ```
-      cube_sum / (unknown)                (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            sum                         time
-  ```
-  
-  ```
-      cube_variance / (unknown)           (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            variance                    time
-  ```
-  
-  ```
-      cube_interval_1 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude (0.1 degrees), longitude (0.1 degrees)
-  ```
-  
-  ```
-      cube_interval_4 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            maximum                     time (1 day)
-            minimum                     latitude (0.1 degree_n)
-            mean                        longitude (0.2 degree_e)
-  ```
-  
-  ```
-      cube_mode / (unknown)               (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            mode                        time
-  ```
-  
-  ```
-      cube_median / (unknown)             (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            median                      time
-  ```
-  
-  ```
-      cube_axes_4 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude, longitude
-            maximum                     time
-  ```
-  
-  ```
-      cube_mix_0 / (unknown)              (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        time (1 day, daily mean time)
-  ```
-  
-  ```
-      cube_interval_2 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude (0.1 degree_n), longitude (0.2 degree_e)
-  ```
-  
-  ```
-      cube_standard_deviation / (unknown) (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            standard_deviation          time
-  ```
-  
-  ```
       cube_mix_2 / (unknown)              (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
@@ -5826,40 +5273,29 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_maximum / (unknown)            (time: 1)
+      cube_variance / (unknown)           (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            maximum                     time
+            variance                    time
   ```
   
   ```
-      cube_interval_0 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+      cube_axes_1 / (unknown)             (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            mean                        time (1 day)
+            mean                        time, latitude, longitude
   ```
   
   ```
-      cube_axes_3 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        time
-            maximum                     latitude, longitude
-  ```
-  
-  ```
-      cube_mean / (unknown)               (time: 1)
+      cube_median / (unknown)             (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            mean                        time
+            median                      time
   ```
   
   ```
@@ -5875,13 +5311,133 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_comment_0 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+      cube_interval_0 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        time (1 day)
+  ```
+  
+  ```
+      cube_interval_3 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            maximum                     time (1 day)
+            minimum                     latitude (0.1 degrees), longitude (0.1 degrees)
+  ```
+  
+  ```
+      cube_comment_1 / (unknown)          (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
             mean                        time (this is a time comment)
+  ```
+  
+  ```
+      cube_mode / (unknown)               (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            mode                        time
+  ```
+  
+  ```
+      cube_mix_1 / (unknown)              (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude (0.1 degree_n, area-weighted), longitude (0.2 degree_e, area-weighted)
+  ```
+  
+  ```
+      cube_interval_1 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude (0.1 degrees), longitude (0.1 degrees)
+  ```
+  
+  ```
+      cube_comment_2 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude (this is a shared comment), longitude (this is a shared comment)
+  ```
+  
+  ```
+      cube_standard_deviation / (unknown) (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            standard_deviation          time
+  ```
+  
+  ```
+      cube_sum / (unknown)                (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            sum                         time
+  ```
+  
+  ```
+      cube_maximum / (unknown)            (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            maximum                     time
+  ```
+  
+  ```
+      cube_axes_4 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude, longitude
+            maximum                     time
+  ```
+  
+  ```
+      cube_comment_3 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude (this a lat comment), longitude (this is a lon comment)
+  ```
+  
+  ```
+      cube_mid_range / (unknown)          (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            mid_range                   time
+  ```
+  
+  ```
+      cube_mean / (unknown)               (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            mean                        time
   ```
   
   ```
@@ -5892,9 +5448,69 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
             minimum                     time
   ```
   
-
+  ```
+      cube_axes_0 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude, longitude
+  ```
+  
+  ```
+      cube_interval_2 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude (0.1 degree_n), longitude (0.2 degree_e)
+  ```
+  
+  ```
+      cube_comment_0 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        time (this is a time comment)
+  ```
+  
+  ```
+      cube_axes_3 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        time
+            maximum                     latitude, longitude
+  ```
+  
+  ```
+      cube_interval_4 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            maximum                     time (1 day)
+            minimum                     latitude (0.1 degree_n)
+            mean                        longitude (0.2 degree_e)
+  ```
+  
+  ```
+      cube_point / (unknown)              (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            point                       time
+  ```
   
 
+  
   
 
   # NetCDF/testing/small_theta_colpex.nc
@@ -5931,7 +5547,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
 
   
-
   
 
   # NetCDF/testing/test_monotonic_coordinate.cdl
@@ -5939,27 +5554,17 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
 
   
-
   
   ```
+  
   ValueError: No format specification could be found for the given buffer. File element cache:
  {'UriProtocol()': 'file', 'LeadingLine()': "b'netcdf weak_monotonic_coordinate {\\n'", 'MagicNumber(4, None)': '1852142691', 'MagicNumber(8, None)': '7954892287054848119', 'FileExtension()': '.cdl', 'MagicNumber(100, None)': "b'netcdf weak_monotonic_coordinate {\\n\\ndimensions..."}
+  
   ```
   
 
   # NetCDF/testing/test_monotonic_coordinate.nc
 
-  
-  ```
-      eastward_wind / (m s-1)             (-- : 3; latitude: 3; longitude: 3)
-        Dimension coordinates:
-            latitude                        -            x             -
-            longitude                       -            -             x
-        Auxiliary coordinates:
-            time                            x            -             -
-        Attributes:
-            test                        weak-monotonic time coordinate
-  ```
   
   ```
       eastward_wind / (m s-1)             (time: 3; latitude: 3; longitude: 3)
@@ -5982,39 +5587,37 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
             test                        masked non-monotonic time coordinate
   ```
   
+  ```
+      eastward_wind / (m s-1)             (-- : 3; latitude: 3; longitude: 3)
+        Dimension coordinates:
+            latitude                        -            x             -
+            longitude                       -            -             x
+        Auxiliary coordinates:
+            time                            x            -             -
+        Attributes:
+            test                        weak-monotonic time coordinate
+  ```
+  
 
   
   ```
-  UserWarning: Failed to create 'time1' dimension coordinate: The 'time' DimCoord points array must be strictly monotonic.
-Gracefully creating 'time1' auxiliary coordinate instead.
-  ```
   
-  ```
   UserWarning: Gracefully filling 'time2' dimension coordinate masked points
-  ```
   
-  ```
   UserWarning: Gracefully filling 'time3' dimension coordinate masked points
-  ```
   
-  ```
   UserWarning: Failed to create 'time3' dimension coordinate: The 'time' DimCoord points array must be strictly monotonic.
 Gracefully creating 'time3' auxiliary coordinate instead.
+  
+  UserWarning: Failed to create 'time1' dimension coordinate: The 'time' DimCoord points array must be strictly monotonic.
+Gracefully creating 'time1' auxiliary coordinate instead.
+  
   ```
   
-
   
 
   # NetCDF/testing/units.nc
 
-  
-  ```
-      air_temperature / (kelvin)          (time: 5)
-        Dimension coordinates:
-            time                             x
-        Scalar coordinates:
-            height                      100 meters
-  ```
   
   ```
       air_temperature / (unknown)         (time: 5)
@@ -6026,32 +5629,28 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             invalid_units               kevin
   ```
   
+  ```
+      air_temperature / (kelvin)          (time: 5)
+        Dimension coordinates:
+            time                             x
+        Scalar coordinates:
+            height                      100 meters
+  ```
+  
 
   
   ```
-  UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
-  ```
   
-  ```
   UserWarning: Ignoring netCDF variable 'cube_1' invalid units 'kevin'
-  ```
   
-  ```
   UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
+  
+  UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
+  
   ```
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>NetCDF/transverse_mercator</summary>
-
-  
   # NetCDF/transverse_mercator/projection_origin_attributes.nc
 
   
@@ -6078,7 +5677,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # NetCDF/transverse_mercator/tmean_1910_1910.nc
@@ -6107,18 +5705,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>NetCDF/ugrid</summary>
-
-  
   # NetCDF/ugrid/21_triangle_example.nc
 
   
@@ -6139,32 +5727,19 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
+      Maps every boundary segment to the two nodes that it connects. / (unknown) (-- : 19; -- : 2)
+        Attributes:
+            Conventions                                                        UGRID-0.9
+            cf_role                                                            boundary_node_connectivity
+            start_index                                                        0
+  ```
+  
+  ```
       Maps every edge to the two nodes that it connects. / (unknown) (-- : 41; -- : 2)
         Attributes:
             Conventions                                            UGRID-0.9
             cf_role                                                edge_node_connectivity
             start_index                                            0
-  ```
-  
-  ```
-      model boundary conditions / (no_unit) (-- : 19)
-        Auxiliary coordinates:
-            latitude                          x
-            longitude                         x
-        Attributes:
-            Conventions                   UGRID-0.9
-            flag_meanings                 no_flow_boundary  open_boundary
-            flag_values                   0 1
-            location                      boundary
-            mesh                          mesh
-  ```
-  
-  ```
-      Maps every triangular face to its three corner nodes. / (unknown) (-- : 21; -- : 3)
-        Attributes:
-            Conventions                                               UGRID-0.9
-            cf_role                                                   face_node_connectivity
-            start_index                                               0
   ```
   
   ```
@@ -6179,11 +5754,24 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      Maps every boundary segment to the two nodes that it connects. / (unknown) (-- : 19; -- : 2)
+      Maps every triangular face to its three corner nodes. / (unknown) (-- : 21; -- : 3)
         Attributes:
-            Conventions                                                        UGRID-0.9
-            cf_role                                                            boundary_node_connectivity
-            start_index                                                        0
+            Conventions                                               UGRID-0.9
+            cf_role                                                   face_node_connectivity
+            start_index                                               0
+  ```
+  
+  ```
+      model boundary conditions / (no_unit) (-- : 19)
+        Auxiliary coordinates:
+            latitude                          x
+            longitude                         x
+        Attributes:
+            Conventions                   UGRID-0.9
+            flag_meanings                 no_flow_boundary  open_boundary
+            flag_values                   0 1
+            location                      boundary
+            mesh                          mesh
   ```
   
   ```
@@ -6222,18 +5810,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>NetCDF/unstructured_grid</summary>
-
-  
   # NetCDF/unstructured_grid/data_C4.nc
 
   
@@ -6246,17 +5824,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      sample_data / (unknown)             (-- : 96)
-        Auxiliary coordinates:
-            latitude                        x
-            longitude                       x
-        Attributes:
-            Conventions                 UGRID-1.0
-            location                    face
-            mesh                        topology
-  ```
-  
-  ```
       Topology data of 2D unstructured mesh / (unknown) (scalar cube)
         Attributes:
             Conventions                               UGRID-1.0
@@ -6266,6 +5833,17 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             face_node_connectivity                    face_nodes
             node_coordinates                          node_lat node_lon
             topology_dimension                        2
+  ```
+  
+  ```
+      sample_data / (unknown)             (-- : 96)
+        Auxiliary coordinates:
+            latitude                        x
+            longitude                       x
+        Attributes:
+            Conventions                 UGRID-1.0
+            location                    face
+            mesh                        topology
   ```
   
   ```
@@ -6282,7 +5860,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # NetCDF/unstructured_grid/lfric_ngvat_2D_1t_face_half_levels_main_conv_rain.nc
@@ -6299,6 +5876,32 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             timeStamp                                               2020-Oct-18 21:20:18 GMT
             title                                                   Created by xios
             uuid                                                    85317dbf-79e1-44d6-9032-a8c9b76b6fc0
+  ```
+  
+  ```
+      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                              UGRID
+            cf_role                                  face_node_connectivity
+            description                              Created by xios
+            name                                     lfric_ngvat_2D_1t_face_half_levels_main_conv_rain
+            start_index                              0
+            timeStamp                                2020-Oct-18 21:20:18 GMT
+            title                                    Created by xios
+            uuid                                     85317dbf-79e1-44d6-9032-a8c9b76b6fc0
+  ```
+  
+  ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       UGRID
+            cf_role                           face_edge_connectivity
+            description                       Created by xios
+            name                              lfric_ngvat_2D_1t_face_half_levels_main_conv_rain
+            start_index                       0
+            timeStamp                         2020-Oct-18 21:20:18 GMT
+            title                             Created by xios
+            uuid                              85317dbf-79e1-44d6-9032-a8c9b76b6fc0
   ```
   
   ```
@@ -6338,47 +5941,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              UGRID
-            cf_role                                  face_node_connectivity
-            description                              Created by xios
-            name                                     lfric_ngvat_2D_1t_face_half_levels_main_conv_rain
-            start_index                              0
-            timeStamp                                2020-Oct-18 21:20:18 GMT
-            title                                    Created by xios
-            uuid                                     85317dbf-79e1-44d6-9032-a8c9b76b6fc0
-  ```
-  
-  ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       UGRID
-            cf_role                           face_edge_connectivity
-            description                       Created by xios
-            name                              lfric_ngvat_2D_1t_face_half_levels_main_conv_rain
-            start_index                       0
-            timeStamp                         2020-Oct-18 21:20:18 GMT
-            title                             Created by xios
-            uuid                              85317dbf-79e1-44d6-9032-a8c9b76b6fc0
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        UGRID
-            cf_role                                            face_face connectivity
-            description                                        Created by xios
-            flag_meanings                                      out_of_mesh
-            flag_values                                        -1
-            name                                               lfric_ngvat_2D_1t_face_half_levels_main_conv_rain
-            start_index                                        0
-            timeStamp                                          2020-Oct-18 21:20:18 GMT
-            title                                              Created by xios
-            uuid                                               85317dbf-79e1-44d6-9032-a8c9b76b6fc0
-  ```
-  
-  ```
       Topology data of 2D unstructured mesh / (unknown) (scalar cube)
         Attributes:
             Conventions                               UGRID
@@ -6394,6 +5956,21 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             title                                     Created by xios
             topology_dimension                        2
             uuid                                      85317dbf-79e1-44d6-9032-a8c9b76b6fc0
+  ```
+  
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        UGRID
+            cf_role                                            face_face connectivity
+            description                                        Created by xios
+            flag_meanings                                      out_of_mesh
+            flag_values                                        -1
+            name                                               lfric_ngvat_2D_1t_face_half_levels_main_conv_rain
+            start_index                                        0
+            timeStamp                                          2020-Oct-18 21:20:18 GMT
+            title                                              Created by xios
+            uuid                                               85317dbf-79e1-44d6-9032-a8c9b76b6fc0
   ```
   
   ```
@@ -6419,17 +5996,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 UGRID
-            description                 Created by xios
-            name                        lfric_ngvat_2D_1t_face_half_levels_main_conv_rain
-            timeStamp                   2020-Oct-18 21:20:18 GMT
-            title                       Created by xios
-            uuid                        85317dbf-79e1-44d6-9032-a8c9b76b6fc0
-  ```
-  
-  ```
       longitude / (degrees)               (-- : 1728)
         Attributes:
             Conventions                 UGRID
@@ -6440,9 +6006,19 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             uuid                        85317dbf-79e1-44d6-9032-a8c9b76b6fc0
   ```
   
-
+  ```
+      longitude / (degrees)               (-- : 866)
+        Attributes:
+            Conventions                 UGRID
+            description                 Created by xios
+            name                        lfric_ngvat_2D_1t_face_half_levels_main_conv_rain
+            timeStamp                   2020-Oct-18 21:20:18 GMT
+            title                       Created by xios
+            uuid                        85317dbf-79e1-44d6-9032-a8c9b76b6fc0
+  ```
   
 
+  
   
 
   # NetCDF/unstructured_grid/lfric_ngvat_2D_72t_face_half_levels_main_conv_rain.nc
@@ -6459,6 +6035,32 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             timeStamp                                               2020-Oct-18 21:18:35 GMT
             title                                                   Created by xios
             uuid                                                    b3dc0fb4-9828-4663-a5ac-2a5763280159
+  ```
+  
+  ```
+      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                              UGRID
+            cf_role                                  face_node_connectivity
+            description                              Created by xios
+            name                                     lfric_ngvat_2D_72t_face_half_levels_main_conv_rain
+            start_index                              0
+            timeStamp                                2020-Oct-18 21:18:35 GMT
+            title                                    Created by xios
+            uuid                                     b3dc0fb4-9828-4663-a5ac-2a5763280159
+  ```
+  
+  ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       UGRID
+            cf_role                           face_edge_connectivity
+            description                       Created by xios
+            name                              lfric_ngvat_2D_72t_face_half_levels_main_conv_rain
+            start_index                       0
+            timeStamp                         2020-Oct-18 21:18:35 GMT
+            title                             Created by xios
+            uuid                              b3dc0fb4-9828-4663-a5ac-2a5763280159
   ```
   
   ```
@@ -6498,47 +6100,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              UGRID
-            cf_role                                  face_node_connectivity
-            description                              Created by xios
-            name                                     lfric_ngvat_2D_72t_face_half_levels_main_conv_rain
-            start_index                              0
-            timeStamp                                2020-Oct-18 21:18:35 GMT
-            title                                    Created by xios
-            uuid                                     b3dc0fb4-9828-4663-a5ac-2a5763280159
-  ```
-  
-  ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       UGRID
-            cf_role                           face_edge_connectivity
-            description                       Created by xios
-            name                              lfric_ngvat_2D_72t_face_half_levels_main_conv_rain
-            start_index                       0
-            timeStamp                         2020-Oct-18 21:18:35 GMT
-            title                             Created by xios
-            uuid                              b3dc0fb4-9828-4663-a5ac-2a5763280159
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        UGRID
-            cf_role                                            face_face connectivity
-            description                                        Created by xios
-            flag_meanings                                      out_of_mesh
-            flag_values                                        -1
-            name                                               lfric_ngvat_2D_72t_face_half_levels_main_conv_rain
-            start_index                                        0
-            timeStamp                                          2020-Oct-18 21:18:35 GMT
-            title                                              Created by xios
-            uuid                                               b3dc0fb4-9828-4663-a5ac-2a5763280159
-  ```
-  
-  ```
       Topology data of 2D unstructured mesh / (unknown) (scalar cube)
         Attributes:
             Conventions                               UGRID
@@ -6554,6 +6115,21 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             title                                     Created by xios
             topology_dimension                        2
             uuid                                      b3dc0fb4-9828-4663-a5ac-2a5763280159
+  ```
+  
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        UGRID
+            cf_role                                            face_face connectivity
+            description                                        Created by xios
+            flag_meanings                                      out_of_mesh
+            flag_values                                        -1
+            name                                               lfric_ngvat_2D_72t_face_half_levels_main_conv_rain
+            start_index                                        0
+            timeStamp                                          2020-Oct-18 21:18:35 GMT
+            title                                              Created by xios
+            uuid                                               b3dc0fb4-9828-4663-a5ac-2a5763280159
   ```
   
   ```
@@ -6579,17 +6155,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 UGRID
-            description                 Created by xios
-            name                        lfric_ngvat_2D_72t_face_half_levels_main_conv_rain
-            timeStamp                   2020-Oct-18 21:18:35 GMT
-            title                       Created by xios
-            uuid                        b3dc0fb4-9828-4663-a5ac-2a5763280159
-  ```
-  
-  ```
       longitude / (degrees)               (-- : 1728)
         Attributes:
             Conventions                 UGRID
@@ -6600,9 +6165,19 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             uuid                        b3dc0fb4-9828-4663-a5ac-2a5763280159
   ```
   
-
+  ```
+      longitude / (degrees)               (-- : 866)
+        Attributes:
+            Conventions                 UGRID
+            description                 Created by xios
+            name                        lfric_ngvat_2D_72t_face_half_levels_main_conv_rain
+            timeStamp                   2020-Oct-18 21:18:35 GMT
+            title                       Created by xios
+            uuid                        b3dc0fb4-9828-4663-a5ac-2a5763280159
+  ```
   
 
+  
   
 
   # NetCDF/unstructured_grid/lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1.nc
@@ -6637,37 +6212,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             UGRID
-            cf_role                                                 edge_node_connectivity
-            description                                             Created by xios
-            name                                                    lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1
-            start_index                                             0
-            timeStamp                                               2020-Oct-18 21:20:19 GMT
-            title                                                   Created by xios
-            uuid                                                    e9218bc2-9665-4ee8-ac7c-b456c02ff9af
-  ```
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               UGRID
-            cf_role                                   mesh_topology
-            description                               Created by xios
-            edge_coordinates                          Mesh2d_full_levels_edge_x Mesh2d_full_levels_edge_y
-            edge_node_connectivity                    Mesh2d_full_levels_edge_nodes
-            face_coordinates                          Mesh2d_full_levels_face_x Mesh2d_full_levels_face_y
-            face_node_connectivity                    Mesh2d_full_levels_face_nodes
-            name                                      lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1
-            node_coordinates                          Mesh2d_full_levels_node_x Mesh2d_full_levels_node_y
-            timeStamp                                 2020-Oct-18 21:20:19 GMT
-            title                                     Created by xios
-            topology_dimension                        2
-            uuid                                      e9218bc2-9665-4ee8-ac7c-b456c02ff9af
-  ```
-  
-  ```
       area_fraction / (1)                 (-- : 1; full_levels: 39; -- : 864)
         Dimension coordinates:
             full_levels                     -               x        -
@@ -6689,6 +6233,37 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             timeStamp                   2020-Oct-18 21:20:19 GMT
             title                       Created by xios
             uuid                        e9218bc2-9665-4ee8-ac7c-b456c02ff9af
+  ```
+  
+  ```
+      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
+        Attributes:
+            Conventions                               UGRID
+            cf_role                                   mesh_topology
+            description                               Created by xios
+            edge_coordinates                          Mesh2d_full_levels_edge_x Mesh2d_full_levels_edge_y
+            edge_node_connectivity                    Mesh2d_full_levels_edge_nodes
+            face_coordinates                          Mesh2d_full_levels_face_x Mesh2d_full_levels_face_y
+            face_node_connectivity                    Mesh2d_full_levels_face_nodes
+            name                                      lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1
+            node_coordinates                          Mesh2d_full_levels_node_x Mesh2d_full_levels_node_y
+            timeStamp                                 2020-Oct-18 21:20:19 GMT
+            title                                     Created by xios
+            topology_dimension                        2
+            uuid                                      e9218bc2-9665-4ee8-ac7c-b456c02ff9af
+  ```
+  
+  ```
+      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                                             UGRID
+            cf_role                                                 edge_node_connectivity
+            description                                             Created by xios
+            name                                                    lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1
+            start_index                                             0
+            timeStamp                                               2020-Oct-18 21:20:19 GMT
+            title                                                   Created by xios
+            uuid                                                    e9218bc2-9665-4ee8-ac7c-b456c02ff9af
   ```
   
   ```
@@ -6764,38 +6339,10 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # NetCDF/unstructured_grid/lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3.nc
 
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             UGRID
-            cf_role                                                 edge_node_connectivity
-            description                                             Created by xios
-            name                                                    lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3
-            start_index                                             0
-            timeStamp                                               2020-Oct-18 21:20:19 GMT
-            title                                                   Created by xios
-            uuid                                                    412ffe9b-6a55-420e-940b-051e7d9f24bb
-  ```
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  UGRID
-            cf_role                      edge_face connectivity
-            comment                      missing neighbor faces are indicated using _FillValue
-            description                  Created by xios
-            name                         lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3
-            start_index                  0
-            timeStamp                    2020-Oct-18 21:20:19 GMT
-            title                        Created by xios
-            uuid                         412ffe9b-6a55-420e-940b-051e7d9f24bb
-  ```
   
   ```
       Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
@@ -6808,6 +6355,19 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             timeStamp                                2020-Oct-18 21:20:19 GMT
             title                                    Created by xios
             uuid                                     412ffe9b-6a55-420e-940b-051e7d9f24bb
+  ```
+  
+  ```
+      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                                             UGRID
+            cf_role                                                 edge_node_connectivity
+            description                                             Created by xios
+            name                                                    lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3
+            start_index                                             0
+            timeStamp                                               2020-Oct-18 21:20:19 GMT
+            title                                                   Created by xios
+            uuid                                                    412ffe9b-6a55-420e-940b-051e7d9f24bb
   ```
   
   ```
@@ -6824,18 +6384,17 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
-            Conventions                                        UGRID
-            cf_role                                            face_face connectivity
-            description                                        Created by xios
-            flag_meanings                                      out_of_mesh
-            flag_values                                        -1
-            name                                               lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3
-            start_index                                        0
-            timeStamp                                          2020-Oct-18 21:20:19 GMT
-            title                                              Created by xios
-            uuid                                               412ffe9b-6a55-420e-940b-051e7d9f24bb
+            Conventions                  UGRID
+            cf_role                      edge_face connectivity
+            comment                      missing neighbor faces are indicated using _FillValue
+            description                  Created by xios
+            name                         lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3
+            start_index                  0
+            timeStamp                    2020-Oct-18 21:20:19 GMT
+            title                        Created by xios
+            uuid                         412ffe9b-6a55-420e-940b-051e7d9f24bb
   ```
   
   ```
@@ -6854,6 +6413,21 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             title                                     Created by xios
             topology_dimension                        2
             uuid                                      412ffe9b-6a55-420e-940b-051e7d9f24bb
+  ```
+  
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        UGRID
+            cf_role                                            face_face connectivity
+            description                                        Created by xios
+            flag_meanings                                      out_of_mesh
+            flag_values                                        -1
+            name                                               lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3
+            start_index                                        0
+            timeStamp                                          2020-Oct-18 21:20:19 GMT
+            title                                              Created by xios
+            uuid                                               412ffe9b-6a55-420e-940b-051e7d9f24bb
   ```
   
   ```
@@ -6903,17 +6477,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 UGRID
-            description                 Created by xios
-            name                        lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3
-            timeStamp                   2020-Oct-18 21:20:19 GMT
-            title                       Created by xios
-            uuid                        412ffe9b-6a55-420e-940b-051e7d9f24bb
-  ```
-  
-  ```
       longitude / (degrees)               (-- : 1728)
         Attributes:
             Conventions                 UGRID
@@ -6924,26 +6487,23 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             uuid                        412ffe9b-6a55-420e-940b-051e7d9f24bb
   ```
   
-
+  ```
+      longitude / (degrees)               (-- : 866)
+        Attributes:
+            Conventions                 UGRID
+            description                 Created by xios
+            name                        lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3
+            timeStamp                   2020-Oct-18 21:20:19 GMT
+            title                       Created by xios
+            uuid                        412ffe9b-6a55-420e-940b-051e7d9f24bb
+  ```
   
 
+  
   
 
   # NetCDF/unstructured_grid/lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_temp.nc
 
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             UGRID
-            cf_role                                                 edge_node_connectivity
-            description                                             Created by xios
-            name                                                    lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_...
-            start_index                                             0
-            timeStamp                                               2020-Oct-18 21:20:18 GMT
-            title                                                   Created by xios
-            uuid                                                    798b1d5b-05e3-4380-a3b9-822709b0b74c
-  ```
   
   ```
       snow_layer_temperature / (K)        (-- : 1; -- : 27; -- : 864)
@@ -6968,17 +6528,16 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
         Attributes:
-            Conventions                  UGRID
-            cf_role                      edge_face connectivity
-            comment                      missing neighbor faces are indicated using _FillValue
-            description                  Created by xios
-            name                         lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_...
-            start_index                  0
-            timeStamp                    2020-Oct-18 21:20:18 GMT
-            title                        Created by xios
-            uuid                         798b1d5b-05e3-4380-a3b9-822709b0b74c
+            Conventions                                             UGRID
+            cf_role                                                 edge_node_connectivity
+            description                                             Created by xios
+            name                                                    lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_...
+            start_index                                             0
+            timeStamp                                               2020-Oct-18 21:20:18 GMT
+            title                                                   Created by xios
+            uuid                                                    798b1d5b-05e3-4380-a3b9-822709b0b74c
   ```
   
   ```
@@ -7008,18 +6567,17 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
-            Conventions                                        UGRID
-            cf_role                                            face_face connectivity
-            description                                        Created by xios
-            flag_meanings                                      out_of_mesh
-            flag_values                                        -1
-            name                                               lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_...
-            start_index                                        0
-            timeStamp                                          2020-Oct-18 21:20:18 GMT
-            title                                              Created by xios
-            uuid                                               798b1d5b-05e3-4380-a3b9-822709b0b74c
+            Conventions                  UGRID
+            cf_role                      edge_face connectivity
+            comment                      missing neighbor faces are indicated using _FillValue
+            description                  Created by xios
+            name                         lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_...
+            start_index                  0
+            timeStamp                    2020-Oct-18 21:20:18 GMT
+            title                        Created by xios
+            uuid                         798b1d5b-05e3-4380-a3b9-822709b0b74c
   ```
   
   ```
@@ -7038,6 +6596,21 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             title                                     Created by xios
             topology_dimension                        2
             uuid                                      798b1d5b-05e3-4380-a3b9-822709b0b74c
+  ```
+  
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        UGRID
+            cf_role                                            face_face connectivity
+            description                                        Created by xios
+            flag_meanings                                      out_of_mesh
+            flag_values                                        -1
+            name                                               lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_...
+            start_index                                        0
+            timeStamp                                          2020-Oct-18 21:20:18 GMT
+            title                                              Created by xios
+            uuid                                               798b1d5b-05e3-4380-a3b9-822709b0b74c
   ```
   
   ```
@@ -7063,17 +6636,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 UGRID
-            description                 Created by xios
-            name                        lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_...
-            timeStamp                   2020-Oct-18 21:20:18 GMT
-            title                       Created by xios
-            uuid                        798b1d5b-05e3-4380-a3b9-822709b0b74c
-  ```
-  
-  ```
       longitude / (degrees)               (-- : 1728)
         Attributes:
             Conventions                 UGRID
@@ -7084,13 +6646,45 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             uuid                        798b1d5b-05e3-4380-a3b9-822709b0b74c
   ```
   
-
+  ```
+      longitude / (degrees)               (-- : 866)
+        Attributes:
+            Conventions                 UGRID
+            description                 Created by xios
+            name                        lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_...
+            timeStamp                   2020-Oct-18 21:20:18 GMT
+            title                       Created by xios
+            uuid                        798b1d5b-05e3-4380-a3b9-822709b0b74c
+  ```
   
 
+  
   
 
   # NetCDF/unstructured_grid/lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temperature.nc
 
+  
+  ```
+      soil_temperature / (K)              (-- : 1; -- : 4; -- : 864)
+        Auxiliary coordinates:
+            time                            x       -       -
+            latitude                        -       -       x
+            longitude                       -       -       x
+        Cell methods:
+            point                       time (300 s)
+        Attributes:
+            Conventions                 UGRID
+            description                 Created by xios
+            interval_operation          300 s
+            interval_write              21600 s
+            location                    face
+            mesh                        Mesh2d_half_levels
+            name                        lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
+            online_operation            instant
+            timeStamp                   2020-Oct-18 21:20:18 GMT
+            title                       Created by xios
+            uuid                        bcb9d574-1c71-40bc-99a2-67ae2ba08e18
+  ```
   
   ```
       Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
@@ -7103,20 +6697,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             timeStamp                                               2020-Oct-18 21:20:18 GMT
             title                                                   Created by xios
             uuid                                                    bcb9d574-1c71-40bc-99a2-67ae2ba08e18
-  ```
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  UGRID
-            cf_role                      edge_face connectivity
-            comment                      missing neighbor faces are indicated using _FillValue
-            description                  Created by xios
-            name                         lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
-            start_index                  0
-            timeStamp                    2020-Oct-18 21:20:18 GMT
-            title                        Created by xios
-            uuid                         bcb9d574-1c71-40bc-99a2-67ae2ba08e18
   ```
   
   ```
@@ -7146,40 +6726,17 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      soil_temperature / (K)              (-- : 1; -- : 4; -- : 864)
-        Auxiliary coordinates:
-            time                            x       -       -
-            latitude                        -       -       x
-            longitude                       -       -       x
-        Cell methods:
-            point                       time (300 s)
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
-            Conventions                 UGRID
-            description                 Created by xios
-            interval_operation          300 s
-            interval_write              21600 s
-            location                    face
-            mesh                        Mesh2d_half_levels
-            name                        lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
-            online_operation            instant
-            timeStamp                   2020-Oct-18 21:20:18 GMT
-            title                       Created by xios
-            uuid                        bcb9d574-1c71-40bc-99a2-67ae2ba08e18
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        UGRID
-            cf_role                                            face_face connectivity
-            description                                        Created by xios
-            flag_meanings                                      out_of_mesh
-            flag_values                                        -1
-            name                                               lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
-            start_index                                        0
-            timeStamp                                          2020-Oct-18 21:20:18 GMT
-            title                                              Created by xios
-            uuid                                               bcb9d574-1c71-40bc-99a2-67ae2ba08e18
+            Conventions                  UGRID
+            cf_role                      edge_face connectivity
+            comment                      missing neighbor faces are indicated using _FillValue
+            description                  Created by xios
+            name                         lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
+            start_index                  0
+            timeStamp                    2020-Oct-18 21:20:18 GMT
+            title                        Created by xios
+            uuid                         bcb9d574-1c71-40bc-99a2-67ae2ba08e18
   ```
   
   ```
@@ -7198,6 +6755,21 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             title                                     Created by xios
             topology_dimension                        2
             uuid                                      bcb9d574-1c71-40bc-99a2-67ae2ba08e18
+  ```
+  
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        UGRID
+            cf_role                                            face_face connectivity
+            description                                        Created by xios
+            flag_meanings                                      out_of_mesh
+            flag_values                                        -1
+            name                                               lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
+            start_index                                        0
+            timeStamp                                          2020-Oct-18 21:20:18 GMT
+            title                                              Created by xios
+            uuid                                               bcb9d574-1c71-40bc-99a2-67ae2ba08e18
   ```
   
   ```
@@ -7223,17 +6795,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 UGRID
-            description                 Created by xios
-            name                        lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
-            timeStamp                   2020-Oct-18 21:20:18 GMT
-            title                       Created by xios
-            uuid                        bcb9d574-1c71-40bc-99a2-67ae2ba08e18
-  ```
-  
-  ```
       longitude / (degrees)               (-- : 1728)
         Attributes:
             Conventions                 UGRID
@@ -7244,13 +6805,45 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             uuid                        bcb9d574-1c71-40bc-99a2-67ae2ba08e18
   ```
   
-
+  ```
+      longitude / (degrees)               (-- : 866)
+        Attributes:
+            Conventions                 UGRID
+            description                 Created by xios
+            name                        lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper...
+            timeStamp                   2020-Oct-18 21:20:18 GMT
+            title                       Created by xios
+            uuid                        bcb9d574-1c71-40bc-99a2-67ae2ba08e18
+  ```
   
 
+  
   
 
   # NetCDF/unstructured_grid/lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile.nc
 
+  
+  ```
+      surface_upward_shortwave_flux_on_tiles / (W m-2) (-- : 1; -- : 11; -- : 864)
+        Auxiliary coordinates:
+            time                                         x       -        -
+            latitude                                     -       -        x
+            longitude                                    -       -        x
+        Cell methods:
+            point                                    time (300 s)
+        Attributes:
+            Conventions                              UGRID
+            description                              Created by xios
+            interval_operation                       300 s
+            interval_write                           21600 s
+            location                                 face
+            mesh                                     Mesh2d_half_levels
+            name                                     lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile
+            online_operation                         instant
+            timeStamp                                2020-Oct-18 21:20:17 GMT
+            title                                    Created by xios
+            uuid                                     f42f46fc-d879-479b-ab60-73b76b8b5816
+  ```
   
   ```
       Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
@@ -7263,20 +6856,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             timeStamp                                               2020-Oct-18 21:20:17 GMT
             title                                                   Created by xios
             uuid                                                    f42f46fc-d879-479b-ab60-73b76b8b5816
-  ```
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  UGRID
-            cf_role                      edge_face connectivity
-            comment                      missing neighbor faces are indicated using _FillValue
-            description                  Created by xios
-            name                         lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile
-            start_index                  0
-            timeStamp                    2020-Oct-18 21:20:17 GMT
-            title                        Created by xios
-            uuid                         f42f46fc-d879-479b-ab60-73b76b8b5816
   ```
   
   ```
@@ -7306,40 +6885,17 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      surface_upward_shortwave_flux_on_tiles / (W m-2) (-- : 1; -- : 11; -- : 864)
-        Auxiliary coordinates:
-            time                                         x       -        -
-            latitude                                     -       -        x
-            longitude                                    -       -        x
-        Cell methods:
-            point                                    time (300 s)
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
-            Conventions                              UGRID
-            description                              Created by xios
-            interval_operation                       300 s
-            interval_write                           21600 s
-            location                                 face
-            mesh                                     Mesh2d_half_levels
-            name                                     lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile
-            online_operation                         instant
-            timeStamp                                2020-Oct-18 21:20:17 GMT
-            title                                    Created by xios
-            uuid                                     f42f46fc-d879-479b-ab60-73b76b8b5816
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        UGRID
-            cf_role                                            face_face connectivity
-            description                                        Created by xios
-            flag_meanings                                      out_of_mesh
-            flag_values                                        -1
-            name                                               lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile
-            start_index                                        0
-            timeStamp                                          2020-Oct-18 21:20:17 GMT
-            title                                              Created by xios
-            uuid                                               f42f46fc-d879-479b-ab60-73b76b8b5816
+            Conventions                  UGRID
+            cf_role                      edge_face connectivity
+            comment                      missing neighbor faces are indicated using _FillValue
+            description                  Created by xios
+            name                         lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile
+            start_index                  0
+            timeStamp                    2020-Oct-18 21:20:17 GMT
+            title                        Created by xios
+            uuid                         f42f46fc-d879-479b-ab60-73b76b8b5816
   ```
   
   ```
@@ -7358,6 +6914,21 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             title                                     Created by xios
             topology_dimension                        2
             uuid                                      f42f46fc-d879-479b-ab60-73b76b8b5816
+  ```
+  
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        UGRID
+            cf_role                                            face_face connectivity
+            description                                        Created by xios
+            flag_meanings                                      out_of_mesh
+            flag_values                                        -1
+            name                                               lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile
+            start_index                                        0
+            timeStamp                                          2020-Oct-18 21:20:17 GMT
+            title                                              Created by xios
+            uuid                                               f42f46fc-d879-479b-ab60-73b76b8b5816
   ```
   
   ```
@@ -7383,17 +6954,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 UGRID
-            description                 Created by xios
-            name                        lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile
-            timeStamp                   2020-Oct-18 21:20:17 GMT
-            title                       Created by xios
-            uuid                        f42f46fc-d879-479b-ab60-73b76b8b5816
-  ```
-  
-  ```
       longitude / (degrees)               (-- : 1728)
         Attributes:
             Conventions                 UGRID
@@ -7404,9 +6964,19 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             uuid                        f42f46fc-d879-479b-ab60-73b76b8b5816
   ```
   
-
+  ```
+      longitude / (degrees)               (-- : 866)
+        Attributes:
+            Conventions                 UGRID
+            description                 Created by xios
+            name                        lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile
+            timeStamp                   2020-Oct-18 21:20:17 GMT
+            title                       Created by xios
+            uuid                        f42f46fc-d879-479b-ab60-73b76b8b5816
+  ```
   
 
+  
   
 
   # NetCDF/unstructured_grid/lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_density.nc
@@ -7423,42 +6993,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             timeStamp                                               2020-Oct-18 21:20:18 GMT
             title                                                   Created by xios
             uuid                                                    a73698fe-8d84-4d55-baa7-bebfc0e5025e
-  ```
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  UGRID
-            cf_role                      edge_face connectivity
-            comment                      missing neighbor faces are indicated using _FillValue
-            description                  Created by xios
-            name                         lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den...
-            start_index                  0
-            timeStamp                    2020-Oct-18 21:20:18 GMT
-            title                        Created by xios
-            uuid                         a73698fe-8d84-4d55-baa7-bebfc0e5025e
-  ```
-  
-  ```
-      snowpack_density / (kg m-3)         (-- : 1; -- : 9; -- : 864)
-        Auxiliary coordinates:
-            time                            x       -       -
-            latitude                        -       -       x
-            longitude                       -       -       x
-        Cell methods:
-            point                       time (300 s)
-        Attributes:
-            Conventions                 UGRID
-            description                 Created by xios
-            interval_operation          300 s
-            interval_write              21600 s
-            location                    face
-            mesh                        Mesh2d_half_levels
-            name                        lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den...
-            online_operation            instant
-            timeStamp                   2020-Oct-18 21:20:18 GMT
-            title                       Created by xios
-            uuid                        a73698fe-8d84-4d55-baa7-bebfc0e5025e
   ```
   
   ```
@@ -7488,18 +7022,39 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+      snowpack_density / (kg m-3)         (-- : 1; -- : 9; -- : 864)
+        Auxiliary coordinates:
+            time                            x       -       -
+            latitude                        -       -       x
+            longitude                       -       -       x
+        Cell methods:
+            point                       time (300 s)
         Attributes:
-            Conventions                                        UGRID
-            cf_role                                            face_face connectivity
-            description                                        Created by xios
-            flag_meanings                                      out_of_mesh
-            flag_values                                        -1
-            name                                               lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den...
-            start_index                                        0
-            timeStamp                                          2020-Oct-18 21:20:18 GMT
-            title                                              Created by xios
-            uuid                                               a73698fe-8d84-4d55-baa7-bebfc0e5025e
+            Conventions                 UGRID
+            description                 Created by xios
+            interval_operation          300 s
+            interval_write              21600 s
+            location                    face
+            mesh                        Mesh2d_half_levels
+            name                        lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den...
+            online_operation            instant
+            timeStamp                   2020-Oct-18 21:20:18 GMT
+            title                       Created by xios
+            uuid                        a73698fe-8d84-4d55-baa7-bebfc0e5025e
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  UGRID
+            cf_role                      edge_face connectivity
+            comment                      missing neighbor faces are indicated using _FillValue
+            description                  Created by xios
+            name                         lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den...
+            start_index                  0
+            timeStamp                    2020-Oct-18 21:20:18 GMT
+            title                        Created by xios
+            uuid                         a73698fe-8d84-4d55-baa7-bebfc0e5025e
   ```
   
   ```
@@ -7518,6 +7073,21 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             title                                     Created by xios
             topology_dimension                        2
             uuid                                      a73698fe-8d84-4d55-baa7-bebfc0e5025e
+  ```
+  
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        UGRID
+            cf_role                                            face_face connectivity
+            description                                        Created by xios
+            flag_meanings                                      out_of_mesh
+            flag_values                                        -1
+            name                                               lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den...
+            start_index                                        0
+            timeStamp                                          2020-Oct-18 21:20:18 GMT
+            title                                              Created by xios
+            uuid                                               a73698fe-8d84-4d55-baa7-bebfc0e5025e
   ```
   
   ```
@@ -7543,17 +7113,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 UGRID
-            description                 Created by xios
-            name                        lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den...
-            timeStamp                   2020-Oct-18 21:20:18 GMT
-            title                       Created by xios
-            uuid                        a73698fe-8d84-4d55-baa7-bebfc0e5025e
-  ```
-  
-  ```
       longitude / (degrees)               (-- : 1728)
         Attributes:
             Conventions                 UGRID
@@ -7564,13 +7123,36 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             uuid                        a73698fe-8d84-4d55-baa7-bebfc0e5025e
   ```
   
-
+  ```
+      longitude / (degrees)               (-- : 866)
+        Attributes:
+            Conventions                 UGRID
+            description                 Created by xios
+            name                        lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den...
+            timeStamp                   2020-Oct-18 21:20:18 GMT
+            title                       Created by xios
+            uuid                        a73698fe-8d84-4d55-baa7-bebfc0e5025e
+  ```
   
 
+  
   
 
   # NetCDF/unstructured_grid/lfric_surface_mean.nc
 
+  
+  ```
+      Maps every face to its corner nodes. / (unknown) (-- : 13824; -- : 4)
+        Attributes:
+            Conventions                              UGRID
+            cf_role                                  face_node_connectivity
+            description                              Created by xios
+            name                                     lfric_surface
+            start_index                              0
+            timeStamp                                2020-Feb-07 16:23:14 GMT
+            title                                    Created by xios
+            uuid                                     489bcef5-3d1c-4529-be42-4ab5f8c8497b
+  ```
   
   ```
       Maps every edge/link to two nodes that it connects. / (unknown) (-- : 27648; -- : 2)
@@ -7586,30 +7168,18 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      neighbor faces for edges / (unknown) (-- : 27648; -- : 2)
+      Indicates which other faces neighbor each face / (no_unit) (-- : 13824; -- : 4)
         Attributes:
-            Conventions                  UGRID
-            cf_role                      edge_face connectivity
-            comment                      missing neighbor faces are indicated using _FillValue
-            description                  Created by xios
-            name                         lfric_surface
-            start_index                  0
-            timeStamp                    2020-Feb-07 16:23:14 GMT
-            title                        Created by xios
-            uuid                         489bcef5-3d1c-4529-be42-4ab5f8c8497b
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 13824; -- : 4)
-        Attributes:
-            Conventions                              UGRID
-            cf_role                                  face_node_connectivity
-            description                              Created by xios
-            name                                     lfric_surface
-            start_index                              0
-            timeStamp                                2020-Feb-07 16:23:14 GMT
-            title                                    Created by xios
-            uuid                                     489bcef5-3d1c-4529-be42-4ab5f8c8497b
+            Conventions                                        UGRID
+            cf_role                                            face_face connectivity
+            description                                        Created by xios
+            flag_meanings                                      out_of_mesh
+            flag_values                                        -1
+            name                                               lfric_surface
+            start_index                                        0
+            timeStamp                                          2020-Feb-07 16:23:14 GMT
+            title                                              Created by xios
+            uuid                                               489bcef5-3d1c-4529-be42-4ab5f8c8497b
   ```
   
   ```
@@ -7626,18 +7196,17 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 13824; -- : 4)
+      neighbor faces for edges / (unknown) (-- : 27648; -- : 2)
         Attributes:
-            Conventions                                        UGRID
-            cf_role                                            face_face connectivity
-            description                                        Created by xios
-            flag_meanings                                      out_of_mesh
-            flag_values                                        -1
-            name                                               lfric_surface
-            start_index                                        0
-            timeStamp                                          2020-Feb-07 16:23:14 GMT
-            title                                              Created by xios
-            uuid                                               489bcef5-3d1c-4529-be42-4ab5f8c8497b
+            Conventions                  UGRID
+            cf_role                      edge_face connectivity
+            comment                      missing neighbor faces are indicated using _FillValue
+            description                  Created by xios
+            name                         lfric_surface
+            start_index                  0
+            timeStamp                    2020-Feb-07 16:23:14 GMT
+            title                        Created by xios
+            uuid                         489bcef5-3d1c-4529-be42-4ab5f8c8497b
   ```
   
   ```
@@ -7751,7 +7320,7 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      latitude / (degrees)                (-- : 13826)
+      latitude / (degrees)                (-- : 27648)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -7762,7 +7331,7 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      latitude / (degrees)                (-- : 27648)
+      latitude / (degrees)                (-- : 13826)
         Attributes:
             Conventions                 UGRID
             description                 Created by xios
@@ -8118,17 +7687,23 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # NetCDF/unstructured_grid/mesh_C12.nc
 
   
   ```
-      Maps every quadrilateral face to its four corner nodes. / (unknown) (-- : 864; -- : 4)
+      Maps every quadrilateral face to its four edges. / (unknown) (-- : 864; -- : 4)
         Attributes:
-            cf_role                                                     face_node_connectivity
-            start_index                                                 1
+            cf_role                                              face_edge_connectivity
+            start_index                                          1
+  ```
+  
+  ```
+      Maps every edge to the two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            cf_role                                                edge_node_connectivity
+            start_index                                            1
   ```
   
   ```
@@ -8150,17 +7725,10 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      Maps every edge to the two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+      Maps every quadrilateral face to its four corner nodes. / (unknown) (-- : 864; -- : 4)
         Attributes:
-            cf_role                                                edge_node_connectivity
-            start_index                                            1
-  ```
-  
-  ```
-      Maps every quadrilateral face to its four edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            cf_role                                              face_edge_connectivity
-            start_index                                          1
+            cf_role                                                     face_node_connectivity
+            start_index                                                 1
   ```
   
   ```
@@ -8173,28 +7741,76 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      latitude / (degrees)                (-- : 866)
-  ```
-  
-  ```
       latitude / (degrees)                (-- : 864)
   ```
   
   ```
-      longitude / (degrees)               (-- : 866)
+      latitude / (degrees)                (-- : 866)
   ```
   
   ```
       longitude / (degrees)               (-- : 864)
   ```
   
-
+  ```
+      longitude / (degrees)               (-- : 866)
+  ```
   
 
+  
   
 
   # NetCDF/unstructured_grid/theta_nodal_not_ugrid.nc
 
+  
+  ```
+      radius / (radians)                  (time: 1; levels: 6; -- : 866)
+        Dimension coordinates:
+            time                             x          -       -
+            levels                           -          x       -
+        Auxiliary coordinates:
+            time                             x          -       -
+            latitude                         -          -       x
+            longitude                        -          -       x
+        Cell methods:
+            point                       time
+        Attributes:
+            Conventions                 UGRID
+            description                 Created by xios
+            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
+            interval_operation          5 s
+            interval_write              5 s
+            name                        theta_nodal_xios
+            online_operation            instant
+            production                  An IPSL model
+            timeStamp                   2016-Oct-24 15:16:48 BST
+            title                       Created by xios
+  ```
+  
+  ```
+      Potential Temperature / (K)         (time: 1; levels: 6; -- : 866)
+        Dimension coordinates:
+            time                             x          -       -
+            levels                           -          x       -
+        Auxiliary coordinates:
+            time                             x          -       -
+            latitude                         -          -       x
+            longitude                        -          -       x
+        Cell methods:
+            point                       time
+        Attributes:
+            Conventions                 UGRID
+            description                 Created by xios
+            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
+            interval_operation          5 s
+            interval_write              5 s
+            invalid_standard_name       Potential Temperature
+            name                        theta_nodal_xios
+            online_operation            instant
+            production                  An IPSL model
+            timeStamp                   2016-Oct-24 15:16:48 BST
+            title                       Created by xios
+  ```
   
   ```
       Topology data of 2D unstructured mesh / (unknown) (scalar cube)
@@ -8211,30 +7827,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             topology_dimension                        2
   ```
   
-  ```
-      Potential Temperature / (K)         (time: 1; levels: 6; -- : 866)
-        Dimension coordinates:
-            time                             x          -       -
-            levels                           -          x       -
-        Auxiliary coordinates:
-            time                             x          -       -
-            latitude                         -          -       x
-            longitude                        -          -       x
-        Cell methods:
-            point                       time
-        Attributes:
-            Conventions                 UGRID
-            description                 Created by xios
-            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
-            interval_operation          5 s
-            interval_write              5 s
-            invalid_standard_name       Potential Temperature
-            name                        theta_nodal_xios
-            online_operation            instant
-            production                  An IPSL model
-            timeStamp                   2016-Oct-24 15:16:48 BST
-            title                       Created by xios
-  ```
+
+  
+  
+
+  # NetCDF/unstructured_grid/theta_nodal_xios.nc
+
   
   ```
       radius / (radians)                  (time: 1; levels: 6; -- : 866)
@@ -8260,13 +7858,30 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             title                       Created by xios
   ```
   
-
-  
-
-  
-
-  # NetCDF/unstructured_grid/theta_nodal_xios.nc
-
+  ```
+      Potential Temperature / (K)         (time: 1; levels: 6; -- : 866)
+        Dimension coordinates:
+            time                             x          -       -
+            levels                           -          x       -
+        Auxiliary coordinates:
+            time                             x          -       -
+            latitude                         -          -       x
+            longitude                        -          -       x
+        Cell methods:
+            point                       time
+        Attributes:
+            Conventions                 UGRID
+            description                 Created by xios
+            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
+            interval_operation          5 s
+            interval_write              5 s
+            invalid_standard_name       Potential Temperature
+            name                        theta_nodal_xios
+            online_operation            instant
+            production                  An IPSL model
+            timeStamp                   2016-Oct-24 15:16:48 BST
+            title                       Created by xios
+  ```
   
   ```
       Topology data of 2D unstructured mesh / (unknown) (scalar cube)
@@ -8283,69 +7898,10 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             topology_dimension                        2
   ```
   
-  ```
-      Potential Temperature / (K)         (time: 1; levels: 6; -- : 866)
-        Dimension coordinates:
-            time                             x          -       -
-            levels                           -          x       -
-        Auxiliary coordinates:
-            time                             x          -       -
-            latitude                         -          -       x
-            longitude                        -          -       x
-        Cell methods:
-            point                       time
-        Attributes:
-            Conventions                 UGRID
-            description                 Created by xios
-            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
-            interval_operation          5 s
-            interval_write              5 s
-            invalid_standard_name       Potential Temperature
-            name                        theta_nodal_xios
-            online_operation            instant
-            production                  An IPSL model
-            timeStamp                   2016-Oct-24 15:16:48 BST
-            title                       Created by xios
-  ```
-  
-  ```
-      radius / (radians)                  (time: 1; levels: 6; -- : 866)
-        Dimension coordinates:
-            time                             x          -       -
-            levels                           -          x       -
-        Auxiliary coordinates:
-            time                             x          -       -
-            latitude                         -          -       x
-            longitude                        -          -       x
-        Cell methods:
-            point                       time
-        Attributes:
-            Conventions                 UGRID
-            description                 Created by xios
-            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
-            interval_operation          5 s
-            interval_write              5 s
-            name                        theta_nodal_xios
-            online_operation            instant
-            production                  An IPSL model
-            timeStamp                   2016-Oct-24 15:16:48 BST
-            title                       Created by xios
-  ```
-  
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>NetCDF/volcello</summary>
-
-  
   # NetCDF/volcello/volcello_Ofx_CESM2_deforest-globe_r1i1p1f1_gn.nc
 
   
@@ -8421,21 +7977,13 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: Missing CF-netCDF measure variable 'areacello', referenced by netCDF variable 'volcello'
+  
   ```
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>NetCDF/regrid</summary>
-
-  
   # NetCDF/regrid/regrid_template_global_latlon.nc
 
   
@@ -8450,7 +7998,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # NetCDF/regrid/regrid_xyt.nc
@@ -8477,7 +8024,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
 </details>
@@ -8512,18 +8058,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/COLPEX</summary>
-
-  
   # PP/COLPEX/small_colpex_theta_p_alt.pp
 
   
@@ -8588,7 +8124,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # PP/COLPEX/small_eastward_wind.pp
@@ -8616,10 +8151,11 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
   ```
   
-
   
 
   # PP/COLPEX/theta_and_orog_subset.pp
@@ -8665,18 +8201,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/aPPglob1</summary>
-
-  
   # PP/aPPglob1/global.pp
 
   
@@ -8701,18 +8227,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/aPPglob1/global_little_endian.pp
@@ -8721,10 +8244,11 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: Unable to interpret field 0. Unsupported header release number: 33554432. Skipping the remainder of the file.
+  
   ```
   
-
   
 
   # PP/aPPglob1/global_t_forecast.pp
@@ -8747,18 +8271,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/aPProt1</summary>
-
-  
   # PP/aPProt1/rotated.pp
 
   
@@ -8779,7 +8293,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # PP/aPProt1/rotatedMHtimecube.pp
@@ -8803,18 +8316,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/cf_processing</summary>
-
-  
   # PP/cf_processing/000003000000.03.236.000128.1990.12.01.00.00.b.pp
 
   
@@ -8837,7 +8340,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # PP/cf_processing/000003000000.03.236.004224.1990.12.01.00.00.b.pp
@@ -8862,7 +8364,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # PP/cf_processing/000003000000.03.236.008320.1990.12.01.00.00.b.pp
@@ -8886,7 +8387,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # PP/cf_processing/000003000000.16.202.000128.1860.09.01.00.00.b.pp
@@ -8912,18 +8412,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/001000000000.00.000.000000.1860.01.01.00.00.f.b.pp
@@ -8943,18 +8440,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/002000000000.44.101.131200.1920.09.01.00.00.b.pp
@@ -8978,18 +8472,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/008000000000.44.101.000128.1890.09.01.00.00.b.pp
@@ -9010,18 +8501,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/12187.b.pp
@@ -9051,22 +8539,17 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
   UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
   ```
   
-
   
 
   # PP/cf_processing/HadCM2_ts_SAT_ann_18602100.b.pp
@@ -9090,18 +8573,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/aaxzc_level_lat_orig.b.pp
@@ -9127,18 +8607,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/aaxzc_lon_lat_press_orig.b.pp
@@ -9165,18 +8642,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/aaxzc_lon_lat_several.b.pp
@@ -9203,18 +8677,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/aaxzc_n10r13xy.b.pp
@@ -9239,18 +8710,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/aaxzc_time_press.b.pp
@@ -9271,18 +8739,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/aaxzc_tseries.b.pp
@@ -9305,26 +8770,19 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
   RuntimeWarning: Mean of empty slice.
-  ```
   
-  ```
   RuntimeWarning: invalid value encountered in true_divide
+  
   ```
   
-
   
 
   # PP/cf_processing/abcza_pa19591997_daily_29.b.pp
@@ -9386,18 +8844,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/abxpa_press_lat.b.pp
@@ -9422,18 +8877,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/integer.b.pp
@@ -9458,18 +8910,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/model.b.pp
@@ -9496,18 +8945,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/ocean_xsect.b.pp
@@ -9532,18 +8978,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/st0fc699.b.pp
@@ -9568,18 +9011,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/st0fc942.b.pp
@@ -9606,18 +9046,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
-  
-
   
 
   # PP/cf_processing/st30211.b.pp
@@ -9644,37 +9081,21 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
   RuntimeWarning: Mean of empty slice.
-  ```
   
-  ```
   RuntimeWarning: invalid value encountered in true_divide
+  
   ```
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/globClim1</summary>
-
-  
   # PP/globClim1/dec_subset.pp
 
   
@@ -9765,10 +9186,11 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
   ```
   
-
   
 
   # PP/globClim1/theta.pp
@@ -9798,10 +9220,11 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
   ```
   
-
   
 
   # PP/globClim1/u_wind.pp
@@ -9831,10 +9254,11 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
   ```
   
-
   
 
   # PP/globClim1/v_wind.pp
@@ -9864,21 +9288,13 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
   ```
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/little_endian</summary>
-
-  
   # PP/little_endian/qrparm.orog.pp
 
   
@@ -9982,18 +9398,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/mdi_handmade_small</summary>
-
-  
   # PP/mdi_handmade_small/mdi_test_1000_0.pp
 
   
@@ -10014,7 +9420,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # PP/mdi_handmade_small/mdi_test_1000_3.pp
@@ -10037,7 +9442,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # PP/mdi_handmade_small/mdi_test_1000_6.pp
@@ -10060,7 +9464,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # PP/mdi_handmade_small/mdi_test_800_0.pp
@@ -10083,7 +9486,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # PP/mdi_handmade_small/mdi_test_800_3.pp
@@ -10106,7 +9508,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # PP/mdi_handmade_small/mdi_test_800_6.pp
@@ -10129,7 +9530,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # PP/mdi_handmade_small/mdi_test_900_0.pp
@@ -10152,7 +9552,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # PP/mdi_handmade_small/mdi_test_900_6.pp
@@ -10175,18 +9574,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/meanMaxMin</summary>
-
-  
   # PP/meanMaxMin/200806081200__qwpb.T24.pp
 
   
@@ -12257,18 +11646,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/model_comp</summary>
-
-  
   # PP/model_comp/dec_first_field.pp
 
   
@@ -12295,21 +11674,13 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
   ```
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/ocean_rle</summary>
-
-  
   # PP/ocean_rle/ocean_rle.pp
 
   
@@ -12373,29 +11744,17 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
+  
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
   ```
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/rotated_uk</summary>
-
-  
   # PP/rotated_uk/rotated_uk.pp
 
   
@@ -12420,18 +11779,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/simple_pp</summary>
-
-  
   # PP/simple_pp/bad_global.pp
 
   
@@ -12452,7 +11801,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # PP/simple_pp/global.pp
@@ -12475,7 +11823,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # PP/simple_pp/partial_mask.pp
@@ -12496,18 +11843,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/structured</summary>
-
-  
   # PP/structured/small.pp
 
   
@@ -12533,33 +11870,19 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
   UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
   ```
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/ukV1</summary>
-
-  
   # PP/ukV1/ukVpmslont.pp
 
   
@@ -12581,7 +11904,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
   # PP/ukV1/ukVpmslont_first_field.pp
@@ -12604,18 +11926,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/ukVorog</summary>
-
-  
   # PP/ukVorog/ukv_orog_refonly.pp
 
   
@@ -12634,18 +11946,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/wgdos_packed</summary>
-
-  
   # PP/wgdos_packed/nae.20100104-06_0001.pp
 
   
@@ -12711,18 +12013,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
-</details>
-
-
-
-<details>
-
-  <summary>PP/zonal_mean</summary>
-
-  
   # PP/zonal_mean/zonal_mean.pp
 
   
@@ -12748,26 +12040,19 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   ```
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
   UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  ```
   
-  ```
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
   RuntimeWarning: Mean of empty slice.
-  ```
   
-  ```
   RuntimeWarning: invalid value encountered in true_divide
+  
   ```
   
-
   
 
 </details>
@@ -12795,7 +12080,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
 
 </details>
@@ -12812,11 +12096,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
   ```
+  
   ValueError: No format specification could be found for the given buffer. File element cache:
  {'UriProtocol()': 'file', 'LeadingLine()': 'b"PK\\x03\\x04\\x14\\x00\\x00\\x00\\x00\\x00\\xe9Z\\xe5@\\xc7...', 'MagicNumber(4, None)': '1347093252', 'MagicNumber(8, None)': '5785721462337830912', 'FileExtension()': '.npz', 'MagicNumber(100, None)': 'b"PK\\x03\\x04\\x14\\x00\\x00\\x00\\x00\\x00\\xe9Z\\xe5@\\xc7...'}
+  
   ```
   
 
@@ -12825,11 +12110,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
 
   
-
   
   ```
+  
   ValueError: No format specification could be found for the given buffer. File element cache:
  {'UriProtocol()': 'file', 'LeadingLine()': 'b"PK\\x03\\x04\\x14\\x00\\x00\\x00\\x00\\x00#{\\xe9@1\\x8dS\\...', 'MagicNumber(4, None)': '1347093252', 'MagicNumber(8, None)': '5785721462337830912', 'FileExtension()': '.npz', 'MagicNumber(100, None)': 'b"PK\\x03\\x04\\x14\\x00\\x00\\x00\\x00\\x00#{\\xe9@1\\x8dS\\...'}
+  
   ```
   
 

@@ -56,7 +56,9 @@ def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
                 w_name = warning._category_name
                 warning_list.append(w_name + ": " + str(warning.message))
         
-        file_infos[filepath.parent.relative_to(TEST_DATA_ROOT)].append(
+        TDR_sub_dir = filepath.parent.relative_to(TEST_DATA_ROOT).parts[0]
+
+        file_infos[TDR_sub_dir].append(
             FileInfo(
                 filepath.relative_to(TEST_DATA_ROOT),
                 cube_strs,

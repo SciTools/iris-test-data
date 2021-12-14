@@ -13,17 +13,20 @@
   ```
   {% endfor %}
 
+  {%if warnings %}
+  ```
   {% for warning_str in warnings %}
-  ```
   {{ warning_str }}
-  ```
   {% endfor %}
-
+  ```
+  {% endif %}
+  {% if exceptions%}
+  ```
   {% for exception_str in exceptions %}
-  ```
   {{ exception_str }}
-  ```
   {% endfor %}
+  ```
+  {% endif %}
 {% endfor %}
 </details>
 
