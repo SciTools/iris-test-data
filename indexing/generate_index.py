@@ -73,8 +73,8 @@ filepaths = getFilepaths(TEST_DATA_ROOT)
 
 readme_content = getFileInfos(filepaths)
 
-env = Environment(loader = FileSystemLoader("."))
-template = env.get_template(str(TEMPLATE_FILE))
+env = Environment(loader = FileSystemLoader(TEMPLATE_FILE.parent))
+template = env.get_template(TEMPLATE_FILE.name)
 
 output = template.render(content=readme_content)
 
