@@ -38,7 +38,7 @@ jobs:
           git push          
       
       - name: Cut release
-        uses: softprops/action-gh-release@91409e712cf565ce9eff10c87a8d1b11b81757ae
+        uses: softprops/action-gh-release@2cf5c664505721097376937a6b0bcd26758fefc8
         with:
           tag_name: v${{ env.THIS_VERSION }}
         env:
