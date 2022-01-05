@@ -45,16 +45,14 @@ def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
                 cubelist = iris.load(str(filepath))
             except Exception as e:
                 print(f"Error loading {filepath}")
-                e_name = type(e).__name__
-                print(e_name + ": " + str(e) + "\n")
-                exception_list.append(e_name + ": " + str(e))
+                exception_list.append(f"{type(e).__name__}: {e}")
+                print(exception_list[-1] + "\n")
             else:
                 for cube in cubelist:
                     cube_strs.append(str(cube))
 
             for warning in ww:
-                w_name = warning._category_name
-                warning_list.append(w_name + ": " + str(warning.message))
+                warning_list.append(f"{warning._category_name}: {warning.message}")
         
         TDR_sub_dir = filepath.parent.relative_to(TEST_DATA_ROOT).parts[0]
 
