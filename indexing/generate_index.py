@@ -15,13 +15,15 @@ TEST_DATA_ROOT = Path(__file__).parent / Path("../test_data")
 TEMPLATE_FILE = Path(__file__).parent / Path("INDEX_template.md")
 OUTPUT_FILE = Path(__file__).parent / Path("../INDEX.md")
 
+
 class FileInfo(NamedTuple):
     path: Path
     cube_strs: List[str]
     warnings: List[str]
     exceptions: List[str]
 
-def getDataFilepaths(path : Path) -> List[Path]:
+
+def getDataFilepaths(path: Path) -> List[Path]:
     path_list = []
     for fp in path.rglob("*"):
         if fp.is_file() and fp.suffix not in IGNORE_SUFFIXES:
@@ -33,7 +35,7 @@ def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
     file_infos = defaultdict(list)
 
     for filepath in filepaths:
-        
+
         cube_strs = []
         warning_list = []
         exception_list = []
@@ -51,7 +53,7 @@ def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
 
             for warning in ww:
                 warning_list.append(f"{warning._category_name}: {warning.message}")
-        
+
         TDR_sub_dir = filepath.parent.relative_to(TEST_DATA_ROOT).parts[0]
 
         file_infos[TDR_sub_dir].append(
@@ -62,7 +64,7 @@ def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
                 exception_list,
             )
         )
-    
+
     return file_infos
 
 
@@ -70,7 +72,7 @@ data_filepaths = getDataFilepaths(TEST_DATA_ROOT)
 
 readme_content = getFileInfos(data_filepaths)
 
-env = Environment(loader = FileSystemLoader(TEMPLATE_FILE.parent))
+env = Environment(loader=FileSystemLoader(TEMPLATE_FILE.parent))
 template = env.get_template(TEMPLATE_FILE.name)
 
 output = template.render(content=readme_content)
