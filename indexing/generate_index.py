@@ -16,6 +16,7 @@ OUTPUT_FILE = Path(__file__).parent / Path("../INDEX.md")
 
 class FileInfo(NamedTuple):
     path: Path
+    link_path: Path
     cube_strs: List[str]
     warnings: List[str]
     exceptions: List[str]
@@ -57,6 +58,7 @@ def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
         file_infos[TDR_sub_dir].append(
             FileInfo(
                 filepath.relative_to(TEST_DATA_ROOT),
+                filepath.relative_to(OUTPUT_FILE.parent),
                 cube_strs,
                 warning_list,
                 exception_list,

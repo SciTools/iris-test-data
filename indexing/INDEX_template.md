@@ -4,9 +4,9 @@
 
   <summary>{{ prefix }}</summary>
 
-  {% for filepath, cube_strs, warnings, exceptions in data %}
+  {% for filepath, link_path, cube_strs, warnings, exceptions in data %}
   # {{ filepath }}
-  [Link]({{ filepath }})
+  [Link]({{ link_path }})
 
   {% for cube_str in cube_strs %}
   ```
