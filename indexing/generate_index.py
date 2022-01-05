@@ -1,6 +1,4 @@
-# TODO: Remove "contents"
-#       Add links within the doc (contents in a hierarchy?)
-#       Consider auto-gen on release
+# TODO: Add links within the doc (contents in a hierarchy?)
 
 from collections import defaultdict
 from jinja2 import Environment, FileSystemLoader
@@ -10,6 +8,8 @@ from typing import List, NamedTuple
 import warnings
 
 import iris
+
+IGNORE_SUFFIXES = [".py", ".rst", ".txt", ".md"]
 
 TEST_DATA_ROOT = Path(__file__).parent / Path("../test_data")
 TEMPLATE_FILE = Path(__file__).parent / Path("INDEX_template.md")
@@ -21,21 +21,19 @@ class FileInfo(NamedTuple):
     warnings: List[str]
     exceptions: List[str]
 
-def getFilepaths(path : Path) -> List[Path]:
+def getDataFilepaths(path : Path) -> List[Path]:
     path_list = []
-    for root, dirs, files in os.walk(path):
-        for file in files:
-            path_list.append(Path(root) / Path(file))
+    for fp in path.rglob("*"):
+        if fp.is_file() and fp.suffix not in IGNORE_SUFFIXES:
+            path_list.append(fp)
     return path_list
+
 
 def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
     file_infos = defaultdict(list)
 
     for filepath in filepaths:
         
-        if filepath.suffix in [".py", ".rst", ".txt", ".md"]:
-            continue
-
         cube_strs = []
         warning_list = []
         exception_list = []
@@ -67,9 +65,10 @@ def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
     
     return file_infos
 
-filepaths = getFilepaths(TEST_DATA_ROOT)
 
-readme_content = getFileInfos(filepaths)
+data_filepaths = getDataFilepaths(TEST_DATA_ROOT)
+
+readme_content = getFileInfos(data_filepaths)
 
 env = Environment(loader = FileSystemLoader(TEMPLATE_FILE.parent))
 template = env.get_template(TEMPLATE_FILE.name)
