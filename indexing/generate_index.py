@@ -1,5 +1,3 @@
-# TODO: Add links within the doc (contents in a hierarchy?)
-
 from collections import defaultdict
 from jinja2 import Environment, FileSystemLoader
 import os

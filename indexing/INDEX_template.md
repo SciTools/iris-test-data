@@ -6,6 +6,7 @@
 
   {% for filepath, cube_strs, warnings, exceptions in data %}
   # {{ filepath }}
+  [Link]({{ filepath }})
 
   {% for cube_str in cube_strs %}
   ```
