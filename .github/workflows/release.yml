@@ -54,7 +54,7 @@ jobs:
       - name: install iris-grib
         run: |
           source $CONDA/bin/activate base
-          conda install -y -c conda-forge iris-grib
+          conda install -q -y -c conda-forge iris-grib
       - name: generate index
         working-directory: indexing
         run: |
