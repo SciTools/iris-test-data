@@ -42,6 +42,7 @@ def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
         exception_list = []
 
         with warnings.catch_warnings(record=True) as ww:
+            print(f"{str(filepath)}")
             try:
                 image = Image.open(str(filepath))
                 if image.format == "PNG":
