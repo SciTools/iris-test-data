@@ -2,10 +2,1867 @@
 
 <details>
 
+  <summary>images</summary>
+
+  
+  #### [images/iris.tests.test_quickplot.TestTimeReferenceUnitsLabels.test_reference_time_units.0.png](test_data/images/iris.tests.test_quickplot.TestTimeReferenceUnitsLabels.test_reference_time_units.0.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestTimeReferenceUnitsLabels.test_reference_time_units.0.png](test_data/images/iris.tests.test_quickplot.TestTimeReferenceUnitsLabels.test_reference_time_units.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestContour.test_yx.0.png](test_data/images/iris.tests.test_plot.TestContour.test_yx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestContour.test_yx.0.png](test_data/images/iris.tests.test_plot.TestContour.test_yx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.4.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.4.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.4.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.4.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_wind_barbs.TestWindBarbs.test_wind_barbs.0.png](test_data/images/gallery_tests.test_plot_wind_barbs.TestWindBarbs.test_wind_barbs.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_wind_barbs.TestWindBarbs.test_wind_barbs.0.png](test_data/images/gallery_tests.test_plot_wind_barbs.TestWindBarbs.test_wind_barbs.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_coord_map.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_coord_map.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_coord_map.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_coord_map.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCitation.test_axes.0.png](test_data/images/iris.tests.test_plot.TestPlotCitation.test_axes.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCitation.test_axes.0.png](test_data/images/iris.tests.test_plot.TestPlotCitation.test_axes.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.0.png](test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.0.png)
+
+  
+  ![test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.0.png](test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.1.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.1.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.1.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestLimitedAreaCube.test_grid.0.png](test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_grid.0.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_grid.0.png](test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_grid.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestContourf.test_yx.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_yx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestContourf.test_yx.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_yx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.5.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.5.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.5.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.5.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_x.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_x.0.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_x.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_x.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolorNoBounds.test_tz.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_tz.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_tz.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_tz.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.3.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.3.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.3.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.3.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.2.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.2.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.2.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.2.png)
+  
+  
+  
+
+  #### [images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.1.png](test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.1.png)
+
+  
+  ![test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.1.png](test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestHybridHeight.test_orography.1.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_orography.1.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_orography.1.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_orography.1.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.3.png](test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.3.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.3.png](test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.3.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestLowLevel.test_keywords.1.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_keywords.1.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestLowLevel.test_keywords.1.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_keywords.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestMissingCoord.test_no_v.0.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_v.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_v.0.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_v.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestSimple.test_points.0.png](test_data/images/iris.tests.test_plot.TestSimple.test_points.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestSimple.test_points.0.png](test_data/images/iris.tests.test_plot.TestSimple.test_points.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_non_latlon_1d_coords.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_non_latlon_1d_coords.0.png)
+
+  
+  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_non_latlon_1d_coords.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_non_latlon_1d_coords.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolormesh.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_yx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolormesh.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_yx.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.3.png](test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.3.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.3.png](test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.3.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_non_cube_coordinate.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_non_cube_coordinate.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_non_cube_coordinate.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_non_cube_coordinate.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_wind_speed.TestWindSpeed.test_plot_wind_speed.0.png](test_data/images/gallery_tests.test_plot_wind_speed.TestWindSpeed.test_plot_wind_speed.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_wind_speed.TestWindSpeed.test_plot_wind_speed.0.png](test_data/images/gallery_tests.test_plot_wind_speed.TestWindSpeed.test_plot_wind_speed.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestHybridHeight.test_orography.0.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_orography.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_orography.0.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_orography.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolormesh.test_ty.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_ty.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolormesh.test_ty.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_ty.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotOtherCoordSystems.test_plot_tmerc.0.png](test_data/images/iris.tests.test_plot.TestPlotOtherCoordSystems.test_plot_tmerc.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotOtherCoordSystems.test_plot_tmerc.0.png](test_data/images/iris.tests.test_plot.TestPlotOtherCoordSystems.test_plot_tmerc.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dScatter.test_cube_cube.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_cube_cube.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dScatter.test_cube_cube.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_cube_cube.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.3.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.3.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.3.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.3.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube_coord.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube_coord.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.1.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.1.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.1.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_coord.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_coord.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestContourf.test_tx.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_tx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestContourf.test_tx.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_tx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestLabels.test_contourf.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.0.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_plain_latlon_on_polar_map.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_plain_latlon_on_polar_map.0.png)
+
+  
+  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_plain_latlon_on_polar_map.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_plain_latlon_on_polar_map.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestContourf.test_ty.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_ty.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestContourf.test_ty.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_ty.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestContour.test_ty.0.png](test_data/images/iris.tests.test_plot.TestContour.test_ty.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestContour.test_ty.0.png](test_data/images/iris.tests.test_plot.TestContour.test_ty.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestQuickplotPlot.test_t_dates.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_t_dates.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_t_dates.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_t_dates.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestLabels.test_contourf.1.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.1.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.1.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestLowLevel.test_params.1.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.1.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.1.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.4.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.4.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.4.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.4.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestHybridHeight.test_points.3.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.3.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.3.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.3.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestHybridHeight.test_points.0.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.0.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestHybridHeight.test_points.4.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.4.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.4.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.4.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestLimitedAreaCube.test_scatter.0.png](test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_scatter.0.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_scatter.0.png](test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_scatter.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestBasic.test_unmappable.0.png](test_data/images/iris.tests.test_mapping.TestBasic.test_unmappable.0.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestBasic.test_unmappable.0.png](test_data/images/iris.tests.test_mapping.TestBasic.test_unmappable.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coords.0.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coords.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coords.0.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coords.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.5.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.5.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.5.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.5.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_y.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_y.0.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_y.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_y.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_atlantic_profiles.TestAtlanticProfiles.test_plot_atlantic_profiles.1.png](test_data/images/gallery_tests.test_plot_atlantic_profiles.TestAtlanticProfiles.test_plot_atlantic_profiles.1.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_atlantic_profiles.TestAtlanticProfiles.test_plot_atlantic_profiles.1.png](test_data/images/gallery_tests.test_plot_atlantic_profiles.TestAtlanticProfiles.test_plot_atlantic_profiles.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.3.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.3.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.3.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.3.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestAttributePositive.test_2d_positive_up.0.png](test_data/images/iris.tests.test_plot.TestAttributePositive.test_2d_positive_up.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestAttributePositive.test_2d_positive_up.0.png](test_data/images/iris.tests.test_plot.TestAttributePositive.test_2d_positive_up.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestContourf.test_zx.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_zx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestContourf.test_zx.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_zx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestAttributePositive.test_2d_positive_down.0.png](test_data/images/iris.tests.test_plot.TestAttributePositive.test_2d_positive_down.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestAttributePositive.test_2d_positive_down.0.png](test_data/images/iris.tests.test_plot.TestAttributePositive.test_2d_positive_down.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_cube.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_cube.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.3.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.3.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.3.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.3.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_cube.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_cube.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestLabels.test_map.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_map.0.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_map.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_map.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_plain_latlon.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_plain_latlon.0.png)
+
+  
+  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_plain_latlon.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_plain_latlon.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dScatter.test_coord_coord.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_coord.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_coord.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_coord.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_non_latlon_1d_coords.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_non_latlon_1d_coords.0.png)
+
+  
+  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_non_latlon_1d_coords.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_non_latlon_1d_coords.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.1.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.1.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.1.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestMissingCS.test_missing_cs.0.png](test_data/images/iris.tests.test_plot.TestMissingCS.test_missing_cs.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestMissingCS.test_missing_cs.0.png](test_data/images/iris.tests.test_plot.TestMissingCS.test_missing_cs.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.3.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.3.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.3.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.3.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.2.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.2.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.2.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.2.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlot.test_t.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_t.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlot.test_t.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_t.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.3.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.3.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.3.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.3.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestLabels.test_map.1.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_map.1.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_map.1.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_map.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube_cube.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube_cube.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestSymbols.test_cloud_cover.0.png](test_data/images/iris.tests.test_plot.TestSymbols.test_cloud_cover.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestSymbols.test_cloud_cover.0.png](test_data/images/iris.tests.test_plot.TestSymbols.test_cloud_cover.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.1.png](test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.1.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.1.png](test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolorNoBounds.test_zy.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_zy.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_zy.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_zy.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolormesh.test_tz.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_tz.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolormesh.test_tz.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_tz.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolormesh.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_zx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolormesh.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_zx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_yx_order.1.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_yx_order.1.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_yx_order.1.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_yx_order.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.2.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.2.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.2.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.2.png)
+  
+  
+  
+
+  #### [images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_non_latlon_2d_coords.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_non_latlon_2d_coords.0.png)
+
+  
+  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_non_latlon_2d_coords.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_non_latlon_2d_coords.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_x.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_x.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_x.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_x.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube_cube.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube_cube.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube_cube.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube_cube.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolor.test_ty.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_ty.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolor.test_ty.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_ty.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestLabels.test_contourf_nameless.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf_nameless.0.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf_nameless.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf_nameless.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_projections_and_annotations.TestProjectionsAndAnnotations.test_plot_projections_and_annotations.1.png](test_data/images/gallery_tests.test_plot_projections_and_annotations.TestProjectionsAndAnnotations.test_plot_projections_and_annotations.1.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_projections_and_annotations.TestProjectionsAndAnnotations.test_plot_projections_and_annotations.1.png](test_data/images/gallery_tests.test_plot_projections_and_annotations.TestProjectionsAndAnnotations.test_plot_projections_and_annotations.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_default.0.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_default.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_default.0.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_default.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_yx_order.0.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_yx_order.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_yx_order.0.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_yx_order.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_non_latlon_2d_coords.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_non_latlon_2d_coords.0.png)
+
+  
+  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_non_latlon_2d_coords.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_non_latlon_2d_coords.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestContour.test_tz.0.png](test_data/images/iris.tests.test_plot.TestContour.test_tz.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestContour.test_tz.0.png](test_data/images/iris.tests.test_plot.TestContour.test_tz.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolor.test_zy.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_zy.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolor.test_zy.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_zy.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.2.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.2.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.2.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.2.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dQuickplotScatter.test_cube_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_cube_coord.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_cube_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_cube_coord.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coord_names.1.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coord_names.1.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coord_names.1.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coord_names.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coord_names.0.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coord_names.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coord_names.0.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coord_names.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestLabels.test_contourf.2.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.2.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.2.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.2.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestHybridHeight.test_points.2.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.2.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.2.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.2.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestTimeReferenceUnitsLabels.test_not_reference_time_units.0.png](test_data/images/iris.tests.test_quickplot.TestTimeReferenceUnitsLabels.test_not_reference_time_units.0.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestTimeReferenceUnitsLabels.test_not_reference_time_units.0.png](test_data/images/iris.tests.test_quickplot.TestTimeReferenceUnitsLabels.test_not_reference_time_units.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestLabels.test_pcolormesh_str_symbol.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolormesh_str_symbol.0.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolormesh_str_symbol.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolormesh_str_symbol.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_load_nemo.TestLoadNemo.test_plot_load_nemo.0.png](test_data/images/gallery_tests.test_plot_load_nemo.TestLoadNemo.test_plot_load_nemo.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_load_nemo.TestLoadNemo.test_plot_load_nemo.0.png](test_data/images/gallery_tests.test_plot_load_nemo.TestLoadNemo.test_plot_load_nemo.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestMissingCoord.test_none.0.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_none.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestMissingCoord.test_none.0.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_none.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestQuickplotPlot.test_x.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_x.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_x.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_x.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_custom_file_loading.TestCustomFileLoading.test_plot_custom_file_loading.0.png](test_data/images/gallery_tests.test_plot_custom_file_loading.TestCustomFileLoading.test_plot_custom_file_loading.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_custom_file_loading.TestCustomFileLoading.test_plot_custom_file_loading.0.png](test_data/images/gallery_tests.test_plot_custom_file_loading.TestCustomFileLoading.test_plot_custom_file_loading.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.4.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.4.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.4.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.4.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.2.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.2.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.2.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.2.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.4.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.4.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.4.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.4.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestUnmappable.test_simple.0.png](test_data/images/iris.tests.test_mapping.TestUnmappable.test_simple.0.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestUnmappable.test_simple.0.png](test_data/images/iris.tests.test_mapping.TestUnmappable.test_simple.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_cross_section.TestCrossSection.test_plot_cross_section.0.png](test_data/images/gallery_tests.test_plot_cross_section.TestCrossSection.test_plot_cross_section.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_cross_section.TestCrossSection.test_plot_cross_section.0.png](test_data/images/gallery_tests.test_plot_cross_section.TestCrossSection.test_plot_cross_section.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestLabels.test_pcolor.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolor.0.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolor.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolor.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolorNoBounds.test_ty.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_ty.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_ty.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_ty.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestBasic.test_contourf.0.png](test_data/images/iris.tests.test_mapping.TestBasic.test_contourf.0.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestBasic.test_contourf.0.png](test_data/images/iris.tests.test_mapping.TestBasic.test_contourf.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolor.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_tx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolor.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_tx.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_hovmoller.TestGlobalMap.test_plot_hovmoller.0.png](test_data/images/gallery_tests.test_plot_hovmoller.TestGlobalMap.test_plot_hovmoller.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_hovmoller.TestGlobalMap.test_plot_hovmoller.0.png](test_data/images/gallery_tests.test_plot_hovmoller.TestGlobalMap.test_plot_hovmoller.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_coord.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_coord.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_coord.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_coord.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.1.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.1.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.1.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.1.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.2.png](test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.2.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.2.png](test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.2.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolor.test_tz.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_tz.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolor.test_tz.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_tz.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_anomaly_log_colouring.TestAnomalyLogColouring.test_plot_anomaly_log_colouring.0.png](test_data/images/gallery_tests.test_plot_anomaly_log_colouring.TestAnomalyLogColouring.test_plot_anomaly_log_colouring.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_anomaly_log_colouring.TestAnomalyLogColouring.test_plot_anomaly_log_colouring.0.png](test_data/images/gallery_tests.test_plot_anomaly_log_colouring.TestAnomalyLogColouring.test_plot_anomaly_log_colouring.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_coord.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_coord.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlot.test_t_dates.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_t_dates.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlot.test_t_dates.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_t_dates.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestLimitedAreaCube.test_outline.0.png](test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_outline.0.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_outline.0.png](test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_outline.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_plain_latlon_on_polar_map.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_plain_latlon_on_polar_map.0.png)
+
+  
+  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_plain_latlon_on_polar_map.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_plain_latlon_on_polar_map.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube_coord.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube_coord.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube_coord.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube_coord.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestAttributePositive.test_1d_positive_up.0.png](test_data/images/iris.tests.test_plot.TestAttributePositive.test_1d_positive_up.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestAttributePositive.test_1d_positive_up.0.png](test_data/images/iris.tests.test_plot.TestAttributePositive.test_1d_positive_up.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestMissingCoord.test_none.1.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_none.1.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestMissingCoord.test_none.1.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_none.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_analysis.TestProject.test_cartopy_projection.0.png](test_data/images/iris.tests.test_analysis.TestProject.test_cartopy_projection.0.png)
+
+  
+  ![test_data/images/iris.tests.test_analysis.TestProject.test_cartopy_projection.0.png](test_data/images/iris.tests.test_analysis.TestProject.test_cartopy_projection.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestHybridHeight.test_bounds.0.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.0.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_custom_aggregation.TestCustomAggregation.test_plot_custom_aggregation.0.png](test_data/images/gallery_tests.test_plot_custom_aggregation.TestCustomAggregation.test_plot_custom_aggregation.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_custom_aggregation.TestCustomAggregation.test_plot_custom_aggregation.0.png](test_data/images/gallery_tests.test_plot_custom_aggregation.TestCustomAggregation.test_plot_custom_aggregation.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolor.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_yx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolor.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_yx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_rotated_latlon.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_rotated_latlon.0.png)
+
+  
+  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_rotated_latlon.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_rotated_latlon.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestMappingSubRegion.test_simple.0.png](test_data/images/iris.tests.test_mapping.TestMappingSubRegion.test_simple.0.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestMappingSubRegion.test_simple.0.png](test_data/images/iris.tests.test_mapping.TestMappingSubRegion.test_simple.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.2.png](test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.2.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.2.png](test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.2.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dScatter.test_coord_coord_map.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_coord_map.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_coord_map.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_coord_map.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestSimple.test_bounds.0.png](test_data/images/iris.tests.test_plot.TestSimple.test_bounds.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestSimple.test_bounds.0.png](test_data/images/iris.tests.test_plot.TestSimple.test_bounds.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.1.png](test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.1.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.1.png](test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.1.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.0.png](test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.0.png](test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_non_cube_coordinate.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_non_cube_coordinate.0.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_non_cube_coordinate.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_non_cube_coordinate.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlot.test_y.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_y.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlot.test_y.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_y.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolor.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_zx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolor.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_zx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.1.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.1.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.1.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestBoundedCube.test_grid.0.png](test_data/images/iris.tests.test_mapping.TestBoundedCube.test_grid.0.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestBoundedCube.test_grid.0.png](test_data/images/iris.tests.test_mapping.TestBoundedCube.test_grid.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolormesh.test_zy.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_zy.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolormesh.test_zy.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_zy.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestLimitedAreaCube.test_pcolormesh.0.png](test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_pcolormesh.0.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_pcolormesh.0.png](test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_pcolormesh.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestContourf.test_zy.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_zy.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestContourf.test_zy.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_zy.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.0.png](test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.0.png](test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestLowLevel.test_simple.0.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_simple.0.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestLowLevel.test_simple.0.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_simple.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.5.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.5.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.5.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.5.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.5.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.5.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.5.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.5.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_polar_stereo.TestPolarStereo.test_plot_polar_stereo.0.png](test_data/images/gallery_tests.test_plot_polar_stereo.TestPolarStereo.test_plot_polar_stereo.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_polar_stereo.TestPolarStereo.test_plot_polar_stereo.0.png](test_data/images/gallery_tests.test_plot_polar_stereo.TestPolarStereo.test_plot_polar_stereo.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestLowLevel.test_keywords.0.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_keywords.0.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestLowLevel.test_keywords.0.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_keywords.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dScatter.test_cube_coord.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_cube_coord.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dScatter.test_cube_coord.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_cube_coord.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.2.png](test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.2.png)
+
+  
+  ![test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.2.png](test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.2.png)
+  
+  
+  
+
+  #### [images/iris.tests.integration.plot.test_plot_2d_coords.Test.test_2d_coord_bounds_platecarree.0.png](test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test.test_2d_coord_bounds_platecarree.0.png)
+
+  
+  ![test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test.test_2d_coord_bounds_platecarree.0.png](test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test.test_2d_coord_bounds_platecarree.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestContour.test_tx.0.png](test_data/images/iris.tests.test_plot.TestContour.test_tx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestContour.test_tx.0.png](test_data/images/iris.tests.test_plot.TestContour.test_tx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolormeshNoBounds.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_tx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_tx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolormeshNoBounds.test_zy.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_zy.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_zy.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_zy.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestLowLevel.test_params.0.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.0.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.0.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coords.1.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coords.1.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coords.1.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coords.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.4.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.4.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.4.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.4.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test2dPoints.test_circular_changes.0.png](test_data/images/iris.tests.test_plot.Test2dPoints.test_circular_changes.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test2dPoints.test_circular_changes.0.png](test_data/images/iris.tests.test_plot.Test2dPoints.test_circular_changes.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_SOI_filtering.TestSOIFiltering.test_plot_soi_filtering.0.png](test_data/images/gallery_tests.test_plot_SOI_filtering.TestSOIFiltering.test_plot_soi_filtering.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_SOI_filtering.TestSOIFiltering.test_plot_soi_filtering.0.png](test_data/images/gallery_tests.test_plot_SOI_filtering.TestSOIFiltering.test_plot_soi_filtering.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestLowLevel.test_params.2.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.2.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.2.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.2.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_lagged_ensemble.TestLaggedEnsemble.test_plot_lagged_ensemble.1.png](test_data/images/gallery_tests.test_plot_lagged_ensemble.TestLaggedEnsemble.test_plot_lagged_ensemble.1.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_lagged_ensemble.TestLaggedEnsemble.test_plot_lagged_ensemble.1.png](test_data/images/gallery_tests.test_plot_lagged_ensemble.TestLaggedEnsemble.test_plot_lagged_ensemble.1.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_COP_1d.TestCOP1DPlot.test_plot_COP_1d.0.png](test_data/images/gallery_tests.test_plot_COP_1d.TestCOP1DPlot.test_plot_COP_1d.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_COP_1d.TestCOP1DPlot.test_plot_COP_1d.0.png](test_data/images/gallery_tests.test_plot_COP_1d.TestCOP1DPlot.test_plot_COP_1d.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.5.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.5.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.5.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.5.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestLabels.test_pcolormesh.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolormesh.0.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolormesh.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolormesh.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlot.test_z.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_z.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlot.test_z.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_z.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestMissingCoord.test_no_u.0.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_u.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_u.0.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_u.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_COP_maps.TestCOPMaps.test_plot_cop_maps.0.png](test_data/images/gallery_tests.test_plot_COP_maps.TestCOPMaps.test_plot_cop_maps.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_COP_maps.TestCOPMaps.test_plot_cop_maps.0.png](test_data/images/gallery_tests.test_plot_COP_maps.TestCOPMaps.test_plot_cop_maps.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestContourf.test_tz.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_tz.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestContourf.test_tz.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_tz.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_coriolis.TestCoriolisPlot.test_plot_coriolis.0.png](test_data/images/gallery_tests.test_plot_coriolis.TestCoriolisPlot.test_plot_coriolis.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_coriolis.TestCoriolisPlot.test_plot_coriolis.0.png](test_data/images/gallery_tests.test_plot_coriolis.TestCoriolisPlot.test_plot_coriolis.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolormeshNoBounds.test_tz.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_tz.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_tz.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_tz.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestAttributePositive.test_1d_positive_down.0.png](test_data/images/iris.tests.test_plot.TestAttributePositive.test_1d_positive_down.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestAttributePositive.test_1d_positive_down.0.png](test_data/images/iris.tests.test_plot.TestAttributePositive.test_1d_positive_down.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_plain_latlon.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_plain_latlon.0.png)
+
+  
+  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_plain_latlon.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_plain_latlon.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestHybridHeight.test_points.1.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.1.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.1.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolorNoBounds.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_tx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_tx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolormeshNoBounds.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_yx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_yx.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_atlantic_profiles.TestAtlanticProfiles.test_plot_atlantic_profiles.0.png](test_data/images/gallery_tests.test_plot_atlantic_profiles.TestAtlanticProfiles.test_plot_atlantic_profiles.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_atlantic_profiles.TestAtlanticProfiles.test_plot_atlantic_profiles.0.png](test_data/images/gallery_tests.test_plot_atlantic_profiles.TestAtlanticProfiles.test_plot_atlantic_profiles.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCitation.test.0.png](test_data/images/iris.tests.test_plot.TestPlotCitation.test.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCitation.test.0.png](test_data/images/iris.tests.test_plot.TestPlotCitation.test.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolormeshNoBounds.test_ty.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_ty.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_ty.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_ty.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolorNoBounds.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_yx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_yx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestHybridHeight.test_bounds.1.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.1.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.1.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCitation.test_figure.0.png](test_data/images/iris.tests.test_plot.TestPlotCitation.test_figure.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCitation.test_figure.0.png](test_data/images/iris.tests.test_plot.TestPlotCitation.test_figure.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestContour.test_zy.0.png](test_data/images/iris.tests.test_plot.TestContour.test_zy.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestContour.test_zy.0.png](test_data/images/iris.tests.test_plot.TestContour.test_zy.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestLabels.test_contour.1.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contour.1.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_contour.1.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contour.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_rotated_latlon.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_rotated_latlon.0.png)
+
+  
+  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_rotated_latlon.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_rotated_latlon.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_inset.TestInsetPlot.test_plot_inset.0.png](test_data/images/gallery_tests.test_plot_inset.TestInsetPlot.test_plot_inset.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_inset.TestInsetPlot.test_plot_inset.0.png](test_data/images/gallery_tests.test_plot_inset.TestInsetPlot.test_plot_inset.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dQuickplotScatter.test_cube_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_cube_cube.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_cube_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_cube_cube.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestQuickplotPlot.test_z.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_z.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_z.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_z.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestContour.test_zx.0.png](test_data/images/iris.tests.test_plot.TestContour.test_zx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestContour.test_zx.0.png](test_data/images/iris.tests.test_plot.TestContour.test_zx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestQuickplotPlot.test_y.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_y.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_y.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_y.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_deriving_phenomena.TestDerivingPhenomena.test_plot_deriving_phenomena.0.png](test_data/images/gallery_tests.test_plot_deriving_phenomena.TestDerivingPhenomena.test_plot_deriving_phenomena.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_deriving_phenomena.TestDerivingPhenomena.test_plot_deriving_phenomena.0.png](test_data/images/gallery_tests.test_plot_deriving_phenomena.TestDerivingPhenomena.test_plot_deriving_phenomena.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestMissingCoord.test_no_u.1.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_u.1.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_u.1.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_u.1.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_projections_and_annotations.TestProjectionsAndAnnotations.test_plot_projections_and_annotations.0.png](test_data/images/gallery_tests.test_plot_projections_and_annotations.TestProjectionsAndAnnotations.test_plot_projections_and_annotations.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_projections_and_annotations.TestProjectionsAndAnnotations.test_plot_projections_and_annotations.0.png](test_data/images/gallery_tests.test_plot_projections_and_annotations.TestProjectionsAndAnnotations.test_plot_projections_and_annotations.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolormesh.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_tx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolormesh.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_tx.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_TEC.TestTEC.test_plot_TEC.0.png](test_data/images/gallery_tests.test_plot_TEC.TestTEC.test_plot_TEC.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_TEC.TestTEC.test_plot_TEC.0.png](test_data/images/gallery_tests.test_plot_TEC.TestTEC.test_plot_TEC.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlot.test_x.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_x.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlot.test_x.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_x.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dScatter.test_coord_cube.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_cube.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_cube.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_cube.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestLabels.test_contour.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contour.0.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_contour.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contour.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_wind_speed.TestWindSpeed.test_plot_wind_speed.1.png](test_data/images/gallery_tests.test_plot_wind_speed.TestWindSpeed.test_plot_wind_speed.1.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_wind_speed.TestWindSpeed.test_plot_wind_speed.1.png](test_data/images/gallery_tests.test_plot_wind_speed.TestWindSpeed.test_plot_wind_speed.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolorNoBounds.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_zx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_zx.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_lagged_ensemble.TestLaggedEnsemble.test_plot_lagged_ensemble.0.png](test_data/images/gallery_tests.test_plot_lagged_ensemble.TestLaggedEnsemble.test_plot_lagged_ensemble.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_lagged_ensemble.TestLaggedEnsemble.test_plot_lagged_ensemble.0.png](test_data/images/gallery_tests.test_plot_lagged_ensemble.TestLaggedEnsemble.test_plot_lagged_ensemble.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_lineplot_with_legend.TestLineplotWithLegend.test_plot_lineplot_with_legend.0.png](test_data/images/gallery_tests.test_plot_lineplot_with_legend.TestLineplotWithLegend.test_plot_lineplot_with_legend.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_lineplot_with_legend.TestLineplotWithLegend.test_plot_lineplot_with_legend.0.png](test_data/images/gallery_tests.test_plot_lineplot_with_legend.TestLineplotWithLegend.test_plot_lineplot_with_legend.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_y.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_y.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_y.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_y.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_global_map.TestGlobalMap.test_plot_global_map.0.png](test_data/images/gallery_tests.test_plot_global_map.TestGlobalMap.test_plot_global_map.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_global_map.TestGlobalMap.test_plot_global_map.0.png](test_data/images/gallery_tests.test_plot_global_map.TestGlobalMap.test_plot_global_map.0.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_polynomial_fit.TestPolynomialFit.test_plot_polynomial_fit.0.png](test_data/images/gallery_tests.test_plot_polynomial_fit.TestPolynomialFit.test_plot_polynomial_fit.0.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_polynomial_fit.TestPolynomialFit.test_plot_polynomial_fit.0.png](test_data/images/gallery_tests.test_plot_polynomial_fit.TestPolynomialFit.test_plot_polynomial_fit.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.1.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.1.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.1.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.4.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.4.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.4.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.4.png)
+  
+  
+  
+
+  #### [images/gallery_tests.test_plot_cross_section.TestCrossSection.test_plot_cross_section.1.png](test_data/images/gallery_tests.test_plot_cross_section.TestCrossSection.test_plot_cross_section.1.png)
+
+  
+  ![test_data/images/gallery_tests.test_plot_cross_section.TestCrossSection.test_plot_cross_section.1.png](test_data/images/gallery_tests.test_plot_cross_section.TestCrossSection.test_plot_cross_section.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.5.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.5.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.5.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.5.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_coord_map.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_coord_map.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_coord_map.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_coord_map.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestMissingCoord.test_no_v.1.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_v.1.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_v.1.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_v.1.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_coord_map.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_coord_map.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_coord_map.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_coord_map.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestPcolormeshNoBounds.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_zx.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_zx.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestBoundedCube.test_pcolormesh.0.png](test_data/images/iris.tests.test_mapping.TestBoundedCube.test_pcolormesh.0.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestBoundedCube.test_pcolormesh.0.png](test_data/images/iris.tests.test_mapping.TestBoundedCube.test_pcolormesh.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestQuickplotPlot.test_t.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_t.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_t.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_t.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_cube.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_cube.0.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_cube.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_cube.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.integration.plot.test_plot_2d_coords.Test.test_2d_coord_bounds_northpolarstereo.0.png](test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test.test_2d_coord_bounds_northpolarstereo.0.png)
+
+  
+  ![test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test.test_2d_coord_bounds_northpolarstereo.0.png](test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test.test_2d_coord_bounds_northpolarstereo.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_plot.TestHybridHeight.test_bounds.2.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.2.png)
+
+  
+  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.2.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.2.png)
+  
+  
+  
+
+  #### [images/iris.tests.integration.plot.test_plot_2d_coords.Test2dContour.test_2d_coords_contour.0.png](test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test2dContour.test_2d_coords_contour.0.png)
+
+  
+  ![test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test2dContour.test_2d_coords_contour.0.png](test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test2dContour.test_2d_coords_contour.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.2.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.2.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.2.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.2.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_mapping.TestBasic.test_pcolor.0.png](test_data/images/iris.tests.test_mapping.TestBasic.test_pcolor.0.png)
+
+  
+  ![test_data/images/iris.tests.test_mapping.TestBasic.test_pcolor.0.png](test_data/images/iris.tests.test_mapping.TestBasic.test_pcolor.0.png)
+  
+  
+  
+
+  #### [images/iris.tests.test_quickplot.TestLabels.test_alignment.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_alignment.0.png)
+
+  
+  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_alignment.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_alignment.0.png)
+  
+  
+  
+
+</details>
+
+
+
+<details>
+
   <summary>abf</summary>
 
   
-  ### [abf/AVHRRBUVI01.1985apra.abf](test_data/abf/AVHRRBUVI01.1985apra.abf)
+  #### [abf/AVHRRBUVI01.1985apra.abf](test_data/abf/AVHRRBUVI01.1985apra.abf)
 
   
   
@@ -39,7 +1896,69 @@
   <summary>FF</summary>
 
   
-  ### [FF/lbrel_test_data](test_data/FF/lbrel_test_data)
+  #### [FF/ancillary_fixed_length_header](test_data/FF/ancillary_fixed_length_header)
+
+  
+  
+  
+  
+  ```
+  
+  UserWarning: Input field skipped as PPField creation failed : error = 'Unsupported header release number: 0'
+  
+  ```
+  
+  
+
+  #### [FF/lbrel_missing](test_data/FF/lbrel_missing)
+
+  
+  
+  ```
+      high_type_cloud_area_fraction / (1) (latitude: 72; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             4.5 hours, bound=(3.0, 6.0) hours
+            forecast_reference_time     2012-09-28 00:00:00
+            time                        2012-09-28 04:30:00, bound=(2012-09-28 03:00:00, 2012-09-28 06:00:00)
+        Cell methods:
+            mean                        time (1 hour)
+        Attributes:
+            STASH                       m01s09i205
+            source                      'Data from Met Office Unified Model'
+            um_version                  '10.3'
+  ```
+  
+  ```
+      high_type_cloud_area_fraction / (1) (latitude: 72; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             4.5 hours, bound=(3.0, 6.0) hours
+            forecast_reference_time     2012-09-28 00:00:00
+            time                        2012-09-28 04:30:00, bound=(2012-09-28 03:00:00, 2012-09-28 06:00:00)
+        Cell methods:
+            mean                        time (1 hour)
+        Attributes:
+            STASH                       m01s09i205
+            source                      'Data from Met Office Unified Model'
+            um_version                  '10.3'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: Input field skipped as PPField creation failed : error = 'Unsupported header release number: -32768'
+  
+  ```
+  
+  
+
+  #### [FF/lbrel_test_data](test_data/FF/lbrel_test_data)
 
   
   
@@ -79,21 +1998,7 @@
   
   
 
-  ### [FF/ancillary_fixed_length_header](test_data/FF/ancillary_fixed_length_header)
-
-  
-  
-  
-  
-  ```
-  
-  UserWarning: Input field skipped as PPField creation failed : error = 'Unsupported header release number: 0'
-  
-  ```
-  
-  
-
-  ### [FF/n48_multi_field_table_count](test_data/FF/n48_multi_field_table_count)
+  #### [FF/n48_multi_field_table_count](test_data/FF/n48_multi_field_table_count)
 
   
   
@@ -166,55 +2071,7 @@
   
   
 
-  ### [FF/lbrel_missing](test_data/FF/lbrel_missing)
-
-  
-  
-  ```
-      high_type_cloud_area_fraction / (1) (latitude: 72; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             4.5 hours, bound=(3.0, 6.0) hours
-            forecast_reference_time     2012-09-28 00:00:00
-            time                        2012-09-28 04:30:00, bound=(2012-09-28 03:00:00, 2012-09-28 06:00:00)
-        Cell methods:
-            mean                        time (1 hour)
-        Attributes:
-            STASH                       m01s09i205
-            source                      'Data from Met Office Unified Model'
-            um_version                  '10.3'
-  ```
-  
-  ```
-      high_type_cloud_area_fraction / (1) (latitude: 72; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             4.5 hours, bound=(3.0, 6.0) hours
-            forecast_reference_time     2012-09-28 00:00:00
-            time                        2012-09-28 04:30:00, bound=(2012-09-28 03:00:00, 2012-09-28 06:00:00)
-        Cell methods:
-            mean                        time (1 hour)
-        Attributes:
-            STASH                       m01s09i205
-            source                      'Data from Met Office Unified Model'
-            um_version                  '10.3'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: Input field skipped as PPField creation failed : error = 'Unsupported header release number: -32768'
-  
-  ```
-  
-  
-
-  ### [FF/n48_multi_field](test_data/FF/n48_multi_field)
+  #### [FF/n48_multi_field](test_data/FF/n48_multi_field)
 
   
   
@@ -287,61 +2144,46 @@
   
   
 
-  ### [FF/landsea_masked/testdata_mini_lsm.ff](test_data/FF/landsea_masked/testdata_mini_lsm.ff)
+  #### [FF/structured/small](test_data/FF/structured/small)
 
   
   
   ```
-      land_binary_mask / (1)              (grid_latitude: 928; grid_longitude: 744)
+      air_pressure / (Pa)                 (time: 2; model_level_number: 3; latitude: 30; longitude: 40)
         Dimension coordinates:
-            grid_latitude                             x                    -
-            grid_longitude                            -                    x
+            time                             x                      -            -              -
+            model_level_number               -                      x            -              -
+            latitude                         -                      -            x              -
+            longitude                        -                      -            -              x
+        Auxiliary coordinates:
+            forecast_period                  x                      -            -              -
+            level_height                     -                      x            -              -
+            sigma                            -                      x            -              -
         Scalar coordinates:
-            time                        2015-01-01 01:00:00
+            forecast_reference_time     1991-03-01 00:00:00
         Attributes:
-            STASH                       m01s00i030
-            source                      'Data from Met Office Unified Model'
-            um_version                  '8.5'
-  ```
-  
-  ```
-      soil_temperature / (K)              (soil_model_level_number: 2; grid_latitude: 928; grid_longitude: 744)
-        Dimension coordinates:
-            soil_model_level_number                             x                 -                    -
-            grid_latitude                                       -                 x                    -
-            grid_longitude                                      -                 -                    x
-        Scalar coordinates:
-            time                        2015-01-01 01:00:00
-        Attributes:
-            STASH                       m01s00i020
+            STASH                       m01s00i407
             source                      'Data from Met Office Unified Model'
             um_version                  '8.5'
   ```
   
   
   
-  
-
-  ### [FF/ancillary/qrparm.mask](test_data/FF/ancillary/qrparm.mask)
-
-  
-  
   ```
-      land_binary_mask / (1)              (grid_latitude: 1016; grid_longitude: 940)
-        Dimension coordinates:
-            grid_latitude                             x                     -
-            grid_longitude                            -                     x
-        Attributes:
-            STASH                       m01s00i030
-            source                      'Data from Met Office Unified Model'
-            um_version                  '7.9'
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
   ```
   
   
-  
-  
 
-  ### [FF/lbc/small_lbc](test_data/FF/lbc/small_lbc)
+  #### [FF/lbc/small_lbc](test_data/FF/lbc/small_lbc)
 
   
   
@@ -544,42 +2386,968 @@
   
   
 
-  ### [FF/structured/small](test_data/FF/structured/small)
+  #### [FF/ancillary/qrparm.mask](test_data/FF/ancillary/qrparm.mask)
 
   
   
   ```
-      air_pressure / (Pa)                 (time: 2; model_level_number: 3; latitude: 30; longitude: 40)
+      land_binary_mask / (1)              (grid_latitude: 1016; grid_longitude: 940)
         Dimension coordinates:
-            time                             x                      -            -              -
-            model_level_number               -                      x            -              -
-            latitude                         -                      -            x              -
-            longitude                        -                      -            -              x
-        Auxiliary coordinates:
-            forecast_period                  x                      -            -              -
-            level_height                     -                      x            -              -
-            sigma                            -                      x            -              -
-        Scalar coordinates:
-            forecast_reference_time     1991-03-01 00:00:00
+            grid_latitude                             x                     -
+            grid_longitude                            -                     x
         Attributes:
-            STASH                       m01s00i407
+            STASH                       m01s00i030
+            source                      'Data from Met Office Unified Model'
+            um_version                  '7.9'
+  ```
+  
+  
+  
+  
+
+  #### [FF/landsea_masked/testdata_mini_lsm.ff](test_data/FF/landsea_masked/testdata_mini_lsm.ff)
+
+  
+  
+  ```
+      land_binary_mask / (1)              (grid_latitude: 928; grid_longitude: 744)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            time                        2015-01-01 01:00:00
+        Attributes:
+            STASH                       m01s00i030
+            source                      'Data from Met Office Unified Model'
+            um_version                  '8.5'
+  ```
+  
+  ```
+      soil_temperature / (K)              (soil_model_level_number: 2; grid_latitude: 928; grid_longitude: 744)
+        Dimension coordinates:
+            soil_model_level_number                             x                 -                    -
+            grid_latitude                                       -                 x                    -
+            grid_longitude                                      -                 -                    x
+        Scalar coordinates:
+            time                        2015-01-01 01:00:00
+        Attributes:
+            STASH                       m01s00i020
             source                      'Data from Met Office Unified Model'
             um_version                  '8.5'
   ```
   
   
   
+  
+
+</details>
+
+
+
+<details>
+
+  <summary>GRIB</summary>
+
+  
+  #### [GRIB/missing_values/missing_values.grib2](test_data/GRIB/missing_values/missing_values.grib2)
+
+  
+  
+  ```
+      x_wind / (m s-1)                    (latitude: 73; longitude: 144)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             0 hours
+            forecast_reference_time     2013-05-21 00:00:00
+            time                        2013-05-21 00:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c002n002
   ```
   
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
   
-  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+
+  #### [GRIB/time_processed/time_bound.grib2](test_data/GRIB/time_processed/time_bound.grib2)
+
+  
   
   ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/time_processed/time_bound.grib1](test_data/GRIB/time_processed/time_bound.grib1)
+
+  
+  
+  ```
+      UNKNOWN LOCAL PARAM 106.137 / (unknown) (latitude: 321; longitude: 481)
+        Dimension coordinates:
+            latitude                                 x               -
+            longitude                                -               x
+        Scalar coordinates:
+            forecast_period                 1.5 hours, bound=(0.0, 3.0) hours
+            originating_centre              U.K. Met Office - Exeter
+            time                            2011-03-15 01:30:00, bound=(2011-03-15 00:00:00, 2011-03-15 03:00:00)
+        Cell methods:
+            mean                            time
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/grib1_second_order_packing/GRIB_00008_FRANX01](test_data/GRIB/grib1_second_order_packing/GRIB_00008_FRANX01)
+
+  
+  
+  ```
+      unknown / (unknown)                 (latitude: 221; longitude: 281)
+        Dimension coordinates:
+            latitude                             x               -
+            longitude                            -               x
+        Scalar coordinates:
+            forecast_period             0 hours
+            originating_centre          unknown centre lfpw
+            time                        0001-01-17 00:00:00
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/umukv/ukv_chan9.grib2](test_data/GRIB/umukv/ukv_chan9.grib2)
+
+  
+  
+  ```
+      unknown / (unknown)                              (projection_y_coordinate: 227; projection_x_coordinate: 390)
+        Dimension coordinates:
+            projection_y_coordinate                                          x                             -
+            projection_x_coordinate                                          -                             x
+        Scalar coordinates:
+            instrument_type                          207
+            satellite_number                         56
+            satellite_series                         333
+            sensor_band_central_radiation_wavenumber 92.0 m-1
+            time                                     2010-09-08 21:00:00
+        Attributes:
+            GRIB_PARAM                               GRIB2:d003c000n002
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/reduced/reduced_ll_missing.grib1](test_data/GRIB/reduced/reduced_ll_missing.grib1)
+
+  
+  
+  ```
+      air_temperature / (kelvin)          (-- : 3127)
+        Scalar coordinates:
+            forecast_period             24 hours
+            originating_centre          U.K. Met Office - Exeter
+            pressure                    850 hPa
+            time                        2013-05-01 00:00:00
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/reduced/reduced_gg.grib2](test_data/GRIB/reduced/reduced_gg.grib2)
+
+  
+  
+  ```
+      geopotential / (m2 s-2)             (-- : 13280)
+        Auxiliary coordinates:
+            latitude                        x
+            longitude                       x
+        Scalar coordinates:
+            forecast_period             0 hours
+            forecast_reference_time     2013-02-01 00:00:00
+            level_pressure              2.000040054321289 Pa
+            model_level_number          1
+            sigma                       0.0
+            time                        2013-02-01 00:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c003n004
+            centre                      'European Centre for Medium Range Weather Forecasts'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: Unable to create instance of HybridPressureFactory. The source data contains no field(s) for 'ref_surface_pressure'.
+  
+  ```
+  
+  
+
+  #### [GRIB/reduced/reduced_ll.grib1](test_data/GRIB/reduced/reduced_ll.grib1)
+
+  
+  
+  ```
+      air_temperature / (kelvin)          (-- : 3447)
+        Scalar coordinates:
+            forecast_period             24 hours
+            originating_centre          U.K. Met Office - Exeter
+            pressure                    850 hPa
+            time                        2013-05-01 00:00:00
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/global_t/global.grib2](test_data/GRIB/global_t/global.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/shape_of_earth/5.grib2](test_data/GRIB/shape_of_earth/5.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/shape_of_earth/1.grib2](test_data/GRIB/shape_of_earth/1.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/shape_of_earth/2.grib2](test_data/GRIB/shape_of_earth/2.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/shape_of_earth/global.grib1](test_data/GRIB/shape_of_earth/global.grib1)
+
+  
+  
+  ```
+      air_temperature / (kelvin)          (latitude: 481; longitude: 640)
+        Dimension coordinates:
+            latitude                             x               -
+            longitude                            -               x
+        Scalar coordinates:
+            forecast_period             0 hours
+            originating_centre          U.K. Met Office - Exeter
+            pressure                    1000 hPa
+            time                        2008-12-12 00:00:00
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/shape_of_earth/3.grib2](test_data/GRIB/shape_of_earth/3.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/shape_of_earth/4.grib2](test_data/GRIB/shape_of_earth/4.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/shape_of_earth/6.grib2](test_data/GRIB/shape_of_earth/6.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/shape_of_earth/0.grib2](test_data/GRIB/shape_of_earth/0.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/shape_of_earth/7.grib2](test_data/GRIB/shape_of_earth/7.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/rotated_nae_t/sensible_pole.grib2](test_data/GRIB/rotated_nae_t/sensible_pole.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (grid_latitude: 360; grid_longitude: 600)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            forecast_period             0 hours
+            forecast_reference_time     2009-05-07 00:00:00
+            pressure                    100000.0 Pa
+            time                        2009-05-07 00:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/rotated_uk/uk_wrongparam.grib1](test_data/GRIB/rotated_uk/uk_wrongparam.grib1)
+
+  
+  
+  ```
+      air_temperature / (kelvin)          (grid_latitude: 360; grid_longitude: 288)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            forecast_period             2 hours
+            originating_centre          U.K. Met Office - Exeter
+            pressure                    600 hPa
+            time                        2007-07-19 14:00:00
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/ij_directions/ipos_jpos.grib2](test_data/GRIB/ij_directions/ipos_jpos.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/ij_directions/ineg_jpos.grib2](test_data/GRIB/ij_directions/ineg_jpos.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/ij_directions/ineg_jneg.grib2](test_data/GRIB/ij_directions/ineg_jneg.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/ij_directions/ipos_jneg.grib2](test_data/GRIB/ij_directions/ipos_jneg.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/uk_t/uk_t.grib2](test_data/GRIB/uk_t/uk_t.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 33; longitude: 47)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             48 hours
+            forecast_reference_time     2010-01-01 00:00:00
+            pressure                    0.0 Pa
+            time                        2010-01-03 00:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/bulletin/40bytes.grib](test_data/GRIB/bulletin/40bytes.grib)
+
+  
+  
+  ```
+      icao_standard_atmosphere_reference_height / (m) (latitude: 145; longitude: 288)
+        Dimension coordinates:
+            latitude                                         x               -
+            longitude                                        -               x
+        Scalar coordinates:
+            forecast_period                         15 hours
+            forecast_reference_time                 2011-12-21 06:00:00
+            time                                    2011-12-21 21:00:00
+        Attributes:
+            GRIB_PARAM                              GRIB2:d000c003n003
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/bulletin/41bytes.grib](test_data/GRIB/bulletin/41bytes.grib)
+
+  
+  
+  ```
+      unknown / (unknown)                 (latitude: 61; longitude: 61)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             72 hours
+            originating_centre          unknown centre lfpw
+            time                        2013-05-03 00:00:00
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/fp_units/seconds.grib2](test_data/GRIB/fp_units/seconds.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 31; longitude: 16)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             24.0 hours
+            forecast_reference_time     2007-03-23 12:00:00
+            time                        2007-03-24 12:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+            centre                      'European Centre for Medium Range Weather Forecasts'
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/fp_units/days.grib2](test_data/GRIB/fp_units/days.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 31; longitude: 16)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             24.0 hours
+            forecast_reference_time     2007-03-23 12:00:00
+            time                        2007-03-24 12:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+            centre                      'European Centre for Medium Range Weather Forecasts'
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/fp_units/minutes.grib2](test_data/GRIB/fp_units/minutes.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 31; longitude: 16)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             24.0 hours
+            forecast_reference_time     2007-03-23 12:00:00
+            time                        2007-03-24 12:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+            centre                      'European Centre for Medium Range Weather Forecasts'
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/fp_units/hours.grib2](test_data/GRIB/fp_units/hours.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 31; longitude: 16)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             24 hours
+            forecast_reference_time     2007-03-23 12:00:00
+            time                        2007-03-24 12:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+            centre                      'European Centre for Medium Range Weather Forecasts'
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/lambert/lambert.grib1](test_data/GRIB/lambert/lambert.grib1)
+
+  
+  
+  ```
+      air_temperature / (kelvin)          (projection_y_coordinate: 799; projection_x_coordinate: 1199)
+        Dimension coordinates:
+            projection_y_coordinate                             x                             -
+            projection_x_coordinate                             -                             x
+        Scalar coordinates:
+            forecast_period             36 hours
+            height                      2 m
+            originating_centre          US National Weather Service, National Centres for Environmental Predic...
+            time                        2013-06-15 12:00:00
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/lambert/lambert.grib2](test_data/GRIB/lambert/lambert.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (projection_y_coordinate: 799; projection_x_coordinate: 1199)
+        Dimension coordinates:
+            projection_y_coordinate                             x                             -
+            projection_x_coordinate                             -                             x
+        Scalar coordinates:
+            forecast_period             2 hours
+            forecast_reference_time     2013-05-07 12:00:00
+            height                      2.0 m
+            time                        2013-05-07 14:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/jpeg2000/file.grib2](test_data/GRIB/jpeg2000/file.grib2)
+
+  
+  
+  ```
+      WAFC_CAT_potential / (1)            (latitude: 145; longitude: 288)
+        Dimension coordinates:
+            latitude                             x               -
+            longitude                            -               x
+        Scalar coordinates:
+            forecast_period             18.0 hours, bound=(36.0, 0.0) hours
+            forecast_reference_time     2010-02-08 06:00:00
+            pressure                    25000.0 Pa
+            time                        2010-02-09 00:00:00, bound=(2010-02-09 18:00:00, 2010-02-08 06:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c019n022
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/3_layer_viz/3_layer.grib2](test_data/GRIB/3_layer_viz/3_layer.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  ```
+      air_temperature / (K)               (grid_latitude: 360; grid_longitude: 600)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            forecast_period             0 hours
+            forecast_reference_time     2009-05-07 00:00:00
+            pressure                    100000.0 Pa
+            time                        2009-05-07 00:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  ```
+      air_temperature / (K)               (grid_latitude: 360; grid_longitude: 288)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            forecast_period             0.0 hours, bound=(0.0, 0.0) hours
+            forecast_reference_time     2008-01-23 03:00:00
+            pressure                    999900.0 Pa
+            time                        2008-01-23 03:00:00, bound=(2008-01-23 03:00:00, 2008-01-23 03:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/gaussian/regular_gg.grib1](test_data/GRIB/gaussian/regular_gg.grib1)
+
+  
+  
+  ```
+      x_wind / (m s-1)                    (latitude: 96; longitude: 192)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             0 hours
+            originating_centre          US National Weather Service, National Centres for Environmental Predic...
+            pressure                    850 hPa
+            time                        2004-04-02 00:00:00
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/gaussian/regular_gg.grib2](test_data/GRIB/gaussian/regular_gg.grib2)
+
+  
+  
+  ```
+      geopotential_height / (m)           (latitude: 96; longitude: 192)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             69 hours
+            forecast_reference_time     2013-08-13 00:00:00
+            pressure                    52500.0 Pa
+            time                        2013-08-15 21:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c003n005
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/polar_stereo/CMC_glb_TMP_ISBL_1015_ps30km_2013052000_P006.grib2](test_data/GRIB/polar_stereo/CMC_glb_TMP_ISBL_1015_ps30km_2013052000_P006.grib2)
+
+  
+  
+  ```
+      air_temperature / (K)               (projection_y_coordinate: 200; projection_x_coordinate: 247)
+        Dimension coordinates:
+            projection_y_coordinate                             x                             -
+            projection_x_coordinate                             -                             x
+        Scalar coordinates:
+            forecast_period             6 hours
+            forecast_reference_time     2013-05-20 00:00:00
+            pressure                    101500.0 Pa
+            time                        2013-05-20 06:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
+  
+
+  #### [GRIB/polar_stereo/ST4.2013052210.01h](test_data/GRIB/polar_stereo/ST4.2013052210.01h)
+
+  
+  
+  ```
+      unknown / (unknown)                 (projection_y_coordinate: 881; projection_x_coordinate: 1121)
+        Dimension coordinates:
+            projection_y_coordinate                             x                             -
+            projection_x_coordinate                             -                             x
+        Scalar coordinates:
+            forecast_period             0.5 hours, bound=(0.0, 1.0) hours
+            originating_centre          US National Weather Service, National Centres for Environmental Predic...
+            time                        2013-05-22 09:30:00, bound=(2013-05-22 09:00:00, 2013-05-22 10:00:00)
+        Cell methods:
+            sum                         time
+  ```
+  
+  
   
   
 
@@ -592,79 +3360,700 @@
   <summary>NetCDF</summary>
 
   
-  ### [NetCDF/label_and_climate/A1B-99999a-river-sep-2070-2099.nc](test_data/NetCDF/label_and_climate/A1B-99999a-river-sep-2070-2099.nc)
+  #### [NetCDF/lambert_azimuthal_equal_area/euro_air_temp.nc](test_data/NetCDF/lambert_azimuthal_equal_area/euro_air_temp.nc)
 
   
   
   ```
-      realization weights / (unknown)     (sample number: 10000)
+      air_temperature / (K)               (projection_y_coordinate: 15; projection_x_coordinate: 15)
         Dimension coordinates:
-            sample number                             x
+            projection_y_coordinate                             x                            -
+            projection_x_coordinate                             -                            x
+        Scalar coordinates:
+            forecast_period             6477.0 hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    1000.0 hPa
+            time                        1998-12-01 00:00:00
         Attributes:
-            Conventions                 'CF-1.0'
-            history                     '12/07/2007: MAA CREATE_PROBDF_FILE: Version Beta'
-            institution                 'Met Office Hadley Centre'
-            invalid_standard_name       'realization_weights'
-            meaning_period              'sep'
-            references                  'Murphy, J.M., B. B. B. Booth, M. Collins, G. R. Harris, D. M. H. Sexton...
-            scenario                    'IPCC SRES A1B'
-            source                      'Probabilistic climate prediction based on family of Met Office Hadley...
-            title                       'Change in SEP mean Max air temperature at 1.5m relative to 1961-90 for...
-  ```
-  
-  ```
-      Max air temperature at 1.5m / (K)        (time: 1; -- : 23; cumulative distribution function: 107)
-        Dimension coordinates:
-            time                                  x       -                                     -
-            cumulative distribution function      -       -                                     x
-        Auxiliary coordinates:
-            region                                -       x                                     -
-        Cell methods:
-            maximum within days              time
-            mean within years                time
-            mean over years                  time
-        Attributes:
-            Conventions                      'CF-1.0'
-            base_units                       'K'
-            history                          '12/07/2007: MAA CREATE_PROBDF_FILE: Version Beta'
-            institution                      'Met Office Hadley Centre'
-            meaning_period                   'sep'
-            references                       'Murphy, J.M., B. B. B. Booth, M. Collins, G. R. Harris, D. M. H. Sexton...
-            scenario                         'IPCC SRES A1B'
-            source                           'Probabilistic climate prediction based on family of Met Office Hadley...
-            title                            'Change in SEP mean Max air temperature at 1.5m relative to 1961-90 for...
-  ```
-  
-  ```
-      Max air temperature at 1.5m / (K)   (time: 1; -- : 23; sample number: 10000)
-        Dimension coordinates:
-            time                             x       -                  -
-            sample number                    -       -                  x
-        Auxiliary coordinates:
-            region                           -       x                  -
-        Cell methods:
-            maximum within days         time
-            mean within years           time
-            mean over years             time
-        Attributes:
-            Conventions                 'CF-1.0'
-            base_units                  'K'
-            comment                     'Anomaly of 30-year average of monthly/seasonal/annual average of daily...
-            history                     '12/07/2007: MAA CREATE_PROBDF_FILE: Version Beta'
-            institution                 'Met Office Hadley Centre'
-            meaning_period              'sep'
-            realization_weights         'weights'
-            references                  'Murphy, J.M., B. B. B. Booth, M. Collins, G. R. Harris, D. M. H. Sexton...
-            scenario                    'IPCC SRES A1B'
-            source                      'Probabilistic climate prediction based on family of Met Office Hadley...
-            title                       'Change in SEP mean Max air temperature at 1.5m relative to 1961-90 for...
+            Conventions                 'CF-1.5'
+            STASH                       m01s16i203
+            source                      'Data from Met Office Unified Model'
   ```
   
   
   
   
 
-  ### [NetCDF/label_and_climate/small_FC_167_mon_19601101.nc](test_data/NetCDF/label_and_climate/small_FC_167_mon_19601101.nc)
+  #### [NetCDF/polar/toa_brightness_temperature.nc](test_data/NetCDF/polar/toa_brightness_temperature.nc)
+
+  
+  
+  ```
+      toa_brightness_temperature / (K)    (-- : 160; -- : 256)
+        Scalar coordinates:
+            time                        2016-05-16 12:00:00
+        Attributes:
+            Conventions                 'CF-1.7'
+            Note                        'This dataset is for test purposes only'
+            acknowledgement             'EUMETSAT'
+            creator_email               'sat_systems@metoffice.gov.uk'
+            creator_name                'Satellite Applications, Met Office'
+            creator_type                'group'
+            geospatial_lat_max          2.2e-44
+            geospatial_lat_min          0.0
+            geospatial_lon_max          0.0
+            geospatial_lon_min          0.0
+            history                     'Created: 2016-05-23T09:40:00Z'
+            institution                 'Met Office, UK'
+            instrument                  'SEVIRI'
+            keywords                    'Infra-red, brightness temperature, MSG, SEVIRI'
+            platform                    'MSG'
+            source                      'EUMETSAT'
+            standard_name_vocabulary    'CF Standard Name Table v27'
+            summary                     'Infra-red channel top of atmosphere brightness temperature, central wavelength...
+            title                       'TOA brightness temperature, 10.80 micron (MSG)'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/rotated/xyt/small_rotPole_precipitation.nc](test_data/NetCDF/rotated/xyt/small_rotPole_precipitation.nc)
+
+  
+  
+  ```
+      precipitation_flux / (kg m-2 s-1)   (time: 4; grid_latitude: 190; grid_longitude: 174)
+        Dimension coordinates:
+            time                             x                 -                    -
+            grid_latitude                    -                 x                    -
+            grid_longitude                   -                 -                    x
+        Auxiliary coordinates:
+            latitude                         -                 x                    x
+            longitude                        -                 x                    x
+        Cell methods:
+            mean                        time
+        Attributes:
+            Conventions                 'CF-1.0'
+            NCO                         '4.1.0'
+            experiment                  'ER3'
+            history                     'Thu Nov 29 10:45:50 2012: /project/ukmo/rhel6/nco/bin/ncks -d time,0,3...
+            institution                 'DMI'
+            source                      'HIRHAM'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/rotated/xy/rotPole_landAreaFraction.nc](test_data/NetCDF/rotated/xy/rotPole_landAreaFraction.nc)
+
+  
+  
+  ```
+      land_area_fraction / (1)            (grid_latitude: 95; grid_longitude: 85)
+        Dimension coordinates:
+            grid_latitude                             x                   -
+            grid_longitude                            -                   x
+        Auxiliary coordinates:
+            latitude                                  x                   x
+            longitude                                 x                   x
+        Attributes:
+            Conventions                 'CF-1.0'
+            conventionsURL              'http://www.cgd.ucar.edu/cms/eaton/cf-metadata/index.html'
+            creation_date               '2007-04-25 12:18:23'
+            experiment_id               'RT3 50'
+            institution                 'MPI-M'
+            project_id                  'ENSEMBLES'
+            realization                 '1'
+            source                      'REMO'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/stereographic/toa_brightness_temperature.nc](test_data/NetCDF/stereographic/toa_brightness_temperature.nc)
+
+  
+  
+  ```
+      toa_brightness_temperature / (K)    (projection_y_coordinate: 160; projection_x_coordinate: 256)
+        Dimension coordinates:
+            projection_y_coordinate                             x                             -
+            projection_x_coordinate                             -                             x
+        Auxiliary coordinates:
+            latitude                                            x                             x
+            longitude                                           x                             x
+        Scalar coordinates:
+            time                        2016-05-16 12:00:00
+        Attributes:
+            Conventions                 'CF-1.5'
+            Note                        'This dataset is for test purposes only'
+            acknowledgement             'EUMETSAT'
+            creator_email               'sat_systems@metoffice.gov.uk'
+            creator_name                'Satellite Applications, Met Office'
+            creator_type                'group'
+            geospatial_lat_max          2.2e-44
+            geospatial_lat_min          0.0
+            geospatial_lon_max          0.0
+            geospatial_lon_min          0.0
+            history                     'Created: 2016-05-23T09:40:00Z'
+            institution                 'Met Office, UK'
+            instrument                  'SEVIRI'
+            keywords                    'Infra-red, brightness temperature, MSG, SEVIRI'
+            platform                    'MSG'
+            source                      'EUMETSAT'
+            standard_name_vocabulary    'CF Standard Name Table v27'
+            summary                     'Infra-red channel top of atmosphere brightness temperature, central wavelength...
+            title                       'TOA brightness temperature, 10.80 micron (MSG)'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/ORCA2/votemper.nc](test_data/NetCDF/ORCA2/votemper.nc)
+
+  
+  
+  ```
+      sea_water_potential_temperature / (degC) (time: 1; depth: 31; -- : 148; -- : 180)
+        Dimension coordinates:
+            time                                  x         -        -         -
+            depth                                 -         x        -         -
+        Auxiliary coordinates:
+            latitude                              -         -        x         x
+            longitude                             -         -        x         x
+        Cell measures:
+            cell_area                             -         -        x         x
+        Cell methods:
+            mean                             time
+        Attributes:
+            Conventions                      'CF-1.1'
+            DOMAIN_DIM_N001                  'x'
+            DOMAIN_DIM_N002                  'y'
+            DOMAIN_DIM_N003                  'ncorners'
+            DOMAIN_DIM_N004                  'deptht'
+            DOMAIN_DIM_N005                  'ndepth_bounds'
+            DOMAIN_DIM_N006                  'time_counter'
+            DOMAIN_dimensions_ids            array([1, 2], dtype=int32)
+            DOMAIN_halo_size_end             array([0, 0], dtype=int32)
+            DOMAIN_halo_size_start           array([0, 0], dtype=int32)
+            DOMAIN_number                    0
+            DOMAIN_number_total              1
+            DOMAIN_position_first            array([1, 1], dtype=int32)
+            DOMAIN_position_last             array([182, 149], dtype=int32)
+            DOMAIN_size_global               array([182, 149], dtype=int32)
+            DOMAIN_size_local                array([182, 149], dtype=int32)
+            DOMAIN_type                      'box'
+            NCO                              '4.0.8'
+            TimeStamp                        '2008-SEP-09 11:18:37 GMT+0000'
+            file_name                        'ORCA2_1d_00010101_00010101_grid_T_0000.nc'
+            history                          'Mon Apr  2 10:25:46 2012: /project/ukmo/rhel6/nco/bin/ncks -v votemper,deptht_bounds,nav_lat,nav_lon,areat,latt_bounds,lont_bounds...
+            interval_operation               5760.0
+            interval_write                   86400.0
+            production                       'An IPSL model'
+            short_name                       'votemper'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/testing/units.nc](test_data/NetCDF/testing/units.nc)
+
+  
+  
+  ```
+      air_temperature / (kelvin)          (time: 5)
+        Dimension coordinates:
+            time                             x
+        Scalar coordinates:
+            height                      100 meters
+  ```
+  
+  ```
+      air_temperature / (unknown)         (time: 5)
+        Dimension coordinates:
+            time                             x
+        Scalar coordinates:
+            height                      100 meters
+        Attributes:
+            invalid_units               'kevin'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
+  
+  UserWarning: Ignoring netCDF variable 'cube_1' invalid units 'kevin'
+  
+  UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
+  
+  ```
+  
+  
+
+  #### [NetCDF/testing/small_theta_colpex.nc](test_data/NetCDF/testing/small_theta_colpex.nc)
+
+  
+  
+  ```
+      air_potential_temperature / (K)             (time: 6; model_level_number: 10; grid_latitude: 83; grid_longitude: 83)
+        Dimension coordinates:
+            time                                     x                      -                  -                   -
+            model_level_number                       -                      x                  -                   -
+            grid_latitude                            -                      -                  x                   -
+            grid_longitude                           -                      -                  -                   x
+        Auxiliary coordinates:
+            forecast_period                          x                      -                  -                   -
+            atmosphere_hybrid_height_coordinate      -                      x                  -                   -
+            sigma                                    -                      x                  -                   -
+            surface_altitude                         -                      -                  x                   x
+        Derived coordinates:
+            altitude                                 -                      x                  x                   x
+        Attributes:
+            Conventions                         'CF-1.5'
+            STASH                               m01s00i004
+            source                              'Data from Met Office Unified Model 7.04'
+  ```
+  
+  ```
+      surface_altitude / (m)              (grid_longitude: 83; grid_latitude: 83)
+        Dimension coordinates:
+            grid_longitude                             x                  -
+            grid_latitude                              -                  x
+        Attributes:
+            Conventions                 'CF-1.5'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/testing/test_monotonic_coordinate.nc](test_data/NetCDF/testing/test_monotonic_coordinate.nc)
+
+  
+  
+  ```
+      eastward_wind / (m s-1)             (-- : 3; latitude: 3; longitude: 3)
+        Dimension coordinates:
+            latitude                        -            x             -
+            longitude                       -            -             x
+        Auxiliary coordinates:
+            time                            x            -             -
+        Attributes:
+            test                        'weak-monotonic time coordinate'
+  ```
+  
+  ```
+      eastward_wind / (m s-1)             (time: 3; latitude: 3; longitude: 3)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Attributes:
+            test                        'masked monotonic time coordinate'
+  ```
+  
+  ```
+      eastward_wind / (m s-1)             (-- : 3; latitude: 3; longitude: 3)
+        Dimension coordinates:
+            latitude                        -            x             -
+            longitude                       -            -             x
+        Auxiliary coordinates:
+            time                            x            -             -
+        Attributes:
+            test                        'masked non-monotonic time coordinate'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: Failed to create 'time1' dimension coordinate: The 'time' DimCoord points array must be strictly monotonic.
+Gracefully creating 'time1' auxiliary coordinate instead.
+  
+  UserWarning: Gracefully filling 'time2' dimension coordinate masked points
+  
+  UserWarning: Gracefully filling 'time3' dimension coordinate masked points
+  
+  UserWarning: Failed to create 'time3' dimension coordinate: The 'time' DimCoord points array must be strictly monotonic.
+Gracefully creating 'time3' auxiliary coordinate instead.
+  
+  ```
+  
+  
+
+  #### [NetCDF/testing/cell_methods.nc](test_data/NetCDF/testing/cell_methods.nc)
+
+  
+  
+  ```
+      cube_axes_1 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        time, latitude, longitude
+  ```
+  
+  ```
+      cube_interval_3 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            maximum                     time (1 day)
+            minimum                     latitude (0.1 degrees), longitude (0.1 degrees)
+  ```
+  
+  ```
+      cube_mix_0 / (unknown)              (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        time (1 day, daily mean time)
+  ```
+  
+  ```
+      cube_mid_range / (unknown)          (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            mid_range                   time
+  ```
+  
+  ```
+      cube_axes_0 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude, longitude
+  ```
+  
+  ```
+      cube_sum / (unknown)                (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            sum                         time
+  ```
+  
+  ```
+      cube_interval_1 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude (0.1 degrees), longitude (0.1 degrees)
+  ```
+  
+  ```
+      cube_comment_0 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        time (this is a time comment)
+  ```
+  
+  ```
+      cube_interval_0 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        time (1 day)
+  ```
+  
+  ```
+      cube_interval_4 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            maximum                     time (1 day)
+            minimum                     latitude (0.1 degree_n)
+            mean                        longitude (0.2 degree_e)
+  ```
+  
+  ```
+      cube_median / (unknown)             (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            median                      time
+  ```
+  
+  ```
+      cube_comment_4 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            maximum                     time (this is a time comment)
+            mean                        latitude (this is a shared comment), longitude (this is a shared comment)
+  ```
+  
+  ```
+      cube_axes_4 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude, longitude
+            maximum                     time
+  ```
+  
+  ```
+      cube_mode / (unknown)               (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            mode                        time
+  ```
+  
+  ```
+      cube_comment_1 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        time (this is a time comment)
+  ```
+  
+  ```
+      cube_interval_2 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude (0.1 degree_n), longitude (0.2 degree_e)
+  ```
+  
+  ```
+      cube_standard_deviation / (unknown) (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            standard_deviation          time
+  ```
+  
+  ```
+      cube_maximum / (unknown)            (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            maximum                     time
+  ```
+  
+  ```
+      cube_mean / (unknown)               (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            mean                        time
+  ```
+  
+  ```
+      cube_axes_3 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        time
+            maximum                     latitude, longitude
+  ```
+  
+  ```
+      cube_comment_3 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude (this a lat comment), longitude (this is a lon comment)
+  ```
+  
+  ```
+      cube_mix_1 / (unknown)              (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude (0.1 degree_n, area-weighted), longitude (0.2 degree_e, area-weighted)
+  ```
+  
+  ```
+      cube_minimum / (unknown)            (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            minimum                     time
+  ```
+  
+  ```
+      cube_comment_2 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude (this is a shared comment), longitude (this is a shared comment)
+  ```
+  
+  ```
+      cube_point / (unknown)              (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            point                       time
+  ```
+  
+  ```
+      cube_variance / (unknown)           (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            variance                    time
+  ```
+  
+  ```
+      cube_axes_2 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        time
+            maximum                     latitude
+            minimum                     longitude
+  ```
+  
+  ```
+      cube_mix_2 / (unknown)              (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            mean                        latitude (0.1 degree_n, area-weighted), longitude (0.2 degree_e, area-weighted)
+            sum                         time (7 days, weekly sum)
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/mercator/toa_brightness_temperature.nc](test_data/NetCDF/mercator/toa_brightness_temperature.nc)
+
+  
+  
+  ```
+      toa_brightness_temperature / (K)    (projection_y_coordinate: 192; projection_x_coordinate: 192)
+        Dimension coordinates:
+            projection_y_coordinate                             x                             -
+            projection_x_coordinate                             -                             x
+        Auxiliary coordinates:
+            latitude                                            x                             x
+            longitude                                           x                             x
+        Scalar coordinates:
+            time                        2016-05-16 12:00:00
+        Attributes:
+            Conventions                 'CF-1.5'
+            Note                        'This dataset is for test purposes only'
+            acknowledgement             'EUMETSAT'
+            creator_email               'sat_systems@metoffice.gov.uk'
+            creator_name                'Satellite Applications, Met Office'
+            creator_type                'group'
+            geospatial_lat_max          0.0
+            geospatial_lat_min          0.0
+            geospatial_lon_max          0.0
+            geospatial_lon_min          0.0
+            history                     'Created: 2016-05-23T09:40:00Z'
+            institution                 'Met Office, UK'
+            instrument                  'SEVIRI'
+            keywords                    'Infra-red, brightness temperature, MSG, SEVIRI'
+            platform                    'MSG'
+            source                      'EUMETSAT'
+            standard_name_vocabulary    'CF Standard Name Table v27'
+            summary                     'Infra-red channel top of atmosphere brightness temperature, central wavelength...
+            title                       'TOA brightness temperature, 10.80 micron (MSG)'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/mercator/non_unit_scale_factor_merc.nc](test_data/NetCDF/mercator/non_unit_scale_factor_merc.nc)
+
+  
+  
+  ```
+      wibble / (unknown)                  (-- : 5; -- : 5)
+        Attributes:
+            Conventions                 'CF-1.7'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: Scale factors other than 1.0 not yet supported for Mercator projections
+  
+  ```
+  
+  
+
+  #### [NetCDF/mercator/false_east_north_merc.nc](test_data/NetCDF/mercator/false_east_north_merc.nc)
+
+  
+  
+  ```
+      air_pressure_at_sea_level / (Pa)    (time: 1; -- : 10; -- : 10)
+        Dimension coordinates:
+            time                             x       -        -
+        Cell methods:
+            mean                        time
+        Attributes:
+            Conventions                 'CF-1.7'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: False eastings other than 0.0 not yet supported for Mercator projections
+  
+  UserWarning: False northings other than 0.0 not yet supported for Mercator projections
+  
+  UserWarning: Standard parallels other than 0.0 not yet supported for Mercator projections
+  
+  ```
+  
+  
+
+  #### [NetCDF/label_and_climate/small_FC_167_mon_19601101.nc](test_data/NetCDF/label_and_climate/small_FC_167_mon_19601101.nc)
 
   
   
@@ -725,89 +4114,107 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
 
-  ### [NetCDF/polar/toa_brightness_temperature.nc](test_data/NetCDF/polar/toa_brightness_temperature.nc)
+  #### [NetCDF/label_and_climate/A1B-99999a-river-sep-2070-2099.nc](test_data/NetCDF/label_and_climate/A1B-99999a-river-sep-2070-2099.nc)
 
   
   
   ```
-      toa_brightness_temperature / (K)    (-- : 160; -- : 256)
-        Scalar coordinates:
-            time                        2016-05-16 12:00:00
-        Attributes:
-            Conventions                 'CF-1.7'
-            Note                        'This dataset is for test purposes only'
-            acknowledgement             'EUMETSAT'
-            creator_email               'sat_systems@metoffice.gov.uk'
-            creator_name                'Satellite Applications, Met Office'
-            creator_type                'group'
-            geospatial_lat_max          2.2e-44
-            geospatial_lat_min          0.0
-            geospatial_lon_max          0.0
-            geospatial_lon_min          0.0
-            history                     'Created: 2016-05-23T09:40:00Z'
-            institution                 'Met Office, UK'
-            instrument                  'SEVIRI'
-            keywords                    'Infra-red, brightness temperature, MSG, SEVIRI'
-            platform                    'MSG'
-            source                      'EUMETSAT'
-            standard_name_vocabulary    'CF Standard Name Table v27'
-            summary                     'Infra-red channel top of atmosphere brightness temperature, central wavelength...
-            title                       'TOA brightness temperature, 10.80 micron (MSG)'
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/ORCA2/votemper.nc](test_data/NetCDF/ORCA2/votemper.nc)
-
-  
-  
-  ```
-      sea_water_potential_temperature / (degC) (time: 1; depth: 31; -- : 148; -- : 180)
+      realization weights / (unknown)     (sample number: 10000)
         Dimension coordinates:
-            time                                  x         -        -         -
-            depth                                 -         x        -         -
-        Auxiliary coordinates:
-            latitude                              -         -        x         x
-            longitude                             -         -        x         x
-        Cell measures:
-            cell_area                             -         -        x         x
-        Cell methods:
-            mean                             time
+            sample number                             x
         Attributes:
-            Conventions                      'CF-1.1'
-            DOMAIN_DIM_N001                  'x'
-            DOMAIN_DIM_N002                  'y'
-            DOMAIN_DIM_N003                  'ncorners'
-            DOMAIN_DIM_N004                  'deptht'
-            DOMAIN_DIM_N005                  'ndepth_bounds'
-            DOMAIN_DIM_N006                  'time_counter'
-            DOMAIN_dimensions_ids            array([1, 2], dtype=int32)
-            DOMAIN_halo_size_end             array([0, 0], dtype=int32)
-            DOMAIN_halo_size_start           array([0, 0], dtype=int32)
-            DOMAIN_number                    0
-            DOMAIN_number_total              1
-            DOMAIN_position_first            array([1, 1], dtype=int32)
-            DOMAIN_position_last             array([182, 149], dtype=int32)
-            DOMAIN_size_global               array([182, 149], dtype=int32)
-            DOMAIN_size_local                array([182, 149], dtype=int32)
-            DOMAIN_type                      'box'
-            NCO                              '4.0.8'
-            TimeStamp                        '2008-SEP-09 11:18:37 GMT+0000'
-            file_name                        'ORCA2_1d_00010101_00010101_grid_T_0000.nc'
-            history                          'Mon Apr  2 10:25:46 2012: /project/ukmo/rhel6/nco/bin/ncks -v votemper,deptht_bounds,nav_lat,nav_lon,areat,latt_bounds,lont_bounds...
-            interval_operation               5760.0
-            interval_write                   86400.0
-            production                       'An IPSL model'
-            short_name                       'votemper'
+            Conventions                 'CF-1.0'
+            history                     '12/07/2007: MAA CREATE_PROBDF_FILE: Version Beta'
+            institution                 'Met Office Hadley Centre'
+            invalid_standard_name       'realization_weights'
+            meaning_period              'sep'
+            references                  'Murphy, J.M., B. B. B. Booth, M. Collins, G. R. Harris, D. M. H. Sexton...
+            scenario                    'IPCC SRES A1B'
+            source                      'Probabilistic climate prediction based on family of Met Office Hadley...
+            title                       'Change in SEP mean Max air temperature at 1.5m relative to 1961-90 for...
+  ```
+  
+  ```
+      Max air temperature at 1.5m / (K)   (time: 1; -- : 23; sample number: 10000)
+        Dimension coordinates:
+            time                             x       -                  -
+            sample number                    -       -                  x
+        Auxiliary coordinates:
+            region                           -       x                  -
+        Cell methods:
+            maximum within days         time
+            mean within years           time
+            mean over years             time
+        Attributes:
+            Conventions                 'CF-1.0'
+            base_units                  'K'
+            comment                     'Anomaly of 30-year average of monthly/seasonal/annual average of daily...
+            history                     '12/07/2007: MAA CREATE_PROBDF_FILE: Version Beta'
+            institution                 'Met Office Hadley Centre'
+            meaning_period              'sep'
+            realization_weights         'weights'
+            references                  'Murphy, J.M., B. B. B. Booth, M. Collins, G. R. Harris, D. M. H. Sexton...
+            scenario                    'IPCC SRES A1B'
+            source                      'Probabilistic climate prediction based on family of Met Office Hadley...
+            title                       'Change in SEP mean Max air temperature at 1.5m relative to 1961-90 for...
+  ```
+  
+  ```
+      Max air temperature at 1.5m / (K)        (time: 1; -- : 23; cumulative distribution function: 107)
+        Dimension coordinates:
+            time                                  x       -                                     -
+            cumulative distribution function      -       -                                     x
+        Auxiliary coordinates:
+            region                                -       x                                     -
+        Cell methods:
+            maximum within days              time
+            mean within years                time
+            mean over years                  time
+        Attributes:
+            Conventions                      'CF-1.0'
+            base_units                       'K'
+            history                          '12/07/2007: MAA CREATE_PROBDF_FILE: Version Beta'
+            institution                      'Met Office Hadley Centre'
+            meaning_period                   'sep'
+            references                       'Murphy, J.M., B. B. B. Booth, M. Collins, G. R. Harris, D. M. H. Sexton...
+            scenario                         'IPCC SRES A1B'
+            source                           'Probabilistic climate prediction based on family of Met Office Hadley...
+            title                            'Change in SEP mean Max air temperature at 1.5m relative to 1961-90 for...
   ```
   
   
   
   
 
-  ### [NetCDF/global/xyz_t/GEMS_CO2_Apr2006.nc](test_data/NetCDF/global/xyz_t/GEMS_CO2_Apr2006.nc)
+  #### [NetCDF/lambert_conformal/test_lcc.nc](test_data/NetCDF/lambert_conformal/test_lcc.nc)
+
+  
+  
+  ```
+      air_temperature / (Celsius)         (time: 12; projection_y_coordinate: 60; projection_x_coordinate: 60)
+        Dimension coordinates:
+            time                             x                            -                            -
+            projection_y_coordinate          -                            x                            -
+            projection_x_coordinate          -                            -                            x
+        Auxiliary coordinates:
+            latitude                         -                            x                            x
+            longitude                        -                            x                            x
+        Cell methods:
+            mean                        time
+        Attributes:
+            Conventions                 'CF-1.5'
+            Note                        'This dataset is for test purposes only'
+            contact                     'Armin Leuprecht <armin.leuprecht@uni-graz.at>'
+            institution                 'Wegener Center, University of Graz'
+            source                      'Spartacus'
+            title                       'Innsbruck monthly mean temperature 2010'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/global/xyz_t/GEMS_CO2_Apr2006.nc](test_data/NetCDF/global/xyz_t/GEMS_CO2_Apr2006.nc)
 
   
   
@@ -839,7 +4246,64 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
 
-  ### [NetCDF/global/xyt/SMALL_hires_wind_u_for_ipcc4.nc](test_data/NetCDF/global/xyt/SMALL_hires_wind_u_for_ipcc4.nc)
+  #### [NetCDF/global/xyt/SMALL_total_column_co2.nc.k2](test_data/NetCDF/global/xyt/SMALL_total_column_co2.nc.k2)
+
+  
+  
+  ```
+      Total column Carbon Dioxide / (kg m**-2) (time: 31; latitude: 161; longitude: 320)
+        Dimension coordinates:
+            time                                  x             -               -
+            latitude                              -             x               -
+            longitude                             -             -               x
+        Attributes:
+            Conventions                      'CF-1.0'
+            history                          'Thu Feb 11 10:56:57 2010: ncks total_column_co2.nc -o SMALL_total_column_co2.nc...
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/global/xyt/SMALL_total_column_co2.nc4.k3](test_data/NetCDF/global/xyt/SMALL_total_column_co2.nc4.k3)
+
+  
+  
+  ```
+      Total column Carbon Dioxide / (kg m**-2) (time: 31; latitude: 161; longitude: 320)
+        Dimension coordinates:
+            time                                  x             -               -
+            latitude                              -             x               -
+            longitude                             -             -               x
+        Attributes:
+            Conventions                      'CF-1.0'
+            history                          'Thu Feb 11 10:56:57 2010: ncks total_column_co2.nc -o SMALL_total_column_co2.nc...
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/global/xyt/SMALL_total_column_co2.nc4.k4](test_data/NetCDF/global/xyt/SMALL_total_column_co2.nc4.k4)
+
+  
+  
+  ```
+      Total column Carbon Dioxide / (kg m**-2) (time: 31; latitude: 161; longitude: 320)
+        Dimension coordinates:
+            time                                  x             -               -
+            latitude                              -             x               -
+            longitude                             -             -               x
+        Attributes:
+            Conventions                      'CF-1.0'
+            history                          'Thu Feb 11 10:56:57 2010: ncks total_column_co2.nc -o SMALL_total_column_co2.nc...
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/global/xyt/SMALL_hires_wind_u_for_ipcc4.nc](test_data/NetCDF/global/xyt/SMALL_hires_wind_u_for_ipcc4.nc)
 
   
   
@@ -875,7 +4339,7 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
 
-  ### [NetCDF/global/xyt/SMALL_total_column_co2.nc4.k3](test_data/NetCDF/global/xyt/SMALL_total_column_co2.nc4.k3)
+  #### [NetCDF/global/xyt/SMALL_total_column_co2.nc](test_data/NetCDF/global/xyt/SMALL_total_column_co2.nc)
 
   
   
@@ -894,1313 +4358,16 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
 
-  ### [NetCDF/global/xyt/SMALL_total_column_co2.nc.k2](test_data/NetCDF/global/xyt/SMALL_total_column_co2.nc.k2)
+  #### [NetCDF/unstructured_grid/mesh_C12.nc](test_data/NetCDF/unstructured_grid/mesh_C12.nc)
 
   
   
   ```
-      Total column Carbon Dioxide / (kg m**-2) (time: 31; latitude: 161; longitude: 320)
-        Dimension coordinates:
-            time                                  x             -               -
-            latitude                              -             x               -
-            longitude                             -             -               x
+      Maps every quadrilateral face to its four edges. / (unknown) (-- : 864; -- : 4)
         Attributes:
-            Conventions                      'CF-1.0'
-            history                          'Thu Feb 11 10:56:57 2010: ncks total_column_co2.nc -o SMALL_total_column_co2.nc...
+            cf_role                                              'face_edge_connectivity'
+            start_index                                          1
   ```
-  
-  
-  
-  
-
-  ### [NetCDF/global/xyt/SMALL_total_column_co2.nc](test_data/NetCDF/global/xyt/SMALL_total_column_co2.nc)
-
-  
-  
-  ```
-      Total column Carbon Dioxide / (kg m**-2) (time: 31; latitude: 161; longitude: 320)
-        Dimension coordinates:
-            time                                  x             -               -
-            latitude                              -             x               -
-            longitude                             -             -               x
-        Attributes:
-            Conventions                      'CF-1.0'
-            history                          'Thu Feb 11 10:56:57 2010: ncks total_column_co2.nc -o SMALL_total_column_co2.nc...
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/global/xyt/SMALL_total_column_co2.nc4.k4](test_data/NetCDF/global/xyt/SMALL_total_column_co2.nc4.k4)
-
-  
-  
-  ```
-      Total column Carbon Dioxide / (kg m**-2) (time: 31; latitude: 161; longitude: 320)
-        Dimension coordinates:
-            time                                  x             -               -
-            latitude                              -             x               -
-            longitude                             -             -               x
-        Attributes:
-            Conventions                      'CF-1.0'
-            history                          'Thu Feb 11 10:56:57 2010: ncks total_column_co2.nc -o SMALL_total_column_co2.nc...
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/unstructured_grid/lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile.nc)
-
-  
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
-            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
-            name                                      'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
-            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
-            timeStamp                                 '2020-Oct-18 21:20:17 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        2
-            uuid                                      'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
-            start_index                                             0
-            timeStamp                                               '2020-Oct-18 21:20:17 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:17 GMT'
-            title                        'Created by xios'
-            uuid                         'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
-            start_index                              0
-            timeStamp                                '2020-Oct-18 21:20:17 GMT'
-            title                                    'Created by xios'
-            uuid                                     'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
-            start_index                       0
-            timeStamp                         '2020-Oct-18 21:20:17 GMT'
-            title                             'Created by xios'
-            uuid                              'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      surface_upward_shortwave_flux_on_tiles / (W m-2) (-- : 1; -- : 11; -- : 864)
-        Auxiliary coordinates:
-            time                                         x       -        -
-            latitude                                     -       -        x
-            longitude                                    -       -        x
-        Cell methods:
-            point                                    time (300 s)
-        Attributes:
-            Conventions                              'UGRID'
-            description                              'Created by xios'
-            interval_operation                       '300 s'
-            interval_write                           '21600 s'
-            location                                 'face'
-            mesh                                     'Mesh2d_half_levels'
-            name                                     'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
-            online_operation                         'instant'
-            timeStamp                                '2020-Oct-18 21:20:17 GMT'
-            title                                    'Created by xios'
-            uuid                                     'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:20:17 GMT'
-            title                                              'Created by xios'
-            uuid                                               'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
-            timeStamp                   '2020-Oct-18 21:20:17 GMT'
-            title                       'Created by xios'
-            uuid                        'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
-            timeStamp                   '2020-Oct-18 21:20:17 GMT'
-            title                       'Created by xios'
-            uuid                        'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
-            timeStamp                   '2020-Oct-18 21:20:17 GMT'
-            title                       'Created by xios'
-            uuid                        'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
-            timeStamp                   '2020-Oct-18 21:20:17 GMT'
-            title                       'Created by xios'
-            uuid                        'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/unstructured_grid/lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3.nc)
-
-  
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
-            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
-            name                                      'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
-            timeStamp                                 '2020-Oct-18 21:20:19 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        2
-            uuid                                      '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            start_index                                             0
-            timeStamp                                               '2020-Oct-18 21:20:19 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:19 GMT'
-            title                        'Created by xios'
-            uuid                         '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            start_index                              0
-            timeStamp                                '2020-Oct-18 21:20:19 GMT'
-            title                                    'Created by xios'
-            uuid                                     '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            start_index                       0
-            timeStamp                         '2020-Oct-18 21:20:19 GMT'
-            title                             'Created by xios'
-            uuid                              '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:20:19 GMT'
-            title                                              'Created by xios'
-            uuid                                               '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      air_potential_temperature / (K)     (-- : 1; half_levels: 38; -- : 864)
-        Dimension coordinates:
-            half_levels                     -               x        -
-        Auxiliary coordinates:
-            time                            x               -        -
-            latitude                        -               -        x
-            longitude                       -               -        x
-        Cell methods:
-            point                       time (300 s)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            interval_operation          '300 s'
-            interval_write              '21600 s'
-            location                    'face'
-            mesh                        'Mesh2d_half_levels'
-            name                        'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            online_operation            'instant'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/unstructured_grid/lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_density.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_density.nc)
-
-  
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
-            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
-            name                                      'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
-            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
-            timeStamp                                 '2020-Oct-18 21:20:18 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        2
-            uuid                                      'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
-            start_index                                             0
-            timeStamp                                               '2020-Oct-18 21:20:18 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:18 GMT'
-            title                        'Created by xios'
-            uuid                         'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      snowpack_density / (kg m-3)         (-- : 1; -- : 9; -- : 864)
-        Auxiliary coordinates:
-            time                            x       -       -
-            latitude                        -       -       x
-            longitude                       -       -       x
-        Cell methods:
-            point                       time (300 s)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            interval_operation          '300 s'
-            interval_write              '21600 s'
-            location                    'face'
-            mesh                        'Mesh2d_half_levels'
-            name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
-            online_operation            'instant'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
-            start_index                              0
-            timeStamp                                '2020-Oct-18 21:20:18 GMT'
-            title                                    'Created by xios'
-            uuid                                     'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
-            start_index                       0
-            timeStamp                         '2020-Oct-18 21:20:18 GMT'
-            title                             'Created by xios'
-            uuid                              'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
-            title                                              'Created by xios'
-            uuid                                               'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/unstructured_grid/data_C4.nc](test_data/NetCDF/unstructured_grid/data_C4.nc)
-
-  
-  
-  ```
-      sample_data / (unknown)             (-- : 96)
-        Auxiliary coordinates:
-            latitude                        x
-            longitude                       x
-        Attributes:
-            Conventions                 'UGRID-1.0'
-            location                    'face'
-            mesh                        'topology'
-  ```
-  
-  ```
-      Maps every quadrilateral face to its four corner nodes. / (unknown) (-- : 96; -- : 4)
-        Attributes:
-            Conventions                                                 'UGRID-1.0'
-            cf_role                                                     'face_node_connectivity'
-            start_index                                                 1
-  ```
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID-1.0'
-            cf_role                                   'mesh_topology'
-            face_coordinates                          'latitude longitude'
-            face_dimension                            'dim0'
-            face_node_connectivity                    'face_nodes'
-            node_coordinates                          'node_lat node_lon'
-            topology_dimension                        2
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 98)
-        Attributes:
-            Conventions                 'UGRID-1.0'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 98)
-        Attributes:
-            Conventions                 'UGRID-1.0'
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/unstructured_grid/lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temperature.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temperature.nc)
-
-  
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
-            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
-            name                                      'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
-            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
-            timeStamp                                 '2020-Oct-18 21:20:18 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        2
-            uuid                                      'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
-            start_index                                             0
-            timeStamp                                               '2020-Oct-18 21:20:18 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:18 GMT'
-            title                        'Created by xios'
-            uuid                         'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      soil_temperature / (K)              (-- : 1; -- : 4; -- : 864)
-        Auxiliary coordinates:
-            time                            x       -       -
-            latitude                        -       -       x
-            longitude                       -       -       x
-        Cell methods:
-            point                       time (300 s)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            interval_operation          '300 s'
-            interval_write              '21600 s'
-            location                    'face'
-            mesh                        'Mesh2d_half_levels'
-            name                        'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
-            online_operation            'instant'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
-            start_index                              0
-            timeStamp                                '2020-Oct-18 21:20:18 GMT'
-            title                                    'Created by xios'
-            uuid                                     'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
-            start_index                       0
-            timeStamp                         '2020-Oct-18 21:20:18 GMT'
-            title                             'Created by xios'
-            uuid                              'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
-            title                                              'Created by xios'
-            uuid                                               'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/unstructured_grid/lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1.nc)
-
-  
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:19 GMT'
-            title                        'Created by xios'
-            uuid                         'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            start_index                              0
-            timeStamp                                '2020-Oct-18 21:20:19 GMT'
-            title                                    'Created by xios'
-            uuid                                     'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      area_fraction / (1)                 (-- : 1; full_levels: 39; -- : 864)
-        Dimension coordinates:
-            full_levels                     -               x        -
-        Auxiliary coordinates:
-            time                            x               -        -
-            latitude                        -               -        x
-            longitude                       -               -        x
-        Cell methods:
-            point                       time (300 s)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            interval_operation          '300 s'
-            interval_write              '21600 s'
-            location                    'face'
-            mesh                        'Mesh2d_full_levels'
-            name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            online_operation            'instant'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_full_levels_edge_x Mesh2d_full_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_full_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_full_levels_face_x Mesh2d_full_levels_face_y'
-            face_node_connectivity                    'Mesh2d_full_levels_face_nodes'
-            name                                      'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            node_coordinates                          'Mesh2d_full_levels_node_x Mesh2d_full_levels_node_y'
-            timeStamp                                 '2020-Oct-18 21:20:19 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        2
-            uuid                                      'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            start_index                       0
-            timeStamp                         '2020-Oct-18 21:20:19 GMT'
-            title                             'Created by xios'
-            uuid                              'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            start_index                                             0
-            timeStamp                                               '2020-Oct-18 21:20:19 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:20:19 GMT'
-            title                                              'Created by xios'
-            uuid                                               'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/unstructured_grid/lfric_ngvat_2D_1t_face_half_levels_main_conv_rain.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_2D_1t_face_half_levels_main_conv_rain.nc)
-
-  
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
-            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
-            name                                      'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
-            timeStamp                                 '2020-Oct-18 21:20:18 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        2
-            uuid                                      '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            start_index                                             0
-            timeStamp                                               '2020-Oct-18 21:20:18 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      surface_convective_rainfall_rate / (kg m-2 s-1) (-- : 1; -- : 864)
-        Auxiliary coordinates:
-            time                                        x       -
-            latitude                                    -       x
-            longitude                                   -       x
-        Cell methods:
-            point                                   time (300 s)
-        Attributes:
-            Conventions                             'UGRID'
-            description                             'Created by xios'
-            interval_operation                      '300 s'
-            interval_write                          '21600 s'
-            location                                'face'
-            mesh                                    'Mesh2d_half_levels'
-            name                                    'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            online_operation                        'instant'
-            timeStamp                               '2020-Oct-18 21:20:18 GMT'
-            title                                   'Created by xios'
-            uuid                                    '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:18 GMT'
-            title                        'Created by xios'
-            uuid                         '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            start_index                              0
-            timeStamp                                '2020-Oct-18 21:20:18 GMT'
-            title                                    'Created by xios'
-            uuid                                     '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            start_index                       0
-            timeStamp                         '2020-Oct-18 21:20:18 GMT'
-            title                             'Created by xios'
-            uuid                              '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
-            title                                              'Created by xios'
-            uuid                                               '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/unstructured_grid/theta_nodal_xios.nc](test_data/NetCDF/unstructured_grid/theta_nodal_xios.nc)
-
-  
-  
-  ```
-      Potential Temperature / (K)         (time: 1; levels: 6; -- : 866)
-        Dimension coordinates:
-            time                             x          -       -
-            levels                           -          x       -
-        Auxiliary coordinates:
-            time                             x          -       -
-            latitude                         -          -       x
-            longitude                        -          -       x
-        Cell methods:
-            point                       time
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
-            interval_operation          '5 s'
-            interval_write              '5 s'
-            invalid_standard_name       'Potential Temperature'
-            name                        'theta_nodal_xios'
-            online_operation            'instant'
-            production                  'An IPSL model'
-            timeStamp                   '2016-Oct-24 15:16:48 BST'
-            title                       'Created by xios'
-  ```
-  
-  ```
-      radius / (radians)                  (time: 1; levels: 6; -- : 866)
-        Dimension coordinates:
-            time                             x          -       -
-            levels                           -          x       -
-        Auxiliary coordinates:
-            time                             x          -       -
-            latitude                         -          -       x
-            longitude                        -          -       x
-        Cell methods:
-            point                       time
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
-            interval_operation          '5 s'
-            interval_write              '5 s'
-            name                        'theta_nodal_xios'
-            online_operation            'instant'
-            production                  'An IPSL model'
-            timeStamp                   '2016-Oct-24 15:16:48 BST'
-            title                       'Created by xios'
-  ```
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            history                                   'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
-            name                                      'theta_nodal_xios'
-            node_coordinates                          'Mesh0_node_x Mesh0_node_y'
-            production                                'An IPSL model'
-            timeStamp                                 '2016-Oct-24 15:16:48 BST'
-            title                                     'Created by xios'
-            topology_dimension                        2
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/unstructured_grid/lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_temp.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_temp.nc)
-
-  
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
-            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
-            name                                      'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
-            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
-            timeStamp                                 '2020-Oct-18 21:20:18 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        2
-            uuid                                      '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
-            start_index                                             0
-            timeStamp                                               '2020-Oct-18 21:20:18 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:18 GMT'
-            title                        'Created by xios'
-            uuid                         '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
-            start_index                              0
-            timeStamp                                '2020-Oct-18 21:20:18 GMT'
-            title                                    'Created by xios'
-            uuid                                     '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
-            start_index                       0
-            timeStamp                         '2020-Oct-18 21:20:18 GMT'
-            title                             'Created by xios'
-            uuid                              '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
-            title                                              'Created by xios'
-            uuid                                               '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      snow_layer_temperature / (K)        (-- : 1; -- : 27; -- : 864)
-        Auxiliary coordinates:
-            time                            x       -        -
-            latitude                        -       -        x
-            longitude                       -       -        x
-        Cell methods:
-            point                       time (300 s)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            interval_operation          '300 s'
-            interval_write              '21600 s'
-            location                    'face'
-            mesh                        'Mesh2d_half_levels'
-            name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
-            online_operation            'instant'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/unstructured_grid/mesh_C12.nc](test_data/NetCDF/unstructured_grid/mesh_C12.nc)
-
-  
   
   ```
       Topology data of 2D unstructured mesh / (unknown) (scalar cube)
@@ -2221,15 +4388,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      Indicates which other faces neighbour each face. / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            cf_role                                              'face_face_connectivity'
-            flag_meanings                                        'out_of_mesh'
-            flag_values                                          -1
-            start_index                                          1
-  ```
-  
-  ```
       Maps every edge to the two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
         Attributes:
             cf_role                                                'edge_node_connectivity'
@@ -2237,17 +4395,19 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      Maps every quadrilateral face to its four edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            cf_role                                              'face_edge_connectivity'
-            start_index                                          1
-  ```
-  
-  ```
       Maps every quadrilateral face to its four corner nodes. / (unknown) (-- : 864; -- : 4)
         Attributes:
             cf_role                                                     'face_node_connectivity'
             start_index                                                 1
+  ```
+  
+  ```
+      Indicates which other faces neighbour each face. / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            cf_role                                              'face_face_connectivity'
+            flag_meanings                                        'out_of_mesh'
+            flag_values                                          -1
+            start_index                                          1
   ```
   
   ```
@@ -2270,53 +4430,9 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
 
-  ### [NetCDF/unstructured_grid/lfric_surface_mean.nc](test_data/NetCDF/unstructured_grid/lfric_surface_mean.nc)
+  #### [NetCDF/unstructured_grid/lfric_surface_mean.nc](test_data/NetCDF/unstructured_grid/lfric_surface_mean.nc)
 
   
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
-            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
-            name                                      'lfric_surface'
-            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
-            timeStamp                                 '2020-Feb-07 16:23:14 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        2
-            uuid                                      '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
-  ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 27648; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_surface'
-            start_index                                             0
-            timeStamp                                               '2020-Feb-07 16:23:14 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 13824; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_surface'
-            start_index                              0
-            timeStamp                                '2020-Feb-07 16:23:14 GMT'
-            title                                    'Created by xios'
-            uuid                                     '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
-  ```
   
   ```
       Indicates which other faces neighbor each face / (no_unit) (-- : 13824; -- : 4)
@@ -2334,6 +4450,45 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
+      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 27648; -- : 2)
+        Attributes:
+            Conventions                                             'UGRID'
+            cf_role                                                 'edge_node_connectivity'
+            description                                             'Created by xios'
+            name                                                    'lfric_surface'
+            start_index                                             0
+            timeStamp                                               '2020-Feb-07 16:23:14 GMT'
+            title                                                   'Created by xios'
+            uuid                                                    '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
+  ```
+  
+  ```
+      Maps every face to its edges. / (unknown) (-- : 13824; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_surface'
+            start_index                       0
+            timeStamp                         '2020-Feb-07 16:23:14 GMT'
+            title                             'Created by xios'
+            uuid                              '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
+  ```
+  
+  ```
+      Maps every face to its corner nodes. / (unknown) (-- : 13824; -- : 4)
+        Attributes:
+            Conventions                              'UGRID'
+            cf_role                                  'face_node_connectivity'
+            description                              'Created by xios'
+            name                                     'lfric_surface'
+            start_index                              0
+            timeStamp                                '2020-Feb-07 16:23:14 GMT'
+            title                                    'Created by xios'
+            uuid                                     '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
+  ```
+  
+  ```
       neighbor faces for edges / (unknown) (-- : 27648; -- : 2)
         Attributes:
             Conventions                  'UGRID'
@@ -2348,16 +4503,21 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      Maps every face to its edges. / (unknown) (-- : 13824; -- : 4)
+      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
         Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_surface'
-            start_index                       0
-            timeStamp                         '2020-Feb-07 16:23:14 GMT'
-            title                             'Created by xios'
-            uuid                              '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
+            Conventions                               'UGRID'
+            cf_role                                   'mesh_topology'
+            description                               'Created by xios'
+            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
+            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
+            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
+            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
+            name                                      'lfric_surface'
+            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
+            timeStamp                                 '2020-Feb-07 16:23:14 GMT'
+            title                                     'Created by xios'
+            topology_dimension                        2
+            uuid                                      '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
   ```
   
   ```
@@ -2475,7 +4635,7 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      longitude / (degrees)               (-- : 27648)
+      longitude / (degrees)               (-- : 13826)
         Attributes:
             Conventions                 'UGRID'
             description                 'Created by xios'
@@ -2486,7 +4646,7 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      longitude / (degrees)               (-- : 13826)
+      longitude / (degrees)               (-- : 27648)
         Attributes:
             Conventions                 'UGRID'
             description                 'Created by xios'
@@ -2822,7 +4982,7 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
 
-  ### [NetCDF/unstructured_grid/lfric_ngvat_2D_72t_face_half_levels_main_conv_rain.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_2D_72t_face_half_levels_main_conv_rain.nc)
+  #### [NetCDF/unstructured_grid/theta_nodal_xios.nc](test_data/NetCDF/unstructured_grid/theta_nodal_xios.nc)
 
   
   
@@ -2832,159 +4992,14 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
             Conventions                               'UGRID'
             cf_role                                   'mesh_topology'
             description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
-            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
-            name                                      'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
-            timeStamp                                 '2020-Oct-18 21:18:35 GMT'
+            history                                   'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
+            name                                      'theta_nodal_xios'
+            node_coordinates                          'Mesh0_node_x Mesh0_node_y'
+            production                                'An IPSL model'
+            timeStamp                                 '2016-Oct-24 15:16:48 BST'
             title                                     'Created by xios'
             topology_dimension                        2
-            uuid                                      'b3dc0fb4-9828-4663-a5ac-2a5763280159'
   ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            start_index                                             0
-            timeStamp                                               '2020-Oct-18 21:18:35 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      surface_convective_rainfall_rate / (kg m-2 s-1) (-- : 72; -- : 864)
-        Auxiliary coordinates:
-            time                                        x        -
-            latitude                                    -        x
-            longitude                                   -        x
-        Cell methods:
-            point                                   time
-        Attributes:
-            Conventions                             'UGRID'
-            description                             'Created by xios'
-            interval_operation                      '300 s'
-            interval_write                          '300 s'
-            location                                'face'
-            mesh                                    'Mesh2d_half_levels'
-            name                                    'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            online_operation                        'instant'
-            timeStamp                               '2020-Oct-18 21:18:35 GMT'
-            title                                   'Created by xios'
-            uuid                                    'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:18:35 GMT'
-            title                        'Created by xios'
-            uuid                         'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            start_index                              0
-            timeStamp                                '2020-Oct-18 21:18:35 GMT'
-            title                                    'Created by xios'
-            uuid                                     'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            start_index                       0
-            timeStamp                         '2020-Oct-18 21:18:35 GMT'
-            title                             'Created by xios'
-            uuid                              'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:18:35 GMT'
-            title                                              'Created by xios'
-            uuid                                               'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            timeStamp                   '2020-Oct-18 21:18:35 GMT'
-            title                       'Created by xios'
-            uuid                        'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            timeStamp                   '2020-Oct-18 21:18:35 GMT'
-            title                       'Created by xios'
-            uuid                        'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            timeStamp                   '2020-Oct-18 21:18:35 GMT'
-            title                       'Created by xios'
-            uuid                        'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            timeStamp                   '2020-Oct-18 21:18:35 GMT'
-            title                       'Created by xios'
-            uuid                        'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/unstructured_grid/theta_nodal_not_ugrid.nc](test_data/NetCDF/unstructured_grid/theta_nodal_not_ugrid.nc)
-
-  
   
   ```
       Potential Temperature / (K)         (time: 1; levels: 6; -- : 866)
@@ -3035,6 +5050,1027 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
             title                       'Created by xios'
   ```
   
+  
+  
+  
+
+  #### [NetCDF/unstructured_grid/lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temperature.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temperature.nc)
+
+  
+  
+  ```
+      soil_temperature / (K)              (-- : 1; -- : 4; -- : 864)
+        Auxiliary coordinates:
+            time                            x       -       -
+            latitude                        -       -       x
+            longitude                       -       -       x
+        Cell methods:
+            point                       time (300 s)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            interval_operation          '300 s'
+            interval_write              '21600 s'
+            location                    'face'
+            mesh                        'Mesh2d_half_levels'
+            name                        'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
+            online_operation            'instant'
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
+  ```
+  
+  ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:20:18 GMT'
+            title                             'Created by xios'
+            uuid                              'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
+  ```
+  
+  ```
+      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                              'UGRID'
+            cf_role                                  'face_node_connectivity'
+            description                              'Created by xios'
+            name                                     'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
+            start_index                              0
+            timeStamp                                '2020-Oct-18 21:20:18 GMT'
+            title                                    'Created by xios'
+            uuid                                     'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
+  ```
+  
+  ```
+      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
+        Attributes:
+            Conventions                               'UGRID'
+            cf_role                                   'mesh_topology'
+            description                               'Created by xios'
+            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
+            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
+            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
+            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
+            name                                      'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
+            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
+            timeStamp                                 '2020-Oct-18 21:20:18 GMT'
+            title                                     'Created by xios'
+            topology_dimension                        2
+            uuid                                      'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:20:18 GMT'
+            title                        'Created by xios'
+            uuid                         'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
+  ```
+  
+  ```
+      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                                             'UGRID'
+            cf_role                                                 'edge_node_connectivity'
+            description                                             'Created by xios'
+            name                                                    'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
+            start_index                                             0
+            timeStamp                                               '2020-Oct-18 21:20:18 GMT'
+            title                                                   'Created by xios'
+            uuid                                                    'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
+  ```
+  
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        -1
+            name                                               'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
+            start_index                                        0
+            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
+            title                                              'Created by xios'
+            uuid                                               'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 1728)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 866)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 866)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 1728)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_tempe...
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/unstructured_grid/lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1.nc)
+
+  
+  
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        -1
+            name                                               'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            start_index                                        0
+            timeStamp                                          '2020-Oct-18 21:20:19 GMT'
+            title                                              'Created by xios'
+            uuid                                               'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+  ```
+  
+  ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:20:19 GMT'
+            title                             'Created by xios'
+            uuid                              'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+  ```
+  
+  ```
+      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                                             'UGRID'
+            cf_role                                                 'edge_node_connectivity'
+            description                                             'Created by xios'
+            name                                                    'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            start_index                                             0
+            timeStamp                                               '2020-Oct-18 21:20:19 GMT'
+            title                                                   'Created by xios'
+            uuid                                                    'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+  ```
+  
+  ```
+      area_fraction / (1)                 (-- : 1; full_levels: 39; -- : 864)
+        Dimension coordinates:
+            full_levels                     -               x        -
+        Auxiliary coordinates:
+            time                            x               -        -
+            latitude                        -               -        x
+            longitude                       -               -        x
+        Cell methods:
+            point                       time (300 s)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            interval_operation          '300 s'
+            interval_write              '21600 s'
+            location                    'face'
+            mesh                        'Mesh2d_full_levels'
+            name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            online_operation            'instant'
+            timeStamp                   '2020-Oct-18 21:20:19 GMT'
+            title                       'Created by xios'
+            uuid                        'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+  ```
+  
+  ```
+      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                              'UGRID'
+            cf_role                                  'face_node_connectivity'
+            description                              'Created by xios'
+            name                                     'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            start_index                              0
+            timeStamp                                '2020-Oct-18 21:20:19 GMT'
+            title                                    'Created by xios'
+            uuid                                     'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+  ```
+  
+  ```
+      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
+        Attributes:
+            Conventions                               'UGRID'
+            cf_role                                   'mesh_topology'
+            description                               'Created by xios'
+            edge_coordinates                          'Mesh2d_full_levels_edge_x Mesh2d_full_levels_edge_y'
+            edge_node_connectivity                    'Mesh2d_full_levels_edge_nodes'
+            face_coordinates                          'Mesh2d_full_levels_face_x Mesh2d_full_levels_face_y'
+            face_node_connectivity                    'Mesh2d_full_levels_face_nodes'
+            name                                      'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            node_coordinates                          'Mesh2d_full_levels_node_x Mesh2d_full_levels_node_y'
+            timeStamp                                 '2020-Oct-18 21:20:19 GMT'
+            title                                     'Created by xios'
+            topology_dimension                        2
+            uuid                                      'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:20:19 GMT'
+            title                        'Created by xios'
+            uuid                         'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 866)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            timeStamp                   '2020-Oct-18 21:20:19 GMT'
+            title                       'Created by xios'
+            uuid                        'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 1728)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            timeStamp                   '2020-Oct-18 21:20:19 GMT'
+            title                       'Created by xios'
+            uuid                        'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 1728)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            timeStamp                   '2020-Oct-18 21:20:19 GMT'
+            title                       'Created by xios'
+            uuid                        'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 866)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            timeStamp                   '2020-Oct-18 21:20:19 GMT'
+            title                       'Created by xios'
+            uuid                        'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/unstructured_grid/lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile.nc)
+
+  
+  
+  ```
+      surface_upward_shortwave_flux_on_tiles / (W m-2) (-- : 1; -- : 11; -- : 864)
+        Auxiliary coordinates:
+            time                                         x       -        -
+            latitude                                     -       -        x
+            longitude                                    -       -        x
+        Cell methods:
+            point                                    time (300 s)
+        Attributes:
+            Conventions                              'UGRID'
+            description                              'Created by xios'
+            interval_operation                       '300 s'
+            interval_write                           '21600 s'
+            location                                 'face'
+            mesh                                     'Mesh2d_half_levels'
+            name                                     'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
+            online_operation                         'instant'
+            timeStamp                                '2020-Oct-18 21:20:17 GMT'
+            title                                    'Created by xios'
+            uuid                                     'f42f46fc-d879-479b-ab60-73b76b8b5816'
+  ```
+  
+  ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:20:17 GMT'
+            title                             'Created by xios'
+            uuid                              'f42f46fc-d879-479b-ab60-73b76b8b5816'
+  ```
+  
+  ```
+      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                              'UGRID'
+            cf_role                                  'face_node_connectivity'
+            description                              'Created by xios'
+            name                                     'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
+            start_index                              0
+            timeStamp                                '2020-Oct-18 21:20:17 GMT'
+            title                                    'Created by xios'
+            uuid                                     'f42f46fc-d879-479b-ab60-73b76b8b5816'
+  ```
+  
+  ```
+      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
+        Attributes:
+            Conventions                               'UGRID'
+            cf_role                                   'mesh_topology'
+            description                               'Created by xios'
+            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
+            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
+            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
+            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
+            name                                      'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
+            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
+            timeStamp                                 '2020-Oct-18 21:20:17 GMT'
+            title                                     'Created by xios'
+            topology_dimension                        2
+            uuid                                      'f42f46fc-d879-479b-ab60-73b76b8b5816'
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:20:17 GMT'
+            title                        'Created by xios'
+            uuid                         'f42f46fc-d879-479b-ab60-73b76b8b5816'
+  ```
+  
+  ```
+      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                                             'UGRID'
+            cf_role                                                 'edge_node_connectivity'
+            description                                             'Created by xios'
+            name                                                    'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
+            start_index                                             0
+            timeStamp                                               '2020-Oct-18 21:20:17 GMT'
+            title                                                   'Created by xios'
+            uuid                                                    'f42f46fc-d879-479b-ab60-73b76b8b5816'
+  ```
+  
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        -1
+            name                                               'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
+            start_index                                        0
+            timeStamp                                          '2020-Oct-18 21:20:17 GMT'
+            title                                              'Created by xios'
+            uuid                                               'f42f46fc-d879-479b-ab60-73b76b8b5816'
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 1728)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
+            timeStamp                   '2020-Oct-18 21:20:17 GMT'
+            title                       'Created by xios'
+            uuid                        'f42f46fc-d879-479b-ab60-73b76b8b5816'
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 866)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
+            timeStamp                   '2020-Oct-18 21:20:17 GMT'
+            title                       'Created by xios'
+            uuid                        'f42f46fc-d879-479b-ab60-73b76b8b5816'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 866)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
+            timeStamp                   '2020-Oct-18 21:20:17 GMT'
+            title                       'Created by xios'
+            uuid                        'f42f46fc-d879-479b-ab60-73b76b8b5816'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 1728)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile...
+            timeStamp                   '2020-Oct-18 21:20:17 GMT'
+            title                       'Created by xios'
+            uuid                        'f42f46fc-d879-479b-ab60-73b76b8b5816'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/unstructured_grid/lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_density.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_density.nc)
+
+  
+  
+  ```
+      snowpack_density / (kg m-3)         (-- : 1; -- : 9; -- : 864)
+        Auxiliary coordinates:
+            time                            x       -       -
+            latitude                        -       -       x
+            longitude                       -       -       x
+        Cell methods:
+            point                       time (300 s)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            interval_operation          '300 s'
+            interval_write              '21600 s'
+            location                    'face'
+            mesh                        'Mesh2d_half_levels'
+            name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
+            online_operation            'instant'
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
+  ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:20:18 GMT'
+            title                             'Created by xios'
+            uuid                              'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
+  ```
+      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                              'UGRID'
+            cf_role                                  'face_node_connectivity'
+            description                              'Created by xios'
+            name                                     'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
+            start_index                              0
+            timeStamp                                '2020-Oct-18 21:20:18 GMT'
+            title                                    'Created by xios'
+            uuid                                     'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
+  ```
+      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
+        Attributes:
+            Conventions                               'UGRID'
+            cf_role                                   'mesh_topology'
+            description                               'Created by xios'
+            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
+            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
+            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
+            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
+            name                                      'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
+            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
+            timeStamp                                 '2020-Oct-18 21:20:18 GMT'
+            title                                     'Created by xios'
+            topology_dimension                        2
+            uuid                                      'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:20:18 GMT'
+            title                        'Created by xios'
+            uuid                         'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
+  ```
+      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                                             'UGRID'
+            cf_role                                                 'edge_node_connectivity'
+            description                                             'Created by xios'
+            name                                                    'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
+            start_index                                             0
+            timeStamp                                               '2020-Oct-18 21:20:18 GMT'
+            title                                                   'Created by xios'
+            uuid                                                    'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        -1
+            name                                               'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
+            start_index                                        0
+            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
+            title                                              'Created by xios'
+            uuid                                               'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 1728)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 866)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 866)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 1728)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_de...
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/unstructured_grid/lfric_ngvat_2D_72t_face_half_levels_main_conv_rain.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_2D_72t_face_half_levels_main_conv_rain.nc)
+
+  
+  
+  ```
+      surface_convective_rainfall_rate / (kg m-2 s-1) (-- : 72; -- : 864)
+        Auxiliary coordinates:
+            time                                        x        -
+            latitude                                    -        x
+            longitude                                   -        x
+        Cell methods:
+            point                                   time
+        Attributes:
+            Conventions                             'UGRID'
+            description                             'Created by xios'
+            interval_operation                      '300 s'
+            interval_write                          '300 s'
+            location                                'face'
+            mesh                                    'Mesh2d_half_levels'
+            name                                    'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            online_operation                        'instant'
+            timeStamp                               '2020-Oct-18 21:18:35 GMT'
+            title                                   'Created by xios'
+            uuid                                    'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
+  ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:18:35 GMT'
+            title                             'Created by xios'
+            uuid                              'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
+  ```
+      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                              'UGRID'
+            cf_role                                  'face_node_connectivity'
+            description                              'Created by xios'
+            name                                     'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            start_index                              0
+            timeStamp                                '2020-Oct-18 21:18:35 GMT'
+            title                                    'Created by xios'
+            uuid                                     'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
+  ```
+      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
+        Attributes:
+            Conventions                               'UGRID'
+            cf_role                                   'mesh_topology'
+            description                               'Created by xios'
+            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
+            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
+            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
+            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
+            name                                      'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
+            timeStamp                                 '2020-Oct-18 21:18:35 GMT'
+            title                                     'Created by xios'
+            topology_dimension                        2
+            uuid                                      'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:18:35 GMT'
+            title                        'Created by xios'
+            uuid                         'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
+  ```
+      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                                             'UGRID'
+            cf_role                                                 'edge_node_connectivity'
+            description                                             'Created by xios'
+            name                                                    'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            start_index                                             0
+            timeStamp                                               '2020-Oct-18 21:18:35 GMT'
+            title                                                   'Created by xios'
+            uuid                                                    'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        -1
+            name                                               'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            start_index                                        0
+            timeStamp                                          '2020-Oct-18 21:18:35 GMT'
+            title                                              'Created by xios'
+            uuid                                               'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 1728)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            timeStamp                   '2020-Oct-18 21:18:35 GMT'
+            title                       'Created by xios'
+            uuid                        'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 866)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            timeStamp                   '2020-Oct-18 21:18:35 GMT'
+            title                       'Created by xios'
+            uuid                        'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 866)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            timeStamp                   '2020-Oct-18 21:18:35 GMT'
+            title                       'Created by xios'
+            uuid                        'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 1728)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            timeStamp                   '2020-Oct-18 21:18:35 GMT'
+            title                       'Created by xios'
+            uuid                        'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/unstructured_grid/lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_temp.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_temp.nc)
+
+  
+  
+  ```
+      snow_layer_temperature / (K)        (-- : 1; -- : 27; -- : 864)
+        Auxiliary coordinates:
+            time                            x       -        -
+            latitude                        -       -        x
+            longitude                       -       -        x
+        Cell methods:
+            point                       time (300 s)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            interval_operation          '300 s'
+            interval_write              '21600 s'
+            location                    'face'
+            mesh                        'Mesh2d_half_levels'
+            name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
+            online_operation            'instant'
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+  ```
+  
+  ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:20:18 GMT'
+            title                             'Created by xios'
+            uuid                              '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+  ```
+  
+  ```
+      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                              'UGRID'
+            cf_role                                  'face_node_connectivity'
+            description                              'Created by xios'
+            name                                     'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
+            start_index                              0
+            timeStamp                                '2020-Oct-18 21:20:18 GMT'
+            title                                    'Created by xios'
+            uuid                                     '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+  ```
+  
+  ```
+      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
+        Attributes:
+            Conventions                               'UGRID'
+            cf_role                                   'mesh_topology'
+            description                               'Created by xios'
+            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
+            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
+            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
+            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
+            name                                      'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
+            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
+            timeStamp                                 '2020-Oct-18 21:20:18 GMT'
+            title                                     'Created by xios'
+            topology_dimension                        2
+            uuid                                      '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:20:18 GMT'
+            title                        'Created by xios'
+            uuid                         '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+  ```
+  
+  ```
+      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                                             'UGRID'
+            cf_role                                                 'edge_node_connectivity'
+            description                                             'Created by xios'
+            name                                                    'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
+            start_index                                             0
+            timeStamp                                               '2020-Oct-18 21:20:18 GMT'
+            title                                                   'Created by xios'
+            uuid                                                    '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+  ```
+  
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        -1
+            name                                               'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
+            start_index                                        0
+            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
+            title                                              'Created by xios'
+            uuid                                               '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 1728)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 866)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 866)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 1728)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer...
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/unstructured_grid/data_C4.nc](test_data/NetCDF/unstructured_grid/data_C4.nc)
+
+  
+  
+  ```
+      sample_data / (unknown)             (-- : 96)
+        Auxiliary coordinates:
+            latitude                        x
+            longitude                       x
+        Attributes:
+            Conventions                 'UGRID-1.0'
+            location                    'face'
+            mesh                        'topology'
+  ```
+  
+  ```
+      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
+        Attributes:
+            Conventions                               'UGRID-1.0'
+            cf_role                                   'mesh_topology'
+            face_coordinates                          'latitude longitude'
+            face_dimension                            'dim0'
+            face_node_connectivity                    'face_nodes'
+            node_coordinates                          'node_lat node_lon'
+            topology_dimension                        2
+  ```
+  
+  ```
+      Maps every quadrilateral face to its four corner nodes. / (unknown) (-- : 96; -- : 4)
+        Attributes:
+            Conventions                                                 'UGRID-1.0'
+            cf_role                                                     'face_node_connectivity'
+            start_index                                                 1
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 98)
+        Attributes:
+            Conventions                 'UGRID-1.0'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 98)
+        Attributes:
+            Conventions                 'UGRID-1.0'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/unstructured_grid/theta_nodal_not_ugrid.nc](test_data/NetCDF/unstructured_grid/theta_nodal_not_ugrid.nc)
+
+  
+  
   ```
       Topology data of 2D unstructured mesh / (unknown) (scalar cube)
         Attributes:
@@ -3050,11 +6086,440 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
             topology_dimension                        2
   ```
   
+  ```
+      Potential Temperature / (K)         (time: 1; levels: 6; -- : 866)
+        Dimension coordinates:
+            time                             x          -       -
+            levels                           -          x       -
+        Auxiliary coordinates:
+            time                             x          -       -
+            latitude                         -          -       x
+            longitude                        -          -       x
+        Cell methods:
+            point                       time
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
+            interval_operation          '5 s'
+            interval_write              '5 s'
+            invalid_standard_name       'Potential Temperature'
+            name                        'theta_nodal_xios'
+            online_operation            'instant'
+            production                  'An IPSL model'
+            timeStamp                   '2016-Oct-24 15:16:48 BST'
+            title                       'Created by xios'
+  ```
+  
+  ```
+      radius / (radians)                  (time: 1; levels: 6; -- : 866)
+        Dimension coordinates:
+            time                             x          -       -
+            levels                           -          x       -
+        Auxiliary coordinates:
+            time                             x          -       -
+            latitude                         -          -       x
+            longitude                        -          -       x
+        Cell methods:
+            point                       time
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01...
+            interval_operation          '5 s'
+            interval_write              '5 s'
+            name                        'theta_nodal_xios'
+            online_operation            'instant'
+            production                  'An IPSL model'
+            timeStamp                   '2016-Oct-24 15:16:48 BST'
+            title                       'Created by xios'
+  ```
+  
   
   
   
 
-  ### [NetCDF/regrid/regrid_xyt.nc](test_data/NetCDF/regrid/regrid_xyt.nc)
+  #### [NetCDF/unstructured_grid/lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3.nc)
+
+  
+  
+  ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:20:19 GMT'
+            title                             'Created by xios'
+            uuid                              '412ffe9b-6a55-420e-940b-051e7d9f24bb'
+  ```
+  
+  ```
+      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                              'UGRID'
+            cf_role                                  'face_node_connectivity'
+            description                              'Created by xios'
+            name                                     'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
+            start_index                              0
+            timeStamp                                '2020-Oct-18 21:20:19 GMT'
+            title                                    'Created by xios'
+            uuid                                     '412ffe9b-6a55-420e-940b-051e7d9f24bb'
+  ```
+  
+  ```
+      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
+        Attributes:
+            Conventions                               'UGRID'
+            cf_role                                   'mesh_topology'
+            description                               'Created by xios'
+            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
+            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
+            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
+            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
+            name                                      'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
+            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
+            timeStamp                                 '2020-Oct-18 21:20:19 GMT'
+            title                                     'Created by xios'
+            topology_dimension                        2
+            uuid                                      '412ffe9b-6a55-420e-940b-051e7d9f24bb'
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:20:19 GMT'
+            title                        'Created by xios'
+            uuid                         '412ffe9b-6a55-420e-940b-051e7d9f24bb'
+  ```
+  
+  ```
+      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                                             'UGRID'
+            cf_role                                                 'edge_node_connectivity'
+            description                                             'Created by xios'
+            name                                                    'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
+            start_index                                             0
+            timeStamp                                               '2020-Oct-18 21:20:19 GMT'
+            title                                                   'Created by xios'
+            uuid                                                    '412ffe9b-6a55-420e-940b-051e7d9f24bb'
+  ```
+  
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        -1
+            name                                               'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
+            start_index                                        0
+            timeStamp                                          '2020-Oct-18 21:20:19 GMT'
+            title                                              'Created by xios'
+            uuid                                               '412ffe9b-6a55-420e-940b-051e7d9f24bb'
+  ```
+  
+  ```
+      air_potential_temperature / (K)     (-- : 1; half_levels: 38; -- : 864)
+        Dimension coordinates:
+            half_levels                     -               x        -
+        Auxiliary coordinates:
+            time                            x               -        -
+            latitude                        -               -        x
+            longitude                       -               -        x
+        Cell methods:
+            point                       time (300 s)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            interval_operation          '300 s'
+            interval_write              '21600 s'
+            location                    'face'
+            mesh                        'Mesh2d_half_levels'
+            name                        'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
+            online_operation            'instant'
+            timeStamp                   '2020-Oct-18 21:20:19 GMT'
+            title                       'Created by xios'
+            uuid                        '412ffe9b-6a55-420e-940b-051e7d9f24bb'
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 1728)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
+            timeStamp                   '2020-Oct-18 21:20:19 GMT'
+            title                       'Created by xios'
+            uuid                        '412ffe9b-6a55-420e-940b-051e7d9f24bb'
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 866)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
+            timeStamp                   '2020-Oct-18 21:20:19 GMT'
+            title                       'Created by xios'
+            uuid                        '412ffe9b-6a55-420e-940b-051e7d9f24bb'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 866)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
+            timeStamp                   '2020-Oct-18 21:20:19 GMT'
+            title                       'Created by xios'
+            uuid                        '412ffe9b-6a55-420e-940b-051e7d9f24bb'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 1728)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
+            timeStamp                   '2020-Oct-18 21:20:19 GMT'
+            title                       'Created by xios'
+            uuid                        '412ffe9b-6a55-420e-940b-051e7d9f24bb'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/unstructured_grid/lfric_ngvat_2D_1t_face_half_levels_main_conv_rain.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_2D_1t_face_half_levels_main_conv_rain.nc)
+
+  
+  
+  ```
+      surface_convective_rainfall_rate / (kg m-2 s-1) (-- : 1; -- : 864)
+        Auxiliary coordinates:
+            time                                        x       -
+            latitude                                    -       x
+            longitude                                   -       x
+        Cell methods:
+            point                                   time (300 s)
+        Attributes:
+            Conventions                             'UGRID'
+            description                             'Created by xios'
+            interval_operation                      '300 s'
+            interval_write                          '21600 s'
+            location                                'face'
+            mesh                                    'Mesh2d_half_levels'
+            name                                    'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
+            online_operation                        'instant'
+            timeStamp                               '2020-Oct-18 21:20:18 GMT'
+            title                                   'Created by xios'
+            uuid                                    '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
+  ```
+  
+  ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:20:18 GMT'
+            title                             'Created by xios'
+            uuid                              '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
+  ```
+  
+  ```
+      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                              'UGRID'
+            cf_role                                  'face_node_connectivity'
+            description                              'Created by xios'
+            name                                     'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
+            start_index                              0
+            timeStamp                                '2020-Oct-18 21:20:18 GMT'
+            title                                    'Created by xios'
+            uuid                                     '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
+  ```
+  
+  ```
+      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
+        Attributes:
+            Conventions                               'UGRID'
+            cf_role                                   'mesh_topology'
+            description                               'Created by xios'
+            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
+            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
+            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
+            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
+            name                                      'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
+            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
+            timeStamp                                 '2020-Oct-18 21:20:18 GMT'
+            title                                     'Created by xios'
+            topology_dimension                        2
+            uuid                                      '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:20:18 GMT'
+            title                        'Created by xios'
+            uuid                         '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
+  ```
+  
+  ```
+      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                                             'UGRID'
+            cf_role                                                 'edge_node_connectivity'
+            description                                             'Created by xios'
+            name                                                    'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
+            start_index                                             0
+            timeStamp                                               '2020-Oct-18 21:20:18 GMT'
+            title                                                   'Created by xios'
+            uuid                                                    '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
+  ```
+  
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        -1
+            name                                               'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
+            start_index                                        0
+            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
+            title                                              'Created by xios'
+            uuid                                               '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 1728)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
+  ```
+  
+  ```
+      latitude / (degrees)                (-- : 866)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 866)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
+  ```
+  
+  ```
+      longitude / (degrees)               (-- : 1728)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            name                        'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/transverse_mercator/projection_origin_attributes.nc](test_data/NetCDF/transverse_mercator/projection_origin_attributes.nc)
+
+  
+  
+  ```
+      Mean temperature / (degrees_celsius) (time: 1; projection_y_coordinate: 3; projection_x_coordinate: 2)
+        Dimension coordinates:
+            time                              x                           -                           -
+            projection_y_coordinate           -                           x                           -
+            projection_x_coordinate           -                           -                           x
+        Auxiliary coordinates:
+            latitude                          -                           x                           x
+            longitude                         -                           x                           x
+        Cell methods:
+            mean within years            time
+            mean over years              time
+        Attributes:
+            Conventions                  'CF-1.6'
+            Note                         'This dataset is for test purposes only'
+            history                      'Conversion from ESRI grid'
+            institution                  'Met Office'
+            source                       'EWB2'
+            title                        'UK annual mean tmean'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/transverse_mercator/tmean_1910_1910.nc](test_data/NetCDF/transverse_mercator/tmean_1910_1910.nc)
+
+  
+  
+  ```
+      Mean temperature / (degrees_celsius) (time: 1; projection_y_coordinate: 290; projection_x_coordinate: 180)
+        Dimension coordinates:
+            time                              x                           -                             -
+            projection_y_coordinate           -                           x                             -
+            projection_x_coordinate           -                           -                             x
+        Auxiliary coordinates:
+            latitude                          -                           x                             x
+            longitude                         -                           x                             x
+        Cell methods:
+            mean within years            time
+            mean over years              time
+        Attributes:
+            Conventions                  'CF-1.6'
+            Note                         'This dataset is for test purposes only'
+            history                      'Conversion from ESRI grid'
+            institution                  'Met Office'
+            source                       'EWB2'
+            title                        'UK annual mean tmean'
+  ```
+  
+  
+  
+  
+
+  #### [NetCDF/regrid/regrid_xyt.nc](test_data/NetCDF/regrid/regrid_xyt.nc)
 
   
   
@@ -3081,7 +6546,7 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
 
-  ### [NetCDF/regrid/regrid_template_global_latlon.nc](test_data/NetCDF/regrid/regrid_template_global_latlon.nc)
+  #### [NetCDF/regrid/regrid_template_global_latlon.nc](test_data/NetCDF/regrid/regrid_template_global_latlon.nc)
 
   
   
@@ -3098,122 +6563,9 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
 
-  ### [NetCDF/stereographic/toa_brightness_temperature.nc](test_data/NetCDF/stereographic/toa_brightness_temperature.nc)
+  #### [NetCDF/ugrid/21_triangle_example.nc](test_data/NetCDF/ugrid/21_triangle_example.nc)
 
   
-  
-  ```
-      toa_brightness_temperature / (K)    (projection_y_coordinate: 160; projection_x_coordinate: 256)
-        Dimension coordinates:
-            projection_y_coordinate                             x                             -
-            projection_x_coordinate                             -                             x
-        Auxiliary coordinates:
-            latitude                                            x                             x
-            longitude                                           x                             x
-        Scalar coordinates:
-            time                        2016-05-16 12:00:00
-        Attributes:
-            Conventions                 'CF-1.5'
-            Note                        'This dataset is for test purposes only'
-            acknowledgement             'EUMETSAT'
-            creator_email               'sat_systems@metoffice.gov.uk'
-            creator_name                'Satellite Applications, Met Office'
-            creator_type                'group'
-            geospatial_lat_max          2.2e-44
-            geospatial_lat_min          0.0
-            geospatial_lon_max          0.0
-            geospatial_lon_min          0.0
-            history                     'Created: 2016-05-23T09:40:00Z'
-            institution                 'Met Office, UK'
-            instrument                  'SEVIRI'
-            keywords                    'Infra-red, brightness temperature, MSG, SEVIRI'
-            platform                    'MSG'
-            source                      'EUMETSAT'
-            standard_name_vocabulary    'CF Standard Name Table v27'
-            summary                     'Infra-red channel top of atmosphere brightness temperature, central wavelength...
-            title                       'TOA brightness temperature, 10.80 micron (MSG)'
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/lambert_azimuthal_equal_area/euro_air_temp.nc](test_data/NetCDF/lambert_azimuthal_equal_area/euro_air_temp.nc)
-
-  
-  
-  ```
-      air_temperature / (K)               (projection_y_coordinate: 15; projection_x_coordinate: 15)
-        Dimension coordinates:
-            projection_y_coordinate                             x                            -
-            projection_x_coordinate                             -                            x
-        Scalar coordinates:
-            forecast_period             6477.0 hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    1000.0 hPa
-            time                        1998-12-01 00:00:00
-        Attributes:
-            Conventions                 'CF-1.5'
-            STASH                       m01s16i203
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/lambert_conformal/test_lcc.nc](test_data/NetCDF/lambert_conformal/test_lcc.nc)
-
-  
-  
-  ```
-      air_temperature / (Celsius)         (time: 12; projection_y_coordinate: 60; projection_x_coordinate: 60)
-        Dimension coordinates:
-            time                             x                            -                            -
-            projection_y_coordinate          -                            x                            -
-            projection_x_coordinate          -                            -                            x
-        Auxiliary coordinates:
-            latitude                         -                            x                            x
-            longitude                        -                            x                            x
-        Cell methods:
-            mean                        time
-        Attributes:
-            Conventions                 'CF-1.5'
-            Note                        'This dataset is for test purposes only'
-            contact                     'Armin Leuprecht <armin.leuprecht@uni-graz.at>'
-            institution                 'Wegener Center, University of Graz'
-            source                      'Spartacus'
-            title                       'Innsbruck monthly mean temperature 2010'
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/ugrid/21_triangle_example.nc](test_data/NetCDF/ugrid/21_triangle_example.nc)
-
-  
-  
-  ```
-      model boundary conditions / (no_unit) (-- : 19)
-        Auxiliary coordinates:
-            latitude                          x
-            longitude                         x
-        Attributes:
-            Conventions                   'UGRID-0.9'
-            flag_meanings                 'no_flow_boundary  open_boundary'
-            flag_values                   '0 1'
-            location                      'boundary'
-            mesh                          'mesh'
-  ```
-  
-  ```
-      Maps every edge to the two nodes that it connects. / (unknown) (-- : 41; -- : 2)
-        Attributes:
-            Conventions                                            'UGRID-0.9'
-            cf_role                                                'edge_node_connectivity'
-            start_index                                            0
-  ```
   
   ```
       volume flux between cells / (m^3/s) (-- : 41)
@@ -3259,6 +6611,27 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
+      Maps every edge to the two nodes that it connects. / (unknown) (-- : 41; -- : 2)
+        Attributes:
+            Conventions                                            'UGRID-0.9'
+            cf_role                                                'edge_node_connectivity'
+            start_index                                            0
+  ```
+  
+  ```
+      model boundary conditions / (no_unit) (-- : 19)
+        Auxiliary coordinates:
+            latitude                          x
+            longitude                         x
+        Attributes:
+            Conventions                   'UGRID-0.9'
+            flag_meanings                 'no_flow_boundary  open_boundary'
+            flag_values                   '0 1'
+            location                      'boundary'
+            mesh                          'mesh'
+  ```
+  
+  ```
       eastward_sea_water_velocity / (m/s) (-- : 21)
         Auxiliary coordinates:
             latitude                        x
@@ -3296,95 +6669,7 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
 
-  ### [NetCDF/mercator/false_east_north_merc.nc](test_data/NetCDF/mercator/false_east_north_merc.nc)
-
-  
-  
-  ```
-      air_pressure_at_sea_level / (Pa)    (time: 1; -- : 10; -- : 10)
-        Dimension coordinates:
-            time                             x       -        -
-        Cell methods:
-            mean                        time
-        Attributes:
-            Conventions                 'CF-1.7'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: False eastings other than 0.0 not yet supported for Mercator projections
-  
-  UserWarning: False northings other than 0.0 not yet supported for Mercator projections
-  
-  UserWarning: Standard parallels other than 0.0 not yet supported for Mercator projections
-  
-  ```
-  
-  
-
-  ### [NetCDF/mercator/non_unit_scale_factor_merc.nc](test_data/NetCDF/mercator/non_unit_scale_factor_merc.nc)
-
-  
-  
-  ```
-      wibble / (unknown)                  (-- : 5; -- : 5)
-        Attributes:
-            Conventions                 'CF-1.7'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: Scale factors other than 1.0 not yet supported for Mercator projections
-  
-  ```
-  
-  
-
-  ### [NetCDF/mercator/toa_brightness_temperature.nc](test_data/NetCDF/mercator/toa_brightness_temperature.nc)
-
-  
-  
-  ```
-      toa_brightness_temperature / (K)    (projection_y_coordinate: 192; projection_x_coordinate: 192)
-        Dimension coordinates:
-            projection_y_coordinate                             x                             -
-            projection_x_coordinate                             -                             x
-        Auxiliary coordinates:
-            latitude                                            x                             x
-            longitude                                           x                             x
-        Scalar coordinates:
-            time                        2016-05-16 12:00:00
-        Attributes:
-            Conventions                 'CF-1.5'
-            Note                        'This dataset is for test purposes only'
-            acknowledgement             'EUMETSAT'
-            creator_email               'sat_systems@metoffice.gov.uk'
-            creator_name                'Satellite Applications, Met Office'
-            creator_type                'group'
-            geospatial_lat_max          0.0
-            geospatial_lat_min          0.0
-            geospatial_lon_max          0.0
-            geospatial_lon_min          0.0
-            history                     'Created: 2016-05-23T09:40:00Z'
-            institution                 'Met Office, UK'
-            instrument                  'SEVIRI'
-            keywords                    'Infra-red, brightness temperature, MSG, SEVIRI'
-            platform                    'MSG'
-            source                      'EUMETSAT'
-            standard_name_vocabulary    'CF Standard Name Table v27'
-            summary                     'Infra-red channel top of atmosphere brightness temperature, central wavelength...
-            title                       'TOA brightness temperature, 10.80 micron (MSG)'
-  ```
-  
-  
-  
-  
-
-  ### [NetCDF/volcello/volcello_Ofx_CESM2_deforest-globe_r1i1p1f1_gn.nc](test_data/NetCDF/volcello/volcello_Ofx_CESM2_deforest-globe_r1i1p1f1_gn.nc)
+  #### [NetCDF/volcello/volcello_Ofx_CESM2_deforest-globe_r1i1p1f1_gn.nc](test_data/NetCDF/volcello/volcello_Ofx_CESM2_deforest-globe_r1i1p1f1_gn.nc)
 
   
   
@@ -3467,517 +6752,2016 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
 
-  ### [NetCDF/testing/test_monotonic_coordinate.nc](test_data/NetCDF/testing/test_monotonic_coordinate.nc)
+</details>
+
+
+
+<details>
+
+  <summary>PP</summary>
+
+  
+  #### [PP/nzgust.pp](test_data/PP/nzgust.pp)
 
   
   
   ```
-      eastward_wind / (m s-1)             (-- : 3; latitude: 3; longitude: 3)
+      wind_speed_of_gust / (m s-1)        (grid_latitude: 1350; grid_longitude: 1200)
         Dimension coordinates:
-            latitude                        -            x             -
-            longitude                       -            -             x
-        Auxiliary coordinates:
-            time                            x            -             -
-        Attributes:
-            test                        'masked non-monotonic time coordinate'
-  ```
-  
-  ```
-      eastward_wind / (m s-1)             (-- : 3; latitude: 3; longitude: 3)
-        Dimension coordinates:
-            latitude                        -            x             -
-            longitude                       -            -             x
-        Auxiliary coordinates:
-            time                            x            -             -
-        Attributes:
-            test                        'weak-monotonic time coordinate'
-  ```
-  
-  ```
-      eastward_wind / (m s-1)             (time: 3; latitude: 3; longitude: 3)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Attributes:
-            test                        'masked monotonic time coordinate'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: Gracefully filling 'time3' dimension coordinate masked points
-  
-  UserWarning: Failed to create 'time3' dimension coordinate: The 'time' DimCoord points array must be strictly monotonic.
-Gracefully creating 'time3' auxiliary coordinate instead.
-  
-  UserWarning: Failed to create 'time1' dimension coordinate: The 'time' DimCoord points array must be strictly monotonic.
-Gracefully creating 'time1' auxiliary coordinate instead.
-  
-  UserWarning: Gracefully filling 'time2' dimension coordinate masked points
-  
-  ```
-  
-  
-
-  ### [NetCDF/testing/units.nc](test_data/NetCDF/testing/units.nc)
-
-  
-  
-  ```
-      air_temperature / (unknown)         (time: 5)
-        Dimension coordinates:
-            time                             x
+            grid_latitude                             x                     -
+            grid_longitude                            -                     x
         Scalar coordinates:
-            height                      100 meters
+            forecast_period             -0.25 hours, bound=(-0.5, 0.0) hours
+            forecast_reference_time     2016-09-12 09:30:00
+            height                      10.0 m
+            time                        2016-09-12 09:15:00, bound=(2016-09-12 09:00:00, 2016-09-12 09:30:00)
+        Cell methods:
+            maximum                     time (1 hour)
         Attributes:
-            invalid_units               'kevin'
-  ```
-  
-  ```
-      air_temperature / (kelvin)          (time: 5)
-        Dimension coordinates:
-            time                             x
-        Scalar coordinates:
-            height                      100 meters
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: Ignoring netCDF variable 'cube_1' invalid units 'kevin'
-  
-  UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
-  
-  UserWarning: Ignoring netCDF variable 'time' invalid units 'wibble'
-  
-  ```
-  
-  
-
-  ### [NetCDF/testing/cell_methods.nc](test_data/NetCDF/testing/cell_methods.nc)
-
-  
-  
-  ```
-      cube_interval_0 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        time (1 day)
-  ```
-  
-  ```
-      cube_interval_2 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude (0.1 degree_n), longitude (0.2 degree_e)
-  ```
-  
-  ```
-      cube_standard_deviation / (unknown) (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            standard_deviation          time
-  ```
-  
-  ```
-      cube_interval_4 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            maximum                     time (1 day)
-            minimum                     latitude (0.1 degree_n)
-            mean                        longitude (0.2 degree_e)
-  ```
-  
-  ```
-      cube_interval_1 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude (0.1 degrees), longitude (0.1 degrees)
-  ```
-  
-  ```
-      cube_mid_range / (unknown)          (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            mid_range                   time
-  ```
-  
-  ```
-      cube_mode / (unknown)               (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            mode                        time
-  ```
-  
-  ```
-      cube_maximum / (unknown)            (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            maximum                     time
-  ```
-  
-  ```
-      cube_mix_2 / (unknown)              (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude (0.1 degree_n, area-weighted), longitude (0.2 degree_e, area-weighted)
-            sum                         time (7 days, weekly sum)
-  ```
-  
-  ```
-      cube_comment_1 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        time (this is a time comment)
-  ```
-  
-  ```
-      cube_minimum / (unknown)            (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            minimum                     time
-  ```
-  
-  ```
-      cube_median / (unknown)             (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            median                      time
-  ```
-  
-  ```
-      cube_axes_0 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude, longitude
-  ```
-  
-  ```
-      cube_axes_4 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude, longitude
-            maximum                     time
-  ```
-  
-  ```
-      cube_comment_2 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude (this is a shared comment), longitude (this is a shared comment)
-  ```
-  
-  ```
-      cube_mix_1 / (unknown)              (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude (0.1 degree_n, area-weighted), longitude (0.2 degree_e, area-weighted)
-  ```
-  
-  ```
-      cube_comment_3 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        latitude (this a lat comment), longitude (this is a lon comment)
-  ```
-  
-  ```
-      cube_variance / (unknown)           (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            variance                    time
-  ```
-  
-  ```
-      cube_point / (unknown)              (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            point                       time
-  ```
-  
-  ```
-      cube_comment_0 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        time (this is a time comment)
-  ```
-  
-  ```
-      cube_axes_3 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        time
-            maximum                     latitude, longitude
-  ```
-  
-  ```
-      cube_axes_2 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        time
-            maximum                     latitude
-            minimum                     longitude
-  ```
-  
-  ```
-      cube_comment_4 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            maximum                     time (this is a time comment)
-            mean                        latitude (this is a shared comment), longitude (this is a shared comment)
-  ```
-  
-  ```
-      cube_mean / (unknown)               (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            mean                        time
-  ```
-  
-  ```
-      cube_sum / (unknown)                (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            sum                         time
-  ```
-  
-  ```
-      cube_interval_3 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            maximum                     time (1 day)
-            minimum                     latitude (0.1 degrees), longitude (0.1 degrees)
-  ```
-  
-  ```
-      cube_mix_0 / (unknown)              (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        time (1 day, daily mean time)
-  ```
-  
-  ```
-      cube_axes_1 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            mean                        time, latitude, longitude
+            STASH                       m01s03i463
+            source                      'Data from Met Office Unified Model'
+            um_version                  '8.4'
   ```
   
   
   
   
 
-  ### [NetCDF/testing/small_theta_colpex.nc](test_data/NetCDF/testing/small_theta_colpex.nc)
+  #### [PP/cf_processing/st30211.b.pp](test_data/PP/cf_processing/st30211.b.pp)
 
   
   
   ```
-      air_potential_temperature / (K)             (time: 6; model_level_number: 10; grid_latitude: 83; grid_longitude: 83)
+      northward_ocean_heat_transport / (PW) (pseudo_level: 4; time: 4; latitude: 143; longitude: 1)
         Dimension coordinates:
-            time                                     x                      -                  -                   -
-            model_level_number                       -                      x                  -                   -
-            grid_latitude                            -                      -                  x                   -
-            grid_longitude                           -                      -                  -                   x
+            pseudo_level                               x        -            -               -
+            time                                       -        x            -               -
+            latitude                                   -        -            x               -
+            longitude                                  -        -            -               x
         Auxiliary coordinates:
-            forecast_period                          x                      -                  -                   -
-            atmosphere_hybrid_height_coordinate      -                      x                  -                   -
-            sigma                                    -                      x                  -                   -
-            surface_altitude                         -                      -                  x                   x
+            forecast_period                            -        x            -               -
+        Scalar coordinates:
+            forecast_reference_time       1869-12-01 00:00:00
+        Cell methods:
+            mean                          time
+        Attributes:
+            STASH                         m02s30i211
+            source                        'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/000003000000.03.236.004224.1990.12.01.00.00.b.pp](test_data/PP/cf_processing/000003000000.03.236.004224.1990.12.01.00.00.b.pp)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -1080.0 hours, bound=(-2160.0, 0.0) hours
+            forecast_reference_time     1991-03-01 00:00:00
+            height                      1.5 m
+            time                        1991-01-15 00:00:00, bound=(1990-12-01 00:00:00, 1991-03-01 00:00:00)
+        Cell methods:
+            mean                        time (6 hour)
+        Attributes:
+            STASH                       m01s03i236
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  
+
+  #### [PP/cf_processing/aaxzc_n10r13xy.b.pp](test_data/PP/cf_processing/aaxzc_n10r13xy.b.pp)
+
+  
+  
+  ```
+      air_temperature / (K)               (time: 4; latitude: 13; longitude: 10)
+        Dimension coordinates:
+            time                             x            -              -
+            latitude                         -            x              -
+            longitude                        -            -              x
+        Auxiliary coordinates:
+            forecast_period                  x            -              -
+        Scalar coordinates:
+            forecast_reference_time     1991-09-01 00:00:00
+        Cell methods:
+            mean                        time (1 hour)
+        Attributes:
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/000003000000.16.202.000128.1860.09.01.00.00.b.pp](test_data/PP/cf_processing/000003000000.16.202.000128.1860.09.01.00.00.b.pp)
+
+  
+  
+  ```
+      m??s16i202 / (unknown)              (pressure: 3; latitude: 73; longitude: 96)
+        Dimension coordinates:
+            pressure                             x            -              -
+            latitude                             -            x              -
+            longitude                            -            -              x
+        Scalar coordinates:
+            forecast_period             1076.0 hours, bound=(-4.0, 2156.0) hours
+            forecast_reference_time     1860-09-01 04:00:00
+            time                        1860-10-16 00:00:00, bound=(1860-09-01 00:00:00, 1860-12-01 00:00:00)
+        Cell methods:
+            mean                        time (4 hour)
+        Attributes:
+            STASH                       m??s16i202
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/model.b.pp](test_data/PP/cf_processing/model.b.pp)
+
+  
+  
+  ```
+      air_temperature / (K)               (time: 22; pressure: 9; latitude: 73; longitude: 96)
+        Dimension coordinates:
+            time                             x             -            -              -
+            pressure                         -             x            -              -
+            latitude                         -             -            x              -
+            longitude                        -             -            -              x
+        Auxiliary coordinates:
+            forecast_period                  x             -            -              -
+        Scalar coordinates:
+            forecast_reference_time     1974-09-01 04:00:00
+        Cell methods:
+            mean                        time (4 hour)
+        Attributes:
+            STASH                       m??s16i203
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/aaxzc_time_press.b.pp](test_data/PP/cf_processing/aaxzc_time_press.b.pp)
+
+  
+  
+  ```
+      geopotential_height / (m)           (pressure: 15; time: 4)
+        Dimension coordinates:
+            pressure                             x         -
+            time                                 -         x
+        Cell methods:
+            mean                        time
+        Attributes:
+            STASH                       m01s16i202
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/008000000000.44.101.000128.1890.09.01.00.00.b.pp](test_data/PP/cf_processing/008000000000.44.101.000128.1890.09.01.00.00.b.pp)
+
+  
+  
+  ```
+      m??s44i101 / (unknown)              (depth: 20; time: 16)
+        Dimension coordinates:
+            depth                             x         -
+            time                              -         x
+        Cell methods:
+            mean                        time (24 hour)
+        Attributes:
+            STASH                       m??s44i101
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/12187.b.pp](test_data/PP/cf_processing/12187.b.pp)
+
+  
+  
+  ```
+      change_over_time_in_upward_air_velocity_due_to_advection / (m s-1) (model_level_number: 38; latitude: 145; longitude: 192)
+        Dimension coordinates:
+            model_level_number                                                            x             -               -
+            latitude                                                                      -             x               -
+            longitude                                                                     -             -               x
+        Auxiliary coordinates:
+            level_height                                                                  x             -               -
+            sigma                                                                         x             -               -
+        Scalar coordinates:
+            forecast_period                                            1080.0 hours, bound=(0.0, 2160.0) hours
+            forecast_reference_time                                    1988-12-01 00:00:00
+            time                                                       1989-01-16 00:00:00, bound=(1988-12-01 00:00:00, 1989-03-01 00:00:00)
+        Cell methods:
+            mean                                                       time (1 hour)
+        Attributes:
+            STASH                                                      m01s12i187
+            source                                                     'Data from Met Office Unified Model'
+            um_version                                                 '6.1'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/ocean_xsect.b.pp](test_data/PP/cf_processing/ocean_xsect.b.pp)
+
+  
+  
+  ```
+      sea_water_potential_temperature / (degC) (depth: 20; latitude: 144)
+        Dimension coordinates:
+            depth                                  x             -
+            latitude                               -             x
+        Scalar coordinates:
+            forecast_period                  -864000.0 hours, bound=(-1900800.0, 172800.0) hours
+            forecast_reference_time          2079-12-01 00:00:00
+            time                             1979-12-01 00:00:00, bound=(1859-12-01 00:00:00, 2099-12-01 00:00:00)
+        Cell methods:
+            mean                             time
+        Attributes:
+            STASH                            m02s00i101
+            source                           'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/st0fc699.b.pp](test_data/PP/cf_processing/st0fc699.b.pp)
+
+  
+  
+  ```
+      m02s00i??? / (unknown)              (latitude: 144; longitude: 288)
+        Dimension coordinates:
+            latitude                             x               -
+            longitude                            -               x
+        Scalar coordinates:
+            forecast_period             1859760.0 hours, bound=(1816560.0, 1902960.0) hours
+            forecast_reference_time     1991-09-01 00:00:00
+            time                        2206-12-01 00:00:00, bound=(2201-12-01 00:00:00, 2211-12-01 00:00:00)
+        Cell methods:
+            mean                        time (2 hour)
+        Attributes:
+            STASH                       m02s00i???
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/abcza_pa19591997_daily_29.b.pp](test_data/PP/cf_processing/abcza_pa19591997_daily_29.b.pp)
+
+  
+  
+  ```
+      air_temperature / (K)               (time: 360; latitude: 73; longitude: 96)
+        Dimension coordinates:
+            time                             x              -              -
+            latitude                         -              x              -
+            longitude                        -              -              x
+        Auxiliary coordinates:
+            forecast_period                  x              -              -
+        Scalar coordinates:
+            forecast_reference_time     1870-06-01 00:00:00
+            height                      1.5 m
+        Cell methods:
+            maximum                     time (1 hour)
+        Attributes:
+            STASH                       m01s03i236
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  ```
+      air_temperature / (K)               (time: 360; latitude: 73; longitude: 96)
+        Dimension coordinates:
+            time                             x              -              -
+            latitude                         -              x              -
+            longitude                        -              -              x
+        Auxiliary coordinates:
+            forecast_period                  x              -              -
+        Scalar coordinates:
+            forecast_reference_time     1870-06-01 00:00:00
+            height                      1.5 m
+        Cell methods:
+            minimum                     time (1 hour)
+        Attributes:
+            STASH                       m01s03i236
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  ```
+      precipitation_flux / (kg m-2 s-1)   (time: 360; latitude: 73; longitude: 96)
+        Dimension coordinates:
+            time                             x              -              -
+            latitude                         -              x              -
+            longitude                        -              -              x
+        Auxiliary coordinates:
+            forecast_period                  x              -              -
+        Scalar coordinates:
+            forecast_reference_time     1870-06-01 00:00:00
+        Cell methods:
+            mean                        time (1 hour)
+        Attributes:
+            STASH                       m01s05i216
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/001000000000.00.000.000000.1860.01.01.00.00.f.b.pp](test_data/PP/cf_processing/001000000000.00.000.000000.1860.01.01.00.00.f.b.pp)
+
+  
+  
+  ```
+      unknown / (unknown)                 (latitude: 94; longitude: 128)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -43200.0 hours, bound=(-86400.0, 0.0) hours
+            forecast_reference_time     1870-01-01 00:00:00
+            time                        1865-01-01 00:00:00, bound=(1860-01-01 00:00:00, 1870-01-01 00:00:00)
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/integer.b.pp](test_data/PP/cf_processing/integer.b.pp)
+
+  
+  
+  ```
+      m??s08i208 / (unknown)              (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -518400.0 hours, bound=(-1080000.0, 43200.0) hours
+            forecast_reference_time     1985-09-01 00:00:00
+            time                        1925-09-01 00:00:00, bound=(1860-09-01 00:00:00, 1990-09-01 00:00:00)
+        Cell methods:
+            mean                        time
+        Attributes:
+            STASH                       m??s08i208
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/aaxzc_level_lat_orig.b.pp](test_data/PP/cf_processing/aaxzc_level_lat_orig.b.pp)
+
+  
+  
+  ```
+      geopotential_height / (m)           (time: 2; pressure: 15; latitude: 73)
+        Dimension coordinates:
+            time                             x            -             -
+            pressure                         -            x             -
+            latitude                         -            -             x
+        Auxiliary coordinates:
+            forecast_period                  x            -             -
+        Scalar coordinates:
+            forecast_reference_time     2001-09-01 04:00:00
+        Cell methods:
+            mean                        time
+        Attributes:
+            STASH                       m01s16i202
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/000003000000.03.236.000128.1990.12.01.00.00.b.pp](test_data/PP/cf_processing/000003000000.03.236.000128.1990.12.01.00.00.b.pp)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             106266.0 hours, bound=(105186.0, 107346.0) hours
+            forecast_reference_time     1978-12-01 06:00:00
+            height                      1.5 m
+            time                        1991-01-15 00:00:00, bound=(1990-12-01 00:00:00, 1991-03-01 00:00:00)
+        Cell methods:
+            mean                        time (6 hour)
+        Attributes:
+            STASH                       m01s03i236
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  
+
+  #### [PP/cf_processing/HadCM2_ts_SAT_ann_18602100.b.pp](test_data/PP/cf_processing/HadCM2_ts_SAT_ann_18602100.b.pp)
+
+  
+  
+  ```
+      air_temperature / (K)               (time: 240; site_number: 3)
+        Dimension coordinates:
+            time                             x                 -
+            site_number                      -                 x
+        Auxiliary coordinates:
+            grid_latitude                    -                 x
+            grid_longitude                   -                 x
+        Cell methods:
+            mean                        time
+        Attributes:
+            STASH                       m??s03i236
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/st0fc942.b.pp](test_data/PP/cf_processing/st0fc942.b.pp)
+
+  
+  
+  ```
+      m02s00i??? / (unknown)              (pseudo_level: 4; time: 4; depth: 20; grid_latitude: 143)
+        Dimension coordinates:
+            pseudo_level                             x        -         -                  -
+            time                                     -        x         -                  -
+            depth                                    -        -         x                  -
+            grid_latitude                            -        -         -                  x
+        Auxiliary coordinates:
+            forecast_period                          -        x         -                  -
+        Scalar coordinates:
+            forecast_reference_time     1869-12-01 00:00:00
+        Cell methods:
+            mean                        time
+        Attributes:
+            STASH                       m02s00i???
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/002000000000.44.101.131200.1920.09.01.00.00.b.pp](test_data/PP/cf_processing/002000000000.44.101.131200.1920.09.01.00.00.b.pp)
+
+  
+  
+  ```
+      m??s44i101 / (unknown)              (depth: 20; latitude: 73)
+        Dimension coordinates:
+            depth                             x             -
+            latitude                          -             x
+        Scalar coordinates:
+            forecast_period             388800.0 hours, bound=(302400.0, 475200.0) hours
+            forecast_reference_time     1885-09-01 00:00:00
+            time                        1930-09-01 00:00:00, bound=(1920-09-01 00:00:00, 1940-09-01 00:00:00)
+        Attributes:
+            STASH                       m??s44i101
+            source                      'Data from Met Office Unified Model'
+            ukmo__process_flags         ('Mean over an ensemble of parallel runs', 'Time mean field')
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/000003000000.03.236.008320.1990.12.01.00.00.b.pp](test_data/PP/cf_processing/000003000000.03.236.008320.1990.12.01.00.00.b.pp)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             106272.0 hours, bound=(105192.0, 107352.0) hours
+            forecast_reference_time     1978-12-01 00:00:00
+            height                      1.5 m
+            time                        1991-01-15 00:00:00, bound=(1990-12-01 00:00:00, 1991-03-01 00:00:00)
+        Attributes:
+            STASH                       m01s03i236
+            source                      'Data from Met Office Unified Model'
+            ukmo__process_flags         ('Maximum value of field during time period', 'Time mean field')
+  ```
+  
+  
+  
+  
+
+  #### [PP/cf_processing/aaxzc_lon_lat_several.b.pp](test_data/PP/cf_processing/aaxzc_lon_lat_several.b.pp)
+
+  
+  
+  ```
+      air_temperature / (K)               (time: 14; latitude: 73; longitude: 96)
+        Dimension coordinates:
+            time                             x             -              -
+            latitude                         -             x              -
+            longitude                        -             -              x
+        Auxiliary coordinates:
+            forecast_period                  x             -              -
+        Scalar coordinates:
+            forecast_reference_time     1991-09-01 00:00:00
+            height                      1.5 m
+        Cell methods:
+            mean                        time (1 hour)
+        Attributes:
+            STASH                       m01s03i236
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/aaxzc_lon_lat_press_orig.b.pp](test_data/PP/cf_processing/aaxzc_lon_lat_press_orig.b.pp)
+
+  
+  
+  ```
+      geopotential_height / (m)           (time: 2; pressure: 15; latitude: 73; longitude: 96)
+        Dimension coordinates:
+            time                             x            -             -              -
+            pressure                         -            x             -              -
+            latitude                         -            -             x              -
+            longitude                        -            -             -              x
+        Auxiliary coordinates:
+            forecast_period                  x            -             -              -
+        Scalar coordinates:
+            forecast_reference_time     2001-09-01 04:00:00
+        Cell methods:
+            mean                        time
+        Attributes:
+            STASH                       m01s16i202
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/abxpa_press_lat.b.pp](test_data/PP/cf_processing/abxpa_press_lat.b.pp)
+
+  
+  
+  ```
+      geopotential_height / (m)           (pressure: 15; latitude: 73)
+        Dimension coordinates:
+            pressure                             x             -
+            latitude                             -             x
+        Scalar coordinates:
+            forecast_period             7717676.0 hours, bound=(7674476.0, 7760876.0) hours
+            forecast_reference_time     1991-09-01 04:00:00
+            time                        2884-12-01 00:00:00, bound=(2879-12-01 00:00:00, 2889-12-01 00:00:00)
+        Cell methods:
+            mean                        time (4 hour)
+        Attributes:
+            STASH                       m01s16i202
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/cf_processing/aaxzc_tseries.b.pp](test_data/PP/cf_processing/aaxzc_tseries.b.pp)
+
+  
+  
+  ```
+      air_temperature / (K)               (time: 4; site_number: 1)
+        Dimension coordinates:
+            time                             x               -
+            site_number                      -               x
+        Scalar coordinates:
+            height                      1.5 m
+        Cell methods:
+            mean                        time
+        Attributes:
+            STASH                       m01s03i236
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/aPProt1/rotated.pp](test_data/PP/aPProt1/rotated.pp)
+
+  
+  
+  ```
+      air_pressure_at_sea_level / (Pa)    (grid_latitude: 432; grid_longitude: 720)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            forecast_period             0.0 hours
+            forecast_reference_time     2006-06-15 00:00:00
+            time                        2006-06-15 00:00:00
+        Attributes:
+            STASH                       m01s16i222
+            source                      'Data from Met Office Unified Model'
+            um_version                  '6.1'
+  ```
+  
+  
+  
+  
+
+  #### [PP/aPProt1/rotatedMHtimecube.pp](test_data/PP/aPProt1/rotatedMHtimecube.pp)
+
+  
+  
+  ```
+      air_pressure_at_sea_level / (Pa)    (time: 10; grid_latitude: 432; grid_longitude: 720)
+        Dimension coordinates:
+            time                             x                  -                    -
+            grid_latitude                    -                  x                    -
+            grid_longitude                   -                  -                    x
+        Auxiliary coordinates:
+            forecast_period                  x                  -                    -
+        Scalar coordinates:
+            forecast_reference_time     2006-06-15 00:00:00
+        Attributes:
+            STASH                       m01s16i222
+            source                      'Data from Met Office Unified Model'
+            um_version                  '6.1'
+  ```
+  
+  
+  
+  
+
+  #### [PP/wgdos_packed/nae.20100104-06_0001.pp](test_data/PP/wgdos_packed/nae.20100104-06_0001.pp)
+
+  
+  
+  ```
+      surface_downwelling_shortwave_flux_in_air / (W m-2) (grid_latitude: 360; grid_longitude: 600)
+        Dimension coordinates:
+            grid_latitude                                             x                    -
+            grid_longitude                                            -                    x
+        Scalar coordinates:
+            forecast_period                             54.08333333331393 hours
+            forecast_reference_time                     2010-01-04 06:00:00
+            time                                        2010-01-06 12:05:00
+        Attributes:
+            STASH                                       m01s01i235
+            source                                      'Data from Met Office Unified Model'
+            um_version                                  '7.3'
+  ```
+  
+  ```
+      surface_net_downward_longwave_flux / (W m-2) (grid_latitude: 360; grid_longitude: 600)
+        Dimension coordinates:
+            grid_latitude                                      x                    -
+            grid_longitude                                     -                    x
+        Scalar coordinates:
+            forecast_period                      54.08333333331393 hours
+            forecast_reference_time              2010-01-04 06:00:00
+            time                                 2010-01-06 12:05:00
+        Attributes:
+            STASH                                m01s02i201
+            source                               'Data from Met Office Unified Model'
+            um_version                           '7.3'
+  ```
+  
+  ```
+      surface_net_downward_shortwave_flux / (W m-2) (grid_latitude: 360; grid_longitude: 600)
+        Dimension coordinates:
+            grid_latitude                                       x                    -
+            grid_longitude                                      -                    x
+        Scalar coordinates:
+            forecast_period                       54.08333333331393 hours
+            forecast_reference_time               2010-01-04 06:00:00
+            time                                  2010-01-06 12:05:00
+        Attributes:
+            STASH                                 m01s01i201
+            source                                'Data from Met Office Unified Model'
+            um_version                            '7.3'
+  ```
+  
+  ```
+      toa_outgoing_shortwave_flux / (W m-2) (grid_latitude: 360; grid_longitude: 600)
+        Dimension coordinates:
+            grid_latitude                               x                    -
+            grid_longitude                              -                    x
+        Scalar coordinates:
+            forecast_period               54.08333333331393 hours
+            forecast_reference_time       2010-01-04 06:00:00
+            time                          2010-01-06 12:05:00
+        Attributes:
+            STASH                         m01s01i208
+            source                        'Data from Met Office Unified Model'
+            um_version                    '7.3'
+  ```
+  
+  
+  
+  
+
+  #### [PP/globClim1/u_wind.pp](test_data/PP/globClim1/u_wind.pp)
+
+  
+  
+  ```
+      x_wind / (m s-1)                    (model_level_number: 38; latitude: 145; longitude: 192)
+        Dimension coordinates:
+            model_level_number                             x             -               -
+            latitude                                       -             x               -
+            longitude                                      -             -               x
+        Auxiliary coordinates:
+            level_height                                   x             -               -
+            sigma                                          x             -               -
+        Scalar coordinates:
+            forecast_period             25908.0 hours, bound=(25536.0, 26280.0) hours
+            forecast_reference_time     2005-01-01 00:00:00
+            time                        2007-12-16 12:00:00, bound=(2007-12-01 00:00:00, 2008-01-01 00:00:00)
+        Cell methods:
+            mean                        time (1 hour)
+        Attributes:
+            STASH                       m01s00i002
+            source                      'Data from Met Office Unified Model'
+            um_version                  '6.6'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
+  ```
+  
+  
+
+  #### [PP/globClim1/v_wind.pp](test_data/PP/globClim1/v_wind.pp)
+
+  
+  
+  ```
+      y_wind / (m s-1)                    (model_level_number: 38; latitude: 144; longitude: 192)
+        Dimension coordinates:
+            model_level_number                             x             -               -
+            latitude                                       -             x               -
+            longitude                                      -             -               x
+        Auxiliary coordinates:
+            level_height                                   x             -               -
+            sigma                                          x             -               -
+        Scalar coordinates:
+            forecast_period             25908.0 hours, bound=(25536.0, 26280.0) hours
+            forecast_reference_time     2005-01-01 00:00:00
+            time                        2007-12-16 12:00:00, bound=(2007-12-01 00:00:00, 2008-01-01 00:00:00)
+        Cell methods:
+            mean                        time (1 hour)
+        Attributes:
+            STASH                       m01s00i003
+            source                      'Data from Met Office Unified Model'
+            um_version                  '6.6'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
+  ```
+  
+  
+
+  #### [PP/globClim1/theta.pp](test_data/PP/globClim1/theta.pp)
+
+  
+  
+  ```
+      air_potential_temperature / (K)     (model_level_number: 38; latitude: 145; longitude: 192)
+        Dimension coordinates:
+            model_level_number                             x             -               -
+            latitude                                       -             x               -
+            longitude                                      -             -               x
+        Auxiliary coordinates:
+            level_height                                   x             -               -
+            sigma                                          x             -               -
+        Scalar coordinates:
+            forecast_period             25908.0 hours, bound=(25536.0, 26280.0) hours
+            forecast_reference_time     2005-01-01 00:00:00
+            time                        2007-12-16 12:00:00, bound=(2007-12-01 00:00:00, 2008-01-01 00:00:00)
+        Cell methods:
+            mean                        time (1 hour)
+        Attributes:
+            STASH                       m01s00i004
+            source                      'Data from Met Office Unified Model'
+            um_version                  '6.6'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
+  ```
+  
+  
+
+  #### [PP/globClim1/dec_subset.pp](test_data/PP/globClim1/dec_subset.pp)
+
+  
+  
+  ```
+      air_potential_temperature / (K)     (model_level_number: 38; latitude: 145; longitude: 192)
+        Dimension coordinates:
+            model_level_number                             x             -               -
+            latitude                                       -             x               -
+            longitude                                      -             -               x
+        Auxiliary coordinates:
+            level_height                                   x             -               -
+            sigma                                          x             -               -
+        Scalar coordinates:
+            forecast_period             25908.0 hours, bound=(25536.0, 26280.0) hours
+            forecast_reference_time     2005-01-01 00:00:00
+            time                        2007-12-16 12:00:00, bound=(2007-12-01 00:00:00, 2008-01-01 00:00:00)
+        Cell methods:
+            mean                        time (1 hour)
+        Attributes:
+            STASH                       m01s00i004
+            source                      'Data from Met Office Unified Model'
+            um_version                  '6.6'
+  ```
+  
+  ```
+      specific_humidity / (kg kg-1)       (model_level_number: 38; latitude: 145; longitude: 192)
+        Dimension coordinates:
+            model_level_number                             x             -               -
+            latitude                                       -             x               -
+            longitude                                      -             -               x
+        Auxiliary coordinates:
+            level_height                                   x             -               -
+            sigma                                          x             -               -
+        Scalar coordinates:
+            forecast_period             25908.0 hours, bound=(25536.0, 26280.0) hours
+            forecast_reference_time     2005-01-01 00:00:00
+            time                        2007-12-16 12:00:00, bound=(2007-12-01 00:00:00, 2008-01-01 00:00:00)
+        Cell methods:
+            mean                        time (1 hour)
+        Attributes:
+            STASH                       m01s00i010
+            source                      'Data from Met Office Unified Model'
+            um_version                  '6.6'
+  ```
+  
+  ```
+      x_wind / (m s-1)                    (model_level_number: 38; latitude: 145; longitude: 192)
+        Dimension coordinates:
+            model_level_number                             x             -               -
+            latitude                                       -             x               -
+            longitude                                      -             -               x
+        Auxiliary coordinates:
+            level_height                                   x             -               -
+            sigma                                          x             -               -
+        Scalar coordinates:
+            forecast_period             25908.0 hours, bound=(25536.0, 26280.0) hours
+            forecast_reference_time     2005-01-01 00:00:00
+            time                        2007-12-16 12:00:00, bound=(2007-12-01 00:00:00, 2008-01-01 00:00:00)
+        Cell methods:
+            mean                        time (1 hour)
+        Attributes:
+            STASH                       m01s00i002
+            source                      'Data from Met Office Unified Model'
+            um_version                  '6.6'
+  ```
+  
+  ```
+      y_wind / (m s-1)                    (model_level_number: 38; latitude: 144; longitude: 192)
+        Dimension coordinates:
+            model_level_number                             x             -               -
+            latitude                                       -             x               -
+            longitude                                      -             -               x
+        Auxiliary coordinates:
+            level_height                                   x             -               -
+            sigma                                          x             -               -
+        Scalar coordinates:
+            forecast_period             25908.0 hours, bound=(25536.0, 26280.0) hours
+            forecast_reference_time     2005-01-01 00:00:00
+            time                        2007-12-16 12:00:00, bound=(2007-12-01 00:00:00, 2008-01-01 00:00:00)
+        Cell methods:
+            mean                        time (1 hour)
+        Attributes:
+            STASH                       m01s00i003
+            source                      'Data from Met Office Unified Model'
+            um_version                  '6.6'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
+  ```
+  
+  
+
+  #### [PP/structured/small.pp](test_data/PP/structured/small.pp)
+
+  
+  
+  ```
+      air_pressure / (Pa)                 (time: 2; model_level_number: 3; latitude: 30; longitude: 40)
+        Dimension coordinates:
+            time                             x                      -            -              -
+            model_level_number               -                      x            -              -
+            latitude                         -                      -            x              -
+            longitude                        -                      -            -              x
+        Auxiliary coordinates:
+            forecast_period                  x                      -            -              -
+            level_height                     -                      x            -              -
+            sigma                            -                      x            -              -
+        Scalar coordinates:
+            forecast_reference_time     1991-03-01 00:00:00
+        Attributes:
+            STASH                       m01s00i407
+            source                      'Data from Met Office Unified Model'
+            um_version                  '8.5'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
+  ```
+  
+  
+
+  #### [PP/model_comp/dec_first_field.pp](test_data/PP/model_comp/dec_first_field.pp)
+
+  
+  
+  ```
+      x_wind / (m s-1)                    (latitude: 145; longitude: 192)
+        Dimension coordinates:
+            latitude                             x               -
+            longitude                            -               x
+        Scalar coordinates:
+            forecast_period             25908.0 hours, bound=(25536.0, 26280.0) hours
+            forecast_reference_time     2005-01-01 00:00:00
+            level_height                9.998206 m, bound=(0.0, 20.000338) m
+            model_level_number          1
+            sigma                       0.99885815, bound=(1.0, 0.9977165)
+            time                        2007-12-16 12:00:00, bound=(2007-12-01 00:00:00, 2008-01-01 00:00:00)
+        Cell methods:
+            mean                        time (1 hour)
+        Attributes:
+            STASH                       m01s00i002
+            source                      'Data from Met Office Unified Model'
+            um_version                  '6.6'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
+  ```
+  
+  
+
+  #### [PP/rotated_uk/rotated_uk.pp](test_data/PP/rotated_uk/rotated_uk.pp)
+
+  
+  
+  ```
+      wind_speed_of_gust / (m s-1)        (grid_latitude: 360; grid_longitude: 288)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            forecast_period             0.0 hours
+            forecast_reference_time     2008-01-23 03:00:00
+            height                      10.0 m
+            pressure                    -1.0 hPa
+            time                        2008-01-23 03:00:00
+        Cell methods:
+            mean                        time
+        Attributes:
+            STASH                       m01s03i463
+            source                      'Data from Met Office Unified Model'
+            um_version                  '6.4'
+  ```
+  
+  
+  
+  
+
+  #### [PP/simple_pp/bad_global.pp](test_data/PP/simple_pp/bad_global.pp)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             6477.0 hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    1000.0 hPa
+            time                        1998-12-01 00:00:00
+        Attributes:
+            STASH                       m01s??i999
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  
+
+  #### [PP/simple_pp/global.pp](test_data/PP/simple_pp/global.pp)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             6477.0 hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    1000.0 hPa
+            time                        1998-12-01 00:00:00
+        Attributes:
+            STASH                       m01s16i203
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  
+
+  #### [PP/simple_pp/partial_mask.pp](test_data/PP/simple_pp/partial_mask.pp)
+
+  
+  
+  ```
+      unknown / (unknown)                 (time: 2; grid_latitude: 2; grid_longitude: 2)
+        Dimension coordinates:
+            time                             x                 -                  -
+            grid_latitude                    -                 x                  -
+            grid_longitude                   -                 -                  x
+        Auxiliary coordinates:
+            forecast_period                  x                 -                  -
+        Scalar coordinates:
+            forecast_reference_time     2014-12-21 00:00:00
+            pressure                    1000.0 hPa
+  ```
+  
+  
+  
+  
+
+  #### [PP/ocean_rle/ocean_rle.pp](test_data/PP/ocean_rle/ocean_rle.pp)
+
+  
+  
+  ```
+      m02s30i248 / (unknown)              (latitude: 216; longitude: 360)
+        Dimension coordinates:
+            latitude                             x               -
+            longitude                            -               x
+        Scalar coordinates:
+            depth                       5.0 m, bound=(0.0, -1073741800.0) m
+            forecast_period             12.0 hours, bound=(0.0, 24.0) hours
+            forecast_reference_time     2014-08-01 00:00:00
+            model_level_number          0
+            time                        2014-08-01 12:00:00, bound=(2014-08-01 00:00:00, 2014-08-02 00:00:00)
+        Cell methods:
+            mean                        time (1 hour)
+        Attributes:
+            STASH                       m02s30i248
+            source                      'Data from Met Office Unified Model'
+            um_version                  '6.6'
+  ```
+  
+  ```
+      m02s30i249 / (unknown)              (latitude: 216; longitude: 360)
+        Dimension coordinates:
+            latitude                             x               -
+            longitude                            -               x
+        Scalar coordinates:
+            depth                       5.0 m, bound=(0.0, -1073741800.0) m
+            forecast_period             12.0 hours, bound=(0.0, 24.0) hours
+            forecast_reference_time     2014-08-01 00:00:00
+            model_level_number          0
+            time                        2014-08-01 12:00:00, bound=(2014-08-01 00:00:00, 2014-08-02 00:00:00)
+        Cell methods:
+            mean                        time (1 hour)
+        Attributes:
+            STASH                       m02s30i249
+            source                      'Data from Met Office Unified Model'
+            um_version                  '6.6'
+  ```
+  
+  ```
+      m02s30i400 / (unknown)              (latitude: 216; longitude: 360)
+        Dimension coordinates:
+            latitude                             x               -
+            longitude                            -               x
+        Scalar coordinates:
+            depth                       5.0 m, bound=(0.0, -1073741800.0) m
+            forecast_period             12.0 hours, bound=(0.0, 24.0) hours
+            forecast_reference_time     2014-08-01 00:00:00
+            model_level_number          0
+            time                        2014-08-01 12:00:00, bound=(2014-08-01 00:00:00, 2014-08-02 00:00:00)
+        Cell methods:
+            mean                        time (1 hour)
+        Attributes:
+            STASH                       m02s30i400
+            source                      'Data from Met Office Unified Model'
+            um_version                  '6.6'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/COLPEX/small_colpex_theta_p_alt.pp](test_data/PP/COLPEX/small_colpex_theta_p_alt.pp)
+
+  
+  
+  ```
+      air_potential_temperature / (K)     (time: 6; model_level_number: 10; grid_latitude: 83; grid_longitude: 83)
+        Dimension coordinates:
+            time                             x                      -                  -                   -
+            model_level_number               -                      x                  -                   -
+            grid_latitude                    -                      -                  x                   -
+            grid_longitude                   -                      -                  -                   x
+        Auxiliary coordinates:
+            forecast_period                  x                      -                  -                   -
+            level_height                     -                      x                  -                   -
+            sigma                            -                      x                  -                   -
+            surface_altitude                 -                      -                  x                   x
         Derived coordinates:
-            altitude                                 -                      x                  x                   x
+            altitude                         -                      x                  x                   x
+        Scalar coordinates:
+            forecast_reference_time     2009-09-09 22:00:00
         Attributes:
-            Conventions                         'CF-1.5'
-            STASH                               m01s00i004
-            source                              'Data from Met Office Unified Model 7.04'
+            STASH                       m01s00i004
+            source                      'Data from Met Office Unified Model'
+            um_version                  '7.4'
   ```
   
   ```
-      surface_altitude / (m)              (grid_longitude: 83; grid_latitude: 83)
+      air_pressure / (Pa)                 (time: 6; model_level_number: 10; grid_latitude: 83; grid_longitude: 83)
         Dimension coordinates:
-            grid_longitude                             x                  -
-            grid_latitude                              -                  x
+            time                             x                      -                  -                   -
+            model_level_number               -                      x                  -                   -
+            grid_latitude                    -                      -                  x                   -
+            grid_longitude                   -                      -                  -                   x
+        Auxiliary coordinates:
+            forecast_period                  x                      -                  -                   -
+            level_height                     -                      x                  -                   -
+            sigma                            -                      x                  -                   -
+            surface_altitude                 -                      -                  x                   x
+        Derived coordinates:
+            altitude                         -                      x                  x                   x
+        Scalar coordinates:
+            forecast_reference_time     2009-09-09 22:00:00
         Attributes:
-            Conventions                 'CF-1.5'
+            STASH                       m01s00i408
+            source                      'Data from Met Office Unified Model'
+            um_version                  '7.4'
   ```
   
-  
-  
-  
-
-  ### [NetCDF/rotated/xy/rotPole_landAreaFraction.nc](test_data/NetCDF/rotated/xy/rotPole_landAreaFraction.nc)
-
-  
-  
   ```
-      land_area_fraction / (1)            (grid_latitude: 95; grid_longitude: 85)
+      surface_altitude / (m)              (grid_latitude: 83; grid_longitude: 83)
         Dimension coordinates:
             grid_latitude                             x                   -
             grid_longitude                            -                   x
-        Auxiliary coordinates:
-            latitude                                  x                   x
-            longitude                                 x                   x
+        Scalar coordinates:
+            forecast_period             1.0 hours
+            forecast_reference_time     2009-09-09 16:00:00
+            time                        2009-09-09 17:00:00
         Attributes:
-            Conventions                 'CF-1.0'
-            conventionsURL              'http://www.cgd.ucar.edu/cms/eaton/cf-metadata/index.html'
-            creation_date               '2007-04-25 12:18:23'
-            experiment_id               'RT3 50'
-            institution                 'MPI-M'
-            project_id                  'ENSEMBLES'
-            realization                 '1'
-            source                      'REMO'
+            STASH                       m01s00i033
+            source                      'Data from Met Office Unified Model'
+            um_version                  '7.4'
   ```
   
   
   
   
 
-  ### [NetCDF/rotated/xyt/small_rotPole_precipitation.nc](test_data/NetCDF/rotated/xyt/small_rotPole_precipitation.nc)
+  #### [PP/COLPEX/small_eastward_wind.pp](test_data/PP/COLPEX/small_eastward_wind.pp)
 
   
   
   ```
-      precipitation_flux / (kg m-2 s-1)   (time: 4; grid_latitude: 190; grid_longitude: 174)
+      x_wind / (m s-1)                    (time: 6; model_level_number: 70; grid_latitude: 50; grid_longitude: 50)
+        Dimension coordinates:
+            time                             x                      -                  -                   -
+            model_level_number               -                      x                  -                   -
+            grid_latitude                    -                      -                  x                   -
+            grid_longitude                   -                      -                  -                   x
+        Auxiliary coordinates:
+            forecast_period                  x                      -                  -                   -
+            level_height                     -                      x                  -                   -
+            sigma                            -                      x                  -                   -
+        Scalar coordinates:
+            forecast_reference_time     2009-09-09 16:00:00
+        Attributes:
+            STASH                       m01s00i002
+            source                      'Data from Met Office Unified Model'
+            um_version                  '7.4'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
+  ```
+  
+  
+
+  #### [PP/COLPEX/theta_and_orog_subset.pp](test_data/PP/COLPEX/theta_and_orog_subset.pp)
+
+  
+  
+  ```
+      air_potential_temperature / (K)     (time: 6; model_level_number: 70; grid_latitude: 100; grid_longitude: 100)
+        Dimension coordinates:
+            time                             x                      -                  -                    -
+            model_level_number               -                      x                  -                    -
+            grid_latitude                    -                      -                  x                    -
+            grid_longitude                   -                      -                  -                    x
+        Auxiliary coordinates:
+            forecast_reference_time          x                      -                  -                    -
+            level_height                     -                      x                  -                    -
+            sigma                            -                      x                  -                    -
+            surface_altitude                 -                      -                  x                    x
+        Derived coordinates:
+            altitude                         -                      x                  x                    x
+        Scalar coordinates:
+            forecast_period             0.0 hours
+        Attributes:
+            STASH                       m01s00i004
+            source                      'Data from Met Office Unified Model'
+            um_version                  '7.4'
+  ```
+  
+  ```
+      surface_altitude / (m)              (time: 6; grid_latitude: 100; grid_longitude: 100)
         Dimension coordinates:
             time                             x                 -                    -
             grid_latitude                    -                 x                    -
             grid_longitude                   -                 -                    x
         Auxiliary coordinates:
-            latitude                         -                 x                    x
-            longitude                        -                 x                    x
-        Cell methods:
-            mean                        time
+            forecast_reference_time          x                 -                    -
+        Scalar coordinates:
+            forecast_period             0.0 hours
         Attributes:
-            Conventions                 'CF-1.0'
-            NCO                         '4.1.0'
-            experiment                  'ER3'
-            history                     'Thu Nov 29 10:45:50 2012: /project/ukmo/rhel6/nco/bin/ncks -d time,0,3...
-            institution                 'DMI'
-            source                      'HIRHAM'
+            STASH                       m01s00i033
+            source                      'Data from Met Office Unified Model'
+            um_version                  '7.4'
   ```
   
   
   
   
 
-  ### [NetCDF/transverse_mercator/tmean_1910_1910.nc](test_data/NetCDF/transverse_mercator/tmean_1910_1910.nc)
+  #### [PP/meanMaxMin/200806081200__qwpb.T24.pp](test_data/PP/meanMaxMin/200806081200__qwpb.T24.pp)
+
+  
+  
+  
+  
+  
+  ```
+  
+  ValueError: Unpacking PP fields with LBPACK of 1 requires mo_pack to be installed
+  
+  ```
+  
+
+  #### [PP/zonal_mean/zonal_mean.pp](test_data/PP/zonal_mean/zonal_mean.pp)
 
   
   
   ```
-      Mean temperature / (degrees_celsius) (time: 1; projection_y_coordinate: 290; projection_x_coordinate: 180)
+      x_wind / (m s-1)                    (pressure: 39; latitude: 145; longitude: 1)
         Dimension coordinates:
-            time                              x                           -                             -
-            projection_y_coordinate           -                           x                             -
-            projection_x_coordinate           -                           -                             x
-        Auxiliary coordinates:
-            latitude                          -                           x                             x
-            longitude                         -                           x                             x
+            pressure                             x             -               -
+            latitude                             -             x               -
+            longitude                            -             -               x
+        Scalar coordinates:
+            forecast_period             2520.0 hours, bound=(2160.0, 2880.0) hours
+            forecast_reference_time     1950-01-01 00:00:00
+            time                        1950-04-16 00:00:00, bound=(1950-04-01 00:00:00, 1950-05-01 00:00:00)
         Cell methods:
-            mean within years            time
-            mean over years              time
+            mean                        time (1 hour)
+            mean                        longitude
         Attributes:
-            Conventions                  'CF-1.6'
-            Note                         'This dataset is for test purposes only'
-            history                      'Conversion from ESRI grid'
-            institution                  'Met Office'
-            source                       'EWB2'
-            title                        'UK annual mean tmean'
+            STASH                       m01s30i201
+            source                      'Data from Met Office Unified Model'
+            um_version                  '10.6'
   ```
   
   
   
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
   
 
-  ### [NetCDF/transverse_mercator/projection_origin_attributes.nc](test_data/NetCDF/transverse_mercator/projection_origin_attributes.nc)
+  #### [PP/ukVorog/ukv_orog_refonly.pp](test_data/PP/ukVorog/ukv_orog_refonly.pp)
 
   
   
   ```
-      Mean temperature / (degrees_celsius) (time: 1; projection_y_coordinate: 3; projection_x_coordinate: 2)
+      surface_altitude / (m)              (grid_latitude: 928; grid_longitude: 744)
         Dimension coordinates:
-            time                              x                           -                           -
-            projection_y_coordinate           -                           x                           -
-            projection_x_coordinate           -                           -                           x
-        Auxiliary coordinates:
-            latitude                          -                           x                           x
-            longitude                         -                           x                           x
-        Cell methods:
-            mean within years            time
-            mean over years              time
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            time                        2010-01-23 19:00:00
         Attributes:
-            Conventions                  'CF-1.6'
-            Note                         'This dataset is for test purposes only'
-            history                      'Conversion from ESRI grid'
-            institution                  'Met Office'
-            source                       'EWB2'
-            title                        'UK annual mean tmean'
+            STASH                       m01s00i033
+            source                      'Data from Met Office Unified Model'
+            um_version                  '7.3'
+  ```
+  
+  
+  
+  
+
+  #### [PP/aPPglob1/global.pp](test_data/PP/aPPglob1/global.pp)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             6477 hours, bound=(-28083.0, 6477.0) hours
+            forecast_reference_time     1998-03-01 03:00:00
+            pressure                    1000.0 hPa
+            time                        1998-12-01 00:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            mean within years           time
+            mean over years             time
+        Attributes:
+            STASH                       m01s16i203
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  ```
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
+  
+  ```
+  
+  
+
+  #### [PP/aPPglob1/global_little_endian.pp](test_data/PP/aPPglob1/global_little_endian.pp)
+
+  
+  
+  
+  
+  ```
+  
+  UserWarning: Unable to interpret field 0. Unsupported header release number: 33554432. Skipping the remainder of the file.
+  
+  ```
+  
+  
+
+  #### [PP/aPPglob1/global_t_forecast.pp](test_data/PP/aPPglob1/global_t_forecast.pp)
+
+  
+  
+  ```
+      air_temperature / (K)               (latitude: 217; longitude: 288)
+        Dimension coordinates:
+            latitude                             x               -
+            longitude                            -               x
+        Scalar coordinates:
+            forecast_period             0.0 hours
+            forecast_reference_time     1995-01-01 00:00:00
+            pressure                    0.0 hPa
+            time                        1995-01-01 00:00:00
+        Attributes:
+            STASH                       m??s16i203
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  
+
+  #### [PP/mdi_handmade_small/mdi_test_900_0.pp](test_data/PP/mdi_handmade_small/mdi_test_900_0.pp)
+
+  
+  
+  ```
+      m01s00i??? / (unknown)              (grid_latitude: 20; grid_longitude: 20)
+        Dimension coordinates:
+            grid_latitude                             x                   -
+            grid_longitude                            -                   x
+        Scalar coordinates:
+            forecast_period             0.0 hours
+            forecast_reference_time     1970-02-11 16:00:00
+            pressure                    900.0 hPa
+            time                        1970-02-11 16:00:00
+        Attributes:
+            STASH                       m01s00i???
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  
+
+  #### [PP/mdi_handmade_small/mdi_test_800_6.pp](test_data/PP/mdi_handmade_small/mdi_test_800_6.pp)
+
+  
+  
+  ```
+      m01s00i??? / (unknown)              (grid_latitude: 20; grid_longitude: 20)
+        Dimension coordinates:
+            grid_latitude                             x                   -
+            grid_longitude                            -                   x
+        Scalar coordinates:
+            forecast_period             6.0 hours
+            forecast_reference_time     1970-02-11 16:00:00
+            pressure                    800.0 hPa
+            time                        1970-02-11 22:00:00
+        Attributes:
+            STASH                       m01s00i???
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  
+
+  #### [PP/mdi_handmade_small/mdi_test_800_3.pp](test_data/PP/mdi_handmade_small/mdi_test_800_3.pp)
+
+  
+  
+  ```
+      m01s00i??? / (unknown)              (grid_latitude: 20; grid_longitude: 20)
+        Dimension coordinates:
+            grid_latitude                             x                   -
+            grid_longitude                            -                   x
+        Scalar coordinates:
+            forecast_period             3.0 hours
+            forecast_reference_time     1970-02-11 16:00:00
+            pressure                    800.0 hPa
+            time                        1970-02-11 19:00:00
+        Attributes:
+            STASH                       m01s00i???
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  
+
+  #### [PP/mdi_handmade_small/mdi_test_900_6.pp](test_data/PP/mdi_handmade_small/mdi_test_900_6.pp)
+
+  
+  
+  ```
+      m01s00i??? / (unknown)              (grid_latitude: 20; grid_longitude: 20)
+        Dimension coordinates:
+            grid_latitude                             x                   -
+            grid_longitude                            -                   x
+        Scalar coordinates:
+            forecast_period             6.0 hours
+            forecast_reference_time     1970-02-11 16:00:00
+            pressure                    900.0 hPa
+            time                        1970-02-11 22:00:00
+        Attributes:
+            STASH                       m01s00i???
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  
+
+  #### [PP/mdi_handmade_small/mdi_test_1000_0.pp](test_data/PP/mdi_handmade_small/mdi_test_1000_0.pp)
+
+  
+  
+  ```
+      m01s00i??? / (unknown)              (grid_latitude: 20; grid_longitude: 20)
+        Dimension coordinates:
+            grid_latitude                             x                   -
+            grid_longitude                            -                   x
+        Scalar coordinates:
+            forecast_period             0.0 hours
+            forecast_reference_time     1970-02-11 16:00:00
+            pressure                    1000.0 hPa
+            time                        1970-02-11 16:00:00
+        Attributes:
+            STASH                       m01s00i???
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  
+
+  #### [PP/mdi_handmade_small/mdi_test_1000_6.pp](test_data/PP/mdi_handmade_small/mdi_test_1000_6.pp)
+
+  
+  
+  ```
+      m01s00i??? / (unknown)              (grid_latitude: 20; grid_longitude: 20)
+        Dimension coordinates:
+            grid_latitude                             x                   -
+            grid_longitude                            -                   x
+        Scalar coordinates:
+            forecast_period             6.0 hours
+            forecast_reference_time     1970-02-11 16:00:00
+            pressure                    1000.0 hPa
+            time                        1970-02-11 22:00:00
+        Attributes:
+            STASH                       m01s00i???
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  
+
+  #### [PP/mdi_handmade_small/mdi_test_1000_3.pp](test_data/PP/mdi_handmade_small/mdi_test_1000_3.pp)
+
+  
+  
+  ```
+      m01s00i??? / (unknown)              (grid_latitude: 20; grid_longitude: 20)
+        Dimension coordinates:
+            grid_latitude                             x                   -
+            grid_longitude                            -                   x
+        Scalar coordinates:
+            forecast_period             3.0 hours
+            forecast_reference_time     1970-02-11 16:00:00
+            pressure                    1000.0 hPa
+            time                        1970-02-11 19:00:00
+        Attributes:
+            STASH                       m01s00i???
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  
+
+  #### [PP/mdi_handmade_small/mdi_test_800_0.pp](test_data/PP/mdi_handmade_small/mdi_test_800_0.pp)
+
+  
+  
+  ```
+      m01s00i??? / (unknown)              (grid_latitude: 20; grid_longitude: 20)
+        Dimension coordinates:
+            grid_latitude                             x                   -
+            grid_longitude                            -                   x
+        Scalar coordinates:
+            forecast_period             0.0 hours
+            forecast_reference_time     1970-02-11 16:00:00
+            pressure                    800.0 hPa
+            time                        1970-02-11 16:00:00
+        Attributes:
+            STASH                       m01s00i???
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  
+  
+  
+
+  #### [PP/ukV1/ukVpmslont.pp](test_data/PP/ukV1/ukVpmslont.pp)
+
+  
+  
+  ```
+      air_pressure_at_sea_level / (Pa)    (time: 25; grid_latitude: 928; grid_longitude: 744)
+        Dimension coordinates:
+            time                             x                  -                    -
+            grid_latitude                    -                  x                    -
+            grid_longitude                   -                  -                    x
+        Auxiliary coordinates:
+            forecast_period                  x                  -                    -
+        Scalar coordinates:
+            forecast_reference_time     2010-02-08 03:00:00
+        Attributes:
+            STASH                       m01s16i222
+            source                      'Data from Met Office Unified Model'
+            um_version                  '7.3'
+  ```
+  
+  
+  
+  
+
+  #### [PP/ukV1/ukVpmslont_first_field.pp](test_data/PP/ukV1/ukVpmslont_first_field.pp)
+
+  
+  
+  ```
+      air_pressure_at_sea_level / (Pa)    (grid_latitude: 928; grid_longitude: 744)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            forecast_period             0.0 hours
+            forecast_reference_time     2010-02-08 03:00:00
+            time                        2010-02-08 03:00:00
+        Attributes:
+            STASH                       m01s16i222
+            source                      'Data from Met Office Unified Model'
+            um_version                  '7.3'
+  ```
+  
+  
+  
+  
+
+  #### [PP/little_endian/qrparm.orog.pp](test_data/PP/little_endian/qrparm.orog.pp)
+
+  
+  
+  ```
+      m01s00i034 / (unknown)              (grid_latitude: 110; grid_longitude: 160)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            forecast_period             0 hours
+            month
+            month_number                0
+        Attributes:
+            STASH                       m01s00i034
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  ```
+      m01s00i035 / (unknown)              (grid_latitude: 110; grid_longitude: 160)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            forecast_period             0 hours
+            month
+            month_number                0
+        Attributes:
+            STASH                       m01s00i035
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  ```
+      m01s00i036 / (unknown)              (grid_latitude: 110; grid_longitude: 160)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            forecast_period             0 hours
+            month
+            month_number                0
+        Attributes:
+            STASH                       m01s00i036
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  ```
+      m01s00i037 / (unknown)              (grid_latitude: 110; grid_longitude: 160)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            forecast_period             0 hours
+            month
+            month_number                0
+        Attributes:
+            STASH                       m01s00i037
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  ```
+      m01s00i017 / (unknown)              (grid_latitude: 110; grid_longitude: 160)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            forecast_period             0 hours
+            month
+            month_number                0
+        Attributes:
+            STASH                       m01s00i017
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  ```
+      m01s00i018 / (unknown)              (grid_latitude: 110; grid_longitude: 160)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            forecast_period             0 hours
+            month
+            month_number                0
+        Attributes:
+            STASH                       m01s00i018
+            source                      'Data from Met Office Unified Model'
+  ```
+  
+  ```
+      surface_altitude / (m)              (grid_latitude: 110; grid_longitude: 160)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            forecast_period             0 hours
+            month
+            month_number                0
+        Attributes:
+            STASH                       m01s00i033
+            source                      'Data from Met Office Unified Model'
   ```
   
   
@@ -3993,7 +8777,55 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   <summary>NIMROD</summary>
 
   
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek01_cape_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek01_cape_2km)
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_pressure_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_pressure_2km)
+
+  
+  
+  ```
+      surfpressure / (hPa)                (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  205
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      air_pressure_at_mean_sea_level / (hPa) (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                                x                           -
+            projection_x_coordinate                                -                           x
+        Scalar coordinates:
+            experiment_number              0
+            forecast_period                7200 second
+            forecast_reference_time        2020-01-28 03:00:00
+            realization                    0
+            time                           2020-01-28 05:00:00
+        Attributes:
+            field_code                     12
+            institution                    'Met Office'
+            nimrod_version                 2
+            num_model_levels               1
+            source                         'ek'
+            title                          'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek01_cape_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek01_cape_2km)
 
   
   
@@ -4122,12 +8954,42 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
 
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity3d0060_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity3d0060_2km)
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_precipaccum_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_precipaccum_2km)
 
   
   
   ```
-      3drelhumidity / (1)                 (height: 57; projection_y_coordinate: 3; projection_x_coordinate: 3)
+      amount_of_precipitation / (mm)      (-- : 2; projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate         -                           x                           -
+            projection_x_coordinate         -                           -                           x
+        Auxiliary coordinates:
+            forecast_period                 x                           -                           -
+            time                            x                           -                           -
+        Scalar coordinates:
+            experiment_number           0
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+        Attributes:
+            field_code                  61
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            processing                  ['accumulation or average']
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_cloud3d0060_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_cloud3d0060_2km)
+
+  
+  
+  ```
+      3dcloudcover / (1)                  (height: 57; projection_y_coordinate: 3; projection_x_coordinate: 3)
         Dimension coordinates:
             height                             x                            -                           -
             projection_y_coordinate            -                            x                           -
@@ -4139,7 +9001,7 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             realization                 0
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  8
+            field_code                  79
             institution                 'Met Office'
             nimrod_version              2
             num_model_levels            57
@@ -4147,303 +9009,23 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             title                       'Unknown'
   ```
   
-  
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_cloud_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_cloud_2km)
-
-  
-  
   ```
-      convective cloud base / (m)         (projection_y_coordinate: 3; projection_x_coordinate: 3)
+      3dcloudcover / (1)                  (height: 26; projection_y_coordinate: 3; projection_x_coordinate: 3)
         Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
+            height                             x                            -                           -
+            projection_y_coordinate            -                            x                           -
+            projection_x_coordinate            -                            -                           x
         Scalar coordinates:
             experiment_number           0
-            forecast_period             7200 second
+            forecast_period             3600 second
             forecast_reference_time     2020-01-28 03:00:00
             realization                 0
-            time                        2020-01-28 05:00:00
+            time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  87
+            field_code                  79
             institution                 'Met Office'
             nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      convective cloud top / (m)          (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  88
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      Worst Convective Cloud T / (m)      (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           2
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  88
-            institution                 'Met Office'
-            neighbourhood_radius        '10.0 km'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'CDP'
-            title                       'Unknown'
-  ```
-  
-  ```
-      Worst Convective Cloud B / (m)      (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           2
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  87
-            institution                 'Met Office'
-            neighbourhood_radius        '10.0 km'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'CDP'
-            title                       'Unknown'
-  ```
-  
-  ```
-      cloud_area_fraction_in_atmosphere / (1) (-- : 6; projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate             -                           x                           -
-            projection_x_coordinate             -                           -                           x
-        Auxiliary coordinates:
-            height                              x                           -                           -
-        Scalar coordinates:
-            experiment_number               0
-            forecast_period                 7200 second
-            forecast_reference_time         2020-01-28 03:00:00
-            realization                     0
-            time                            2020-01-28 05:00:00
-        Attributes:
-            field_code                      172
-            institution                     'Met Office'
-            nimrod_version                  2
-            num_model_levels                1
-            source                          'ek00cloud diagnostics'
-            title                           'Unknown'
-  ```
-  
-  ```
-      cloud top / (m)                     (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  207
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek00cloud diagnostics'
-            title                       'Unknown'
-  ```
-  
-  ```
-      minimum_cloud_base / (m)            (cloud_area_fraction: 6; projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            cloud_area_fraction                             x                           -                           -
-            projection_y_coordinate                         -                           x                           -
-            projection_x_coordinate                         -                           -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  161
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek00cloud diagnostics'
-            title                       'Unknown'
-  ```
-  
-  
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_radiation_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_radiation_2km)
-
-  
-  
-  ```
-      total down surf SW flux / (W/m2)    (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  91
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      diffuse down surf LW flx / (W/m2)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  92
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      surface sensible heat fl / (W/m2)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  303
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      net surf SW flux / (W/m2)           (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  91
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      direct down surf SW flux / (W/m2)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  91
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      diffuse down surf SW flx / (W/m2)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  91
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      net surf LW flux / (W/m2)           (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  92
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            num_model_levels            26
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4452,283 +9034,7 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
 
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_convwind_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_convwind_2km)
-
-  
-  
-  ```
-      vector_wind_shear / (m/s)           (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            altitude                    1000.0 m, bound=(1000.0, 6000.0) m
-            experiment_number           2
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  501
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      ''
-            title                       'Unknown'
-  ```
-  
-  ```
-      Dir. wind shear 1-6km / (unknown)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            altitude                    1000.0 m, bound=(1000.0, 6000.0) m
-            experiment_number           2
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  504
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      ''
-            title                       'Unknown'
-  ```
-  
-  ```
-      low_level_jet_u_component / (m/s)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            altitude                    0.0 m, bound=(0.0, 1000.0) m
-            experiment_number           2
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  508
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      ''
-            title                       'Unknown'
-  ```
-  
-  ```
-      low_level_jet_v_component / (m/s)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            altitude                    0.0 m, bound=(0.0, 1000.0) m
-            experiment_number           2
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  514
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      ''
-            title                       'Unknown'
-  ```
-  
-  ```
-      low_level_jet_curvature / (S^-1)    (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            altitude                    0.0 m, bound=(0.0, 1000.0) m
-            experiment_number           2
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  509
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      ''
-            title                       'Unknown'
-  ```
-  
-  ```
-      10m convective wind gust / (m/s)    (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            height                      10.0 m
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  800
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'rainfc'
-            title                       'Unknown'
-  ```
-  
-  
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_refl_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_refl_2km)
-
-  
-  
-  ```
-      3dreflectivity / (BZ)               (air_pressure: 15; projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            air_pressure                             x                            -                           -
-            projection_y_coordinate                  -                            x                           -
-            projection_x_coordinate                  -                            -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  480
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_visibility_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_visibility_2km)
-
-  
-  
-  ```
-      screen liquid water temp / (degC)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            height                      1.65 m
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  122
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      screen total water / (g/kg)         (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            height                      1.65 m
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  133
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      screenaerosol / (ug/kg)             (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            height                      1.65 m
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  221
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      Visibility / (m)                    (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            height                      1.65 m
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  155
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'UM?'
-            title                       'Unknown'
-  ```
-  
-  ```
-      Worst visibility in grid point / (m) (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                              x                           -
-            projection_x_coordinate                              -                           x
-        Scalar coordinates:
-            experiment_number            0
-            forecast_period              7200 second
-            forecast_reference_time      2020-01-28 03:00:00
-            height                       1.65 m
-            realization                  0
-            time                         2020-01-28 05:00:00
-        Attributes:
-            field_code                   156
-            institution                  'Met Office'
-            nimrod_version               2
-            num_model_levels             1
-            source                       'UM?'
-            title                        'Unknown'
-  ```
-  
-  
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/probability_fields](test_data/NIMROD/uk2km/cutouts/probability_fields)
+  #### [NIMROD/uk2km/cutouts/probability_fields](test_data/NIMROD/uk2km/cutouts/probability_fields)
 
   
   
@@ -5648,353 +9954,110 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
 
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_frzlev_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_frzlev_2km)
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_soil3d0060_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_soil3d0060_2km)
 
   
   
   ```
-      wet bulb freezing level / (m)       (projection_y_coordinate: 3; projection_x_coordinate: 3)
+      3dsoilmoisture / (mm)               (depth_below_ground: 4; projection_y_coordinate: 3; projection_x_coordinate: 3)
         Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
+            depth_below_ground                             x                           -                           -
+            projection_y_coordinate                        -                           x                           -
+            projection_x_coordinate                        -                           -                           x
         Scalar coordinates:
             experiment_number           0
-            forecast_period             7200 second
+            forecast_period             3600 second
             forecast_reference_time     2020-01-28 03:00:00
             realization                 0
-            time                        2020-01-28 05:00:00
+            time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  206
+            field_code                  191
             institution                 'Met Office'
             nimrod_version              2
-            num_model_levels            1
+            num_model_levels            4
             source                      'ek'
             title                       'Unknown'
   ```
   
   ```
-      dry bulb freezing level / (m)       (projection_y_coordinate: 3; projection_x_coordinate: 3)
+      3dsoiltemp / (degC)                 (depth_below_ground: 4; projection_y_coordinate: 3; projection_x_coordinate: 3)
         Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
+            depth_below_ground                             x                           -                           -
+            projection_y_coordinate                        -                           x                           -
+            projection_x_coordinate                        -                           -                           x
         Scalar coordinates:
             experiment_number           0
-            forecast_period             7200 second
+            forecast_period             3600 second
             forecast_reference_time     2020-01-28 03:00:00
             realization                 0
-            time                        2020-01-28 05:00:00
+            time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  50
+            field_code                  190
             institution                 'Met Office'
             nimrod_version              2
-            num_model_levels            1
+            num_model_levels            4
             source                      'ek'
             title                       'Unknown'
   ```
   
   ```
-      snow_melting_level_above_sea_level / (m) (projection_y_coordinate: 3; projection_x_coordinate: 3)
+      unfrozensoilwater / (1)             (depth_below_ground: 4; projection_y_coordinate: 3; projection_x_coordinate: 3)
         Dimension coordinates:
-            projection_y_coordinate                                  x                           -
-            projection_x_coordinate                                  -                           x
-        Scalar coordinates:
-            experiment_number                0
-            forecast_period                  7200 second
-            forecast_reference_time          2020-01-28 03:00:00
-            realization                      0
-            time                             2020-01-28 05:00:00
-        Attributes:
-            field_code                       101
-            institution                      'Met Office'
-            nimrod_version                   2
-            num_model_levels                 1
-            source                           'rainfc'
-            title                            'Unknown'
-  ```
-  
-  ```
-      snow_melting_level_above_sea_level / (m) (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                                  x                           -
-            projection_x_coordinate                                  -                           x
-        Scalar coordinates:
-            experiment_number                0
-            forecast_period                  7200 second
-            forecast_reference_time          2020-01-28 03:00:00
-            realization                      0
-            time                             2020-01-28 05:00:00
-        Attributes:
-            field_code                       101
-            institution                      'Met Office'
-            nimrod_version                   2
-            num_model_levels                 1
-            processing                       ['warm bias applied']
-            source                           'rainfc'
-            title                            'Unknown'
-  ```
-  
-  ```
-      snow_melting_level_above_sea_level / (m) (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                                  x                           -
-            projection_x_coordinate                                  -                           x
-        Scalar coordinates:
-            experiment_number                0
-            forecast_period                  7200 second
-            forecast_reference_time          2020-01-28 03:00:00
-            realization                      0
-            time                             2020-01-28 05:00:00
-        Attributes:
-            field_code                       101
-            institution                      'Met Office'
-            nimrod_version                   2
-            num_model_levels                 1
-            processing                       ['cold bias applied']
-            source                           'rainfc'
-            title                            'Unknown'
-  ```
-  
-  ```
-      rain_melted_level_above_sea_level / (m) (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                                 x                           -
-            projection_x_coordinate                                 -                           x
-        Scalar coordinates:
-            experiment_number               0
-            forecast_period                 7200 second
-            forecast_reference_time         2020-01-28 03:00:00
-            realization                     0
-            time                            2020-01-28 05:00:00
-        Attributes:
-            field_code                      102
-            institution                     'Met Office'
-            nimrod_version                  2
-            num_model_levels                1
-            source                          'rainfc'
-            title                           'Unknown'
-  ```
-  
-  ```
-      rain_melted_level_above_sea_level / (m) (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                                 x                           -
-            projection_x_coordinate                                 -                           x
-        Scalar coordinates:
-            experiment_number               0
-            forecast_period                 7200 second
-            forecast_reference_time         2020-01-28 03:00:00
-            realization                     0
-            time                            2020-01-28 05:00:00
-        Attributes:
-            field_code                      102
-            institution                     'Met Office'
-            nimrod_version                  2
-            num_model_levels                1
-            processing                      ['warm bias applied']
-            source                          'rainfc'
-            title                           'Unknown'
-  ```
-  
-  ```
-      rain_melted_level_above_sea_level / (m) (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                                 x                           -
-            projection_x_coordinate                                 -                           x
-        Scalar coordinates:
-            experiment_number               0
-            forecast_period                 7200 second
-            forecast_reference_time         2020-01-28 03:00:00
-            realization                     0
-            time                            2020-01-28 05:00:00
-        Attributes:
-            field_code                      102
-            institution                     'Met Office'
-            nimrod_version                  2
-            num_model_levels                1
-            processing                      ['cold bias applied']
-            source                          'rainfc'
-            title                           'Unknown'
-  ```
-  
-  
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_soil_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_soil_2km)
-
-  
-  
-  ```
-      surftemp / (degC)                   (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
+            depth_below_ground                             x                           -                           -
+            projection_y_coordinate                        -                           x                           -
+            projection_x_coordinate                        -                           -                           x
         Scalar coordinates:
             experiment_number           0
-            forecast_period             7200 second
+            forecast_period             3600 second
             forecast_reference_time     2020-01-28 03:00:00
             realization                 0
-            time                        2020-01-28 05:00:00
+            time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  18
+            field_code                  192
             institution                 'Met Office'
             nimrod_version              2
-            num_model_levels            1
+            num_model_levels            4
             source                      'ek'
             title                       'Unknown'
   ```
   
   ```
-      tile surftemp / (degC)              (-- : 10; projection_y_coordinate: 3; projection_x_coordinate: 3)
+      frozensoilwater / (1)               (depth_below_ground: 4; projection_y_coordinate: 3; projection_x_coordinate: 3)
         Dimension coordinates:
-            projection_y_coordinate         -                            x                           -
-            projection_x_coordinate         -                            -                           x
-        Auxiliary coordinates:
-            soil_type                       x                            -                           -
+            depth_below_ground                             x                           -                           -
+            projection_y_coordinate                        -                           x                           -
+            projection_x_coordinate                        -                           -                           x
         Scalar coordinates:
             experiment_number           0
-            forecast_period             7200 second
+            forecast_period             3600 second
             forecast_reference_time     2020-01-28 03:00:00
             realization                 0
-            time                        2020-01-28 05:00:00
+            time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  301
+            field_code                  193
             institution                 'Met Office'
             nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      tile screen temp / (degC)           (-- : 10; projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate         -                            x                           -
-            projection_x_coordinate         -                            -                           x
-        Auxiliary coordinates:
-            soil_type                       x                            -                           -
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  302
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            num_model_levels            4
             source                      'ek'
             title                       'Unknown'
   ```
   
   
   
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_umqv_fog_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_umqv_fog_2km)
-
-  
-  
   ```
-      fog fraction / (1)                  (visibility_in_air: 7; projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            visibility_in_air                             x                           -                           -
-            projection_y_coordinate                       -                           x                           -
-            projection_x_coordinate                       -                           -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            height                      1.65 m
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  29
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      '1.5km UK UM'
-            title                       'Unknown'
+  
+  UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
+  
   ```
   
   
-  
-  
 
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_pressure_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_pressure_2km)
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_temperature_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_temperature_2km)
 
   
   
   ```
-      surfpressure / (hPa)                (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  205
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      air_pressure_at_mean_sea_level / (hPa) (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                                x                           -
-            projection_x_coordinate                                -                           x
-        Scalar coordinates:
-            experiment_number              0
-            forecast_period                7200 second
-            forecast_reference_time        2020-01-28 03:00:00
-            realization                    0
-            time                           2020-01-28 05:00:00
-        Attributes:
-            field_code                     12
-            institution                    'Met Office'
-            nimrod_version                 2
-            num_model_levels               1
-            source                         'ek'
-            title                          'Unknown'
-  ```
-  
-  
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_precip_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_precip_2km)
-
-  
-  
-  ```
-      rate_of_precipitation / (mm/hr)     (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  63
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      Min rainrate in last hr / (mm/hr)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
+      temperature / (degC)                (projection_y_coordinate: 3; projection_x_coordinate: 3)
         Dimension coordinates:
             projection_y_coordinate                             x                           -
             projection_x_coordinate                             -                           x
@@ -6002,10 +10065,11 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             experiment_number           0
             forecast_period             7200 second, bound=(3600, 7200) second
             forecast_reference_time     2020-01-28 03:00:00
+            height                      1.65 m
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  213
+            field_code                  58
             institution                 'Met Office'
             nimrod_version              2
             num_model_levels            1
@@ -6015,7 +10079,7 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   ```
   
   ```
-      Max rainrate in last hr / (mm/hr)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
+      temperature / (degC)                (projection_y_coordinate: 3; projection_x_coordinate: 3)
         Dimension coordinates:
             projection_y_coordinate                             x                           -
             projection_x_coordinate                             -                           x
@@ -6023,10 +10087,11 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             experiment_number           0
             forecast_period             7200 second, bound=(3600, 7200) second
             forecast_reference_time     2020-01-28 03:00:00
+            height                      1.65 m
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  213
+            field_code                  58
             institution                 'Met Office'
             nimrod_version              2
             num_model_levels            1
@@ -6035,226 +10100,187 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             title                       'Unknown'
   ```
   
-  
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek07_precip0540_accum180_18km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek07_precip0540_accum180_18km)
-
-  
-  
   ```
-      amount_of_precipitation / (mm)      (projection_y_coordinate: 2; projection_x_coordinate: 2)
+      temperature / (degC)                (projection_y_coordinate: 3; projection_x_coordinate: 3)
         Dimension coordinates:
             projection_y_coordinate                             x                           -
             projection_x_coordinate                             -                           x
         Scalar coordinates:
             experiment_number           0
-            forecast_period             32400 second, bound=(21600, 32400) second
+            forecast_period             7200 second
             forecast_reference_time     2020-01-28 03:00:00
-            realization                 7
-            time                        2020-01-28 12:00:00, bound=(2020-01-28 09:00:00, 2020-01-28 12:00:00)
+            height                      1.65 m
+            realization                 0
+            time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  61
+            field_code                  58
             institution                 'Met Office'
             nimrod_version              2
             num_model_levels            1
-            processing                  ['accumulation or average']
+            source                      'UM?'
+            title                       'Unknown'
+  ```
+  
+  ```
+      screen dewpoint / (degC)            (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            height                      1.65 m
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  154
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'UM?'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_visibility_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_visibility_2km)
+
+  
+  
+  ```
+      screen liquid water temp / (degC)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            height                      1.65 m
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  122
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
   
+  ```
+      screen total water / (g/kg)         (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            height                      1.65 m
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  133
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      screenaerosol / (ug/kg)             (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            height                      1.65 m
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  221
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      Visibility / (m)                    (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            height                      1.65 m
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  155
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'UM?'
+            title                       'Unknown'
+  ```
+  
+  ```
+      Worst visibility in grid point / (m) (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                              x                           -
+            projection_x_coordinate                              -                           x
+        Scalar coordinates:
+            experiment_number            0
+            forecast_period              7200 second
+            forecast_reference_time      2020-01-28 03:00:00
+            height                       1.65 m
+            realization                  0
+            time                         2020-01-28 05:00:00
+        Attributes:
+            field_code                   156
+            institution                  'Met Office'
+            nimrod_version               2
+            num_model_levels             1
+            source                       'UM?'
+            title                        'Unknown'
+  ```
+  
   
   
   
 
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_preciptype_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_preciptype_2km)
+  #### [NIMROD/uk2km/cutouts/u1096_ng_bsr05_precip_accum60_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_bsr05_precip_accum60_2km)
 
   
   
   ```
-      snow probability / (1)              (projection_y_coordinate: 3; projection_x_coordinate: 3)
+      precip accumulation / (mm)          (projection_y_coordinate: 3; projection_x_coordinate: 3)
         Dimension coordinates:
             projection_y_coordinate                             x                           -
             projection_x_coordinate                             -                           x
         Scalar coordinates:
             experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
+            forecast_period             7200 second, bound=(3600, 7200) second
+            forecast_reference_time     2020-01-28 05:00:00
+            realization                 5
+            time                        2020-01-28 07:00:00, bound=(2020-01-28 06:00:00, 2020-01-28 07:00:00)
         Attributes:
-            field_code                  28
+            field_code                  214
             institution                 'Met Office'
             nimrod_version              2
             num_model_levels            1
-            source                      'rainfc'
-            title                       'Unknown'
-  ```
-  
-  ```
-      snow probability / (1)              (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  28
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            processing                  ['warm bias applied']
-            source                      'rainfc'
-            title                       'Unknown'
-  ```
-  
-  ```
-      snow probability / (1)              (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  28
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            processing                  ['cold bias applied']
-            source                      'rainfc'
-            title                       'Unknown'
-  ```
-  
-  ```
-      snow fraction / (1)                 (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  27
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'rainfc'
-            title                       'Unknown'
-  ```
-  
-  ```
-      snow fraction / (1)                 (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  27
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            processing                  ['warm bias applied']
-            source                      'rainfc'
-            title                       'Unknown'
-  ```
-  
-  ```
-      snow fraction / (1)                 (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  27
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            processing                  ['cold bias applied']
-            source                      'rainfc'
-            title                       'Unknown'
-  ```
-  
-  ```
-      precipitation type / (1)            (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  421
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'rainfc'
-            title                       'Unknown'
-  ```
-  
-  ```
-      precipitation type / (1)            (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  421
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            processing                  ['warm bias applied']
-            source                      'rainfc'
-            title                       'Unknown'
-  ```
-  
-  ```
-      precipitation type / (1)            (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  421
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            processing                  ['cold bias applied']
-            source                      'rainfc'
+            processing                  ['accumulation or average']
+            source                      'STEPS'
             title                       'Unknown'
   ```
   
@@ -6262,57 +10288,7 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
 
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv_2km)
-
-  
-  
-  ```
-      z0 veg and downscaled / (m/s)       (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            height                      10.0 m
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  5
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'downscaled UM level1 u&v'
-            title                       'Unknown'
-  ```
-  
-  ```
-      z0 veg and downscaled / (m/s)       (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            height                      10.0 m
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  6
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'downscaled UM level1 u&v'
-            title                       'Unknown'
-  ```
-  
-  
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_convection_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_convection_2km)
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_convection_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_convection_2km)
 
   
   
@@ -6509,7 +10485,1150 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
 
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity_2km)
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_convwind_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_convwind_2km)
+
+  
+  
+  ```
+      vector_wind_shear / (m/s)           (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            altitude                    1000.0 m, bound=(1000.0, 6000.0) m
+            experiment_number           2
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  501
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      ''
+            title                       'Unknown'
+  ```
+  
+  ```
+      Dir. wind shear 1-6km / (unknown)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            altitude                    1000.0 m, bound=(1000.0, 6000.0) m
+            experiment_number           2
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  504
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      ''
+            title                       'Unknown'
+  ```
+  
+  ```
+      low_level_jet_u_component / (m/s)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            altitude                    0.0 m, bound=(0.0, 1000.0) m
+            experiment_number           2
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  508
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      ''
+            title                       'Unknown'
+  ```
+  
+  ```
+      low_level_jet_v_component / (m/s)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            altitude                    0.0 m, bound=(0.0, 1000.0) m
+            experiment_number           2
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  514
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      ''
+            title                       'Unknown'
+  ```
+  
+  ```
+      low_level_jet_curvature / (S^-1)    (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            altitude                    0.0 m, bound=(0.0, 1000.0) m
+            experiment_number           2
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  509
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      ''
+            title                       'Unknown'
+  ```
+  
+  ```
+      10m convective wind gust / (m/s)    (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            height                      10.0 m
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  800
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'rainfc'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv_2km)
+
+  
+  
+  ```
+      z0 veg and downscaled / (m/s)       (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            height                      10.0 m
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  5
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'downscaled UM level1 u&v'
+            title                       'Unknown'
+  ```
+  
+  ```
+      z0 veg and downscaled / (m/s)       (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            height                      10.0 m
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  6
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'downscaled UM level1 u&v'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_radiationuv_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_radiationuv_2km)
+
+  
+  
+  ```
+      total down surf UV flux / (W/m2)    (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second, bound=(3600, 7200) second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
+        Attributes:
+            field_code                  96
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      direct down surf UV flux / (W/m2)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  96
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      total down clearsky UV f / (W/m2)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second, bound=(3600, 7200) second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
+        Attributes:
+            field_code                  96
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_precip_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_precip_2km)
+
+  
+  
+  ```
+      rate_of_precipitation / (mm/hr)     (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  63
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      Min rainrate in last hr / (mm/hr)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second, bound=(3600, 7200) second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
+        Attributes:
+            field_code                  213
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            processing                  ['minimum in period']
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      Max rainrate in last hr / (mm/hr)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second, bound=(3600, 7200) second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
+        Attributes:
+            field_code                  213
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            processing                  ['maximum in period']
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_bmr04_precip_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_bmr04_precip_2km)
+
+  
+  
+  ```
+      precip accumulation / (mm)          (-- : 2; projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate         -                           x                           -
+            projection_x_coordinate         -                           -                           x
+        Auxiliary coordinates:
+            forecast_period                 x                           -                           -
+            time                            x                           -                           -
+        Scalar coordinates:
+            experiment_number           0
+            forecast_reference_time     2020-01-28 05:00:00
+            realization                 4
+        Attributes:
+            field_code                  214
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            processing                  ['accumulation or average']
+            source                      'STEPS'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_frzlev_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_frzlev_2km)
+
+  
+  
+  ```
+      wet bulb freezing level / (m)       (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  206
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      dry bulb freezing level / (m)       (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  50
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      snow_melting_level_above_sea_level / (m) (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                                  x                           -
+            projection_x_coordinate                                  -                           x
+        Scalar coordinates:
+            experiment_number                0
+            forecast_period                  7200 second
+            forecast_reference_time          2020-01-28 03:00:00
+            realization                      0
+            time                             2020-01-28 05:00:00
+        Attributes:
+            field_code                       101
+            institution                      'Met Office'
+            nimrod_version                   2
+            num_model_levels                 1
+            source                           'rainfc'
+            title                            'Unknown'
+  ```
+  
+  ```
+      snow_melting_level_above_sea_level / (m) (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                                  x                           -
+            projection_x_coordinate                                  -                           x
+        Scalar coordinates:
+            experiment_number                0
+            forecast_period                  7200 second
+            forecast_reference_time          2020-01-28 03:00:00
+            realization                      0
+            time                             2020-01-28 05:00:00
+        Attributes:
+            field_code                       101
+            institution                      'Met Office'
+            nimrod_version                   2
+            num_model_levels                 1
+            processing                       ['warm bias applied']
+            source                           'rainfc'
+            title                            'Unknown'
+  ```
+  
+  ```
+      snow_melting_level_above_sea_level / (m) (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                                  x                           -
+            projection_x_coordinate                                  -                           x
+        Scalar coordinates:
+            experiment_number                0
+            forecast_period                  7200 second
+            forecast_reference_time          2020-01-28 03:00:00
+            realization                      0
+            time                             2020-01-28 05:00:00
+        Attributes:
+            field_code                       101
+            institution                      'Met Office'
+            nimrod_version                   2
+            num_model_levels                 1
+            processing                       ['cold bias applied']
+            source                           'rainfc'
+            title                            'Unknown'
+  ```
+  
+  ```
+      rain_melted_level_above_sea_level / (m) (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                                 x                           -
+            projection_x_coordinate                                 -                           x
+        Scalar coordinates:
+            experiment_number               0
+            forecast_period                 7200 second
+            forecast_reference_time         2020-01-28 03:00:00
+            realization                     0
+            time                            2020-01-28 05:00:00
+        Attributes:
+            field_code                      102
+            institution                     'Met Office'
+            nimrod_version                  2
+            num_model_levels                1
+            source                          'rainfc'
+            title                           'Unknown'
+  ```
+  
+  ```
+      rain_melted_level_above_sea_level / (m) (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                                 x                           -
+            projection_x_coordinate                                 -                           x
+        Scalar coordinates:
+            experiment_number               0
+            forecast_period                 7200 second
+            forecast_reference_time         2020-01-28 03:00:00
+            realization                     0
+            time                            2020-01-28 05:00:00
+        Attributes:
+            field_code                      102
+            institution                     'Met Office'
+            nimrod_version                  2
+            num_model_levels                1
+            processing                      ['warm bias applied']
+            source                          'rainfc'
+            title                           'Unknown'
+  ```
+  
+  ```
+      rain_melted_level_above_sea_level / (m) (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                                 x                           -
+            projection_x_coordinate                                 -                           x
+        Scalar coordinates:
+            experiment_number               0
+            forecast_period                 7200 second
+            forecast_reference_time         2020-01-28 03:00:00
+            realization                     0
+            time                            2020-01-28 05:00:00
+        Attributes:
+            field_code                      102
+            institution                     'Met Office'
+            nimrod_version                  2
+            num_model_levels                1
+            processing                      ['cold bias applied']
+            source                          'rainfc'
+            title                           'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_height_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_height_2km)
+
+  
+  
+  ```
+      boundary layer depth / (m)          (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  300
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_preciptype_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_preciptype_2km)
+
+  
+  
+  ```
+      snow probability / (1)              (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  28
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'rainfc'
+            title                       'Unknown'
+  ```
+  
+  ```
+      snow probability / (1)              (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  28
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            processing                  ['warm bias applied']
+            source                      'rainfc'
+            title                       'Unknown'
+  ```
+  
+  ```
+      snow probability / (1)              (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  28
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            processing                  ['cold bias applied']
+            source                      'rainfc'
+            title                       'Unknown'
+  ```
+  
+  ```
+      snow fraction / (1)                 (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  27
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'rainfc'
+            title                       'Unknown'
+  ```
+  
+  ```
+      snow fraction / (1)                 (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  27
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            processing                  ['warm bias applied']
+            source                      'rainfc'
+            title                       'Unknown'
+  ```
+  
+  ```
+      snow fraction / (1)                 (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  27
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            processing                  ['cold bias applied']
+            source                      'rainfc'
+            title                       'Unknown'
+  ```
+  
+  ```
+      precipitation type / (1)            (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  421
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'rainfc'
+            title                       'Unknown'
+  ```
+  
+  ```
+      precipitation type / (1)            (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  421
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            processing                  ['warm bias applied']
+            source                      'rainfc'
+            title                       'Unknown'
+  ```
+  
+  ```
+      precipitation type / (1)            (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  421
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            processing                  ['cold bias applied']
+            source                      'rainfc'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_refl_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_refl_2km)
+
+  
+  
+  ```
+      3dreflectivity / (BZ)               (air_pressure: 15; projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            air_pressure                             x                            -                           -
+            projection_y_coordinate                  -                            x                           -
+            projection_x_coordinate                  -                            -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  480
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_umqv_fog_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_umqv_fog_2km)
+
+  
+  
+  ```
+      fog fraction / (1)                  (visibility_in_air: 7; projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            visibility_in_air                             x                           -                           -
+            projection_y_coordinate                       -                           x                           -
+            projection_x_coordinate                       -                           -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            height                      1.65 m
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  29
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      '1.5km UK UM'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_snow_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_snow_2km)
+
+  
+  
+  ```
+      surface snow depth / (cm)           (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  121
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      snowmelt / (mm)                     (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second, bound=(3600, 7200) second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
+        Attributes:
+            field_code                  185
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            processing                  ['accumulation or average']
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      Lumb Crit Precip Rate / (mm/hr)     (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  100
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'rainfc'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_soil_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_soil_2km)
+
+  
+  
+  ```
+      surftemp / (degC)                   (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  18
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      tile surftemp / (degC)              (-- : 10; projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate         -                            x                           -
+            projection_x_coordinate         -                            -                           x
+        Auxiliary coordinates:
+            soil_type                       x                            -                           -
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  301
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      tile screen temp / (degC)           (-- : 10; projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate         -                            x                           -
+            projection_x_coordinate         -                            -                           x
+        Auxiliary coordinates:
+            soil_type                       x                            -                           -
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  302
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_radiation_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_radiation_2km)
+
+  
+  
+  ```
+      total down surf SW flux / (W/m2)    (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  91
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      diffuse down surf LW flx / (W/m2)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  92
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      surface sensible heat fl / (W/m2)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  303
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      net surf SW flux / (W/m2)           (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  91
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      direct down surf SW flux / (W/m2)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  91
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      diffuse down surf SW flx / (W/m2)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  91
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      net surf LW flux / (W/m2)           (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  92
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv3d0015_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv3d0015_2km)
+
+  
+  
+  ```
+      3dwind-u / (m/s)                    (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             900 second
+            forecast_reference_time     2020-01-28 03:00:00
+            height                      155.0 m
+            realization                 0
+            time                        2020-01-28 03:15:00
+        Attributes:
+            field_code                  5
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      3dwind-v / (m/s)                    (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             900 second
+            forecast_reference_time     2020-01-28 03:00:00
+            height                      155.0 m
+            realization                 0
+            time                        2020-01-28 03:15:00
+        Attributes:
+            field_code                  6
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity_2km)
 
   
   
@@ -6538,7 +11657,189 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
 
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_wind_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_wind_2km)
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity3d0060_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity3d0060_2km)
+
+  
+  
+  ```
+      3drelhumidity / (1)                 (height: 57; projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            height                             x                            -                           -
+            projection_y_coordinate            -                            x                           -
+            projection_x_coordinate            -                            -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             3600 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 04:00:00
+        Attributes:
+            field_code                  8
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            57
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_cloud_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_cloud_2km)
+
+  
+  
+  ```
+      convective cloud base / (m)         (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  87
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      convective cloud top / (m)          (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  88
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek'
+            title                       'Unknown'
+  ```
+  
+  ```
+      Worst Convective Cloud T / (m)      (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           2
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  88
+            institution                 'Met Office'
+            neighbourhood_radius        '10.0 km'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'CDP'
+            title                       'Unknown'
+  ```
+  
+  ```
+      Worst Convective Cloud B / (m)      (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           2
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  87
+            institution                 'Met Office'
+            neighbourhood_radius        '10.0 km'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'CDP'
+            title                       'Unknown'
+  ```
+  
+  ```
+      cloud_area_fraction_in_atmosphere / (1) (-- : 6; projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate             -                           x                           -
+            projection_x_coordinate             -                           -                           x
+        Auxiliary coordinates:
+            height                              x                           -                           -
+        Scalar coordinates:
+            experiment_number               0
+            forecast_period                 7200 second
+            forecast_reference_time         2020-01-28 03:00:00
+            realization                     0
+            time                            2020-01-28 05:00:00
+        Attributes:
+            field_code                      172
+            institution                     'Met Office'
+            nimrod_version                  2
+            num_model_levels                1
+            source                          'ek00cloud diagnostics'
+            title                           'Unknown'
+  ```
+  
+  ```
+      cloud top / (m)                     (projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            projection_y_coordinate                             x                           -
+            projection_x_coordinate                             -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  207
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek00cloud diagnostics'
+            title                       'Unknown'
+  ```
+  
+  ```
+      minimum_cloud_base / (m)            (cloud_area_fraction: 6; projection_y_coordinate: 3; projection_x_coordinate: 3)
+        Dimension coordinates:
+            cloud_area_fraction                             x                           -                           -
+            projection_y_coordinate                         -                           x                           -
+            projection_x_coordinate                         -                           -                           x
+        Scalar coordinates:
+            experiment_number           0
+            forecast_period             7200 second
+            forecast_reference_time     2020-01-28 03:00:00
+            realization                 0
+            time                        2020-01-28 05:00:00
+        Attributes:
+            field_code                  161
+            institution                 'Met Office'
+            nimrod_version              2
+            num_model_levels            1
+            source                      'ek00cloud diagnostics'
+            title                       'Unknown'
+  ```
+  
+  
+  
+  
+
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_wind_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_wind_2km)
 
   
   
@@ -6674,458 +11975,21 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
 
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_radiationuv_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_radiationuv_2km)
+  #### [NIMROD/uk2km/cutouts/u1096_ng_ek07_precip0540_accum180_18km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek07_precip0540_accum180_18km)
 
   
   
   ```
-      total down surf UV flux / (W/m2)    (projection_y_coordinate: 3; projection_x_coordinate: 3)
+      amount_of_precipitation / (mm)      (projection_y_coordinate: 2; projection_x_coordinate: 2)
         Dimension coordinates:
             projection_y_coordinate                             x                           -
             projection_x_coordinate                             -                           x
         Scalar coordinates:
             experiment_number           0
-            forecast_period             7200 second, bound=(3600, 7200) second
+            forecast_period             32400 second, bound=(21600, 32400) second
             forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
-        Attributes:
-            field_code                  96
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      direct down surf UV flux / (W/m2)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  96
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      total down clearsky UV f / (W/m2)   (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second, bound=(3600, 7200) second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
-        Attributes:
-            field_code                  96
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_soil3d0060_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_soil3d0060_2km)
-
-  
-  
-  ```
-      3dsoilmoisture / (mm)               (depth_below_ground: 4; projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            depth_below_ground                             x                           -                           -
-            projection_y_coordinate                        -                           x                           -
-            projection_x_coordinate                        -                           -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             3600 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 04:00:00
-        Attributes:
-            field_code                  191
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            4
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      3dsoiltemp / (degC)                 (depth_below_ground: 4; projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            depth_below_ground                             x                           -                           -
-            projection_y_coordinate                        -                           x                           -
-            projection_x_coordinate                        -                           -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             3600 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 04:00:00
-        Attributes:
-            field_code                  190
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            4
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      unfrozensoilwater / (1)             (depth_below_ground: 4; projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            depth_below_ground                             x                           -                           -
-            projection_y_coordinate                        -                           x                           -
-            projection_x_coordinate                        -                           -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             3600 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 04:00:00
-        Attributes:
-            field_code                  192
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            4
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      frozensoilwater / (1)               (depth_below_ground: 4; projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            depth_below_ground                             x                           -                           -
-            projection_y_coordinate                        -                           x                           -
-            projection_x_coordinate                        -                           -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             3600 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 04:00:00
-        Attributes:
-            field_code                  193
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            4
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: Unmatched vertical coord types 12 != 0. Assuming 12
-  
-  ```
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_height_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_height_2km)
-
-  
-  
-  ```
-      boundary layer depth / (m)          (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  300
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv3d0015_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv3d0015_2km)
-
-  
-  
-  ```
-      3dwind-u / (m/s)                    (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             900 second
-            forecast_reference_time     2020-01-28 03:00:00
-            height                      155.0 m
-            realization                 0
-            time                        2020-01-28 03:15:00
-        Attributes:
-            field_code                  5
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      3dwind-v / (m/s)                    (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             900 second
-            forecast_reference_time     2020-01-28 03:00:00
-            height                      155.0 m
-            realization                 0
-            time                        2020-01-28 03:15:00
-        Attributes:
-            field_code                  6
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_snow_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_snow_2km)
-
-  
-  
-  ```
-      surface snow depth / (cm)           (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  121
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      snowmelt / (mm)                     (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second, bound=(3600, 7200) second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
-        Attributes:
-            field_code                  185
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            processing                  ['accumulation or average']
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      Lumb Crit Precip Rate / (mm/hr)     (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  100
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'rainfc'
-            title                       'Unknown'
-  ```
-  
-  
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_bsr05_precip_accum60_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_bsr05_precip_accum60_2km)
-
-  
-  
-  ```
-      precip accumulation / (mm)          (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second, bound=(3600, 7200) second
-            forecast_reference_time     2020-01-28 05:00:00
-            realization                 5
-            time                        2020-01-28 07:00:00, bound=(2020-01-28 06:00:00, 2020-01-28 07:00:00)
-        Attributes:
-            field_code                  214
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            processing                  ['accumulation or average']
-            source                      'STEPS'
-            title                       'Unknown'
-  ```
-  
-  
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_temperature_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_temperature_2km)
-
-  
-  
-  ```
-      temperature / (degC)                (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second, bound=(3600, 7200) second
-            forecast_reference_time     2020-01-28 03:00:00
-            height                      1.65 m
-            realization                 0
-            time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
-        Attributes:
-            field_code                  58
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            processing                  ['minimum in period']
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      temperature / (degC)                (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second, bound=(3600, 7200) second
-            forecast_reference_time     2020-01-28 03:00:00
-            height                      1.65 m
-            realization                 0
-            time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
-        Attributes:
-            field_code                  58
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            processing                  ['maximum in period']
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      temperature / (degC)                (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            height                      1.65 m
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  58
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'UM?'
-            title                       'Unknown'
-  ```
-  
-  ```
-      screen dewpoint / (degC)            (projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate                             x                           -
-            projection_x_coordinate                             -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            height                      1.65 m
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  154
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            source                      'UM?'
-            title                       'Unknown'
-  ```
-  
-  
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_precipaccum_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_precipaccum_2km)
-
-  
-  
-  ```
-      amount_of_precipitation / (mm)      (-- : 2; projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate         -                           x                           -
-            projection_x_coordinate         -                           -                           x
-        Auxiliary coordinates:
-            forecast_period                 x                           -                           -
-            time                            x                           -                           -
-        Scalar coordinates:
-            experiment_number           0
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
+            realization                 7
+            time                        2020-01-28 12:00:00, bound=(2020-01-28 09:00:00, 2020-01-28 12:00:00)
         Attributes:
             field_code                  61
             institution                 'Met Office'
@@ -7140,87 +12004,7 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
 
-  ### [NIMROD/uk2km/cutouts/u1096_ng_bmr04_precip_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_bmr04_precip_2km)
-
-  
-  
-  ```
-      precip accumulation / (mm)          (-- : 2; projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            projection_y_coordinate         -                           x                           -
-            projection_x_coordinate         -                           -                           x
-        Auxiliary coordinates:
-            forecast_period                 x                           -                           -
-            time                            x                           -                           -
-        Scalar coordinates:
-            experiment_number           0
-            forecast_reference_time     2020-01-28 05:00:00
-            realization                 4
-        Attributes:
-            field_code                  214
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
-            processing                  ['accumulation or average']
-            source                      'STEPS'
-            title                       'Unknown'
-  ```
-  
-  
-  
-  
-
-  ### [NIMROD/uk2km/cutouts/u1096_ng_ek00_cloud3d0060_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_cloud3d0060_2km)
-
-  
-  
-  ```
-      3dcloudcover / (1)                  (height: 57; projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            height                             x                            -                           -
-            projection_y_coordinate            -                            x                           -
-            projection_x_coordinate            -                            -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             3600 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 04:00:00
-        Attributes:
-            field_code                  79
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            57
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      3dcloudcover / (1)                  (height: 26; projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            height                             x                            -                           -
-            projection_y_coordinate            -                            x                           -
-            projection_x_coordinate            -                            -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             3600 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 04:00:00
-        Attributes:
-            field_code                  79
-            institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            26
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  
-  
-  
-
-  ### [NIMROD/uk2km/WO0000000003452/201007020900_u1096_ng_ey00_visibility0180_screen_2km](test_data/NIMROD/uk2km/WO0000000003452/201007020900_u1096_ng_ey00_visibility0180_screen_2km)
+  #### [NIMROD/uk2km/WO0000000003452/201007020900_u1096_ng_ey00_visibility0180_screen_2km](test_data/NIMROD/uk2km/WO0000000003452/201007020900_u1096_ng_ey00_visibility0180_screen_2km)
 
   
   
@@ -7243,4790 +12027,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             title                       'Unknown'
   ```
   
-  
-  
-  
-
-</details>
-
-
-
-<details>
-
-  <summary>PP</summary>
-
-  
-  ### [PP/nzgust.pp](test_data/PP/nzgust.pp)
-
-  
-  
-  ```
-      wind_speed_of_gust / (m s-1)        (grid_latitude: 1350; grid_longitude: 1200)
-        Dimension coordinates:
-            grid_latitude                             x                     -
-            grid_longitude                            -                     x
-        Scalar coordinates:
-            forecast_period             -0.25 hours, bound=(-0.5, 0.0) hours
-            forecast_reference_time     2016-09-12 09:30:00
-            height                      10.0 m
-            time                        2016-09-12 09:15:00, bound=(2016-09-12 09:00:00, 2016-09-12 09:30:00)
-        Cell methods:
-            maximum                     time (1 hour)
-        Attributes:
-            STASH                       m01s03i463
-            source                      'Data from Met Office Unified Model'
-            um_version                  '8.4'
-  ```
-  
-  
-  
-  
-
-  ### [PP/mdi_handmade_small/mdi_test_800_6.pp](test_data/PP/mdi_handmade_small/mdi_test_800_6.pp)
-
-  
-  
-  ```
-      m01s00i??? / (unknown)              (grid_latitude: 20; grid_longitude: 20)
-        Dimension coordinates:
-            grid_latitude                             x                   -
-            grid_longitude                            -                   x
-        Scalar coordinates:
-            forecast_period             6.0 hours
-            forecast_reference_time     1970-02-11 16:00:00
-            pressure                    800.0 hPa
-            time                        1970-02-11 22:00:00
-        Attributes:
-            STASH                       m01s00i???
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  
-
-  ### [PP/mdi_handmade_small/mdi_test_900_6.pp](test_data/PP/mdi_handmade_small/mdi_test_900_6.pp)
-
-  
-  
-  ```
-      m01s00i??? / (unknown)              (grid_latitude: 20; grid_longitude: 20)
-        Dimension coordinates:
-            grid_latitude                             x                   -
-            grid_longitude                            -                   x
-        Scalar coordinates:
-            forecast_period             6.0 hours
-            forecast_reference_time     1970-02-11 16:00:00
-            pressure                    900.0 hPa
-            time                        1970-02-11 22:00:00
-        Attributes:
-            STASH                       m01s00i???
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  
-
-  ### [PP/mdi_handmade_small/mdi_test_800_3.pp](test_data/PP/mdi_handmade_small/mdi_test_800_3.pp)
-
-  
-  
-  ```
-      m01s00i??? / (unknown)              (grid_latitude: 20; grid_longitude: 20)
-        Dimension coordinates:
-            grid_latitude                             x                   -
-            grid_longitude                            -                   x
-        Scalar coordinates:
-            forecast_period             3.0 hours
-            forecast_reference_time     1970-02-11 16:00:00
-            pressure                    800.0 hPa
-            time                        1970-02-11 19:00:00
-        Attributes:
-            STASH                       m01s00i???
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  
-
-  ### [PP/mdi_handmade_small/mdi_test_1000_6.pp](test_data/PP/mdi_handmade_small/mdi_test_1000_6.pp)
-
-  
-  
-  ```
-      m01s00i??? / (unknown)              (grid_latitude: 20; grid_longitude: 20)
-        Dimension coordinates:
-            grid_latitude                             x                   -
-            grid_longitude                            -                   x
-        Scalar coordinates:
-            forecast_period             6.0 hours
-            forecast_reference_time     1970-02-11 16:00:00
-            pressure                    1000.0 hPa
-            time                        1970-02-11 22:00:00
-        Attributes:
-            STASH                       m01s00i???
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  
-
-  ### [PP/mdi_handmade_small/mdi_test_1000_0.pp](test_data/PP/mdi_handmade_small/mdi_test_1000_0.pp)
-
-  
-  
-  ```
-      m01s00i??? / (unknown)              (grid_latitude: 20; grid_longitude: 20)
-        Dimension coordinates:
-            grid_latitude                             x                   -
-            grid_longitude                            -                   x
-        Scalar coordinates:
-            forecast_period             0.0 hours
-            forecast_reference_time     1970-02-11 16:00:00
-            pressure                    1000.0 hPa
-            time                        1970-02-11 16:00:00
-        Attributes:
-            STASH                       m01s00i???
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  
-
-  ### [PP/mdi_handmade_small/mdi_test_800_0.pp](test_data/PP/mdi_handmade_small/mdi_test_800_0.pp)
-
-  
-  
-  ```
-      m01s00i??? / (unknown)              (grid_latitude: 20; grid_longitude: 20)
-        Dimension coordinates:
-            grid_latitude                             x                   -
-            grid_longitude                            -                   x
-        Scalar coordinates:
-            forecast_period             0.0 hours
-            forecast_reference_time     1970-02-11 16:00:00
-            pressure                    800.0 hPa
-            time                        1970-02-11 16:00:00
-        Attributes:
-            STASH                       m01s00i???
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  
-
-  ### [PP/mdi_handmade_small/mdi_test_900_0.pp](test_data/PP/mdi_handmade_small/mdi_test_900_0.pp)
-
-  
-  
-  ```
-      m01s00i??? / (unknown)              (grid_latitude: 20; grid_longitude: 20)
-        Dimension coordinates:
-            grid_latitude                             x                   -
-            grid_longitude                            -                   x
-        Scalar coordinates:
-            forecast_period             0.0 hours
-            forecast_reference_time     1970-02-11 16:00:00
-            pressure                    900.0 hPa
-            time                        1970-02-11 16:00:00
-        Attributes:
-            STASH                       m01s00i???
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  
-
-  ### [PP/mdi_handmade_small/mdi_test_1000_3.pp](test_data/PP/mdi_handmade_small/mdi_test_1000_3.pp)
-
-  
-  
-  ```
-      m01s00i??? / (unknown)              (grid_latitude: 20; grid_longitude: 20)
-        Dimension coordinates:
-            grid_latitude                             x                   -
-            grid_longitude                            -                   x
-        Scalar coordinates:
-            forecast_period             3.0 hours
-            forecast_reference_time     1970-02-11 16:00:00
-            pressure                    1000.0 hPa
-            time                        1970-02-11 19:00:00
-        Attributes:
-            STASH                       m01s00i???
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  
-
-  ### [PP/COLPEX/small_eastward_wind.pp](test_data/PP/COLPEX/small_eastward_wind.pp)
-
-  
-  
-  ```
-      x_wind / (m s-1)                    (time: 6; model_level_number: 70; grid_latitude: 50; grid_longitude: 50)
-        Dimension coordinates:
-            time                             x                      -                  -                   -
-            model_level_number               -                      x                  -                   -
-            grid_latitude                    -                      -                  x                   -
-            grid_longitude                   -                      -                  -                   x
-        Auxiliary coordinates:
-            forecast_period                  x                      -                  -                   -
-            level_height                     -                      x                  -                   -
-            sigma                            -                      x                  -                   -
-        Scalar coordinates:
-            forecast_reference_time     2009-09-09 16:00:00
-        Attributes:
-            STASH                       m01s00i002
-            source                      'Data from Met Office Unified Model'
-            um_version                  '7.4'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
-  
-  ```
-  
-  
-
-  ### [PP/COLPEX/theta_and_orog_subset.pp](test_data/PP/COLPEX/theta_and_orog_subset.pp)
-
-  
-  
-  ```
-      air_potential_temperature / (K)     (time: 6; model_level_number: 70; grid_latitude: 100; grid_longitude: 100)
-        Dimension coordinates:
-            time                             x                      -                  -                    -
-            model_level_number               -                      x                  -                    -
-            grid_latitude                    -                      -                  x                    -
-            grid_longitude                   -                      -                  -                    x
-        Auxiliary coordinates:
-            forecast_reference_time          x                      -                  -                    -
-            level_height                     -                      x                  -                    -
-            sigma                            -                      x                  -                    -
-            surface_altitude                 -                      -                  x                    x
-        Derived coordinates:
-            altitude                         -                      x                  x                    x
-        Scalar coordinates:
-            forecast_period             0.0 hours
-        Attributes:
-            STASH                       m01s00i004
-            source                      'Data from Met Office Unified Model'
-            um_version                  '7.4'
-  ```
-  
-  ```
-      surface_altitude / (m)              (time: 6; grid_latitude: 100; grid_longitude: 100)
-        Dimension coordinates:
-            time                             x                 -                    -
-            grid_latitude                    -                 x                    -
-            grid_longitude                   -                 -                    x
-        Auxiliary coordinates:
-            forecast_reference_time          x                 -                    -
-        Scalar coordinates:
-            forecast_period             0.0 hours
-        Attributes:
-            STASH                       m01s00i033
-            source                      'Data from Met Office Unified Model'
-            um_version                  '7.4'
-  ```
-  
-  
-  
-  
-
-  ### [PP/COLPEX/small_colpex_theta_p_alt.pp](test_data/PP/COLPEX/small_colpex_theta_p_alt.pp)
-
-  
-  
-  ```
-      air_potential_temperature / (K)     (time: 6; model_level_number: 10; grid_latitude: 83; grid_longitude: 83)
-        Dimension coordinates:
-            time                             x                      -                  -                   -
-            model_level_number               -                      x                  -                   -
-            grid_latitude                    -                      -                  x                   -
-            grid_longitude                   -                      -                  -                   x
-        Auxiliary coordinates:
-            forecast_period                  x                      -                  -                   -
-            level_height                     -                      x                  -                   -
-            sigma                            -                      x                  -                   -
-            surface_altitude                 -                      -                  x                   x
-        Derived coordinates:
-            altitude                         -                      x                  x                   x
-        Scalar coordinates:
-            forecast_reference_time     2009-09-09 22:00:00
-        Attributes:
-            STASH                       m01s00i004
-            source                      'Data from Met Office Unified Model'
-            um_version                  '7.4'
-  ```
-  
-  ```
-      air_pressure / (Pa)                 (time: 6; model_level_number: 10; grid_latitude: 83; grid_longitude: 83)
-        Dimension coordinates:
-            time                             x                      -                  -                   -
-            model_level_number               -                      x                  -                   -
-            grid_latitude                    -                      -                  x                   -
-            grid_longitude                   -                      -                  -                   x
-        Auxiliary coordinates:
-            forecast_period                  x                      -                  -                   -
-            level_height                     -                      x                  -                   -
-            sigma                            -                      x                  -                   -
-            surface_altitude                 -                      -                  x                   x
-        Derived coordinates:
-            altitude                         -                      x                  x                   x
-        Scalar coordinates:
-            forecast_reference_time     2009-09-09 22:00:00
-        Attributes:
-            STASH                       m01s00i408
-            source                      'Data from Met Office Unified Model'
-            um_version                  '7.4'
-  ```
-  
-  ```
-      surface_altitude / (m)              (grid_latitude: 83; grid_longitude: 83)
-        Dimension coordinates:
-            grid_latitude                             x                   -
-            grid_longitude                            -                   x
-        Scalar coordinates:
-            forecast_period             1.0 hours
-            forecast_reference_time     2009-09-09 16:00:00
-            time                        2009-09-09 17:00:00
-        Attributes:
-            STASH                       m01s00i033
-            source                      'Data from Met Office Unified Model'
-            um_version                  '7.4'
-  ```
-  
-  
-  
-  
-
-  ### [PP/aPProt1/rotatedMHtimecube.pp](test_data/PP/aPProt1/rotatedMHtimecube.pp)
-
-  
-  
-  ```
-      air_pressure_at_sea_level / (Pa)    (time: 10; grid_latitude: 432; grid_longitude: 720)
-        Dimension coordinates:
-            time                             x                  -                    -
-            grid_latitude                    -                  x                    -
-            grid_longitude                   -                  -                    x
-        Auxiliary coordinates:
-            forecast_period                  x                  -                    -
-        Scalar coordinates:
-            forecast_reference_time     2006-06-15 00:00:00
-        Attributes:
-            STASH                       m01s16i222
-            source                      'Data from Met Office Unified Model'
-            um_version                  '6.1'
-  ```
-  
-  
-  
-  
-
-  ### [PP/aPProt1/rotated.pp](test_data/PP/aPProt1/rotated.pp)
-
-  
-  
-  ```
-      air_pressure_at_sea_level / (Pa)    (grid_latitude: 432; grid_longitude: 720)
-        Dimension coordinates:
-            grid_latitude                             x                    -
-            grid_longitude                            -                    x
-        Scalar coordinates:
-            forecast_period             0.0 hours
-            forecast_reference_time     2006-06-15 00:00:00
-            time                        2006-06-15 00:00:00
-        Attributes:
-            STASH                       m01s16i222
-            source                      'Data from Met Office Unified Model'
-            um_version                  '6.1'
-  ```
-  
-  
-  
-  
-
-  ### [PP/ukVorog/ukv_orog_refonly.pp](test_data/PP/ukVorog/ukv_orog_refonly.pp)
-
-  
-  
-  ```
-      surface_altitude / (m)              (grid_latitude: 928; grid_longitude: 744)
-        Dimension coordinates:
-            grid_latitude                             x                    -
-            grid_longitude                            -                    x
-        Scalar coordinates:
-            time                        2010-01-23 19:00:00
-        Attributes:
-            STASH                       m01s00i033
-            source                      'Data from Met Office Unified Model'
-            um_version                  '7.3'
-  ```
-  
-  
-  
-  
-
-  ### [PP/aPPglob1/global_t_forecast.pp](test_data/PP/aPPglob1/global_t_forecast.pp)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 217; longitude: 288)
-        Dimension coordinates:
-            latitude                             x               -
-            longitude                            -               x
-        Scalar coordinates:
-            forecast_period             0.0 hours
-            forecast_reference_time     1995-01-01 00:00:00
-            pressure                    0.0 hPa
-            time                        1995-01-01 00:00:00
-        Attributes:
-            STASH                       m??s16i203
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  
-
-  ### [PP/aPPglob1/global_little_endian.pp](test_data/PP/aPPglob1/global_little_endian.pp)
-
-  
-  
-  
-  
-  ```
-  
-  UserWarning: Unable to interpret field 0. Unsupported header release number: 33554432. Skipping the remainder of the file.
-  
-  ```
-  
-  
-
-  ### [PP/aPPglob1/global.pp](test_data/PP/aPPglob1/global.pp)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             6477 hours, bound=(-28083.0, 6477.0) hours
-            forecast_reference_time     1998-03-01 03:00:00
-            pressure                    1000.0 hPa
-            time                        1998-12-01 00:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
-        Cell methods:
-            mean within years           time
-            mean over years             time
-        Attributes:
-            STASH                       m01s16i203
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/little_endian/qrparm.orog.pp](test_data/PP/little_endian/qrparm.orog.pp)
-
-  
-  
-  ```
-      m01s00i034 / (unknown)              (grid_latitude: 110; grid_longitude: 160)
-        Dimension coordinates:
-            grid_latitude                             x                    -
-            grid_longitude                            -                    x
-        Scalar coordinates:
-            forecast_period             0 hours
-            month
-            month_number                0
-        Attributes:
-            STASH                       m01s00i034
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  ```
-      m01s00i035 / (unknown)              (grid_latitude: 110; grid_longitude: 160)
-        Dimension coordinates:
-            grid_latitude                             x                    -
-            grid_longitude                            -                    x
-        Scalar coordinates:
-            forecast_period             0 hours
-            month
-            month_number                0
-        Attributes:
-            STASH                       m01s00i035
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  ```
-      m01s00i036 / (unknown)              (grid_latitude: 110; grid_longitude: 160)
-        Dimension coordinates:
-            grid_latitude                             x                    -
-            grid_longitude                            -                    x
-        Scalar coordinates:
-            forecast_period             0 hours
-            month
-            month_number                0
-        Attributes:
-            STASH                       m01s00i036
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  ```
-      m01s00i037 / (unknown)              (grid_latitude: 110; grid_longitude: 160)
-        Dimension coordinates:
-            grid_latitude                             x                    -
-            grid_longitude                            -                    x
-        Scalar coordinates:
-            forecast_period             0 hours
-            month
-            month_number                0
-        Attributes:
-            STASH                       m01s00i037
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  ```
-      m01s00i017 / (unknown)              (grid_latitude: 110; grid_longitude: 160)
-        Dimension coordinates:
-            grid_latitude                             x                    -
-            grid_longitude                            -                    x
-        Scalar coordinates:
-            forecast_period             0 hours
-            month
-            month_number                0
-        Attributes:
-            STASH                       m01s00i017
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  ```
-      m01s00i018 / (unknown)              (grid_latitude: 110; grid_longitude: 160)
-        Dimension coordinates:
-            grid_latitude                             x                    -
-            grid_longitude                            -                    x
-        Scalar coordinates:
-            forecast_period             0 hours
-            month
-            month_number                0
-        Attributes:
-            STASH                       m01s00i018
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  ```
-      surface_altitude / (m)              (grid_latitude: 110; grid_longitude: 160)
-        Dimension coordinates:
-            grid_latitude                             x                    -
-            grid_longitude                            -                    x
-        Scalar coordinates:
-            forecast_period             0 hours
-            month
-            month_number                0
-        Attributes:
-            STASH                       m01s00i033
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  
-
-  ### [PP/wgdos_packed/nae.20100104-06_0001.pp](test_data/PP/wgdos_packed/nae.20100104-06_0001.pp)
-
-  
-  
-  ```
-      surface_downwelling_shortwave_flux_in_air / (W m-2) (grid_latitude: 360; grid_longitude: 600)
-        Dimension coordinates:
-            grid_latitude                                             x                    -
-            grid_longitude                                            -                    x
-        Scalar coordinates:
-            forecast_period                             54.08333333331393 hours
-            forecast_reference_time                     2010-01-04 06:00:00
-            time                                        2010-01-06 12:05:00
-        Attributes:
-            STASH                                       m01s01i235
-            source                                      'Data from Met Office Unified Model'
-            um_version                                  '7.3'
-  ```
-  
-  ```
-      surface_net_downward_longwave_flux / (W m-2) (grid_latitude: 360; grid_longitude: 600)
-        Dimension coordinates:
-            grid_latitude                                      x                    -
-            grid_longitude                                     -                    x
-        Scalar coordinates:
-            forecast_period                      54.08333333331393 hours
-            forecast_reference_time              2010-01-04 06:00:00
-            time                                 2010-01-06 12:05:00
-        Attributes:
-            STASH                                m01s02i201
-            source                               'Data from Met Office Unified Model'
-            um_version                           '7.3'
-  ```
-  
-  ```
-      surface_net_downward_shortwave_flux / (W m-2) (grid_latitude: 360; grid_longitude: 600)
-        Dimension coordinates:
-            grid_latitude                                       x                    -
-            grid_longitude                                      -                    x
-        Scalar coordinates:
-            forecast_period                       54.08333333331393 hours
-            forecast_reference_time               2010-01-04 06:00:00
-            time                                  2010-01-06 12:05:00
-        Attributes:
-            STASH                                 m01s01i201
-            source                                'Data from Met Office Unified Model'
-            um_version                            '7.3'
-  ```
-  
-  ```
-      toa_outgoing_shortwave_flux / (W m-2) (grid_latitude: 360; grid_longitude: 600)
-        Dimension coordinates:
-            grid_latitude                               x                    -
-            grid_longitude                              -                    x
-        Scalar coordinates:
-            forecast_period               54.08333333331393 hours
-            forecast_reference_time       2010-01-04 06:00:00
-            time                          2010-01-06 12:05:00
-        Attributes:
-            STASH                         m01s01i208
-            source                        'Data from Met Office Unified Model'
-            um_version                    '7.3'
-  ```
-  
-  
-  
-  
-
-  ### [PP/zonal_mean/zonal_mean.pp](test_data/PP/zonal_mean/zonal_mean.pp)
-
-  
-  
-  ```
-      x_wind / (m s-1)                    (pressure: 39; latitude: 145; longitude: 1)
-        Dimension coordinates:
-            pressure                             x             -               -
-            latitude                             -             x               -
-            longitude                            -             -               x
-        Scalar coordinates:
-            forecast_period             2520.0 hours, bound=(2160.0, 2880.0) hours
-            forecast_reference_time     1950-01-01 00:00:00
-            time                        1950-04-16 00:00:00, bound=(1950-04-01 00:00:00, 1950-05-01 00:00:00)
-        Cell methods:
-            mean                        time (1 hour)
-            mean                        longitude
-        Attributes:
-            STASH                       m01s30i201
-            source                      'Data from Met Office Unified Model'
-            um_version                  '10.6'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/rotated_uk/rotated_uk.pp](test_data/PP/rotated_uk/rotated_uk.pp)
-
-  
-  
-  ```
-      wind_speed_of_gust / (m s-1)        (grid_latitude: 360; grid_longitude: 288)
-        Dimension coordinates:
-            grid_latitude                             x                    -
-            grid_longitude                            -                    x
-        Scalar coordinates:
-            forecast_period             0.0 hours
-            forecast_reference_time     2008-01-23 03:00:00
-            height                      10.0 m
-            pressure                    -1.0 hPa
-            time                        2008-01-23 03:00:00
-        Cell methods:
-            mean                        time
-        Attributes:
-            STASH                       m01s03i463
-            source                      'Data from Met Office Unified Model'
-            um_version                  '6.4'
-  ```
-  
-  
-  
-  
-
-  ### [PP/ocean_rle/ocean_rle.pp](test_data/PP/ocean_rle/ocean_rle.pp)
-
-  
-  
-  ```
-      m02s30i248 / (unknown)              (latitude: 216; longitude: 360)
-        Dimension coordinates:
-            latitude                             x               -
-            longitude                            -               x
-        Scalar coordinates:
-            depth                       5.0 m, bound=(0.0, -1073741800.0) m
-            forecast_period             12.0 hours, bound=(0.0, 24.0) hours
-            forecast_reference_time     2014-08-01 00:00:00
-            model_level_number          0
-            time                        2014-08-01 12:00:00, bound=(2014-08-01 00:00:00, 2014-08-02 00:00:00)
-        Cell methods:
-            mean                        time (1 hour)
-        Attributes:
-            STASH                       m02s30i248
-            source                      'Data from Met Office Unified Model'
-            um_version                  '6.6'
-  ```
-  
-  ```
-      m02s30i249 / (unknown)              (latitude: 216; longitude: 360)
-        Dimension coordinates:
-            latitude                             x               -
-            longitude                            -               x
-        Scalar coordinates:
-            depth                       5.0 m, bound=(0.0, -1073741800.0) m
-            forecast_period             12.0 hours, bound=(0.0, 24.0) hours
-            forecast_reference_time     2014-08-01 00:00:00
-            model_level_number          0
-            time                        2014-08-01 12:00:00, bound=(2014-08-01 00:00:00, 2014-08-02 00:00:00)
-        Cell methods:
-            mean                        time (1 hour)
-        Attributes:
-            STASH                       m02s30i249
-            source                      'Data from Met Office Unified Model'
-            um_version                  '6.6'
-  ```
-  
-  ```
-      m02s30i400 / (unknown)              (latitude: 216; longitude: 360)
-        Dimension coordinates:
-            latitude                             x               -
-            longitude                            -               x
-        Scalar coordinates:
-            depth                       5.0 m, bound=(0.0, -1073741800.0) m
-            forecast_period             12.0 hours, bound=(0.0, 24.0) hours
-            forecast_reference_time     2014-08-01 00:00:00
-            model_level_number          0
-            time                        2014-08-01 12:00:00, bound=(2014-08-01 00:00:00, 2014-08-02 00:00:00)
-        Cell methods:
-            mean                        time (1 hour)
-        Attributes:
-            STASH                       m02s30i400
-            source                      'Data from Met Office Unified Model'
-            um_version                  '6.6'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/globClim1/u_wind.pp](test_data/PP/globClim1/u_wind.pp)
-
-  
-  
-  ```
-      x_wind / (m s-1)                    (model_level_number: 38; latitude: 145; longitude: 192)
-        Dimension coordinates:
-            model_level_number                             x             -               -
-            latitude                                       -             x               -
-            longitude                                      -             -               x
-        Auxiliary coordinates:
-            level_height                                   x             -               -
-            sigma                                          x             -               -
-        Scalar coordinates:
-            forecast_period             25908.0 hours, bound=(25536.0, 26280.0) hours
-            forecast_reference_time     2005-01-01 00:00:00
-            time                        2007-12-16 12:00:00, bound=(2007-12-01 00:00:00, 2008-01-01 00:00:00)
-        Cell methods:
-            mean                        time (1 hour)
-        Attributes:
-            STASH                       m01s00i002
-            source                      'Data from Met Office Unified Model'
-            um_version                  '6.6'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
-  
-  ```
-  
-  
-
-  ### [PP/globClim1/dec_subset.pp](test_data/PP/globClim1/dec_subset.pp)
-
-  
-  
-  ```
-      air_potential_temperature / (K)     (model_level_number: 38; latitude: 145; longitude: 192)
-        Dimension coordinates:
-            model_level_number                             x             -               -
-            latitude                                       -             x               -
-            longitude                                      -             -               x
-        Auxiliary coordinates:
-            level_height                                   x             -               -
-            sigma                                          x             -               -
-        Scalar coordinates:
-            forecast_period             25908.0 hours, bound=(25536.0, 26280.0) hours
-            forecast_reference_time     2005-01-01 00:00:00
-            time                        2007-12-16 12:00:00, bound=(2007-12-01 00:00:00, 2008-01-01 00:00:00)
-        Cell methods:
-            mean                        time (1 hour)
-        Attributes:
-            STASH                       m01s00i004
-            source                      'Data from Met Office Unified Model'
-            um_version                  '6.6'
-  ```
-  
-  ```
-      specific_humidity / (kg kg-1)       (model_level_number: 38; latitude: 145; longitude: 192)
-        Dimension coordinates:
-            model_level_number                             x             -               -
-            latitude                                       -             x               -
-            longitude                                      -             -               x
-        Auxiliary coordinates:
-            level_height                                   x             -               -
-            sigma                                          x             -               -
-        Scalar coordinates:
-            forecast_period             25908.0 hours, bound=(25536.0, 26280.0) hours
-            forecast_reference_time     2005-01-01 00:00:00
-            time                        2007-12-16 12:00:00, bound=(2007-12-01 00:00:00, 2008-01-01 00:00:00)
-        Cell methods:
-            mean                        time (1 hour)
-        Attributes:
-            STASH                       m01s00i010
-            source                      'Data from Met Office Unified Model'
-            um_version                  '6.6'
-  ```
-  
-  ```
-      x_wind / (m s-1)                    (model_level_number: 38; latitude: 145; longitude: 192)
-        Dimension coordinates:
-            model_level_number                             x             -               -
-            latitude                                       -             x               -
-            longitude                                      -             -               x
-        Auxiliary coordinates:
-            level_height                                   x             -               -
-            sigma                                          x             -               -
-        Scalar coordinates:
-            forecast_period             25908.0 hours, bound=(25536.0, 26280.0) hours
-            forecast_reference_time     2005-01-01 00:00:00
-            time                        2007-12-16 12:00:00, bound=(2007-12-01 00:00:00, 2008-01-01 00:00:00)
-        Cell methods:
-            mean                        time (1 hour)
-        Attributes:
-            STASH                       m01s00i002
-            source                      'Data from Met Office Unified Model'
-            um_version                  '6.6'
-  ```
-  
-  ```
-      y_wind / (m s-1)                    (model_level_number: 38; latitude: 144; longitude: 192)
-        Dimension coordinates:
-            model_level_number                             x             -               -
-            latitude                                       -             x               -
-            longitude                                      -             -               x
-        Auxiliary coordinates:
-            level_height                                   x             -               -
-            sigma                                          x             -               -
-        Scalar coordinates:
-            forecast_period             25908.0 hours, bound=(25536.0, 26280.0) hours
-            forecast_reference_time     2005-01-01 00:00:00
-            time                        2007-12-16 12:00:00, bound=(2007-12-01 00:00:00, 2008-01-01 00:00:00)
-        Cell methods:
-            mean                        time (1 hour)
-        Attributes:
-            STASH                       m01s00i003
-            source                      'Data from Met Office Unified Model'
-            um_version                  '6.6'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
-  
-  ```
-  
-  
-
-  ### [PP/globClim1/v_wind.pp](test_data/PP/globClim1/v_wind.pp)
-
-  
-  
-  ```
-      y_wind / (m s-1)                    (model_level_number: 38; latitude: 144; longitude: 192)
-        Dimension coordinates:
-            model_level_number                             x             -               -
-            latitude                                       -             x               -
-            longitude                                      -             -               x
-        Auxiliary coordinates:
-            level_height                                   x             -               -
-            sigma                                          x             -               -
-        Scalar coordinates:
-            forecast_period             25908.0 hours, bound=(25536.0, 26280.0) hours
-            forecast_reference_time     2005-01-01 00:00:00
-            time                        2007-12-16 12:00:00, bound=(2007-12-01 00:00:00, 2008-01-01 00:00:00)
-        Cell methods:
-            mean                        time (1 hour)
-        Attributes:
-            STASH                       m01s00i003
-            source                      'Data from Met Office Unified Model'
-            um_version                  '6.6'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
-  
-  ```
-  
-  
-
-  ### [PP/globClim1/theta.pp](test_data/PP/globClim1/theta.pp)
-
-  
-  
-  ```
-      air_potential_temperature / (K)     (model_level_number: 38; latitude: 145; longitude: 192)
-        Dimension coordinates:
-            model_level_number                             x             -               -
-            latitude                                       -             x               -
-            longitude                                      -             -               x
-        Auxiliary coordinates:
-            level_height                                   x             -               -
-            sigma                                          x             -               -
-        Scalar coordinates:
-            forecast_period             25908.0 hours, bound=(25536.0, 26280.0) hours
-            forecast_reference_time     2005-01-01 00:00:00
-            time                        2007-12-16 12:00:00, bound=(2007-12-01 00:00:00, 2008-01-01 00:00:00)
-        Cell methods:
-            mean                        time (1 hour)
-        Attributes:
-            STASH                       m01s00i004
-            source                      'Data from Met Office Unified Model'
-            um_version                  '6.6'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
-  
-  ```
-  
-  
-
-  ### [PP/simple_pp/partial_mask.pp](test_data/PP/simple_pp/partial_mask.pp)
-
-  
-  
-  ```
-      unknown / (unknown)                 (time: 2; grid_latitude: 2; grid_longitude: 2)
-        Dimension coordinates:
-            time                             x                 -                  -
-            grid_latitude                    -                 x                  -
-            grid_longitude                   -                 -                  x
-        Auxiliary coordinates:
-            forecast_period                  x                 -                  -
-        Scalar coordinates:
-            forecast_reference_time     2014-12-21 00:00:00
-            pressure                    1000.0 hPa
-  ```
-  
-  
-  
-  
-
-  ### [PP/simple_pp/bad_global.pp](test_data/PP/simple_pp/bad_global.pp)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             6477.0 hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    1000.0 hPa
-            time                        1998-12-01 00:00:00
-        Attributes:
-            STASH                       m01s??i999
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  
-
-  ### [PP/simple_pp/global.pp](test_data/PP/simple_pp/global.pp)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             6477.0 hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    1000.0 hPa
-            time                        1998-12-01 00:00:00
-        Attributes:
-            STASH                       m01s16i203
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  
-
-  ### [PP/ukV1/ukVpmslont_first_field.pp](test_data/PP/ukV1/ukVpmslont_first_field.pp)
-
-  
-  
-  ```
-      air_pressure_at_sea_level / (Pa)    (grid_latitude: 928; grid_longitude: 744)
-        Dimension coordinates:
-            grid_latitude                             x                    -
-            grid_longitude                            -                    x
-        Scalar coordinates:
-            forecast_period             0.0 hours
-            forecast_reference_time     2010-02-08 03:00:00
-            time                        2010-02-08 03:00:00
-        Attributes:
-            STASH                       m01s16i222
-            source                      'Data from Met Office Unified Model'
-            um_version                  '7.3'
-  ```
-  
-  
-  
-  
-
-  ### [PP/ukV1/ukVpmslont.pp](test_data/PP/ukV1/ukVpmslont.pp)
-
-  
-  
-  ```
-      air_pressure_at_sea_level / (Pa)    (time: 25; grid_latitude: 928; grid_longitude: 744)
-        Dimension coordinates:
-            time                             x                  -                    -
-            grid_latitude                    -                  x                    -
-            grid_longitude                   -                  -                    x
-        Auxiliary coordinates:
-            forecast_period                  x                  -                    -
-        Scalar coordinates:
-            forecast_reference_time     2010-02-08 03:00:00
-        Attributes:
-            STASH                       m01s16i222
-            source                      'Data from Met Office Unified Model'
-            um_version                  '7.3'
-  ```
-  
-  
-  
-  
-
-  ### [PP/meanMaxMin/200806081200__qwpb.T24.pp](test_data/PP/meanMaxMin/200806081200__qwpb.T24.pp)
-
-  
-  
-  
-  
-  
-  ```
-  
-  ValueError: Unpacking PP fields with LBPACK of 1 requires mo_pack to be installed
-  
-  ```
-  
-
-  ### [PP/cf_processing/000003000000.16.202.000128.1860.09.01.00.00.b.pp](test_data/PP/cf_processing/000003000000.16.202.000128.1860.09.01.00.00.b.pp)
-
-  
-  
-  ```
-      m??s16i202 / (unknown)              (pressure: 3; latitude: 73; longitude: 96)
-        Dimension coordinates:
-            pressure                             x            -              -
-            latitude                             -            x              -
-            longitude                            -            -              x
-        Scalar coordinates:
-            forecast_period             1076.0 hours, bound=(-4.0, 2156.0) hours
-            forecast_reference_time     1860-09-01 04:00:00
-            time                        1860-10-16 00:00:00, bound=(1860-09-01 00:00:00, 1860-12-01 00:00:00)
-        Cell methods:
-            mean                        time (4 hour)
-        Attributes:
-            STASH                       m??s16i202
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/aaxzc_time_press.b.pp](test_data/PP/cf_processing/aaxzc_time_press.b.pp)
-
-  
-  
-  ```
-      geopotential_height / (m)           (pressure: 15; time: 4)
-        Dimension coordinates:
-            pressure                             x         -
-            time                                 -         x
-        Cell methods:
-            mean                        time
-        Attributes:
-            STASH                       m01s16i202
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/000003000000.03.236.008320.1990.12.01.00.00.b.pp](test_data/PP/cf_processing/000003000000.03.236.008320.1990.12.01.00.00.b.pp)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             106272.0 hours, bound=(105192.0, 107352.0) hours
-            forecast_reference_time     1978-12-01 00:00:00
-            height                      1.5 m
-            time                        1991-01-15 00:00:00, bound=(1990-12-01 00:00:00, 1991-03-01 00:00:00)
-        Attributes:
-            STASH                       m01s03i236
-            source                      'Data from Met Office Unified Model'
-            ukmo__process_flags         ('Maximum value of field during time period', 'Time mean field')
-  ```
-  
-  
-  
-  
-
-  ### [PP/cf_processing/st0fc942.b.pp](test_data/PP/cf_processing/st0fc942.b.pp)
-
-  
-  
-  ```
-      m02s00i??? / (unknown)              (pseudo_level: 4; time: 4; depth: 20; grid_latitude: 143)
-        Dimension coordinates:
-            pseudo_level                             x        -         -                  -
-            time                                     -        x         -                  -
-            depth                                    -        -         x                  -
-            grid_latitude                            -        -         -                  x
-        Auxiliary coordinates:
-            forecast_period                          -        x         -                  -
-        Scalar coordinates:
-            forecast_reference_time     1869-12-01 00:00:00
-        Cell methods:
-            mean                        time
-        Attributes:
-            STASH                       m02s00i???
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/12187.b.pp](test_data/PP/cf_processing/12187.b.pp)
-
-  
-  
-  ```
-      change_over_time_in_upward_air_velocity_due_to_advection / (m s-1) (model_level_number: 38; latitude: 145; longitude: 192)
-        Dimension coordinates:
-            model_level_number                                                            x             -               -
-            latitude                                                                      -             x               -
-            longitude                                                                     -             -               x
-        Auxiliary coordinates:
-            level_height                                                                  x             -               -
-            sigma                                                                         x             -               -
-        Scalar coordinates:
-            forecast_period                                            1080.0 hours, bound=(0.0, 2160.0) hours
-            forecast_reference_time                                    1988-12-01 00:00:00
-            time                                                       1989-01-16 00:00:00, bound=(1988-12-01 00:00:00, 1989-03-01 00:00:00)
-        Cell methods:
-            mean                                                       time (1 hour)
-        Attributes:
-            STASH                                                      m01s12i187
-            source                                                     'Data from Met Office Unified Model'
-            um_version                                                 '6.1'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/integer.b.pp](test_data/PP/cf_processing/integer.b.pp)
-
-  
-  
-  ```
-      m??s08i208 / (unknown)              (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -518400.0 hours, bound=(-1080000.0, 43200.0) hours
-            forecast_reference_time     1985-09-01 00:00:00
-            time                        1925-09-01 00:00:00, bound=(1860-09-01 00:00:00, 1990-09-01 00:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            STASH                       m??s08i208
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/aaxzc_lon_lat_several.b.pp](test_data/PP/cf_processing/aaxzc_lon_lat_several.b.pp)
-
-  
-  
-  ```
-      air_temperature / (K)               (time: 14; latitude: 73; longitude: 96)
-        Dimension coordinates:
-            time                             x             -              -
-            latitude                         -             x              -
-            longitude                        -             -              x
-        Auxiliary coordinates:
-            forecast_period                  x             -              -
-        Scalar coordinates:
-            forecast_reference_time     1991-09-01 00:00:00
-            height                      1.5 m
-        Cell methods:
-            mean                        time (1 hour)
-        Attributes:
-            STASH                       m01s03i236
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/000003000000.03.236.000128.1990.12.01.00.00.b.pp](test_data/PP/cf_processing/000003000000.03.236.000128.1990.12.01.00.00.b.pp)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             106266.0 hours, bound=(105186.0, 107346.0) hours
-            forecast_reference_time     1978-12-01 06:00:00
-            height                      1.5 m
-            time                        1991-01-15 00:00:00, bound=(1990-12-01 00:00:00, 1991-03-01 00:00:00)
-        Cell methods:
-            mean                        time (6 hour)
-        Attributes:
-            STASH                       m01s03i236
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  
-
-  ### [PP/cf_processing/st30211.b.pp](test_data/PP/cf_processing/st30211.b.pp)
-
-  
-  
-  ```
-      northward_ocean_heat_transport / (PW) (pseudo_level: 4; time: 4; latitude: 143; longitude: 1)
-        Dimension coordinates:
-            pseudo_level                               x        -            -               -
-            time                                       -        x            -               -
-            latitude                                   -        -            x               -
-            longitude                                  -        -            -               x
-        Auxiliary coordinates:
-            forecast_period                            -        x            -               -
-        Scalar coordinates:
-            forecast_reference_time       1869-12-01 00:00:00
-        Cell methods:
-            mean                          time
-        Attributes:
-            STASH                         m02s30i211
-            source                        'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/008000000000.44.101.000128.1890.09.01.00.00.b.pp](test_data/PP/cf_processing/008000000000.44.101.000128.1890.09.01.00.00.b.pp)
-
-  
-  
-  ```
-      m??s44i101 / (unknown)              (depth: 20; time: 16)
-        Dimension coordinates:
-            depth                             x         -
-            time                              -         x
-        Cell methods:
-            mean                        time (24 hour)
-        Attributes:
-            STASH                       m??s44i101
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/001000000000.00.000.000000.1860.01.01.00.00.f.b.pp](test_data/PP/cf_processing/001000000000.00.000.000000.1860.01.01.00.00.f.b.pp)
-
-  
-  
-  ```
-      unknown / (unknown)                 (latitude: 94; longitude: 128)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -43200.0 hours, bound=(-86400.0, 0.0) hours
-            forecast_reference_time     1870-01-01 00:00:00
-            time                        1865-01-01 00:00:00, bound=(1860-01-01 00:00:00, 1870-01-01 00:00:00)
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/HadCM2_ts_SAT_ann_18602100.b.pp](test_data/PP/cf_processing/HadCM2_ts_SAT_ann_18602100.b.pp)
-
-  
-  
-  ```
-      air_temperature / (K)               (time: 240; site_number: 3)
-        Dimension coordinates:
-            time                             x                 -
-            site_number                      -                 x
-        Auxiliary coordinates:
-            grid_latitude                    -                 x
-            grid_longitude                   -                 x
-        Cell methods:
-            mean                        time
-        Attributes:
-            STASH                       m??s03i236
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/aaxzc_tseries.b.pp](test_data/PP/cf_processing/aaxzc_tseries.b.pp)
-
-  
-  
-  ```
-      air_temperature / (K)               (time: 4; site_number: 1)
-        Dimension coordinates:
-            time                             x               -
-            site_number                      -               x
-        Scalar coordinates:
-            height                      1.5 m
-        Cell methods:
-            mean                        time
-        Attributes:
-            STASH                       m01s03i236
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/000003000000.03.236.004224.1990.12.01.00.00.b.pp](test_data/PP/cf_processing/000003000000.03.236.004224.1990.12.01.00.00.b.pp)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -1080.0 hours, bound=(-2160.0, 0.0) hours
-            forecast_reference_time     1991-03-01 00:00:00
-            height                      1.5 m
-            time                        1991-01-15 00:00:00, bound=(1990-12-01 00:00:00, 1991-03-01 00:00:00)
-        Cell methods:
-            mean                        time (6 hour)
-        Attributes:
-            STASH                       m01s03i236
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  
-
-  ### [PP/cf_processing/abxpa_press_lat.b.pp](test_data/PP/cf_processing/abxpa_press_lat.b.pp)
-
-  
-  
-  ```
-      geopotential_height / (m)           (pressure: 15; latitude: 73)
-        Dimension coordinates:
-            pressure                             x             -
-            latitude                             -             x
-        Scalar coordinates:
-            forecast_period             7717676.0 hours, bound=(7674476.0, 7760876.0) hours
-            forecast_reference_time     1991-09-01 04:00:00
-            time                        2884-12-01 00:00:00, bound=(2879-12-01 00:00:00, 2889-12-01 00:00:00)
-        Cell methods:
-            mean                        time (4 hour)
-        Attributes:
-            STASH                       m01s16i202
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/002000000000.44.101.131200.1920.09.01.00.00.b.pp](test_data/PP/cf_processing/002000000000.44.101.131200.1920.09.01.00.00.b.pp)
-
-  
-  
-  ```
-      m??s44i101 / (unknown)              (depth: 20; latitude: 73)
-        Dimension coordinates:
-            depth                             x             -
-            latitude                          -             x
-        Scalar coordinates:
-            forecast_period             388800.0 hours, bound=(302400.0, 475200.0) hours
-            forecast_reference_time     1885-09-01 00:00:00
-            time                        1930-09-01 00:00:00, bound=(1920-09-01 00:00:00, 1940-09-01 00:00:00)
-        Attributes:
-            STASH                       m??s44i101
-            source                      'Data from Met Office Unified Model'
-            ukmo__process_flags         ('Mean over an ensemble of parallel runs', 'Time mean field')
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/ocean_xsect.b.pp](test_data/PP/cf_processing/ocean_xsect.b.pp)
-
-  
-  
-  ```
-      sea_water_potential_temperature / (degC) (depth: 20; latitude: 144)
-        Dimension coordinates:
-            depth                                  x             -
-            latitude                               -             x
-        Scalar coordinates:
-            forecast_period                  -864000.0 hours, bound=(-1900800.0, 172800.0) hours
-            forecast_reference_time          2079-12-01 00:00:00
-            time                             1979-12-01 00:00:00, bound=(1859-12-01 00:00:00, 2099-12-01 00:00:00)
-        Cell methods:
-            mean                             time
-        Attributes:
-            STASH                            m02s00i101
-            source                           'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/aaxzc_lon_lat_press_orig.b.pp](test_data/PP/cf_processing/aaxzc_lon_lat_press_orig.b.pp)
-
-  
-  
-  ```
-      geopotential_height / (m)           (time: 2; pressure: 15; latitude: 73; longitude: 96)
-        Dimension coordinates:
-            time                             x            -             -              -
-            pressure                         -            x             -              -
-            latitude                         -            -             x              -
-            longitude                        -            -             -              x
-        Auxiliary coordinates:
-            forecast_period                  x            -             -              -
-        Scalar coordinates:
-            forecast_reference_time     2001-09-01 04:00:00
-        Cell methods:
-            mean                        time
-        Attributes:
-            STASH                       m01s16i202
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/aaxzc_level_lat_orig.b.pp](test_data/PP/cf_processing/aaxzc_level_lat_orig.b.pp)
-
-  
-  
-  ```
-      geopotential_height / (m)           (time: 2; pressure: 15; latitude: 73)
-        Dimension coordinates:
-            time                             x            -             -
-            pressure                         -            x             -
-            latitude                         -            -             x
-        Auxiliary coordinates:
-            forecast_period                  x            -             -
-        Scalar coordinates:
-            forecast_reference_time     2001-09-01 04:00:00
-        Cell methods:
-            mean                        time
-        Attributes:
-            STASH                       m01s16i202
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/st0fc699.b.pp](test_data/PP/cf_processing/st0fc699.b.pp)
-
-  
-  
-  ```
-      m02s00i??? / (unknown)              (latitude: 144; longitude: 288)
-        Dimension coordinates:
-            latitude                             x               -
-            longitude                            -               x
-        Scalar coordinates:
-            forecast_period             1859760.0 hours, bound=(1816560.0, 1902960.0) hours
-            forecast_reference_time     1991-09-01 00:00:00
-            time                        2206-12-01 00:00:00, bound=(2201-12-01 00:00:00, 2211-12-01 00:00:00)
-        Cell methods:
-            mean                        time (2 hour)
-        Attributes:
-            STASH                       m02s00i???
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/abcza_pa19591997_daily_29.b.pp](test_data/PP/cf_processing/abcza_pa19591997_daily_29.b.pp)
-
-  
-  
-  ```
-      air_temperature / (K)               (time: 360; latitude: 73; longitude: 96)
-        Dimension coordinates:
-            time                             x              -              -
-            latitude                         -              x              -
-            longitude                        -              -              x
-        Auxiliary coordinates:
-            forecast_period                  x              -              -
-        Scalar coordinates:
-            forecast_reference_time     1870-06-01 00:00:00
-            height                      1.5 m
-        Cell methods:
-            maximum                     time (1 hour)
-        Attributes:
-            STASH                       m01s03i236
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  ```
-      air_temperature / (K)               (time: 360; latitude: 73; longitude: 96)
-        Dimension coordinates:
-            time                             x              -              -
-            latitude                         -              x              -
-            longitude                        -              -              x
-        Auxiliary coordinates:
-            forecast_period                  x              -              -
-        Scalar coordinates:
-            forecast_reference_time     1870-06-01 00:00:00
-            height                      1.5 m
-        Cell methods:
-            minimum                     time (1 hour)
-        Attributes:
-            STASH                       m01s03i236
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  ```
-      precipitation_flux / (kg m-2 s-1)   (time: 360; latitude: 73; longitude: 96)
-        Dimension coordinates:
-            time                             x              -              -
-            latitude                         -              x              -
-            longitude                        -              -              x
-        Auxiliary coordinates:
-            forecast_period                  x              -              -
-        Scalar coordinates:
-            forecast_reference_time     1870-06-01 00:00:00
-        Cell methods:
-            mean                        time (1 hour)
-        Attributes:
-            STASH                       m01s05i216
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/model.b.pp](test_data/PP/cf_processing/model.b.pp)
-
-  
-  
-  ```
-      air_temperature / (K)               (time: 22; pressure: 9; latitude: 73; longitude: 96)
-        Dimension coordinates:
-            time                             x             -            -              -
-            pressure                         -             x            -              -
-            latitude                         -             -            x              -
-            longitude                        -             -            -              x
-        Auxiliary coordinates:
-            forecast_period                  x             -            -              -
-        Scalar coordinates:
-            forecast_reference_time     1974-09-01 04:00:00
-        Cell methods:
-            mean                        time (4 hour)
-        Attributes:
-            STASH                       m??s16i203
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/cf_processing/aaxzc_n10r13xy.b.pp](test_data/PP/cf_processing/aaxzc_n10r13xy.b.pp)
-
-  
-  
-  ```
-      air_temperature / (K)               (time: 4; latitude: 13; longitude: 10)
-        Dimension coordinates:
-            time                             x            -              -
-            latitude                         -            x              -
-            longitude                        -            -              x
-        Auxiliary coordinates:
-            forecast_period                  x            -              -
-        Scalar coordinates:
-            forecast_reference_time     1991-09-01 00:00:00
-        Cell methods:
-            mean                        time (1 hour)
-        Attributes:
-            source                      'Data from Met Office Unified Model'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  ```
-  
-  
-
-  ### [PP/model_comp/dec_first_field.pp](test_data/PP/model_comp/dec_first_field.pp)
-
-  
-  
-  ```
-      x_wind / (m s-1)                    (latitude: 145; longitude: 192)
-        Dimension coordinates:
-            latitude                             x               -
-            longitude                            -               x
-        Scalar coordinates:
-            forecast_period             25908.0 hours, bound=(25536.0, 26280.0) hours
-            forecast_reference_time     2005-01-01 00:00:00
-            level_height                9.998206 m, bound=(0.0, 20.000338) m
-            model_level_number          1
-            sigma                       0.99885815, bound=(1.0, 0.9977165)
-            time                        2007-12-16 12:00:00, bound=(2007-12-01 00:00:00, 2008-01-01 00:00:00)
-        Cell methods:
-            mean                        time (1 hour)
-        Attributes:
-            STASH                       m01s00i002
-            source                      'Data from Met Office Unified Model'
-            um_version                  '6.6'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
-  
-  ```
-  
-  
-
-  ### [PP/structured/small.pp](test_data/PP/structured/small.pp)
-
-  
-  
-  ```
-      air_pressure / (Pa)                 (time: 2; model_level_number: 3; latitude: 30; longitude: 40)
-        Dimension coordinates:
-            time                             x                      -            -              -
-            model_level_number               -                      x            -              -
-            latitude                         -                      -            x              -
-            longitude                        -                      -            -              x
-        Auxiliary coordinates:
-            forecast_period                  x                      -            -              -
-            level_height                     -                      x            -              -
-            sigma                            -                      x            -              -
-        Scalar coordinates:
-            forecast_reference_time     1991-03-01 00:00:00
-        Attributes:
-            STASH                       m01s00i407
-            source                      'Data from Met Office Unified Model'
-            um_version                  '8.5'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: has_year_zero kwarg ignored for idealized calendars (always True)
-  
-  UserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
-  
-  ```
-  
-  
-
-</details>
-
-
-
-<details>
-
-  <summary>GRIB</summary>
-
-  
-  ### [GRIB/fp_units/seconds.grib2](test_data/GRIB/fp_units/seconds.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 31; longitude: 16)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             24.0 hours
-            forecast_reference_time     2007-03-23 12:00:00
-            time                        2007-03-24 12:00:00
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-            centre                      'European Centre for Medium Range Weather Forecasts'
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/fp_units/hours.grib2](test_data/GRIB/fp_units/hours.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 31; longitude: 16)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             24 hours
-            forecast_reference_time     2007-03-23 12:00:00
-            time                        2007-03-24 12:00:00
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-            centre                      'European Centre for Medium Range Weather Forecasts'
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/fp_units/days.grib2](test_data/GRIB/fp_units/days.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 31; longitude: 16)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             24.0 hours
-            forecast_reference_time     2007-03-23 12:00:00
-            time                        2007-03-24 12:00:00
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-            centre                      'European Centre for Medium Range Weather Forecasts'
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/fp_units/minutes.grib2](test_data/GRIB/fp_units/minutes.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 31; longitude: 16)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             24.0 hours
-            forecast_reference_time     2007-03-23 12:00:00
-            time                        2007-03-24 12:00:00
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-            centre                      'European Centre for Medium Range Weather Forecasts'
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/lambert/lambert.grib2](test_data/GRIB/lambert/lambert.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (projection_y_coordinate: 799; projection_x_coordinate: 1199)
-        Dimension coordinates:
-            projection_y_coordinate                             x                             -
-            projection_x_coordinate                             -                             x
-        Scalar coordinates:
-            forecast_period             2 hours
-            forecast_reference_time     2013-05-07 12:00:00
-            height                      2.0 m
-            time                        2013-05-07 14:00:00
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/lambert/lambert.grib1](test_data/GRIB/lambert/lambert.grib1)
-
-  
-  
-  ```
-      air_temperature / (kelvin)          (projection_y_coordinate: 799; projection_x_coordinate: 1199)
-        Dimension coordinates:
-            projection_y_coordinate                             x                             -
-            projection_x_coordinate                             -                             x
-        Scalar coordinates:
-            forecast_period             36 hours
-            height                      2 m
-            originating_centre          US National Weather Service, National Centres for Environmental Predic...
-            time                        2013-06-15 12:00:00
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/shape_of_earth/1.grib2](test_data/GRIB/shape_of_earth/1.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    100000.0 Pa
-            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/shape_of_earth/2.grib2](test_data/GRIB/shape_of_earth/2.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    100000.0 Pa
-            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/shape_of_earth/0.grib2](test_data/GRIB/shape_of_earth/0.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    100000.0 Pa
-            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/shape_of_earth/3.grib2](test_data/GRIB/shape_of_earth/3.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    100000.0 Pa
-            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/shape_of_earth/7.grib2](test_data/GRIB/shape_of_earth/7.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    100000.0 Pa
-            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/shape_of_earth/5.grib2](test_data/GRIB/shape_of_earth/5.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    100000.0 Pa
-            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/shape_of_earth/4.grib2](test_data/GRIB/shape_of_earth/4.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    100000.0 Pa
-            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/shape_of_earth/global.grib1](test_data/GRIB/shape_of_earth/global.grib1)
-
-  
-  
-  ```
-      air_temperature / (kelvin)          (latitude: 481; longitude: 640)
-        Dimension coordinates:
-            latitude                             x               -
-            longitude                            -               x
-        Scalar coordinates:
-            forecast_period             0 hours
-            originating_centre          U.K. Met Office - Exeter
-            pressure                    1000 hPa
-            time                        2008-12-12 00:00:00
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/shape_of_earth/6.grib2](test_data/GRIB/shape_of_earth/6.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    100000.0 Pa
-            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/3_layer_viz/3_layer.grib2](test_data/GRIB/3_layer_viz/3_layer.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    100000.0 Pa
-            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  ```
-      air_temperature / (K)               (grid_latitude: 360; grid_longitude: 600)
-        Dimension coordinates:
-            grid_latitude                             x                    -
-            grid_longitude                            -                    x
-        Scalar coordinates:
-            forecast_period             0 hours
-            forecast_reference_time     2009-05-07 00:00:00
-            pressure                    100000.0 Pa
-            time                        2009-05-07 00:00:00
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  ```
-      air_temperature / (K)               (grid_latitude: 360; grid_longitude: 288)
-        Dimension coordinates:
-            grid_latitude                             x                    -
-            grid_longitude                            -                    x
-        Scalar coordinates:
-            forecast_period             0.0 hours, bound=(0.0, 0.0) hours
-            forecast_reference_time     2008-01-23 03:00:00
-            pressure                    999900.0 Pa
-            time                        2008-01-23 03:00:00, bound=(2008-01-23 03:00:00, 2008-01-23 03:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/uk_t/uk_t.grib2](test_data/GRIB/uk_t/uk_t.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 33; longitude: 47)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             48 hours
-            forecast_reference_time     2010-01-01 00:00:00
-            pressure                    0.0 Pa
-            time                        2010-01-03 00:00:00
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/time_processed/time_bound.grib1](test_data/GRIB/time_processed/time_bound.grib1)
-
-  
-  
-  ```
-      UNKNOWN LOCAL PARAM 106.137 / (unknown) (latitude: 321; longitude: 481)
-        Dimension coordinates:
-            latitude                                 x               -
-            longitude                                -               x
-        Scalar coordinates:
-            forecast_period                 1.5 hours, bound=(0.0, 3.0) hours
-            originating_centre              U.K. Met Office - Exeter
-            time                            2011-03-15 01:30:00, bound=(2011-03-15 00:00:00, 2011-03-15 03:00:00)
-        Cell methods:
-            mean                            time
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/time_processed/time_bound.grib2](test_data/GRIB/time_processed/time_bound.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    100000.0 Pa
-            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/jpeg2000/file.grib2](test_data/GRIB/jpeg2000/file.grib2)
-
-  
-  
-  ```
-      WAFC_CAT_potential / (1)            (latitude: 145; longitude: 288)
-        Dimension coordinates:
-            latitude                             x               -
-            longitude                            -               x
-        Scalar coordinates:
-            forecast_period             18.0 hours, bound=(36.0, 0.0) hours
-            forecast_reference_time     2010-02-08 06:00:00
-            pressure                    25000.0 Pa
-            time                        2010-02-09 00:00:00, bound=(2010-02-09 18:00:00, 2010-02-08 06:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c019n022
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/polar_stereo/CMC_glb_TMP_ISBL_1015_ps30km_2013052000_P006.grib2](test_data/GRIB/polar_stereo/CMC_glb_TMP_ISBL_1015_ps30km_2013052000_P006.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (projection_y_coordinate: 200; projection_x_coordinate: 247)
-        Dimension coordinates:
-            projection_y_coordinate                             x                             -
-            projection_x_coordinate                             -                             x
-        Scalar coordinates:
-            forecast_period             6 hours
-            forecast_reference_time     2013-05-20 00:00:00
-            pressure                    101500.0 Pa
-            time                        2013-05-20 06:00:00
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/polar_stereo/ST4.2013052210.01h](test_data/GRIB/polar_stereo/ST4.2013052210.01h)
-
-  
-  
-  ```
-      unknown / (unknown)                 (projection_y_coordinate: 881; projection_x_coordinate: 1121)
-        Dimension coordinates:
-            projection_y_coordinate                             x                             -
-            projection_x_coordinate                             -                             x
-        Scalar coordinates:
-            forecast_period             0.5 hours, bound=(0.0, 1.0) hours
-            originating_centre          US National Weather Service, National Centres for Environmental Predic...
-            time                        2013-05-22 09:30:00, bound=(2013-05-22 09:00:00, 2013-05-22 10:00:00)
-        Cell methods:
-            sum                         time
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/missing_values/missing_values.grib2](test_data/GRIB/missing_values/missing_values.grib2)
-
-  
-  
-  ```
-      x_wind / (m s-1)                    (latitude: 73; longitude: 144)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             0 hours
-            forecast_reference_time     2013-05-21 00:00:00
-            time                        2013-05-21 00:00:00
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c002n002
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/umukv/ukv_chan9.grib2](test_data/GRIB/umukv/ukv_chan9.grib2)
-
-  
-  
-  ```
-      unknown / (unknown)                              (projection_y_coordinate: 227; projection_x_coordinate: 390)
-        Dimension coordinates:
-            projection_y_coordinate                                          x                             -
-            projection_x_coordinate                                          -                             x
-        Scalar coordinates:
-            instrument_type                          207
-            satellite_number                         56
-            satellite_series                         333
-            sensor_band_central_radiation_wavenumber 92.0 m-1
-            time                                     2010-09-08 21:00:00
-        Attributes:
-            GRIB_PARAM                               GRIB2:d003c000n002
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/rotated_uk/uk_wrongparam.grib1](test_data/GRIB/rotated_uk/uk_wrongparam.grib1)
-
-  
-  
-  ```
-      air_temperature / (kelvin)          (grid_latitude: 360; grid_longitude: 288)
-        Dimension coordinates:
-            grid_latitude                             x                    -
-            grid_longitude                            -                    x
-        Scalar coordinates:
-            forecast_period             2 hours
-            originating_centre          U.K. Met Office - Exeter
-            pressure                    600 hPa
-            time                        2007-07-19 14:00:00
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/grib1_second_order_packing/GRIB_00008_FRANX01](test_data/GRIB/grib1_second_order_packing/GRIB_00008_FRANX01)
-
-  
-  
-  ```
-      unknown / (unknown)                 (latitude: 221; longitude: 281)
-        Dimension coordinates:
-            latitude                             x               -
-            longitude                            -               x
-        Scalar coordinates:
-            forecast_period             0 hours
-            originating_centre          unknown centre lfpw
-            time                        0001-01-17 00:00:00
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/ij_directions/ipos_jpos.grib2](test_data/GRIB/ij_directions/ipos_jpos.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    100000.0 Pa
-            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/ij_directions/ineg_jpos.grib2](test_data/GRIB/ij_directions/ineg_jpos.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    100000.0 Pa
-            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/ij_directions/ipos_jneg.grib2](test_data/GRIB/ij_directions/ipos_jneg.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    100000.0 Pa
-            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/ij_directions/ineg_jneg.grib2](test_data/GRIB/ij_directions/ineg_jneg.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    100000.0 Pa
-            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/global_t/global.grib2](test_data/GRIB/global_t/global.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (latitude: 73; longitude: 96)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
-            forecast_reference_time     1998-03-06 03:00:00
-            pressure                    100000.0 Pa
-            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
-        Cell methods:
-            mean                        time
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/gaussian/regular_gg.grib2](test_data/GRIB/gaussian/regular_gg.grib2)
-
-  
-  
-  ```
-      geopotential_height / (m)           (latitude: 96; longitude: 192)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             69 hours
-            forecast_reference_time     2013-08-13 00:00:00
-            pressure                    52500.0 Pa
-            time                        2013-08-15 21:00:00
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c003n005
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/gaussian/regular_gg.grib1](test_data/GRIB/gaussian/regular_gg.grib1)
-
-  
-  
-  ```
-      x_wind / (m s-1)                    (latitude: 96; longitude: 192)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             0 hours
-            originating_centre          US National Weather Service, National Centres for Environmental Predic...
-            pressure                    850 hPa
-            time                        2004-04-02 00:00:00
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/reduced/reduced_ll.grib1](test_data/GRIB/reduced/reduced_ll.grib1)
-
-  
-  
-  ```
-      air_temperature / (kelvin)          (-- : 3447)
-        Scalar coordinates:
-            forecast_period             24 hours
-            originating_centre          U.K. Met Office - Exeter
-            pressure                    850 hPa
-            time                        2013-05-01 00:00:00
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/reduced/reduced_ll_missing.grib1](test_data/GRIB/reduced/reduced_ll_missing.grib1)
-
-  
-  
-  ```
-      air_temperature / (kelvin)          (-- : 3127)
-        Scalar coordinates:
-            forecast_period             24 hours
-            originating_centre          U.K. Met Office - Exeter
-            pressure                    850 hPa
-            time                        2013-05-01 00:00:00
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/reduced/reduced_gg.grib2](test_data/GRIB/reduced/reduced_gg.grib2)
-
-  
-  
-  ```
-      geopotential / (m2 s-2)             (-- : 13280)
-        Auxiliary coordinates:
-            latitude                        x
-            longitude                       x
-        Scalar coordinates:
-            forecast_period             0 hours
-            forecast_reference_time     2013-02-01 00:00:00
-            level_pressure              2.000040054321289 Pa
-            model_level_number          1
-            sigma                       0.0
-            time                        2013-02-01 00:00:00
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c003n004
-            centre                      'European Centre for Medium Range Weather Forecasts'
-  ```
-  
-  
-  
-  ```
-  
-  UserWarning: Unable to create instance of HybridPressureFactory. The source data contains no field(s) for 'ref_surface_pressure'.
-  
-  ```
-  
-  
-
-  ### [GRIB/bulletin/40bytes.grib](test_data/GRIB/bulletin/40bytes.grib)
-
-  
-  
-  ```
-      icao_standard_atmosphere_reference_height / (m) (latitude: 145; longitude: 288)
-        Dimension coordinates:
-            latitude                                         x               -
-            longitude                                        -               x
-        Scalar coordinates:
-            forecast_period                         15 hours
-            forecast_reference_time                 2011-12-21 06:00:00
-            time                                    2011-12-21 21:00:00
-        Attributes:
-            GRIB_PARAM                              GRIB2:d000c003n003
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/bulletin/41bytes.grib](test_data/GRIB/bulletin/41bytes.grib)
-
-  
-  
-  ```
-      unknown / (unknown)                 (latitude: 61; longitude: 61)
-        Dimension coordinates:
-            latitude                             x              -
-            longitude                            -              x
-        Scalar coordinates:
-            forecast_period             72 hours
-            originating_centre          unknown centre lfpw
-            time                        2013-05-03 00:00:00
-  ```
-  
-  
-  
-  
-
-  ### [GRIB/rotated_nae_t/sensible_pole.grib2](test_data/GRIB/rotated_nae_t/sensible_pole.grib2)
-
-  
-  
-  ```
-      air_temperature / (K)               (grid_latitude: 360; grid_longitude: 600)
-        Dimension coordinates:
-            grid_latitude                             x                    -
-            grid_longitude                            -                    x
-        Scalar coordinates:
-            forecast_period             0 hours
-            forecast_reference_time     2009-05-07 00:00:00
-            pressure                    100000.0 Pa
-            time                        2009-05-07 00:00:00
-        Attributes:
-            GRIB_PARAM                  GRIB2:d000c000n000
-  ```
-  
-  
-  
-  
-
-</details>
-
-
-
-<details>
-
-  <summary>images</summary>
-
-  
-  ### [images/gallery_tests.test_plot_anomaly_log_colouring.TestAnomalyLogColouring.test_plot_anomaly_log_colouring.0.png](test_data/images/gallery_tests.test_plot_anomaly_log_colouring.TestAnomalyLogColouring.test_plot_anomaly_log_colouring.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_anomaly_log_colouring.TestAnomalyLogColouring.test_plot_anomaly_log_colouring.0.png](test_data/images/gallery_tests.test_plot_anomaly_log_colouring.TestAnomalyLogColouring.test_plot_anomaly_log_colouring.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestHybridHeight.test_bounds.2.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.2.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.2.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.2.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_yx_order.1.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_yx_order.1.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_yx_order.1.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_yx_order.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.5.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.5.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.5.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.5.png)
-  
-  
-  
-
-  ### [images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.1.png](test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.1.png)
-
-  
-  ![test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.1.png](test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestBoundedCube.test_grid.0.png](test_data/images/iris.tests.test_mapping.TestBoundedCube.test_grid.0.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestBoundedCube.test_grid.0.png](test_data/images/iris.tests.test_mapping.TestBoundedCube.test_grid.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestContourf.test_tz.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_tz.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestContourf.test_tz.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_tz.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_coord.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_coord.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_coord.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_coord.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_lineplot_with_legend.TestLineplotWithLegend.test_plot_lineplot_with_legend.0.png](test_data/images/gallery_tests.test_plot_lineplot_with_legend.TestLineplotWithLegend.test_plot_lineplot_with_legend.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_lineplot_with_legend.TestLineplotWithLegend.test_plot_lineplot_with_legend.0.png](test_data/images/gallery_tests.test_plot_lineplot_with_legend.TestLineplotWithLegend.test_plot_lineplot_with_legend.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_cross_section.TestCrossSection.test_plot_cross_section.1.png](test_data/images/gallery_tests.test_plot_cross_section.TestCrossSection.test_plot_cross_section.1.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_cross_section.TestCrossSection.test_plot_cross_section.1.png](test_data/images/gallery_tests.test_plot_cross_section.TestCrossSection.test_plot_cross_section.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.3.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.3.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.3.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.3.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coords.1.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coords.1.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coords.1.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coords.1.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.0.png](test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.0.png](test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_non_latlon_2d_coords.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_non_latlon_2d_coords.0.png)
-
-  
-  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_non_latlon_2d_coords.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_non_latlon_2d_coords.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolormeshNoBounds.test_ty.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_ty.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_ty.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_ty.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlot.test_t_dates.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_t_dates.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlot.test_t_dates.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_t_dates.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestLimitedAreaCube.test_pcolormesh.0.png](test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_pcolormesh.0.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_pcolormesh.0.png](test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_pcolormesh.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.3.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.3.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.3.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.3.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestLabels.test_map.1.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_map.1.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_map.1.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_map.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.1.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.1.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.1.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.1.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_deriving_phenomena.TestDerivingPhenomena.test_plot_deriving_phenomena.0.png](test_data/images/gallery_tests.test_plot_deriving_phenomena.TestDerivingPhenomena.test_plot_deriving_phenomena.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_deriving_phenomena.TestDerivingPhenomena.test_plot_deriving_phenomena.0.png](test_data/images/gallery_tests.test_plot_deriving_phenomena.TestDerivingPhenomena.test_plot_deriving_phenomena.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestMissingCoord.test_none.0.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_none.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestMissingCoord.test_none.0.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_none.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.0.png](test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.0.png](test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolor.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_zx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolor.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_zx.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_projections_and_annotations.TestProjectionsAndAnnotations.test_plot_projections_and_annotations.0.png](test_data/images/gallery_tests.test_plot_projections_and_annotations.TestProjectionsAndAnnotations.test_plot_projections_and_annotations.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_projections_and_annotations.TestProjectionsAndAnnotations.test_plot_projections_and_annotations.0.png](test_data/images/gallery_tests.test_plot_projections_and_annotations.TestProjectionsAndAnnotations.test_plot_projections_and_annotations.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.4.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.4.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.4.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.4.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.2.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.2.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.2.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.2.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_y.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_y.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_y.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_y.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestUnmappable.test_simple.0.png](test_data/images/iris.tests.test_mapping.TestUnmappable.test_simple.0.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestUnmappable.test_simple.0.png](test_data/images/iris.tests.test_mapping.TestUnmappable.test_simple.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestAttributePositive.test_2d_positive_down.0.png](test_data/images/iris.tests.test_plot.TestAttributePositive.test_2d_positive_down.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestAttributePositive.test_2d_positive_down.0.png](test_data/images/iris.tests.test_plot.TestAttributePositive.test_2d_positive_down.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.5.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.5.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.5.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.5.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestMappingSubRegion.test_simple.0.png](test_data/images/iris.tests.test_mapping.TestMappingSubRegion.test_simple.0.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestMappingSubRegion.test_simple.0.png](test_data/images/iris.tests.test_mapping.TestMappingSubRegion.test_simple.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolormesh.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_zx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolormesh.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_zx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolormeshNoBounds.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_yx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_yx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestContour.test_zx.0.png](test_data/images/iris.tests.test_plot.TestContour.test_zx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestContour.test_zx.0.png](test_data/images/iris.tests.test_plot.TestContour.test_zx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestLimitedAreaCube.test_grid.0.png](test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_grid.0.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_grid.0.png](test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_grid.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.1.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.1.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.1.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestQuickplotPlot.test_t_dates.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_t_dates.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_t_dates.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_t_dates.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestHybridHeight.test_points.0.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.0.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_yx_order.0.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_yx_order.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_yx_order.0.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_yx_order.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestLabels.test_map.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_map.0.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_map.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_map.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolorNoBounds.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_yx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_yx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestLabels.test_contourf.1.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.1.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.1.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.integration.plot.test_plot_2d_coords.Test.test_2d_coord_bounds_northpolarstereo.0.png](test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test.test_2d_coord_bounds_northpolarstereo.0.png)
-
-  
-  ![test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test.test_2d_coord_bounds_northpolarstereo.0.png](test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test.test_2d_coord_bounds_northpolarstereo.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.2.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.2.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.2.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.2.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.5.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.5.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.5.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.5.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlot.test_y.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_y.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlot.test_y.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_y.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolormeshNoBounds.test_zy.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_zy.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_zy.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_zy.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_coord.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_coord.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestSymbols.test_cloud_cover.0.png](test_data/images/iris.tests.test_plot.TestSymbols.test_cloud_cover.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestSymbols.test_cloud_cover.0.png](test_data/images/iris.tests.test_plot.TestSymbols.test_cloud_cover.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestContour.test_zy.0.png](test_data/images/iris.tests.test_plot.TestContour.test_zy.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestContour.test_zy.0.png](test_data/images/iris.tests.test_plot.TestContour.test_zy.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_SOI_filtering.TestSOIFiltering.test_plot_soi_filtering.0.png](test_data/images/gallery_tests.test_plot_SOI_filtering.TestSOIFiltering.test_plot_soi_filtering.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_SOI_filtering.TestSOIFiltering.test_plot_soi_filtering.0.png](test_data/images/gallery_tests.test_plot_SOI_filtering.TestSOIFiltering.test_plot_soi_filtering.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube_cube.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube_cube.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube_cube.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube_cube.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolorNoBounds.test_tz.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_tz.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_tz.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_tz.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestContour.test_tz.0.png](test_data/images/iris.tests.test_plot.TestContour.test_tz.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestContour.test_tz.0.png](test_data/images/iris.tests.test_plot.TestContour.test_tz.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_non_latlon_1d_coords.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_non_latlon_1d_coords.0.png)
-
-  
-  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_non_latlon_1d_coords.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_non_latlon_1d_coords.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.3.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.3.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.3.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.3.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestSimple.test_points.0.png](test_data/images/iris.tests.test_plot.TestSimple.test_points.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestSimple.test_points.0.png](test_data/images/iris.tests.test_plot.TestSimple.test_points.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_plain_latlon.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_plain_latlon.0.png)
-
-  
-  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_plain_latlon.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_plain_latlon.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestHybridHeight.test_orography.0.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_orography.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_orography.0.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_orography.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.2.png](test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.2.png)
-
-  
-  ![test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.2.png](test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.2.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_projections_and_annotations.TestProjectionsAndAnnotations.test_plot_projections_and_annotations.1.png](test_data/images/gallery_tests.test_plot_projections_and_annotations.TestProjectionsAndAnnotations.test_plot_projections_and_annotations.1.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_projections_and_annotations.TestProjectionsAndAnnotations.test_plot_projections_and_annotations.1.png](test_data/images/gallery_tests.test_plot_projections_and_annotations.TestProjectionsAndAnnotations.test_plot_projections_and_annotations.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestContourf.test_zx.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_zx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestContourf.test_zx.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_zx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestAttributePositive.test_1d_positive_down.0.png](test_data/images/iris.tests.test_plot.TestAttributePositive.test_1d_positive_down.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestAttributePositive.test_1d_positive_down.0.png](test_data/images/iris.tests.test_plot.TestAttributePositive.test_1d_positive_down.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_hovmoller.TestGlobalMap.test_plot_hovmoller.0.png](test_data/images/gallery_tests.test_plot_hovmoller.TestGlobalMap.test_plot_hovmoller.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_hovmoller.TestGlobalMap.test_plot_hovmoller.0.png](test_data/images/gallery_tests.test_plot_hovmoller.TestGlobalMap.test_plot_hovmoller.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_load_nemo.TestLoadNemo.test_plot_load_nemo.0.png](test_data/images/gallery_tests.test_plot_load_nemo.TestLoadNemo.test_plot_load_nemo.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_load_nemo.TestLoadNemo.test_plot_load_nemo.0.png](test_data/images/gallery_tests.test_plot_load_nemo.TestLoadNemo.test_plot_load_nemo.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestQuickplotPlot.test_z.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_z.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_z.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_z.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolormesh.test_tz.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_tz.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolormesh.test_tz.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_tz.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube_coord.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube_coord.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.2.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.2.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.2.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.2.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestLowLevel.test_keywords.1.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_keywords.1.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestLowLevel.test_keywords.1.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_keywords.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_cube.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_cube.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlot.test_z.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_z.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlot.test_z.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_z.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolor.test_ty.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_ty.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolor.test_ty.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_ty.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_analysis.TestProject.test_cartopy_projection.0.png](test_data/images/iris.tests.test_analysis.TestProject.test_cartopy_projection.0.png)
-
-  
-  ![test_data/images/iris.tests.test_analysis.TestProject.test_cartopy_projection.0.png](test_data/images/iris.tests.test_analysis.TestProject.test_cartopy_projection.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_inset.TestInsetPlot.test_plot_inset.0.png](test_data/images/gallery_tests.test_plot_inset.TestInsetPlot.test_plot_inset.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_inset.TestInsetPlot.test_plot_inset.0.png](test_data/images/gallery_tests.test_plot_inset.TestInsetPlot.test_plot_inset.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestQuickplotPlot.test_y.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_y.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_y.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_y.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestTimeReferenceUnitsLabels.test_not_reference_time_units.0.png](test_data/images/iris.tests.test_quickplot.TestTimeReferenceUnitsLabels.test_not_reference_time_units.0.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestTimeReferenceUnitsLabels.test_not_reference_time_units.0.png](test_data/images/iris.tests.test_quickplot.TestTimeReferenceUnitsLabels.test_not_reference_time_units.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCitation.test.0.png](test_data/images/iris.tests.test_plot.TestPlotCitation.test.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCitation.test.0.png](test_data/images/iris.tests.test_plot.TestPlotCitation.test.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolormeshNoBounds.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_tx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_tx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestBasic.test_pcolor.0.png](test_data/images/iris.tests.test_mapping.TestBasic.test_pcolor.0.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestBasic.test_pcolor.0.png](test_data/images/iris.tests.test_mapping.TestBasic.test_pcolor.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestContourf.test_ty.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_ty.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestContourf.test_ty.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_ty.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestLimitedAreaCube.test_outline.0.png](test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_outline.0.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_outline.0.png](test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_outline.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.1.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.1.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.1.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_coord_map.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_coord_map.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_coord_map.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord_coord_map.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestContour.test_tx.0.png](test_data/images/iris.tests.test_plot.TestContour.test_tx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestContour.test_tx.0.png](test_data/images/iris.tests.test_plot.TestContour.test_tx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolormesh.test_zy.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_zy.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolormesh.test_zy.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_zy.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.1.png](test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.1.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.1.png](test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_rotated_latlon.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_rotated_latlon.0.png)
-
-  
-  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_rotated_latlon.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_rotated_latlon.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestBasic.test_unmappable.0.png](test_data/images/iris.tests.test_mapping.TestBasic.test_unmappable.0.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestBasic.test_unmappable.0.png](test_data/images/iris.tests.test_mapping.TestBasic.test_unmappable.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dScatter.test_cube_cube.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_cube_cube.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dScatter.test_cube_cube.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_cube_cube.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlot.test_x.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_x.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlot.test_x.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_x.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.1.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.1.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.1.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.1.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.3.png](test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.3.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.3.png](test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.3.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_TEC.TestTEC.test_plot_TEC.0.png](test_data/images/gallery_tests.test_plot_TEC.TestTEC.test_plot_TEC.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_TEC.TestTEC.test_plot_TEC.0.png](test_data/images/gallery_tests.test_plot_TEC.TestTEC.test_plot_TEC.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolor.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_yx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolor.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_yx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestMissingCoord.test_no_v.0.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_v.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_v.0.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_v.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_cube.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_cube.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestLabels.test_pcolor.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolor.0.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolor.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolor.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlot.test_t.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_t.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlot.test_t.0.png](test_data/images/iris.tests.test_plot.TestPlot.test_t.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.5.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.5.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.5.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.5.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_COP_maps.TestCOPMaps.test_plot_cop_maps.0.png](test_data/images/gallery_tests.test_plot_COP_maps.TestCOPMaps.test_plot_cop_maps.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_COP_maps.TestCOPMaps.test_plot_cop_maps.0.png](test_data/images/gallery_tests.test_plot_COP_maps.TestCOPMaps.test_plot_cop_maps.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCitation.test_axes.0.png](test_data/images/iris.tests.test_plot.TestPlotCitation.test_axes.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCitation.test_axes.0.png](test_data/images/iris.tests.test_plot.TestPlotCitation.test_axes.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_custom_file_loading.TestCustomFileLoading.test_plot_custom_file_loading.0.png](test_data/images/gallery_tests.test_plot_custom_file_loading.TestCustomFileLoading.test_plot_custom_file_loading.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_custom_file_loading.TestCustomFileLoading.test_plot_custom_file_loading.0.png](test_data/images/gallery_tests.test_plot_custom_file_loading.TestCustomFileLoading.test_plot_custom_file_loading.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestLowLevel.test_params.1.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.1.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.1.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCitation.test_figure.0.png](test_data/images/iris.tests.test_plot.TestPlotCitation.test_figure.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCitation.test_figure.0.png](test_data/images/iris.tests.test_plot.TestPlotCitation.test_figure.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolorNoBounds.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_zx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_zx.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_wind_speed.TestWindSpeed.test_plot_wind_speed.1.png](test_data/images/gallery_tests.test_plot_wind_speed.TestWindSpeed.test_plot_wind_speed.1.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_wind_speed.TestWindSpeed.test_plot_wind_speed.1.png](test_data/images/gallery_tests.test_plot_wind_speed.TestWindSpeed.test_plot_wind_speed.1.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_cross_section.TestCrossSection.test_plot_cross_section.0.png](test_data/images/gallery_tests.test_plot_cross_section.TestCrossSection.test_plot_cross_section.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_cross_section.TestCrossSection.test_plot_cross_section.0.png](test_data/images/gallery_tests.test_plot_cross_section.TestCrossSection.test_plot_cross_section.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_default.0.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_default.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_default.0.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_default.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.4.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.4.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.4.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.4.png)
-  
-  
-  
-
-  ### [images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_plain_latlon_on_polar_map.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_plain_latlon_on_polar_map.0.png)
-
-  
-  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_plain_latlon_on_polar_map.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_2d_plain_latlon_on_polar_map.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolor.test_tz.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_tz.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolor.test_tz.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_tz.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.2.png](test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.2.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.2.png](test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.2.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.5.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.5.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.5.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.5.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestContourf.test_zy.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_zy.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestContourf.test_zy.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_zy.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolor.test_zy.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_zy.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolor.test_zy.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_zy.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_lagged_ensemble.TestLaggedEnsemble.test_plot_lagged_ensemble.1.png](test_data/images/gallery_tests.test_plot_lagged_ensemble.TestLaggedEnsemble.test_plot_lagged_ensemble.1.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_lagged_ensemble.TestLaggedEnsemble.test_plot_lagged_ensemble.1.png](test_data/images/gallery_tests.test_plot_lagged_ensemble.TestLaggedEnsemble.test_plot_lagged_ensemble.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestBoundedCube.test_pcolormesh.0.png](test_data/images/iris.tests.test_mapping.TestBoundedCube.test_pcolormesh.0.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestBoundedCube.test_pcolormesh.0.png](test_data/images/iris.tests.test_mapping.TestBoundedCube.test_pcolormesh.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolormeshNoBounds.test_tz.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_tz.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_tz.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_tz.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolorNoBounds.test_ty.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_ty.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_ty.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_ty.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestLabels.test_pcolormesh_str_symbol.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolormesh_str_symbol.0.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolormesh_str_symbol.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolormesh_str_symbol.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.integration.plot.test_plot_2d_coords.Test.test_2d_coord_bounds_platecarree.0.png](test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test.test_2d_coord_bounds_platecarree.0.png)
-
-  
-  ![test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test.test_2d_coord_bounds_platecarree.0.png](test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test.test_2d_coord_bounds_platecarree.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestContour.test_ty.0.png](test_data/images/iris.tests.test_plot.TestContour.test_ty.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestContour.test_ty.0.png](test_data/images/iris.tests.test_plot.TestContour.test_ty.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestLowLevel.test_keywords.0.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_keywords.0.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestLowLevel.test_keywords.0.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_keywords.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestMissingCoord.test_no_v.1.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_v.1.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_v.1.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_v.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestMissingCoord.test_none.1.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_none.1.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestMissingCoord.test_none.1.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_none.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestQuickplotPlot.test_t.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_t.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_t.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_t.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_custom_aggregation.TestCustomAggregation.test_plot_custom_aggregation.0.png](test_data/images/gallery_tests.test_plot_custom_aggregation.TestCustomAggregation.test_plot_custom_aggregation.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_custom_aggregation.TestCustomAggregation.test_plot_custom_aggregation.0.png](test_data/images/gallery_tests.test_plot_custom_aggregation.TestCustomAggregation.test_plot_custom_aggregation.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestLabels.test_contour.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contour.0.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_contour.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contour.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestLabels.test_contourf.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.0.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.3.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.3.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.3.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.3.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestHybridHeight.test_points.1.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.1.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.1.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestContour.test_yx.0.png](test_data/images/iris.tests.test_plot.TestContour.test_yx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestContour.test_yx.0.png](test_data/images/iris.tests.test_plot.TestContour.test_yx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.2.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.2.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.2.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.2.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_coord.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_coord_map.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_coord_map.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_coord_map.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_coord_map.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.2.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.2.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.2.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.2.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.4.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.4.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.4.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.4.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dScatter.test_cube_coord.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_cube_coord.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dScatter.test_cube_coord.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_cube_coord.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_plain_latlon_on_polar_map.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_plain_latlon_on_polar_map.0.png)
-
-  
-  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_plain_latlon_on_polar_map.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_plain_latlon_on_polar_map.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestLowLevel.test_simple.0.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_simple.0.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestLowLevel.test_simple.0.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_simple.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dQuickplotScatter.test_cube_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_cube_coord.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_cube_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_cube_coord.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestMissingCoord.test_no_u.0.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_u.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_u.0.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_u.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_COP_1d.TestCOP1DPlot.test_plot_COP_1d.0.png](test_data/images/gallery_tests.test_plot_COP_1d.TestCOP1DPlot.test_plot_COP_1d.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_COP_1d.TestCOP1DPlot.test_plot_COP_1d.0.png](test_data/images/gallery_tests.test_plot_COP_1d.TestCOP1DPlot.test_plot_COP_1d.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_coord_map.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_coord_map.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_coord_map.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_coord_map.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestSimple.test_bounds.0.png](test_data/images/iris.tests.test_plot.TestSimple.test_bounds.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestSimple.test_bounds.0.png](test_data/images/iris.tests.test_plot.TestSimple.test_bounds.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_plain_latlon.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_plain_latlon.0.png)
-
-  
-  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_plain_latlon.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_plain_latlon.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.2.png](test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.2.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.2.png](test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.2.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.4.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.4.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.4.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_tx.4.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.1.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.1.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.1.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.1.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.1.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.1.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_x.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_x.0.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_x.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_x.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coord_names.0.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coord_names.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coord_names.0.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coord_names.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.4.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.4.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.4.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.4.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_wind_speed.TestWindSpeed.test_plot_wind_speed.0.png](test_data/images/gallery_tests.test_plot_wind_speed.TestWindSpeed.test_plot_wind_speed.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_wind_speed.TestWindSpeed.test_plot_wind_speed.0.png](test_data/images/gallery_tests.test_plot_wind_speed.TestWindSpeed.test_plot_wind_speed.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestAttributePositive.test_1d_positive_up.0.png](test_data/images/iris.tests.test_plot.TestAttributePositive.test_1d_positive_up.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestAttributePositive.test_1d_positive_up.0.png](test_data/images/iris.tests.test_plot.TestAttributePositive.test_1d_positive_up.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_yx.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.3.png](test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.3.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.3.png](test_data/images/gallery_tests.test_plot_rotated_pole_mapping.TestRotatedPoleMapping.test_plot_rotated_pole_mapping.3.png)
-  
-  
-  
-
-  ### [images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_rotated_latlon.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_rotated_latlon.0.png)
-
-  
-  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_rotated_latlon.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestBarbs.test_2d_rotated_latlon.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestAttributePositive.test_2d_positive_up.0.png](test_data/images/iris.tests.test_plot.TestAttributePositive.test_2d_positive_up.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestAttributePositive.test_2d_positive_up.0.png](test_data/images/iris.tests.test_plot.TestAttributePositive.test_2d_positive_up.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestLowLevel.test_params.0.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.0.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.0.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_coriolis.TestCoriolisPlot.test_plot_coriolis.0.png](test_data/images/gallery_tests.test_plot_coriolis.TestCoriolisPlot.test_plot_coriolis.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_coriolis.TestCoriolisPlot.test_plot_coriolis.0.png](test_data/images/gallery_tests.test_plot_coriolis.TestCoriolisPlot.test_plot_coriolis.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.0.png](test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.0.png)
-
-  
-  ![test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.0.png](test_data/images/iris.tests.experimental.test_animate.IntegrationTest.test_cube_animation.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestHybridHeight.test_orography.1.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_orography.1.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_orography.1.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_orography.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestBasic.test_contourf.0.png](test_data/images/iris.tests.test_mapping.TestBasic.test_contourf.0.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestBasic.test_contourf.0.png](test_data/images/iris.tests.test_mapping.TestBasic.test_contourf.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coord_names.1.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coord_names.1.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coord_names.1.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coord_names.1.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_lagged_ensemble.TestLaggedEnsemble.test_plot_lagged_ensemble.0.png](test_data/images/gallery_tests.test_plot_lagged_ensemble.TestLaggedEnsemble.test_plot_lagged_ensemble.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_lagged_ensemble.TestLaggedEnsemble.test_plot_lagged_ensemble.0.png](test_data/images/gallery_tests.test_plot_lagged_ensemble.TestLaggedEnsemble.test_plot_lagged_ensemble.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotOtherCoordSystems.test_plot_tmerc.0.png](test_data/images/iris.tests.test_plot.TestPlotOtherCoordSystems.test_plot_tmerc.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotOtherCoordSystems.test_plot_tmerc.0.png](test_data/images/iris.tests.test_plot.TestPlotOtherCoordSystems.test_plot_tmerc.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolorNoBounds.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_tx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_tx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestLabels.test_contourf.2.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.2.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.2.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf.2.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.5.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.5.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.5.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.5.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dScatter.test_coord_coord_map.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_coord_map.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_coord_map.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_coord_map.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestLabels.test_contour.1.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contour.1.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_contour.1.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contour.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolor.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_tx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolor.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPcolor.test_tx.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_polar_stereo.TestPolarStereo.test_plot_polar_stereo.0.png](test_data/images/gallery_tests.test_plot_polar_stereo.TestPolarStereo.test_plot_polar_stereo.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_polar_stereo.TestPolarStereo.test_plot_polar_stereo.0.png](test_data/images/gallery_tests.test_plot_polar_stereo.TestPolarStereo.test_plot_polar_stereo.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_polynomial_fit.TestPolynomialFit.test_plot_polynomial_fit.0.png](test_data/images/gallery_tests.test_plot_polynomial_fit.TestPolynomialFit.test_plot_polynomial_fit.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_polynomial_fit.TestPolynomialFit.test_plot_polynomial_fit.0.png](test_data/images/gallery_tests.test_plot_polynomial_fit.TestPolynomialFit.test_plot_polynomial_fit.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolormesh.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_yx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolormesh.test_yx.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_yx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestHybridHeight.test_bounds.1.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.1.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.1.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolormesh.test_ty.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_ty.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolormesh.test_ty.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_ty.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolormeshNoBounds.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_zx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_zx.0.png](test_data/images/iris.tests.test_plot.TestPcolormeshNoBounds.test_zx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dQuickplotScatter.test_cube_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_cube_cube.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_cube_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_cube_cube.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dScatter.test_coord_coord.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_coord.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_coord.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_coord.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestLabels.test_contourf_nameless.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf_nameless.0.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf_nameless.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_contourf_nameless.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_y.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_y.0.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_y.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_y.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_non_latlon_1d_coords.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_non_latlon_1d_coords.0.png)
-
-  
-  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_non_latlon_1d_coords.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_non_latlon_1d_coords.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestQuickplotPlot.test_x.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_x.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_x.0.png](test_data/images/iris.tests.test_plot.TestQuickplotPlot.test_x.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestLimitedAreaCube.test_scatter.0.png](test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_scatter.0.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_scatter.0.png](test_data/images/iris.tests.test_mapping.TestLimitedAreaCube.test_scatter.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.1.png](test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.1.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.1.png](test_data/images/gallery_tests.test_plot_orca_projection.TestOrcaProjection.test_plot_orca_projection.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_tx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestHybridHeight.test_points.3.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.3.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.3.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.3.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestTimeReferenceUnitsLabels.test_reference_time_units.0.png](test_data/images/iris.tests.test_quickplot.TestTimeReferenceUnitsLabels.test_reference_time_units.0.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestTimeReferenceUnitsLabels.test_reference_time_units.0.png](test_data/images/iris.tests.test_quickplot.TestTimeReferenceUnitsLabels.test_reference_time_units.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_wind_barbs.TestWindBarbs.test_wind_barbs.0.png](test_data/images/gallery_tests.test_plot_wind_barbs.TestWindBarbs.test_wind_barbs.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_wind_barbs.TestWindBarbs.test_wind_barbs.0.png](test_data/images/gallery_tests.test_plot_wind_barbs.TestWindBarbs.test_wind_barbs.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test2dPoints.test_circular_changes.0.png](test_data/images/iris.tests.test_plot.Test2dPoints.test_circular_changes.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test2dPoints.test_circular_changes.0.png](test_data/images/iris.tests.test_plot.Test2dPoints.test_circular_changes.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestContourf.test_yx.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_yx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestContourf.test_yx.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_yx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube_cube.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube_cube.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_x.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_x.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_x.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_x.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_non_cube_coordinate.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_non_cube_coordinate.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_non_cube_coordinate.0.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_non_cube_coordinate.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_cube.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_cube.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_cube.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_coord_cube.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_atlantic_profiles.TestAtlanticProfiles.test_plot_atlantic_profiles.1.png](test_data/images/gallery_tests.test_plot_atlantic_profiles.TestAtlanticProfiles.test_plot_atlantic_profiles.1.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_atlantic_profiles.TestAtlanticProfiles.test_plot_atlantic_profiles.1.png](test_data/images/gallery_tests.test_plot_atlantic_profiles.TestAtlanticProfiles.test_plot_atlantic_profiles.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestHybridHeight.test_points.4.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.4.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.4.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.4.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coords.0.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coords.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coords.0.png](test_data/images/iris.tests.test_plot.TestPlotDimAndAuxCoordsKwarg.test_coords.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestContourf.test_tx.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_tx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestContourf.test_tx.0.png](test_data/images/iris.tests.test_plot.TestContourf.test_tx.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_atlantic_profiles.TestAtlanticProfiles.test_plot_atlantic_profiles.0.png](test_data/images/gallery_tests.test_plot_atlantic_profiles.TestAtlanticProfiles.test_plot_atlantic_profiles.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_atlantic_profiles.TestAtlanticProfiles.test_plot_atlantic_profiles.0.png](test_data/images/gallery_tests.test_plot_atlantic_profiles.TestAtlanticProfiles.test_plot_atlantic_profiles.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolorNoBounds.test_zy.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_zy.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_zy.0.png](test_data/images/iris.tests.test_plot.TestPcolorNoBounds.test_zy.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestMissingCoord.test_no_u.1.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_u.1.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_u.1.png](test_data/images/iris.tests.test_plot.TestMissingCoord.test_no_u.1.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestLabels.test_alignment.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_alignment.0.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_alignment.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_alignment.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_non_cube_coordinate.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_non_cube_coordinate.0.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_non_cube_coordinate.0.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_non_cube_coordinate.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotPlotMultiArgs.test_cube.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.3.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.3.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.3.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.3.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.4.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.4.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.4.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_yx.4.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube_coord.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube_coord.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube_coord.0.png](test_data/images/iris.tests.test_plot.Test1dPlotMultiArgs.test_cube_coord.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_coord.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_coord.0.png](test_data/images/iris.tests.test_plot.Test1dQuickplotScatter.test_coord_coord.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestMissingCS.test_missing_cs.0.png](test_data/images/iris.tests.test_plot.TestMissingCS.test_missing_cs.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestMissingCS.test_missing_cs.0.png](test_data/images/iris.tests.test_plot.TestMissingCS.test_missing_cs.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.Test1dScatter.test_coord_cube.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_cube.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_cube.0.png](test_data/images/iris.tests.test_plot.Test1dScatter.test_coord_cube.0.png)
-  
-  
-  
-
-  ### [images/gallery_tests.test_plot_global_map.TestGlobalMap.test_plot_global_map.0.png](test_data/images/gallery_tests.test_plot_global_map.TestGlobalMap.test_plot_global_map.0.png)
-
-  
-  ![test_data/images/gallery_tests.test_plot_global_map.TestGlobalMap.test_plot_global_map.0.png](test_data/images/gallery_tests.test_plot_global_map.TestGlobalMap.test_plot_global_map.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestHybridHeight.test_bounds.0.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.0.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_bounds.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.integration.plot.test_plot_2d_coords.Test2dContour.test_2d_coords_contour.0.png](test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test2dContour.test_2d_coords_contour.0.png)
-
-  
-  ![test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test2dContour.test_2d_coords_contour.0.png](test_data/images/iris.tests.integration.plot.test_plot_2d_coords.Test2dContour.test_2d_coords_contour.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestLabels.test_pcolormesh.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolormesh.0.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolormesh.0.png](test_data/images/iris.tests.test_quickplot.TestLabels.test_pcolormesh.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPcolormesh.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_tx.0.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPcolormesh.test_tx.0.png](test_data/images/iris.tests.test_plot.TestPcolormesh.test_tx.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.3.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.3.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.3.png](test_data/images/iris.tests.test_plot.TestPlotCoordinatesGiven.test_zx.3.png)
-  
-  
-  
-
-  ### [images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_non_latlon_2d_coords.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_non_latlon_2d_coords.0.png)
-
-  
-  ![test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_non_latlon_2d_coords.0.png](test_data/images/iris.tests.integration.plot.test_vector_plots.TestQuiver.test_non_latlon_2d_coords.0.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_mapping.TestLowLevel.test_params.2.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.2.png)
-
-  
-  ![test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.2.png](test_data/images/iris.tests.test_mapping.TestLowLevel.test_params.2.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.2.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.2.png)
-
-  
-  ![test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.2.png](test_data/images/iris.tests.test_quickplot.TestQuickplotCoordinatesGiven.test_zx.2.png)
-  
-  
-  
-
-  ### [images/iris.tests.test_plot.TestHybridHeight.test_points.2.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.2.png)
-
-  
-  ![test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.2.png](test_data/images/iris.tests.test_plot.TestHybridHeight.test_points.2.png)
   
   
   
