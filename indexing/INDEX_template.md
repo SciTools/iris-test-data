@@ -5,7 +5,7 @@
   <summary>{{ prefix }}</summary>
 
   {% for filepath, link_path, items, is_png, warnings, exceptions in data %}
-  ### [{{ filepath }}]({{ link_path }})
+  #### [{{ filepath }}]({{ link_path }})
 
   {% if is_png %}
   ![{{ link_path }}]({{ link_path }})
