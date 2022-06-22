@@ -1,18 +1,21 @@
-{%  for prefix, data in content.items()%}
+{% for prefix, data in content.items() %}
 
 <details>
 
   <summary>{{ prefix }}</summary>
 
-  {% for filepath, link_path, cube_strs, warnings, exceptions in data %}
-  # [{{ filepath }}]({{ link_path }})
+  {% for filepath, link_path, items, is_png, warnings, exceptions in data|sort(attribute="path") %}
+  #### [{{ filepath }}]({{ link_path }})
 
-  {% for cube_str in cube_strs %}
+  {% if is_png %}
+  ![{{ link_path }}]({{ link_path }})
+  {% else %}
+  {% for item in items %}
   ```
-      {{ cube_str | indent(first=False) }}
+      {{ item | indent(first=False) }}
   ```
   {% endfor %}
-
+  {% endif %}
   {%if warnings %}
   ```
   {% for warning_str in warnings %}
