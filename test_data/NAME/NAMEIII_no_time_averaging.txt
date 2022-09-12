@@ -1,0 +1,30 @@
+NAME III (version 7.2)                                          
+ Title:               VA_Tutorial
+ Run time:            1333UTC 07/12/2018
+ Met data:            NWP Flow.ECMWF ERAInt Regional
+ Start of release:     2200UTC 12/01/2011
+ End of release:       0000UTC 13/01/2011
+ Release rate:        Multiple Sources
+ Release location:    Multiple Sources
+ Release height:      Multiple Sources
+ Forecast duration:   6 hours
+ X grid origin:          9.937500    
+ Y grid origin:          29.93750    
+ X grid size:                   2
+ Y grid size:                   2
+ X grid resolution:     0.1250000    
+ Y grid resolution:     0.1250000    
+ Number of fields:               1
+ 
+                   ,                   ,                   ,                   ,                VOLCANIC,
+                   ,                   ,                   ,                   ,            VOLCANIC_ASH,
+                   ,                   ,                   ,                   ,       No time averaging,
+                   ,                   ,                   ,                   ,       Air Concentration,
+                   ,                   ,                   ,                   ,                    g/m2,
+                   ,                   ,                   ,                   ,       Vertical integral,
+             X grid,             Y grid,          Longitude,           Latitude,      2200UTC 12/01/2011,
+ 
+           1.500000,           1.500000,          10.000000,          30.000000,          0.00000000E+00,
+           1.500000,           2.500000,          10.000000,          30.125000,          0.00000000E+00,
+           2.500000,           1.500000,          10.125000,          30.000000,          0.00000000E+00,
+           2.500000,           2.500000,          10.125000,          30.125000,          0.00000000E+00,
