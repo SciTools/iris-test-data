@@ -26,3 +26,11 @@ Documentation, example and data license
 
     Any email enquiries regarding the use and re-use of this information resource should be
     sent to: psi@nationalarchives.gsi.gov.uk.
+
+CLA
+---
+
+The `CLA <https://cla-assistant.io/SciTools/>`_ check will run on pull
+requests, as with the rest of SciTools, but the CLA is NOT part of any
+branch protection rule as this would block the workflow of merging directly
+to ``main``.
