@@ -550,14 +550,54 @@
 
   
   
-  
-  
-  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            0                           time: mean
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
   ```
   
-  OverflowError: Python integer -28587 out of bounds for uint32
+  ```
+      air_temperature / (K)               (grid_latitude: 360; grid_longitude: 600)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            forecast_period             0 hours
+            forecast_reference_time     2009-05-07 00:00:00
+            pressure                    100000.0 Pa
+            time                        2009-05-07 00:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
   
   ```
+      air_temperature / (K)               (grid_latitude: 360; grid_longitude: 288)
+        Dimension coordinates:
+            grid_latitude                             x                    -
+            grid_longitude                            -                    x
+        Scalar coordinates:
+            forecast_period             0.0 hours, bound=(0.0, 0.0) hours
+            forecast_reference_time     2008-01-23 03:00:00
+            pressure                    999900.0 Pa
+            time                        2008-01-23 03:00:00, bound=(2008-01-23 03:00:00, 2008-01-23 03:00:00)
+        Cell methods:
+            0                           time: mean
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
+  ```
+  
+  
+  
   
 
   #### [GRIB/bulletin/40bytes.grib](test_data/GRIB/bulletin/40bytes.grib)
@@ -595,6 +635,8 @@
             forecast_period             72 hours
             originating_centre          unknown centre lfpw
             time                        2013-05-03 00:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB1:t001c085n002
   ```
   
   
@@ -703,6 +745,8 @@
             originating_centre          US National Weather Service, National Centres for Environmental Predic...
             pressure                    850 hPa
             time                        2004-04-02 00:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB1:t002c007n033
   ```
   
   
@@ -735,14 +779,24 @@
 
   
   
-  
-  
-  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            0                           time: mean
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
   ```
   
-  OverflowError: Python integer -28587 out of bounds for uint32
   
-  ```
+  
   
 
   #### [GRIB/grib1_second_order_packing/GRIB_00008_FRANX01](test_data/GRIB/grib1_second_order_packing/GRIB_00008_FRANX01)
@@ -758,6 +812,8 @@
             forecast_period             0 hours
             originating_centre          unknown centre lfpw
             time                        0001-01-17 00:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB1:t001c085n008
   ```
   
   
@@ -768,56 +824,96 @@
 
   
   
-  
-  
-  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            0                           time: mean
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
   ```
   
-  OverflowError: Python integer -28587 out of bounds for uint32
   
-  ```
+  
   
 
   #### [GRIB/ij_directions/ineg_jpos.grib2](test_data/GRIB/ij_directions/ineg_jpos.grib2)
 
   
   
-  
-  
-  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            0                           time: mean
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
   ```
   
-  OverflowError: Python integer -28587 out of bounds for uint32
   
-  ```
+  
   
 
   #### [GRIB/ij_directions/ipos_jneg.grib2](test_data/GRIB/ij_directions/ipos_jneg.grib2)
 
   
   
-  
-  
-  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            0                           time: mean
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
   ```
   
-  OverflowError: Python integer -28587 out of bounds for uint32
   
-  ```
+  
   
 
   #### [GRIB/ij_directions/ipos_jpos.grib2](test_data/GRIB/ij_directions/ipos_jpos.grib2)
 
   
   
-  
-  
-  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            0                           time: mean
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
   ```
   
-  OverflowError: Python integer -28587 out of bounds for uint32
   
-  ```
+  
   
 
   #### [GRIB/jpeg2000/file.grib2](test_data/GRIB/jpeg2000/file.grib2)
@@ -858,6 +954,8 @@
             height                      2 m
             originating_centre          US National Weather Service, National Centres for Environmental Predic...
             time                        2013-06-15 12:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB1:t002c007n011
   ```
   
   
@@ -967,6 +1065,8 @@
             time                        2013-05-22 09:30:00, bound=(2013-05-22 09:00:00, 2013-05-22 10:00:00)
         Cell methods:
             0                           time: sum
+        Attributes:
+            GRIB_PARAM                  GRIB1:t002c007n061
   ```
   
   
@@ -1015,6 +1115,8 @@
             originating_centre          U.K. Met Office - Exeter
             pressure                    850 hPa
             time                        2013-05-01 00:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB1:t002c074n011
   ```
   
   
@@ -1032,6 +1134,8 @@
             originating_centre          U.K. Met Office - Exeter
             pressure                    850 hPa
             time                        2013-05-01 00:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB1:t002c074n011
   ```
   
   
@@ -1074,6 +1178,8 @@
             originating_centre          U.K. Met Office - Exeter
             pressure                    600 hPa
             time                        2007-07-19 14:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB1:t003c074n011
   ```
   
   
@@ -1084,112 +1190,192 @@
 
   
   
-  
-  
-  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            0                           time: mean
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
   ```
   
-  OverflowError: Python integer -28587 out of bounds for uint32
   
-  ```
+  
   
 
   #### [GRIB/shape_of_earth/1.grib2](test_data/GRIB/shape_of_earth/1.grib2)
 
   
   
-  
-  
-  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            0                           time: mean
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
   ```
   
-  OverflowError: Python integer -28587 out of bounds for uint32
   
-  ```
+  
   
 
   #### [GRIB/shape_of_earth/2.grib2](test_data/GRIB/shape_of_earth/2.grib2)
 
   
   
-  
-  
-  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            0                           time: mean
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
   ```
   
-  OverflowError: Python integer -28587 out of bounds for uint32
   
-  ```
+  
   
 
   #### [GRIB/shape_of_earth/3.grib2](test_data/GRIB/shape_of_earth/3.grib2)
 
   
   
-  
-  
-  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            0                           time: mean
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
   ```
   
-  OverflowError: Python integer -28587 out of bounds for uint32
   
-  ```
+  
   
 
   #### [GRIB/shape_of_earth/4.grib2](test_data/GRIB/shape_of_earth/4.grib2)
 
   
   
-  
-  
-  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            0                           time: mean
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
   ```
   
-  OverflowError: Python integer -28587 out of bounds for uint32
   
-  ```
+  
   
 
   #### [GRIB/shape_of_earth/5.grib2](test_data/GRIB/shape_of_earth/5.grib2)
 
   
   
-  
-  
-  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            0                           time: mean
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
   ```
   
-  OverflowError: Python integer -28587 out of bounds for uint32
   
-  ```
+  
   
 
   #### [GRIB/shape_of_earth/6.grib2](test_data/GRIB/shape_of_earth/6.grib2)
 
   
   
-  
-  
-  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            0                           time: mean
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
   ```
   
-  OverflowError: Python integer -28587 out of bounds for uint32
   
-  ```
+  
   
 
   #### [GRIB/shape_of_earth/7.grib2](test_data/GRIB/shape_of_earth/7.grib2)
 
   
   
-  
-  
-  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            0                           time: mean
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
   ```
   
-  OverflowError: Python integer -28587 out of bounds for uint32
   
-  ```
+  
   
 
   #### [GRIB/shape_of_earth/global.grib1](test_data/GRIB/shape_of_earth/global.grib1)
@@ -1206,6 +1392,8 @@
             originating_centre          U.K. Met Office - Exeter
             pressure                    1000 hPa
             time                        2008-12-12 00:00:00
+        Attributes:
+            GRIB_PARAM                  GRIB1:t002c074n011
   ```
   
   
@@ -1227,6 +1415,8 @@
             time                            2011-03-15 01:30:00, bound=(2011-03-15 00:00:00, 2011-03-15 03:00:00)
         Cell methods:
             0                               time: mean
+        Attributes:
+            GRIB_PARAM                      GRIB1:t137c074n106
   ```
   
   
@@ -1237,14 +1427,24 @@
 
   
   
-  
-  
-  
+  ```
+      air_temperature / (K)               (latitude: 73; longitude: 96)
+        Dimension coordinates:
+            latitude                             x              -
+            longitude                            -              x
+        Scalar coordinates:
+            forecast_period             -11055.0 hours, bound=(-28587.0, 6477.0) hours
+            forecast_reference_time     1998-03-06 03:00:00
+            pressure                    100000.0 Pa
+            time                        1996-11-30 12:00:00, bound=(1994-12-01 00:00:00, 1998-12-01 00:00:00)
+        Cell methods:
+            0                           time: mean
+        Attributes:
+            GRIB_PARAM                  GRIB2:d000c000n000
   ```
   
-  OverflowError: Python integer -28587 out of bounds for uint32
   
-  ```
+  
   
 
   #### [GRIB/uk_t/uk_t.grib2](test_data/GRIB/uk_t/uk_t.grib2)
@@ -1316,10 +1516,10 @@
         Scalar coordinates:
             forecast_reference_time     2010-07-02 06:00:00
         Attributes:
-            field_code                  np.int16(155)
+            field_code                  155
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'UM?'
             title                       'Unknown'
   ```
@@ -1345,10 +1545,10 @@
             forecast_reference_time                 2020-01-28 03:00:00
             time                                    2020-01-28 04:00:00
         Attributes:
-            field_code                              np.int16(172)
+            field_code                              172
             institution                             'Met Office'
-            nimrod_version                          np.int16(2)
-            num_model_levels                        np.int16(1)
+            nimrod_version                          2
+            num_model_levels                        1
             source                                  'ek00cloud diagnostics'
             title                                   'Unknown'
   ```
@@ -1368,10 +1568,10 @@
             time                            2020-01-28 04:00:00
         Attributes:
             Probability methods             ['ST (Some Time)']
-            field_code                      np.int16(172)
+            field_code                      172
             institution                     'Met Office'
-            nimrod_version                  np.int16(2)
-            num_model_levels                np.int16(1)
+            nimrod_version                  2
+            num_model_levels                1
             source                          'ek11cloud diagnostics'
             title                           'Unknown'
   ```
@@ -1388,10 +1588,10 @@
             height                                                0.0 m, bound=(0.0, 304.8) m
             time                                                  2020-01-28 04:00:00
         Attributes:
-            field_code                                            np.int16(172)
+            field_code                                            172
             institution                                           'Met Office'
-            nimrod_version                                        np.int16(2)
-            num_model_levels                                      np.int16(1)
+            nimrod_version                                        2
+            num_model_levels                                      1
             source                                                'ek11cloud diagnostics'
             title                                                 'Unknown'
   ```
@@ -1410,13 +1610,13 @@
             time                                           2020-01-28 04:00:00
         Attributes:
             Probability methods                            ['ST (Some Time)']
-            field_code                                     np.int16(172)
+            field_code                                     172
             institution                                    'Met Office'
             neighbourhood_radius                           '28.0 km'
-            nimrod_version                                 np.int16(2)
-            num_model_levels                               np.int16(1)
-            recursive_filter_alpha                         np.float32(0.6)
-            recursive_filter_iterations                    np.int16(2)
+            nimrod_version                                 2
+            num_model_levels                               1
+            recursive_filter_alpha                         0.6
+            recursive_filter_iterations                    2
             source                                         'ek11cloud diagnostics'
             title                                          'Unknown'
   ```
@@ -1435,10 +1635,10 @@
             time                                           2020-01-28 04:00:00
         Attributes:
             Probability methods                            ['ST (Some Time)']
-            field_code                                     np.int16(172)
+            field_code                                     172
             institution                                    'Met Office'
-            nimrod_version                                 np.int16(2)
-            num_model_levels                               np.int16(1)
+            nimrod_version                                 2
+            num_model_levels                               1
             source                                         'ek11cloud diagnostics'
             title                                          'Unknown'
   ```
@@ -1457,13 +1657,13 @@
             time                        2020-01-28 04:00:00
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  np.int16(29)
+            field_code                  29
             institution                 'Met Office'
             neighbourhood_radius        '8.0 km'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
-            recursive_filter_alpha      np.float32(0.2)
-            recursive_filter_iterations np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
+            recursive_filter_alpha      0.2
+            recursive_filter_iterations 1
             source                      'UM?'
             title                       'Unknown'
   ```
@@ -1481,10 +1681,10 @@
             time                        2020-01-28 04:00:00
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  np.int16(161)
+            field_code                  161
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek11cloud diagnostics'
             title                       'Unknown'
   ```
@@ -1502,13 +1702,13 @@
             time                            2020-01-28 04:00:00
         Attributes:
             Probability methods             ['ST (Some Time)']
-            field_code                      np.int16(161)
+            field_code                      161
             institution                     'Met Office'
             neighbourhood_radius            '28.0 km'
-            nimrod_version                  np.int16(2)
-            num_model_levels                np.int16(1)
-            recursive_filter_alpha          np.float32(0.6)
-            recursive_filter_iterations     np.int16(2)
+            nimrod_version                  2
+            num_model_levels                1
+            recursive_filter_alpha          0.6
+            recursive_filter_iterations     2
             source                          'ek11cloud diagnostics'
             title                           'Unknown'
   ```
@@ -1526,10 +1726,10 @@
             time                            2020-01-28 04:00:00
         Attributes:
             Probability methods             ['ST (Some Time)']
-            field_code                      np.int16(161)
+            field_code                      161
             institution                     'Met Office'
-            nimrod_version                  np.int16(2)
-            num_model_levels                np.int16(1)
+            nimrod_version                  2
+            num_model_levels                1
             source                          'ek11cloud diagnostics'
             title                           'Unknown'
   ```
@@ -1546,10 +1746,10 @@
             forecast_reference_time     2020-01-28 03:00:00
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  np.int16(161)
+            field_code                  161
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek00cloud diagnostics'
             title                       'Unknown'
   ```
@@ -1565,10 +1765,10 @@
             forecast_reference_time                  2020-01-28 03:00:00
             time                                     2020-01-28 04:00:00
         Attributes:
-            field_code                               np.int16(101)
+            field_code                               101
             institution                              'Met Office'
-            nimrod_version                           np.int16(2)
-            num_model_levels                         np.int16(1)
+            nimrod_version                           2
+            num_model_levels                         1
             source                                   'rainfc'
             title                                    'Unknown'
   ```
@@ -1586,10 +1786,10 @@
             time                             2020-01-28 04:00:00
         Attributes:
             Probability methods              ['ST (Some Time)']
-            field_code                       np.int16(101)
+            field_code                       101
             institution                      'Met Office'
-            nimrod_version                   np.int16(2)
-            num_model_levels                 np.int16(1)
+            nimrod_version                   2
+            num_model_levels                 1
             source                           'rainfc'
             title                            'Unknown'
   ```
@@ -1605,10 +1805,10 @@
             forecast_reference_time                                2020-01-28 03:00:00
             time                                                   2020-01-28 04:00:00
         Attributes:
-            field_code                                             np.int16(101)
+            field_code                                             101
             institution                                            'Met Office'
-            nimrod_version                                         np.int16(2)
-            num_model_levels                                       np.int16(1)
+            nimrod_version                                         2
+            num_model_levels                                       1
             source                                                 'rainfc'
             title                                                  'Unknown'
   ```
@@ -1626,13 +1826,13 @@
             time                                            2020-01-28 04:00:00
         Attributes:
             Probability methods                             ['ST (Some Time)']
-            field_code                                      np.int16(101)
+            field_code                                      101
             institution                                     'Met Office'
             neighbourhood_radius                            '28.0 km'
-            nimrod_version                                  np.int16(2)
-            num_model_levels                                np.int16(1)
-            recursive_filter_alpha                          np.float32(0.6)
-            recursive_filter_iterations                     np.int16(2)
+            nimrod_version                                  2
+            num_model_levels                                1
+            recursive_filter_alpha                          0.6
+            recursive_filter_iterations                     2
             source                                          'rainfc'
             title                                           'Unknown'
   ```
@@ -1650,10 +1850,10 @@
             time                                            2020-01-28 04:00:00
         Attributes:
             Probability methods                             ['ST (Some Time)']
-            field_code                                      np.int16(101)
+            field_code                                      101
             institution                                     'Met Office'
-            nimrod_version                                  np.int16(2)
-            num_model_levels                                np.int16(1)
+            nimrod_version                                  2
+            num_model_levels                                1
             source                                          'rainfc'
             title                                           'Unknown'
   ```
@@ -1669,10 +1869,10 @@
             forecast_reference_time        2020-01-28 03:00:00
             time                           2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
-            field_code                     np.int16(61)
+            field_code                     61
             institution                    'Met Office'
-            nimrod_version                 np.int16(2)
-            num_model_levels               np.int16(1)
+            nimrod_version                 2
+            num_model_levels               1
             processing                     ['accumulation or average']
             source                         'ek00'
             title                          'Unknown'
@@ -1691,10 +1891,10 @@
             time                        2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  np.int16(61)
+            field_code                  61
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['accumulation or average']
             source                      'ek11'
             title                       'Unknown'
@@ -1711,10 +1911,10 @@
             forecast_reference_time                      2020-01-28 03:00:00
             time                                         2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
-            field_code                                   np.int16(61)
+            field_code                                   61
             institution                                  'Met Office'
-            nimrod_version                               np.int16(2)
-            num_model_levels                             np.int16(1)
+            nimrod_version                               2
+            num_model_levels                             1
             processing                                   ['accumulation or average']
             source                                       'ek11'
             title                                        'Unknown'
@@ -1733,14 +1933,14 @@
             time                                 2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods                  ['ST (Some Time)']
-            field_code                           np.int16(61)
+            field_code                           61
             institution                          'Met Office'
             neighbourhood_radius                 '28.0 km'
-            nimrod_version                       np.int16(2)
-            num_model_levels                     np.int16(1)
+            nimrod_version                       2
+            num_model_levels                     1
             processing                           ['accumulation or average']
-            recursive_filter_alpha               np.float32(0.6)
-            recursive_filter_iterations          np.int16(2)
+            recursive_filter_alpha               0.6
+            recursive_filter_iterations          2
             source                               'ek11'
             title                                'Unknown'
   ```
@@ -1758,10 +1958,10 @@
             time                                 2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods                  ['ST (Some Time)']
-            field_code                           np.int16(61)
+            field_code                           61
             institution                          'Met Office'
-            nimrod_version                       np.int16(2)
-            num_model_levels                     np.int16(1)
+            nimrod_version                       2
+            num_model_levels                     1
             processing                           ['accumulation or average']
             source                               'ek11'
             title                                'Unknown'
@@ -1780,14 +1980,14 @@
             time                               2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods                ['AT (All Time)']
-            field_code                         np.int16(63)
+            field_code                         63
             institution                        'Met Office'
             neighbourhood_radius               '28.0 km'
-            nimrod_version                     np.int16(2)
-            num_model_levels                   np.int16(1)
-            probability_period_of_event        np.int16(30)
-            recursive_filter_alpha             np.float32(0.6)
-            recursive_filter_iterations        np.int16(2)
+            nimrod_version                     2
+            num_model_levels                   1
+            probability_period_of_event        30
+            recursive_filter_alpha             0.6
+            recursive_filter_iterations        2
             source                             'ek11'
             title                              'Unknown'
   ```
@@ -1805,13 +2005,13 @@
             time                               2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods                ['ST (Some Time)']
-            field_code                         np.int16(63)
+            field_code                         63
             institution                        'Met Office'
             neighbourhood_radius               '28.0 km'
-            nimrod_version                     np.int16(2)
-            num_model_levels                   np.int16(1)
-            recursive_filter_alpha             np.float32(0.6)
-            recursive_filter_iterations        np.int16(2)
+            nimrod_version                     2
+            num_model_levels                   1
+            recursive_filter_alpha             0.6
+            recursive_filter_iterations        2
             source                             'ek11'
             title                              'Unknown'
   ```
@@ -1827,10 +2027,10 @@
             forecast_reference_time         2020-01-28 03:00:00
             time                            2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
-            field_code                      np.int16(63)
+            field_code                      63
             institution                     'Met Office'
-            nimrod_version                  np.int16(2)
-            num_model_levels                np.int16(1)
+            nimrod_version                  2
+            num_model_levels                1
             source                          'ek00'
             title                           'Unknown'
   ```
@@ -1846,10 +2046,10 @@
             forecast_reference_time     2020-01-28 03:00:00
             time                        2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
-            field_code                  np.int16(218)
+            field_code                  218
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['accumulation or average']
             source                      'ek${M'
             title                       'Unknown'
@@ -1868,10 +2068,10 @@
             time                        2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  np.int16(218)
+            field_code                  218
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['accumulation or average']
             source                      'ek${M'
             title                       'Unknown'
@@ -1890,13 +2090,13 @@
             time                            2020-01-28 04:00:00
         Attributes:
             Probability methods             ['ST (Some Time)']
-            field_code                      np.int16(421)
+            field_code                      421
             institution                     'Met Office'
             neighbourhood_radius            '28.0 km'
-            nimrod_version                  np.int16(2)
-            num_model_levels                np.int16(1)
-            recursive_filter_alpha          np.float32(0.6)
-            recursive_filter_iterations     np.int16(2)
+            nimrod_version                  2
+            num_model_levels                1
+            recursive_filter_alpha          0.6
+            recursive_filter_iterations     2
             source                          'rainfc'
             title                           'Unknown'
   ```
@@ -1912,10 +2112,10 @@
             forecast_reference_time                2020-01-28 03:00:00
             time                                   2020-01-28 04:00:00
         Attributes:
-            field_code                             np.int16(12)
+            field_code                             12
             institution                            'Met Office'
-            nimrod_version                         np.int16(2)
-            num_model_levels                       np.int16(1)
+            nimrod_version                         2
+            num_model_levels                       1
             source                                 'ek00'
             title                                  'Unknown'
   ```
@@ -1934,10 +2134,10 @@
             time                        2020-01-28 04:00:00
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  np.int16(58)
+            field_code                  58
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'UM?'
             title                       'Unknown'
   ```
@@ -1954,10 +2154,10 @@
             height                      1.65 m
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  np.int16(155)
+            field_code                  155
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'UM?'
             title                       'Unknown'
   ```
@@ -1976,10 +2176,10 @@
             time                        2020-01-28 04:00:00
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  np.int16(155)
+            field_code                  155
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'UM?'
             title                       'Unknown'
   ```
@@ -1996,10 +2196,10 @@
             height                      10.0 m
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  np.int16(806)
+            field_code                  806
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'downscaled UM 10m wind'
             title                       'Unknown'
   ```
@@ -2016,10 +2216,10 @@
             height                      10.0 m
             time                        2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
-            field_code                  np.int16(817)
+            field_code                  817
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek00'
             title                       'Unknown'
   ```
@@ -2038,13 +2238,13 @@
             time                            2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods             ['SW (Some Where)']
-            field_code                      np.int16(817)
+            field_code                      817
             institution                     'Met Office'
             neighbourhood_radius            '28.0 km'
-            nimrod_version                  np.int16(2)
-            num_model_levels                np.int16(1)
-            recursive_filter_alpha          np.float32(0.5)
-            recursive_filter_iterations     np.int16(2)
+            nimrod_version                  2
+            num_model_levels                1
+            recursive_filter_alpha          0.5
+            recursive_filter_iterations     2
             source                          'ek11'
             threshold_vicinity_radius       '32.0 km'
             title                           'Unknown'
@@ -2064,10 +2264,10 @@
             time                            2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods             ['ST (Some Time)']
-            field_code                      np.int16(817)
+            field_code                      817
             institution                     'Met Office'
-            nimrod_version                  np.int16(2)
-            num_model_levels                np.int16(1)
+            nimrod_version                  2
+            num_model_levels                1
             source                          'ek11'
             title                           'Unknown'
   ```
@@ -2084,10 +2284,10 @@
             height                      10.0 m
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  np.int16(804)
+            field_code                  804
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'downscaled UM 10m wind'
             title                       'Unknown'
   ```
@@ -2106,10 +2306,10 @@
             time                        2020-01-28 04:00:00
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  np.int16(804)
+            field_code                  804
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'downscaled UM 10m wind'
             title                       'Unknown'
   ```
@@ -2126,10 +2326,10 @@
             height                             10.0 m
             time                               2020-01-28 04:00:00
         Attributes:
-            field_code                         np.int16(804)
+            field_code                         804
             institution                        'Met Office'
-            nimrod_version                     np.int16(2)
-            num_model_levels                   np.int16(1)
+            nimrod_version                     2
+            num_model_levels                   1
             source                             'downscaled UM 10m wind'
             title                              'Unknown'
   ```
@@ -2148,13 +2348,13 @@
             time                        2020-01-28 04:00:00
         Attributes:
             Probability methods         ['SW (Some Where)']
-            field_code                  np.int16(804)
+            field_code                  804
             institution                 'Met Office'
             neighbourhood_radius        '28.0 km'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
-            recursive_filter_alpha      np.float32(0.5)
-            recursive_filter_iterations np.int16(2)
+            nimrod_version              2
+            num_model_levels            1
+            recursive_filter_alpha      0.5
+            recursive_filter_iterations 2
             source                      'downscaled UM 10m wind'
             threshold_vicinity_radius   '32.0 km'
             title                       'Unknown'
@@ -2174,10 +2374,10 @@
             time                        2020-01-28 04:00:00
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  np.int16(804)
+            field_code                  804
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'downscaled UM 10m wind'
             title                       'Unknown'
   ```
@@ -2194,10 +2394,10 @@
             height                      10.0 m
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  np.int16(5)
+            field_code                  5
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'umek'
             title                       'Unknown'
   ```
@@ -2214,10 +2414,10 @@
             height                      10.0 m
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  np.int16(6)
+            field_code                  6
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'umek'
             title                       'Unknown'
   ```
@@ -2236,10 +2436,10 @@
             time                        2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  np.int16(817)
+            field_code                  817
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek11'
             title                       'Unknown'
   ```
@@ -2265,10 +2465,10 @@
             forecast_reference_time     2020-01-28 05:00:00
             realization                 4
         Attributes:
-            field_code                  np.int16(214)
+            field_code                  214
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['accumulation or average']
             source                      'STEPS'
             title                       'Unknown'
@@ -2294,10 +2494,10 @@
             realization                 5
             time                        2020-01-28 07:00:00, bound=(2020-01-28 06:00:00, 2020-01-28 07:00:00)
         Attributes:
-            field_code                  np.int16(214)
+            field_code                  214
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['accumulation or average']
             source                      'STEPS'
             title                       'Unknown'
@@ -2324,10 +2524,10 @@
             realization                 0
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  np.int16(79)
+            field_code                  79
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(57)
+            nimrod_version              2
+            num_model_levels            57
             source                      'ek'
             title                       'Unknown'
   ```
@@ -2345,10 +2545,10 @@
             realization                 0
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  np.int16(79)
+            field_code                  79
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(26)
+            nimrod_version              2
+            num_model_levels            26
             source                      'ek'
             title                       'Unknown'
   ```
@@ -2373,10 +2573,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(87)
+            field_code                  87
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -2393,10 +2593,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(88)
+            field_code                  88
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -2413,11 +2613,11 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(88)
+            field_code                  88
             institution                 'Met Office'
             neighbourhood_radius        '10.0 km'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'CDP'
             title                       'Unknown'
   ```
@@ -2434,11 +2634,11 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(87)
+            field_code                  87
             institution                 'Met Office'
             neighbourhood_radius        '10.0 km'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'CDP'
             title                       'Unknown'
   ```
@@ -2457,10 +2657,10 @@
             realization                     0
             time                            2020-01-28 05:00:00
         Attributes:
-            field_code                      np.int16(172)
+            field_code                      172
             institution                     'Met Office'
-            nimrod_version                  np.int16(2)
-            num_model_levels                np.int16(1)
+            nimrod_version                  2
+            num_model_levels                1
             source                          'ek00cloud diagnostics'
             title                           'Unknown'
   ```
@@ -2477,10 +2677,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(207)
+            field_code                  207
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek00cloud diagnostics'
             title                       'Unknown'
   ```
@@ -2498,10 +2698,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(161)
+            field_code                  161
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek00cloud diagnostics'
             title                       'Unknown'
   ```
@@ -2527,10 +2727,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(502)
+            field_code                  502
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -2547,10 +2747,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(503)
+            field_code                  503
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -2567,10 +2767,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(506)
+            field_code                  506
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -2587,10 +2787,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(507)
+            field_code                  507
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -2609,13 +2809,13 @@
             time                               2020-01-28 05:00:00
         Attributes:
             Probability methods                ['ST (Some Time)']
-            field_code                         np.int16(422)
+            field_code                         422
             institution                        'Met Office'
             neighbourhood_radius               '60.0 km'
-            nimrod_version                     np.int16(2)
-            num_model_levels                   np.int16(1)
-            recursive_filter_alpha             np.float32(0.6)
-            recursive_filter_iterations        np.int16(2)
+            nimrod_version                     2
+            num_model_levels                   1
+            recursive_filter_alpha             0.6
+            recursive_filter_iterations        2
             source                             ''
             threshold_vicinity_radius          '1.0 km'
             title                              'Unknown'
@@ -2633,10 +2833,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(511)
+            field_code                  511
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -2653,10 +2853,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(512)
+            field_code                  512
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -2674,10 +2874,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(422)
+            field_code                  422
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -2695,10 +2895,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(422)
+            field_code                  422
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -2724,10 +2924,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(501)
+            field_code                  501
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -2745,10 +2945,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(504)
+            field_code                  504
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -2766,10 +2966,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(508)
+            field_code                  508
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -2787,10 +2987,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(514)
+            field_code                  514
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -2808,10 +3008,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(509)
+            field_code                  509
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -2829,10 +3029,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(800)
+            field_code                  800
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'rainfc'
             title                       'Unknown'
   ```
@@ -2857,10 +3057,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(206)
+            field_code                  206
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -2877,10 +3077,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(50)
+            field_code                  50
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -2897,10 +3097,10 @@
             realization                      0
             time                             2020-01-28 05:00:00
         Attributes:
-            field_code                       np.int16(101)
+            field_code                       101
             institution                      'Met Office'
-            nimrod_version                   np.int16(2)
-            num_model_levels                 np.int16(1)
+            nimrod_version                   2
+            num_model_levels                 1
             source                           'rainfc'
             title                            'Unknown'
   ```
@@ -2917,10 +3117,10 @@
             realization                      0
             time                             2020-01-28 05:00:00
         Attributes:
-            field_code                       np.int16(101)
+            field_code                       101
             institution                      'Met Office'
-            nimrod_version                   np.int16(2)
-            num_model_levels                 np.int16(1)
+            nimrod_version                   2
+            num_model_levels                 1
             processing                       ['warm bias applied']
             source                           'rainfc'
             title                            'Unknown'
@@ -2938,10 +3138,10 @@
             realization                      0
             time                             2020-01-28 05:00:00
         Attributes:
-            field_code                       np.int16(101)
+            field_code                       101
             institution                      'Met Office'
-            nimrod_version                   np.int16(2)
-            num_model_levels                 np.int16(1)
+            nimrod_version                   2
+            num_model_levels                 1
             processing                       ['cold bias applied']
             source                           'rainfc'
             title                            'Unknown'
@@ -2959,10 +3159,10 @@
             realization                     0
             time                            2020-01-28 05:00:00
         Attributes:
-            field_code                      np.int16(102)
+            field_code                      102
             institution                     'Met Office'
-            nimrod_version                  np.int16(2)
-            num_model_levels                np.int16(1)
+            nimrod_version                  2
+            num_model_levels                1
             source                          'rainfc'
             title                           'Unknown'
   ```
@@ -2979,10 +3179,10 @@
             realization                     0
             time                            2020-01-28 05:00:00
         Attributes:
-            field_code                      np.int16(102)
+            field_code                      102
             institution                     'Met Office'
-            nimrod_version                  np.int16(2)
-            num_model_levels                np.int16(1)
+            nimrod_version                  2
+            num_model_levels                1
             processing                      ['warm bias applied']
             source                          'rainfc'
             title                           'Unknown'
@@ -3000,10 +3200,10 @@
             realization                     0
             time                            2020-01-28 05:00:00
         Attributes:
-            field_code                      np.int16(102)
+            field_code                      102
             institution                     'Met Office'
-            nimrod_version                  np.int16(2)
-            num_model_levels                np.int16(1)
+            nimrod_version                  2
+            num_model_levels                1
             processing                      ['cold bias applied']
             source                          'rainfc'
             title                           'Unknown'
@@ -3029,10 +3229,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(300)
+            field_code                  300
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3057,10 +3257,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(63)
+            field_code                  63
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3077,10 +3277,10 @@
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  np.int16(213)
+            field_code                  213
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['minimum in period']
             source                      'ek'
             title                       'Unknown'
@@ -3098,10 +3298,10 @@
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  np.int16(213)
+            field_code                  213
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['maximum in period']
             source                      'ek'
             title                       'Unknown'
@@ -3128,10 +3328,10 @@
             forecast_reference_time     2020-01-28 03:00:00
             realization                 0
         Attributes:
-            field_code                  np.int16(61)
+            field_code                  61
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['accumulation or average']
             source                      'ek'
             title                       'Unknown'
@@ -3157,10 +3357,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(28)
+            field_code                  28
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'rainfc'
             title                       'Unknown'
   ```
@@ -3177,10 +3377,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(28)
+            field_code                  28
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['warm bias applied']
             source                      'rainfc'
             title                       'Unknown'
@@ -3198,10 +3398,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(28)
+            field_code                  28
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['cold bias applied']
             source                      'rainfc'
             title                       'Unknown'
@@ -3219,10 +3419,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(27)
+            field_code                  27
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'rainfc'
             title                       'Unknown'
   ```
@@ -3239,10 +3439,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(27)
+            field_code                  27
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['warm bias applied']
             source                      'rainfc'
             title                       'Unknown'
@@ -3260,10 +3460,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(27)
+            field_code                  27
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['cold bias applied']
             source                      'rainfc'
             title                       'Unknown'
@@ -3281,10 +3481,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(421)
+            field_code                  421
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'rainfc'
             title                       'Unknown'
   ```
@@ -3301,10 +3501,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(421)
+            field_code                  421
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['warm bias applied']
             source                      'rainfc'
             title                       'Unknown'
@@ -3322,10 +3522,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(421)
+            field_code                  421
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['cold bias applied']
             source                      'rainfc'
             title                       'Unknown'
@@ -3351,10 +3551,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(205)
+            field_code                  205
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3371,10 +3571,10 @@
             realization                    0
             time                           2020-01-28 05:00:00
         Attributes:
-            field_code                     np.int16(12)
+            field_code                     12
             institution                    'Met Office'
-            nimrod_version                 np.int16(2)
-            num_model_levels               np.int16(1)
+            nimrod_version                 2
+            num_model_levels               1
             source                         'ek'
             title                          'Unknown'
   ```
@@ -3399,10 +3599,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(91)
+            field_code                  91
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3419,10 +3619,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(92)
+            field_code                  92
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3439,10 +3639,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(303)
+            field_code                  303
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3459,10 +3659,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(91)
+            field_code                  91
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3479,10 +3679,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(91)
+            field_code                  91
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3499,10 +3699,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(91)
+            field_code                  91
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3519,10 +3719,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(92)
+            field_code                  92
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3547,10 +3747,10 @@
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  np.int16(96)
+            field_code                  96
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3567,10 +3767,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(96)
+            field_code                  96
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3587,10 +3787,10 @@
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  np.int16(96)
+            field_code                  96
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3604,11 +3804,11 @@
   
   
   ```
-      3dreflectivity / (BZ)               (air_pressure: 6; projection_y_coordinate: 3; projection_x_coordinate: 3)
+      3dreflectivity / (BZ)               (air_pressure: 15; projection_y_coordinate: 3; projection_x_coordinate: 3)
         Dimension coordinates:
-            air_pressure                             x                           -                           -
-            projection_y_coordinate                  -                           x                           -
-            projection_x_coordinate                  -                           -                           x
+            air_pressure                             x                            -                           -
+            projection_y_coordinate                  -                            x                           -
+            projection_x_coordinate                  -                            -                           x
         Scalar coordinates:
             experiment_number           0
             forecast_period             7200 second
@@ -3616,31 +3816,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(480)
+            field_code                  480
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
-            source                      'ek'
-            title                       'Unknown'
-  ```
-  
-  ```
-      3dreflectivity / (BZ)               (air_pressure: 9; projection_y_coordinate: 3; projection_x_coordinate: 3)
-        Dimension coordinates:
-            air_pressure                             x                           -                           -
-            projection_y_coordinate                  -                           x                           -
-            projection_x_coordinate                  -                           -                           x
-        Scalar coordinates:
-            experiment_number           0
-            forecast_period             7200 second
-            forecast_reference_time     2020-01-28 03:00:00
-            realization                 0
-            time                        2020-01-28 05:00:00
-        Attributes:
-            field_code                  np.int16(480)
-            institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3666,10 +3845,10 @@
             realization                 0
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  np.int16(8)
+            field_code                  8
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(57)
+            nimrod_version              2
+            num_model_levels            57
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3695,10 +3874,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(8)
+            field_code                  8
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'UM?'
             title                       'Unknown'
   ```
@@ -3723,10 +3902,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(121)
+            field_code                  121
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3743,10 +3922,10 @@
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  np.int16(185)
+            field_code                  185
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['accumulation or average']
             source                      'ek'
             title                       'Unknown'
@@ -3764,10 +3943,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(100)
+            field_code                  100
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'rainfc'
             title                       'Unknown'
   ```
@@ -3793,10 +3972,10 @@
             realization                 0
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  np.int16(191)
+            field_code                  191
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(4)
+            nimrod_version              2
+            num_model_levels            4
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3814,10 +3993,10 @@
             realization                 0
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  np.int16(190)
+            field_code                  190
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(4)
+            nimrod_version              2
+            num_model_levels            4
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3835,10 +4014,10 @@
             realization                 0
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  np.int16(192)
+            field_code                  192
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(4)
+            nimrod_version              2
+            num_model_levels            4
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3856,10 +4035,10 @@
             realization                 0
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  np.int16(193)
+            field_code                  193
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(4)
+            nimrod_version              2
+            num_model_levels            4
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3890,10 +4069,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(18)
+            field_code                  18
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3912,10 +4091,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(301)
+            field_code                  301
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3934,10 +4113,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(302)
+            field_code                  302
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3963,10 +4142,10 @@
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  np.int16(58)
+            field_code                  58
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['minimum in period']
             source                      'ek'
             title                       'Unknown'
@@ -3985,10 +4164,10 @@
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  np.int16(58)
+            field_code                  58
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['maximum in period']
             source                      'ek'
             title                       'Unknown'
@@ -4007,10 +4186,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(58)
+            field_code                  58
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'UM?'
             title                       'Unknown'
   ```
@@ -4028,10 +4207,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(154)
+            field_code                  154
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'UM?'
             title                       'Unknown'
   ```
@@ -4057,10 +4236,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(122)
+            field_code                  122
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4078,10 +4257,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(133)
+            field_code                  133
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4099,10 +4278,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(221)
+            field_code                  221
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4120,10 +4299,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(155)
+            field_code                  155
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'UM?'
             title                       'Unknown'
   ```
@@ -4141,10 +4320,10 @@
             realization                  0
             time                         2020-01-28 05:00:00
         Attributes:
-            field_code                   np.int16(156)
+            field_code                   156
             institution                  'Met Office'
-            nimrod_version               np.int16(2)
-            num_model_levels             np.int16(1)
+            nimrod_version               2
+            num_model_levels             1
             source                       'UM?'
             title                        'Unknown'
   ```
@@ -4170,10 +4349,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(804)
+            field_code                  804
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['scaled to UM resolution']
             source                      'wspd'
             title                       'Unknown'
@@ -4192,10 +4371,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(804)
+            field_code                  804
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'downscaled UM 10m wind'
             title                       'Unknown'
   ```
@@ -4213,10 +4392,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(806)
+            field_code                  806
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'downscaled UM 10m wind'
             title                       'Unknown'
   ```
@@ -4234,10 +4413,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(824)
+            field_code                  824
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'UMFC shear gust'
             title                       'Unknown'
   ```
@@ -4255,10 +4434,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(817)
+            field_code                  817
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4276,10 +4455,10 @@
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  np.int16(817)
+            field_code                  817
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['maximum in period']
             source                      'ek'
             title                       'Unknown'
@@ -4306,10 +4485,10 @@
             realization                 0
             time                        2020-01-28 03:15:00
         Attributes:
-            field_code                  np.int16(5)
+            field_code                  5
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4327,10 +4506,10 @@
             realization                 0
             time                        2020-01-28 03:15:00
         Attributes:
-            field_code                  np.int16(6)
+            field_code                  6
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4356,10 +4535,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(5)
+            field_code                  5
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'downscaled UM level1 u&v'
             title                       'Unknown'
   ```
@@ -4377,10 +4556,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(6)
+            field_code                  6
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      'downscaled UM level1 u&v'
             title                       'Unknown'
   ```
@@ -4405,10 +4584,10 @@
             realization                 1
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(505)
+            field_code                  505
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -4425,10 +4604,10 @@
             realization                 1
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(515)
+            field_code                  515
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -4446,10 +4625,10 @@
             realization                 1
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(515)
+            field_code                  515
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -4466,10 +4645,10 @@
             realization                 1
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(516)
+            field_code                  516
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -4486,10 +4665,10 @@
             realization                 1
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(517)
+            field_code                  517
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -4506,10 +4685,10 @@
             realization                 1
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(513)
+            field_code                  513
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      ''
             title                       'Unknown'
   ```
@@ -4534,10 +4713,10 @@
             realization                 7
             time                        2020-01-28 12:00:00, bound=(2020-01-28 09:00:00, 2020-01-28 12:00:00)
         Attributes:
-            field_code                  np.int16(61)
+            field_code                  61
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             processing                  ['accumulation or average']
             source                      'ek'
             title                       'Unknown'
@@ -4564,10 +4743,10 @@
             height                      1.65 m
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  np.int16(29)
+            field_code                  29
             institution                 'Met Office'
-            nimrod_version              np.int16(2)
-            num_model_levels            np.int16(1)
+            nimrod_version              2
+            num_model_levels            1
             source                      '1.5km UK UM'
             title                       'Unknown'
   ```
@@ -4612,8 +4791,8 @@
             DOMAIN_dimensions_ids            array([1, 2], dtype=int32)
             DOMAIN_halo_size_end             array([0, 0], dtype=int32)
             DOMAIN_halo_size_start           array([0, 0], dtype=int32)
-            DOMAIN_number                    np.int32(0)
-            DOMAIN_number_total              np.int32(1)
+            DOMAIN_number                    0
+            DOMAIN_number_total              1
             DOMAIN_position_first            array([1, 1], dtype=int32)
             DOMAIN_position_last             array([182, 149], dtype=int32)
             DOMAIN_size_global               array([182, 149], dtype=int32)
@@ -4623,8 +4802,8 @@
             TimeStamp                        '2008-SEP-09 11:18:37 GMT+0000'
             file_name                        'ORCA2_1d_00010101_00010101_grid_T_0000.nc'
             history                          'Mon Apr  2 10:25:46 2012: /project/ukmo/rhel6/nco/bin/ncks -v votemper,deptht_bounds,nav_lat,nav_lon,areat,latt_bounds,lont_bounds ...'
-            interval_operation               np.float32(5760.0)
-            interval_write                   np.float32(86400.0)
+            interval_operation               5760.0
+            interval_write                   86400.0
             production                       'An IPSL model'
             short_name                       'votemper'
   ```
@@ -4649,7 +4828,7 @@
             0                           time: mean (interval: 6 minutes)
         Attributes:
             Conventions                 'CF-1.0'
-            cmor_version                np.float32(0.96)
+            cmor_version                0.96
             comment                     'This run was initiated from the end of the corresponding 20C3M run of CCSR/NIES/FRCGC ...'
             contact                     'Seita Emori (emori@nies.go.jp)'
             experiment_id               '720 ppm stabilization experiment (SRES A1B)'
@@ -4658,7 +4837,7 @@
             original_name               '10m zonal wind'
             original_units              'm/s'
             project_id                  'IPCC Fourth Assessment'
-            realization                 np.int32(1)
+            realization                 1
             references                  'K-1 Coupled GCM Description (K-1 Technical Report No.1) in preparation'
             source                      'MIROC3.2 (2004): atmosphere: AGCM (AGCM5.7b, T106 L56); ocean & sea ice: ...'
             table_id                    'Table A2 (17 November 2004)'
@@ -4750,18 +4929,6 @@
   
   
   ```
-      Carbon Dioxide / (kg kg**-1)        (time: 1; model_level_number: 60; latitude: 181; longitude: 360)
-        Dimension coordinates:
-            time                             x                      -             -               -
-            model_level_number               -                      x             -               -
-            latitude                         -                      -             x               -
-            longitude                        -                      -             -               x
-        Attributes:
-            Conventions                 'CF-1.0'
-            history                     '2009-08-25 13:46:31 GMT by mars2netcdf-0.92'
-  ```
-  
-  ```
       Logarithm of surface pressure / (no_unit) (time: 1; model_level_number: 60; latitude: 181; longitude: 360)
         Dimension coordinates:
             time                                   x                      -             -               -
@@ -4773,6 +4940,18 @@
             history                           '2009-08-25 13:46:31 GMT by mars2netcdf-0.92'
   ```
   
+  ```
+      Carbon Dioxide / (kg kg**-1)        (time: 1; model_level_number: 60; latitude: 181; longitude: 360)
+        Dimension coordinates:
+            time                             x                      -             -               -
+            model_level_number               -                      x             -               -
+            latitude                         -                      -             x               -
+            longitude                        -                      -             -               x
+        Attributes:
+            Conventions                 'CF-1.0'
+            history                     '2009-08-25 13:46:31 GMT by mars2netcdf-0.92'
+  ```
+  
   
   
   
@@ -4780,6 +4959,22 @@
   #### [NetCDF/label_and_climate/A1B-99999a-river-sep-2070-2099.nc](test_data/NetCDF/label_and_climate/A1B-99999a-river-sep-2070-2099.nc)
 
   
+  
+  ```
+      realization weights / (unknown)     (sample number: 10000)
+        Dimension coordinates:
+            sample number                             x
+        Attributes:
+            Conventions                 'CF-1.0'
+            history                     '12/07/2007: MAA CREATE_PROBDF_FILE: Version Beta'
+            institution                 'Met Office Hadley Centre'
+            invalid_standard_name       'realization_weights'
+            meaning_period              'sep'
+            references                  'Murphy, J.M., B. B. B. Booth, M. Collins, G. R. Harris, D. M. H. Sexton ...'
+            scenario                    'IPCC SRES A1B'
+            source                      'Probabilistic climate prediction based on family of Met Office Hadley Centre ...'
+            title                       'Change in SEP mean Max air temperature at 1.5m relative to 1961-90 for ...'
+  ```
   
   ```
       Max air temperature at 1.5m / (K)   (time: 1; -- : 23; sample number: 10000)
@@ -4800,22 +4995,6 @@
             institution                 'Met Office Hadley Centre'
             meaning_period              'sep'
             realization_weights         'weights'
-            references                  'Murphy, J.M., B. B. B. Booth, M. Collins, G. R. Harris, D. M. H. Sexton ...'
-            scenario                    'IPCC SRES A1B'
-            source                      'Probabilistic climate prediction based on family of Met Office Hadley Centre ...'
-            title                       'Change in SEP mean Max air temperature at 1.5m relative to 1961-90 for ...'
-  ```
-  
-  ```
-      realization weights / (unknown)     (sample number: 10000)
-        Dimension coordinates:
-            sample number                             x
-        Attributes:
-            Conventions                 'CF-1.0'
-            history                     '12/07/2007: MAA CREATE_PROBDF_FILE: Version Beta'
-            institution                 'Met Office Hadley Centre'
-            invalid_standard_name       'realization_weights'
-            meaning_period              'sep'
             references                  'Murphy, J.M., B. B. B. Booth, M. Collins, G. R. Harris, D. M. H. Sexton ...'
             scenario                    'IPCC SRES A1B'
             source                      'Probabilistic climate prediction based on family of Met Office Hadley Centre ...'
@@ -4932,12 +5111,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
   
-  ```
-  
-  FutureWarning: Ignoring a datum in netCDF load for consistency with existing behaviour. In a future version of Iris, this datum will be applied. To apply the datum when loading, use the iris.FUTURE.datum_support flag.
-  
-  ```
-  
   
 
   #### [NetCDF/lambert_conformal/test_lcc.nc](test_data/NetCDF/lambert_conformal/test_lcc.nc)
@@ -4966,12 +5139,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
   
-  ```
-  
-  FutureWarning: Ignoring a datum in netCDF load for consistency with existing behaviour. In a future version of Iris, this datum will be applied. To apply the datum when loading, use the iris.FUTURE.datum_support flag.
-  
-  ```
-  
   
 
   #### [NetCDF/mercator/false_east_north_merc.nc](test_data/NetCDF/mercator/false_east_north_merc.nc)
@@ -4992,12 +5159,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
   
-  ```
-  
-  FutureWarning: Ignoring a datum in netCDF load for consistency with existing behaviour. In a future version of Iris, this datum will be applied. To apply the datum when loading, use the iris.FUTURE.datum_support flag.
-  
-  ```
-  
   
 
   #### [NetCDF/mercator/non_unit_scale_factor_merc.nc](test_data/NetCDF/mercator/non_unit_scale_factor_merc.nc)
@@ -5014,12 +5175,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   
-  
-  ```
-  
-  FutureWarning: Ignoring a datum in netCDF load for consistency with existing behaviour. In a future version of Iris, this datum will be applied. To apply the datum when loading, use the iris.FUTURE.datum_support flag.
-  
-  ```
   
   
 
@@ -5044,10 +5199,10 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
             creator_email               'sat_systems@metoffice.gov.uk'
             creator_name                'Satellite Applications, Met Office'
             creator_type                'group'
-            geospatial_lat_max          np.float32(0.0)
-            geospatial_lat_min          np.float32(0.0)
-            geospatial_lon_max          np.float32(0.0)
-            geospatial_lon_min          np.float32(0.0)
+            geospatial_lat_max          0.0
+            geospatial_lat_min          0.0
+            geospatial_lon_max          0.0
+            geospatial_lon_min          0.0
             history                     'Created: 2016-05-23T09:40:00Z'
             institution                 'Met Office, UK'
             instrument                  'SEVIRI'
@@ -5060,12 +5215,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   
-  
-  ```
-  
-  FutureWarning: Ignoring a datum in netCDF load for consistency with existing behaviour. In a future version of Iris, this datum will be applied. To apply the datum when loading, use the iris.FUTURE.datum_support flag.
-  
-  ```
   
   
 
@@ -5087,10 +5236,10 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
             creator_email               'sat_systems@metoffice.gov.uk'
             creator_name                'Satellite Applications, Met Office'
             creator_type                'group'
-            geospatial_lat_max          np.float32(2.2e-44)
-            geospatial_lat_min          np.float32(0.0)
-            geospatial_lon_max          np.float32(0.0)
-            geospatial_lon_min          np.float32(0.0)
+            geospatial_lat_max          2.2e-44
+            geospatial_lat_min          0.0
+            geospatial_lon_max          0.0
+            geospatial_lon_min          0.0
             history                     'Created: 2016-05-23T09:40:00Z'
             institution                 'Met Office, UK'
             instrument                  'SEVIRI'
@@ -5103,12 +5252,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   
-  
-  ```
-  
-  FutureWarning: Ignoring a datum in netCDF load for consistency with existing behaviour. In a future version of Iris, this datum will be applied. To apply the datum when loading, use the iris.FUTURE.datum_support flag.
-  
-  ```
   
   
 
@@ -5126,12 +5269,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   
-  
-  ```
-  
-  FutureWarning: Ignoring a datum in netCDF load for consistency with existing behaviour. In a future version of Iris, this datum will be applied. To apply the datum when loading, use the iris.FUTURE.datum_support flag.
-  
-  ```
   
   
 
@@ -5160,12 +5297,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
   
-  ```
-  
-  FutureWarning: Ignoring a datum in netCDF load for consistency with existing behaviour. In a future version of Iris, this datum will be applied. To apply the datum when loading, use the iris.FUTURE.datum_support flag.
-  
-  ```
-  
   
 
   #### [NetCDF/rotated/xy/rotPole_landAreaFraction.nc](test_data/NetCDF/rotated/xy/rotPole_landAreaFraction.nc)
@@ -5192,12 +5323,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   
-  
-  ```
-  
-  FutureWarning: Ignoring a datum in netCDF load for consistency with existing behaviour. In a future version of Iris, this datum will be applied. To apply the datum when loading, use the iris.FUTURE.datum_support flag.
-  
-  ```
   
   
 
@@ -5227,12 +5352,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
   
-  ```
-  
-  FutureWarning: Ignoring a datum in netCDF load for consistency with existing behaviour. In a future version of Iris, this datum will be applied. To apply the datum when loading, use the iris.FUTURE.datum_support flag.
-  
-  ```
-  
   
 
   #### [NetCDF/stereographic/toa_brightness_temperature.nc](test_data/NetCDF/stereographic/toa_brightness_temperature.nc)
@@ -5256,10 +5375,10 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
             creator_email               'sat_systems@metoffice.gov.uk'
             creator_name                'Satellite Applications, Met Office'
             creator_type                'group'
-            geospatial_lat_max          np.float32(2.2e-44)
-            geospatial_lat_min          np.float32(0.0)
-            geospatial_lon_max          np.float32(0.0)
-            geospatial_lon_min          np.float32(0.0)
+            geospatial_lat_max          2.2e-44
+            geospatial_lat_min          0.0
+            geospatial_lon_max          0.0
+            geospatial_lon_min          0.0
             history                     'Created: 2016-05-23T09:40:00Z'
             institution                 'Met Office, UK'
             instrument                  'SEVIRI'
@@ -5273,12 +5392,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
   
-  ```
-  
-  FutureWarning: Ignoring a datum in netCDF load for consistency with existing behaviour. In a future version of Iris, this datum will be applied. To apply the datum when loading, use the iris.FUTURE.datum_support flag.
-  
-  ```
-  
   
 
   #### [NetCDF/testing/cell_methods.nc](test_data/NetCDF/testing/cell_methods.nc)
@@ -5286,29 +5399,30 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
   ```
-      cube_mode / (unknown)               (time: 1)
+      cube_median / (unknown)             (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            0                           time: mode
+            0                           time: median
   ```
   
   ```
-      cube_variance / (unknown)           (time: 1)
+      cube_point / (unknown)              (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            0                           time: variance
+            0                           time: point
   ```
   
   ```
-      cube_comment_0 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+      cube_mix_2 / (unknown)              (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            0                           time: mean (this is a time comment)
+            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e comment: area-weighted comment: area-weighted)
+            1                           time: sum (interval: 7 days comment: weekly sum)
   ```
   
   ```
@@ -5319,6 +5433,17 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
             longitude                        -            -             x
         Cell methods:
             0                           latitude: longitude: mean (interval: 0.1 degrees interval: 0.1 degrees)
+  ```
+  
+  ```
+      cube_axes_3 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: mean
+            1                           latitude: longitude: maximum
   ```
   
   ```
@@ -5334,114 +5459,31 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_mid_range / (unknown)          (time: 1)
+      cube_comment_3 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           latitude: longitude: mean (this a lat comment this is a lon comment)
+  ```
+  
+  ```
+      cube_variance / (unknown)           (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            0                           time: mid_range
+            0                           time: variance
   ```
   
   ```
-      cube_axes_4 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+      cube_mix_0 / (unknown)              (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            0                           latitude: longitude: mean
-            1                           time: maximum
-  ```
-  
-  ```
-      cube_axes_0 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           latitude: longitude: mean
-  ```
-  
-  ```
-      cube_interval_3 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           time: maximum (interval: 1 day)
-            1                           latitude: longitude: minimum (interval: 0.1 degrees interval: 0.1 degrees)
-  ```
-  
-  ```
-      cube_axes_3 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           time: mean
-            1                           latitude: longitude: maximum
-  ```
-  
-  ```
-      cube_minimum / (unknown)            (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            0                           time: minimum
-  ```
-  
-  ```
-      cube_mix_1 / (unknown)              (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e comment: area-weighted comment: area-weighted)
-  ```
-  
-  ```
-      cube_comment_1 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           time: mean (this is a time comment)
-  ```
-  
-  ```
-      cube_axes_1 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           time: latitude: longitude: mean
-  ```
-  
-  ```
-      cube_axes_2 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           time: mean
-            1                           latitude: maximum
-            2                           longitude: minimum
-  ```
-  
-  ```
-      cube_interval_0 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           time: mean (interval: 1 day)
+            0                           time: mean (interval: 1 day comment: daily mean time)
   ```
   
   ```
@@ -5461,32 +5503,11 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_sum / (unknown)                (time: 1)
+      cube_mean / (unknown)               (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            0                           time: sum
-  ```
-  
-  ```
-      cube_mix_2 / (unknown)              (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e comment: area-weighted comment: area-weighted)
-            1                           time: sum (interval: 7 days comment: weekly sum)
-  ```
-  
-  ```
-      cube_mix_0 / (unknown)              (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           time: mean (interval: 1 day comment: daily mean time)
+            0                           time: mean
   ```
   
   ```
@@ -5500,6 +5521,90 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
+      cube_comment_1 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: mean (this is a time comment)
+  ```
+  
+  ```
+      cube_mode / (unknown)               (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            0                           time: mode
+  ```
+  
+  ```
+      cube_sum / (unknown)                (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            0                           time: sum
+  ```
+  
+  ```
+      cube_interval_0 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: mean (interval: 1 day)
+  ```
+  
+  ```
+      cube_interval_3 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: maximum (interval: 1 day)
+            1                           latitude: longitude: minimum (interval: 0.1 degrees interval: 0.1 degrees)
+  ```
+  
+  ```
+      cube_minimum / (unknown)            (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            0                           time: minimum
+  ```
+  
+  ```
+      cube_axes_4 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           latitude: longitude: mean
+            1                           time: maximum
+  ```
+  
+  ```
+      cube_comment_0 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: mean (this is a time comment)
+  ```
+  
+  ```
+      cube_mid_range / (unknown)          (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            0                           time: mid_range
+  ```
+  
+  ```
       cube_comment_2 / (unknown)          (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
@@ -5507,32 +5612,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
             longitude                        -            -             x
         Cell methods:
             0                           latitude: longitude: mean (this is a shared comment this is a shared comment)
-  ```
-  
-  ```
-      cube_point / (unknown)              (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            0                           time: point
-  ```
-  
-  ```
-      cube_comment_3 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           latitude: longitude: mean (this a lat comment this is a lon comment)
-  ```
-  
-  ```
-      cube_median / (unknown)             (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            0                           time: median
   ```
   
   ```
@@ -5547,11 +5626,45 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_mean / (unknown)               (time: 1)
+      cube_axes_1 / (unknown)             (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
-            time                             x
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: latitude: longitude: mean
+  ```
+  
+  ```
+      cube_axes_0 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           latitude: longitude: mean
+  ```
+  
+  ```
+      cube_axes_2 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
         Cell methods:
             0                           time: mean
+            1                           latitude: maximum
+            2                           longitude: minimum
+  ```
+  
+  ```
+      cube_mix_1 / (unknown)              (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e comment: area-weighted comment: area-weighted)
   ```
   
   
@@ -5592,12 +5705,6 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   
-  
-  ```
-  
-  FutureWarning: Ignoring a datum in netCDF load for consistency with existing behaviour. In a future version of Iris, this datum will be applied. To apply the datum when loading, use the iris.FUTURE.datum_support flag.
-  
-  ```
   
   
 
@@ -5716,12 +5823,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
   
-  ```
-  
-  FutureWarning: Ignoring a datum in netCDF load for consistency with existing behaviour. In a future version of Iris, this datum will be applied. To apply the datum when loading, use the iris.FUTURE.datum_support flag.
-  
-  ```
-  
   
 
   #### [NetCDF/transverse_mercator/tmean_1910_1910.nc](test_data/NetCDF/transverse_mercator/tmean_1910_1910.nc)
@@ -5751,118 +5852,28 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
   
-  ```
-  
-  FutureWarning: Ignoring a datum in netCDF load for consistency with existing behaviour. In a future version of Iris, this datum will be applied. To apply the datum when loading, use the iris.FUTURE.datum_support flag.
-  
-  ```
-  
   
 
   #### [NetCDF/ugrid/21_triangle_example.nc](test_data/NetCDF/ugrid/21_triangle_example.nc)
 
   
   
-  ```
-      Maps every edge to the two nodes that it connects. / (unknown) (-- : 41; -- : 2)
-        Attributes:
-            Conventions                                            'UGRID-0.9'
-            cf_role                                                'edge_node_connectivity'
-            start_index                                            np.int64(0)
-  ```
+  
   
   ```
-      Maps every boundary segment to the two nodes that it connects. / (unknown) (-- : 19; -- : 2)
-        Attributes:
-            Conventions                                                        'UGRID-0.9'
-            cf_role                                                            'boundary_node_connectivity'
-            start_index                                                        np.int64(0)
-  ```
   
-  ```
-      volume flux between cells / (m^3/s) (-- : 41)
-        Auxiliary coordinates:
-            latitude                        x
-            longitude                       x
-        Attributes:
-            Conventions                 'UGRID-0.9'
-            location                    'edge'
-            mesh                        'mesh'
-  ```
+  IrisCfMissingVarWarning: Missing CF-UGRID connectivity variable mesh_face_edges, referenced by netCDF variable mesh
   
-  ```
-      model boundary conditions / (no_unit) (-- : 19)
-        Auxiliary coordinates:
-            latitude                          x
-            longitude                         x
-        Attributes:
-            Conventions                   'UGRID-0.9'
-            flag_meanings                 'no_flow_boundary  open_boundary'
-            flag_values                   '0 1'
-            location                      'boundary'
-            mesh                          'mesh'
-  ```
+  IrisCfMissingVarWarning: Missing CF-UGRID connectivity variable mesh_face_links, referenced by netCDF variable mesh
   
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID-0.9'
-            boundary_node_connectivity                'mesh_boundary_nodes'
-            cf_role                                   'mesh_topology'
-            edge_coordinates                          'mesh_edge_lon mesh_edge_lat'
-            edge_node_connectivity                    'mesh_edge_nodes'
-            face_coordinates                          'mesh_face_lon mesh_face_lat'
-            face_edge_connectivity                    'mesh_face_edges'
-            face_face_connectivity                    'mesh_face_links'
-            face_node_connectivity                    'mesh_face_nodes'
-            node_coordinates                          'mesh_node_lon mesh_node_lat'
-            topology_dimension                        np.int64(2)
-  ```
-  
-  ```
-      Maps every triangular face to its three corner nodes. / (unknown) (-- : 21; -- : 3)
-        Attributes:
-            Conventions                                               'UGRID-0.9'
-            cf_role                                                   'face_node_connectivity'
-            start_index                                               np.int64(0)
-  ```
-  
-  ```
-      eastward_sea_water_velocity / (m/s) (-- : 21)
-        Auxiliary coordinates:
-            latitude                        x
-            longitude                       x
-        Attributes:
-            Conventions                 'UGRID-0.9'
-            location                    'face'
-            mesh                        'mesh'
-  ```
-  
-  ```
-      northward_sea_water_velocity / (m/s) (-- : 21)
-        Auxiliary coordinates:
-            latitude                         x
-            longitude                        x
-        Attributes:
-            Conventions                  'UGRID-0.9'
-            location                     'face'
-            mesh                         'mesh'
-  ```
-  
-  ```
-      sea_floor_depth_below_geoid / (m)   (-- : 20)
-        Auxiliary coordinates:
-            latitude                        x
-            longitude                       x
-        Attributes:
-            Conventions                 'UGRID-0.9'
-            location                    'node'
-            mesh                        'mesh'
-            positive                    'down'
   ```
   
   
+  ```
   
+  ValueError: mesh data variable 'bnd_cond' has an invalid location='boundary'.
+  
+  ```
   
 
   #### [NetCDF/unstructured_grid/data_C4.nc](test_data/NetCDF/unstructured_grid/data_C4.nc)
@@ -5871,43 +5882,12 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       sample_data / (unknown)             (-- : 96)
-        Auxiliary coordinates:
+        Mesh coordinates:
             latitude                        x
             longitude                       x
-        Attributes:
-            Conventions                 'UGRID-1.0'
-            location                    'face'
-            mesh                        'topology'
-  ```
-  
-  ```
-      Maps every quadrilateral face to its four corner nodes. / (unknown) (-- : 96; -- : 4)
-        Attributes:
-            Conventions                                                 'UGRID-1.0'
-            cf_role                                                     'face_node_connectivity'
-            start_index                                                 np.int32(1)
-  ```
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID-1.0'
-            cf_role                                   'mesh_topology'
-            face_coordinates                          'latitude longitude'
-            face_dimension                            'dim0'
-            face_node_connectivity                    'face_nodes'
-            node_coordinates                          'node_lat node_lon'
-            topology_dimension                        np.int64(2)
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 98)
-        Attributes:
-            Conventions                 'UGRID-1.0'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 98)
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    face
         Attributes:
             Conventions                 'UGRID-1.0'
   ```
@@ -5921,6 +5901,43 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
   ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:20:18 GMT'
+            title                             'Created by xios'
+            uuid                              '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
+  ```
+  
+  ```
+      surface_convective_rainfall_rate / (kg m-2 s-1) (-- : 1; -- : 864)
+        Mesh coordinates:
+            latitude                                    -       x
+            longitude                                   -       x
+        Auxiliary coordinates:
+            time                                        x       -
+        Mesh:
+            name                                    Topology data of 2D unstructured mesh
+            location                                face
+        Cell methods:
+            0                                       time: point (interval: 300 s)
+        Attributes:
+            Conventions                             'UGRID'
+            description                             'Created by xios'
+            interval_operation                      '300 s'
+            interval_write                          '21600 s'
+            name                                    'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
+            online_operation                        'instant'
+            timeStamp                               '2020-Oct-18 21:20:18 GMT'
+            title                                   'Created by xios'
+            uuid                                    '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
+  ```
+  
+  ```
       neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
             Conventions                  'UGRID'
@@ -5928,23 +5945,10 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             comment                      'missing neighbor faces are indicated using _FillValue'
             description                  'Created by xios'
             name                         'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            start_index                  np.int32(0)
+            start_index                  0
             timeStamp                    '2020-Oct-18 21:20:18 GMT'
             title                        'Created by xios'
             uuid                         '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            start_index                              np.int32(0)
-            timeStamp                                '2020-Oct-18 21:20:18 GMT'
-            title                                    'Created by xios'
-            uuid                                     '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
   ```
   
   ```
@@ -5954,122 +5958,12 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             cf_role                                            'face_face connectivity'
             description                                        'Created by xios'
             flag_meanings                                      'out_of_mesh'
-            flag_values                                        np.int32(-1)
+            flag_values                                        -1
             name                                               'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            start_index                                        np.int32(0)
+            start_index                                        0
             timeStamp                                          '2020-Oct-18 21:20:18 GMT'
             title                                              'Created by xios'
             uuid                                               '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      surface_convective_rainfall_rate / (kg m-2 s-1) (-- : 1; -- : 864)
-        Auxiliary coordinates:
-            time                                        x       -
-            latitude                                    -       x
-            longitude                                   -       x
-        Cell methods:
-            0                                       time: point (interval: 300 s)
-        Attributes:
-            Conventions                             'UGRID'
-            description                             'Created by xios'
-            interval_operation                      '300 s'
-            interval_write                          '21600 s'
-            location                                'face'
-            mesh                                    'Mesh2d_half_levels'
-            name                                    'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            online_operation                        'instant'
-            timeStamp                               '2020-Oct-18 21:20:18 GMT'
-            title                                   'Created by xios'
-            uuid                                    '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            start_index                       np.int32(0)
-            timeStamp                         '2020-Oct-18 21:20:18 GMT'
-            title                             'Created by xios'
-            uuid                              '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
-            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
-            name                                      'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
-            timeStamp                                 '2020-Oct-18 21:20:18 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        np.int32(2)
-            uuid                                      '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            start_index                                             np.int32(0)
-            timeStamp                                               '2020-Oct-18 21:20:18 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
   ```
   
   
@@ -6081,6 +5975,43 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
   ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:18:35 GMT'
+            title                             'Created by xios'
+            uuid                              'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
+  ```
+      surface_convective_rainfall_rate / (kg m-2 s-1) (-- : 72; -- : 864)
+        Mesh coordinates:
+            latitude                                    -        x
+            longitude                                   -        x
+        Auxiliary coordinates:
+            time                                        x        -
+        Mesh:
+            name                                    Topology data of 2D unstructured mesh
+            location                                face
+        Cell methods:
+            0                                       time: point
+        Attributes:
+            Conventions                             'UGRID'
+            description                             'Created by xios'
+            interval_operation                      '300 s'
+            interval_write                          '300 s'
+            name                                    'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            online_operation                        'instant'
+            timeStamp                               '2020-Oct-18 21:18:35 GMT'
+            title                                   'Created by xios'
+            uuid                                    'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
+  ```
       neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
             Conventions                  'UGRID'
@@ -6088,23 +6019,10 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             comment                      'missing neighbor faces are indicated using _FillValue'
             description                  'Created by xios'
             name                         'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            start_index                  np.int32(0)
+            start_index                  0
             timeStamp                    '2020-Oct-18 21:18:35 GMT'
             title                        'Created by xios'
             uuid                         'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            start_index                              np.int32(0)
-            timeStamp                                '2020-Oct-18 21:18:35 GMT'
-            title                                    'Created by xios'
-            uuid                                     'b3dc0fb4-9828-4663-a5ac-2a5763280159'
   ```
   
   ```
@@ -6114,122 +6032,12 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             cf_role                                            'face_face connectivity'
             description                                        'Created by xios'
             flag_meanings                                      'out_of_mesh'
-            flag_values                                        np.int32(-1)
+            flag_values                                        -1
             name                                               'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            start_index                                        np.int32(0)
+            start_index                                        0
             timeStamp                                          '2020-Oct-18 21:18:35 GMT'
             title                                              'Created by xios'
             uuid                                               'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      surface_convective_rainfall_rate / (kg m-2 s-1) (-- : 72; -- : 864)
-        Auxiliary coordinates:
-            time                                        x        -
-            latitude                                    -        x
-            longitude                                   -        x
-        Cell methods:
-            0                                       time: point
-        Attributes:
-            Conventions                             'UGRID'
-            description                             'Created by xios'
-            interval_operation                      '300 s'
-            interval_write                          '300 s'
-            location                                'face'
-            mesh                                    'Mesh2d_half_levels'
-            name                                    'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            online_operation                        'instant'
-            timeStamp                               '2020-Oct-18 21:18:35 GMT'
-            title                                   'Created by xios'
-            uuid                                    'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            start_index                       np.int32(0)
-            timeStamp                         '2020-Oct-18 21:18:35 GMT'
-            title                             'Created by xios'
-            uuid                              'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
-            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
-            name                                      'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
-            timeStamp                                 '2020-Oct-18 21:18:35 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        np.int32(2)
-            uuid                                      'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            start_index                                             np.int32(0)
-            timeStamp                                               '2020-Oct-18 21:18:35 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            timeStamp                   '2020-Oct-18 21:18:35 GMT'
-            title                       'Created by xios'
-            uuid                        'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            timeStamp                   '2020-Oct-18 21:18:35 GMT'
-            title                       'Created by xios'
-            uuid                        'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            timeStamp                   '2020-Oct-18 21:18:35 GMT'
-            title                       'Created by xios'
-            uuid                        'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            timeStamp                   '2020-Oct-18 21:18:35 GMT'
-            title                       'Created by xios'
-            uuid                        'b3dc0fb4-9828-4663-a5ac-2a5763280159'
   ```
   
   
@@ -6241,26 +6049,17 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
   ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            start_index                              np.int32(0)
-            timeStamp                                '2020-Oct-18 21:20:19 GMT'
-            title                                    'Created by xios'
-            uuid                                     'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
       area_fraction / (1)                 (-- : 1; full_levels: 39; -- : 864)
         Dimension coordinates:
             full_levels                     -               x        -
-        Auxiliary coordinates:
-            time                            x               -        -
+        Mesh coordinates:
             latitude                        -               -        x
             longitude                       -               -        x
+        Auxiliary coordinates:
+            time                            x               -        -
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    face
         Cell methods:
             0                           time: point (interval: 300 s)
         Attributes:
@@ -6268,8 +6067,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                 'Created by xios'
             interval_operation          '300 s'
             interval_write              '21600 s'
-            location                    'face'
-            mesh                        'Mesh2d_full_levels'
             name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
             online_operation            'instant'
             timeStamp                   '2020-Oct-18 21:20:19 GMT'
@@ -6278,16 +6075,17 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   ```
   
   ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            start_index                                             np.int32(0)
-            timeStamp                                               '2020-Oct-18 21:20:19 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:20:19 GMT'
+            title                        'Created by xios'
+            uuid                         'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
   ```
   
   ```
@@ -6297,9 +6095,9 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             cf_role                                            'face_face connectivity'
             description                                        'Created by xios'
             flag_meanings                                      'out_of_mesh'
-            flag_values                                        np.int32(-1)
+            flag_values                                        -1
             name                                               'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            start_index                                        np.int32(0)
+            start_index                                        0
             timeStamp                                          '2020-Oct-18 21:20:19 GMT'
             title                                              'Created by xios'
             uuid                                               'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
@@ -6312,86 +6110,10 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             cf_role                           'face_edge_connectivity'
             description                       'Created by xios'
             name                              'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            start_index                       np.int32(0)
+            start_index                       0
             timeStamp                         '2020-Oct-18 21:20:19 GMT'
             title                             'Created by xios'
             uuid                              'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            start_index                  np.int32(0)
-            timeStamp                    '2020-Oct-18 21:20:19 GMT'
-            title                        'Created by xios'
-            uuid                         'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_full_levels_edge_x Mesh2d_full_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_full_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_full_levels_face_x Mesh2d_full_levels_face_y'
-            face_node_connectivity                    'Mesh2d_full_levels_face_nodes'
-            name                                      'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            node_coordinates                          'Mesh2d_full_levels_node_x Mesh2d_full_levels_node_y'
-            timeStamp                                 '2020-Oct-18 21:20:19 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        np.int32(2)
-            uuid                                      'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
   ```
   
   
@@ -6403,6 +6125,19 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
   ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:20:19 GMT'
+            title                             'Created by xios'
+            uuid                              '412ffe9b-6a55-420e-940b-051e7d9f24bb'
+  ```
+  
+  ```
       neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
             Conventions                  'UGRID'
@@ -6410,23 +6145,10 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             comment                      'missing neighbor faces are indicated using _FillValue'
             description                  'Created by xios'
             name                         'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            start_index                  np.int32(0)
+            start_index                  0
             timeStamp                    '2020-Oct-18 21:20:19 GMT'
             title                        'Created by xios'
             uuid                         '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            start_index                              np.int32(0)
-            timeStamp                                '2020-Oct-18 21:20:19 GMT'
-            title                                    'Created by xios'
-            uuid                                     '412ffe9b-6a55-420e-940b-051e7d9f24bb'
   ```
   
   ```
@@ -6436,66 +6158,26 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             cf_role                                            'face_face connectivity'
             description                                        'Created by xios'
             flag_meanings                                      'out_of_mesh'
-            flag_values                                        np.int32(-1)
+            flag_values                                        -1
             name                                               'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            start_index                                        np.int32(0)
+            start_index                                        0
             timeStamp                                          '2020-Oct-18 21:20:19 GMT'
             title                                              'Created by xios'
             uuid                                               '412ffe9b-6a55-420e-940b-051e7d9f24bb'
   ```
   
   ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            start_index                       np.int32(0)
-            timeStamp                         '2020-Oct-18 21:20:19 GMT'
-            title                             'Created by xios'
-            uuid                              '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
-            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
-            name                                      'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
-            timeStamp                                 '2020-Oct-18 21:20:19 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        np.int32(2)
-            uuid                                      '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            start_index                                             np.int32(0)
-            timeStamp                                               '2020-Oct-18 21:20:19 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
       air_potential_temperature / (K)     (-- : 1; half_levels: 38; -- : 864)
         Dimension coordinates:
             half_levels                     -               x        -
-        Auxiliary coordinates:
-            time                            x               -        -
+        Mesh coordinates:
             latitude                        -               -        x
             longitude                       -               -        x
+        Auxiliary coordinates:
+            time                            x               -        -
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    face
         Cell methods:
             0                           time: point (interval: 300 s)
         Attributes:
@@ -6503,54 +6185,8 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                 'Created by xios'
             interval_operation          '300 s'
             interval_write              '21600 s'
-            location                    'face'
-            mesh                        'Mesh2d_half_levels'
             name                        'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
             online_operation            'instant'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
             timeStamp                   '2020-Oct-18 21:20:19 GMT'
             title                       'Created by xios'
             uuid                        '412ffe9b-6a55-420e-940b-051e7d9f24bb'
@@ -6565,6 +6201,19 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
   ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:20:18 GMT'
+            title                             'Created by xios'
+            uuid                              '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+  ```
+  
+  ```
       neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
             Conventions                  'UGRID'
@@ -6572,23 +6221,10 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             comment                      'missing neighbor faces are indicated using _FillValue'
             description                  'Created by xios'
             name                         'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
-            start_index                  np.int32(0)
+            start_index                  0
             timeStamp                    '2020-Oct-18 21:20:18 GMT'
             title                        'Created by xios'
             uuid                         '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
-            start_index                              np.int32(0)
-            timeStamp                                '2020-Oct-18 21:20:18 GMT'
-            title                                    'Created by xios'
-            uuid                                     '798b1d5b-05e3-4380-a3b9-822709b0b74c'
   ```
   
   ```
@@ -6598,33 +6234,24 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             cf_role                                            'face_face connectivity'
             description                                        'Created by xios'
             flag_meanings                                      'out_of_mesh'
-            flag_values                                        np.int32(-1)
+            flag_values                                        -1
             name                                               'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
-            start_index                                        np.int32(0)
+            start_index                                        0
             timeStamp                                          '2020-Oct-18 21:20:18 GMT'
             title                                              'Created by xios'
             uuid                                               '798b1d5b-05e3-4380-a3b9-822709b0b74c'
   ```
   
   ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
-            start_index                       np.int32(0)
-            timeStamp                         '2020-Oct-18 21:20:18 GMT'
-            title                             'Created by xios'
-            uuid                              '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
       snow_layer_temperature / (K)        (-- : 1; -- : 27; -- : 864)
-        Auxiliary coordinates:
-            time                            x       -        -
+        Mesh coordinates:
             latitude                        -       -        x
             longitude                       -       -        x
+        Auxiliary coordinates:
+            time                            x       -        -
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    face
         Cell methods:
             0                           time: point (interval: 300 s)
         Attributes:
@@ -6632,85 +6259,8 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                 'Created by xios'
             interval_operation          '300 s'
             interval_write              '21600 s'
-            location                    'face'
-            mesh                        'Mesh2d_half_levels'
             name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
             online_operation            'instant'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
-            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
-            name                                      'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
-            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
-            timeStamp                                 '2020-Oct-18 21:20:18 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        np.int32(2)
-            uuid                                      '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
-            start_index                                             np.int32(0)
-            timeStamp                                               '2020-Oct-18 21:20:18 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
             timeStamp                   '2020-Oct-18 21:20:18 GMT'
             title                       'Created by xios'
             uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
@@ -6725,6 +6275,19 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
   ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:20:18 GMT'
+            title                             'Created by xios'
+            uuid                              'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
+  ```
+  
+  ```
       neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
             Conventions                  'UGRID'
@@ -6732,23 +6295,10 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             comment                      'missing neighbor faces are indicated using _FillValue'
             description                  'Created by xios'
             name                         'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
-            start_index                  np.int32(0)
+            start_index                  0
             timeStamp                    '2020-Oct-18 21:20:18 GMT'
             title                        'Created by xios'
             uuid                         'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
-            start_index                              np.int32(0)
-            timeStamp                                '2020-Oct-18 21:20:18 GMT'
-            title                                    'Created by xios'
-            uuid                                     'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
   ```
   
   ```
@@ -6758,9 +6308,9 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             cf_role                                            'face_face connectivity'
             description                                        'Created by xios'
             flag_meanings                                      'out_of_mesh'
-            flag_values                                        np.int32(-1)
+            flag_values                                        -1
             name                                               'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
-            start_index                                        np.int32(0)
+            start_index                                        0
             timeStamp                                          '2020-Oct-18 21:20:18 GMT'
             title                                              'Created by xios'
             uuid                                               'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
@@ -6768,10 +6318,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       soil_temperature / (K)              (-- : 1; -- : 4; -- : 864)
-        Auxiliary coordinates:
-            time                            x       -       -
+        Mesh coordinates:
             latitude                        -       -       x
             longitude                       -       -       x
+        Auxiliary coordinates:
+            time                            x       -       -
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    face
         Cell methods:
             0                           time: point (interval: 300 s)
         Attributes:
@@ -6779,98 +6333,8 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                 'Created by xios'
             interval_operation          '300 s'
             interval_write              '21600 s'
-            location                    'face'
-            mesh                        'Mesh2d_half_levels'
             name                        'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
             online_operation            'instant'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
-            start_index                       np.int32(0)
-            timeStamp                         '2020-Oct-18 21:20:18 GMT'
-            title                             'Created by xios'
-            uuid                              'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
-            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
-            name                                      'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
-            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
-            timeStamp                                 '2020-Oct-18 21:20:18 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        np.int32(2)
-            uuid                                      'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
-            start_index                                             np.int32(0)
-            timeStamp                                               '2020-Oct-18 21:20:18 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
             timeStamp                   '2020-Oct-18 21:20:18 GMT'
             title                       'Created by xios'
             uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
@@ -6885,6 +6349,19 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
   ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:20:17 GMT'
+            title                             'Created by xios'
+            uuid                              'f42f46fc-d879-479b-ab60-73b76b8b5816'
+  ```
+  
+  ```
       neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
             Conventions                  'UGRID'
@@ -6892,23 +6369,10 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             comment                      'missing neighbor faces are indicated using _FillValue'
             description                  'Created by xios'
             name                         'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
-            start_index                  np.int32(0)
+            start_index                  0
             timeStamp                    '2020-Oct-18 21:20:17 GMT'
             title                        'Created by xios'
             uuid                         'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
-            start_index                              np.int32(0)
-            timeStamp                                '2020-Oct-18 21:20:17 GMT'
-            title                                    'Created by xios'
-            uuid                                     'f42f46fc-d879-479b-ab60-73b76b8b5816'
   ```
   
   ```
@@ -6918,64 +6382,24 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             cf_role                                            'face_face connectivity'
             description                                        'Created by xios'
             flag_meanings                                      'out_of_mesh'
-            flag_values                                        np.int32(-1)
+            flag_values                                        -1
             name                                               'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
-            start_index                                        np.int32(0)
+            start_index                                        0
             timeStamp                                          '2020-Oct-18 21:20:17 GMT'
             title                                              'Created by xios'
             uuid                                               'f42f46fc-d879-479b-ab60-73b76b8b5816'
   ```
   
   ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
-            start_index                       np.int32(0)
-            timeStamp                         '2020-Oct-18 21:20:17 GMT'
-            title                             'Created by xios'
-            uuid                              'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
-            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
-            name                                      'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
-            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
-            timeStamp                                 '2020-Oct-18 21:20:17 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        np.int32(2)
-            uuid                                      'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
-            start_index                                             np.int32(0)
-            timeStamp                                               '2020-Oct-18 21:20:17 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
       surface_upward_shortwave_flux_on_tiles / (W m-2) (-- : 1; -- : 11; -- : 864)
-        Auxiliary coordinates:
-            time                                         x       -        -
+        Mesh coordinates:
             latitude                                     -       -        x
             longitude                                    -       -        x
+        Auxiliary coordinates:
+            time                                         x       -        -
+        Mesh:
+            name                                     Topology data of 2D unstructured mesh
+            location                                 face
         Cell methods:
             0                                        time: point (interval: 300 s)
         Attributes:
@@ -6983,57 +6407,11 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                              'Created by xios'
             interval_operation                       '300 s'
             interval_write                           '21600 s'
-            location                                 'face'
-            mesh                                     'Mesh2d_half_levels'
             name                                     'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
             online_operation                         'instant'
             timeStamp                                '2020-Oct-18 21:20:17 GMT'
             title                                    'Created by xios'
             uuid                                     'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
-            timeStamp                   '2020-Oct-18 21:20:17 GMT'
-            title                       'Created by xios'
-            uuid                        'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
-            timeStamp                   '2020-Oct-18 21:20:17 GMT'
-            title                       'Created by xios'
-            uuid                        'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
-            timeStamp                   '2020-Oct-18 21:20:17 GMT'
-            title                       'Created by xios'
-            uuid                        'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
-            timeStamp                   '2020-Oct-18 21:20:17 GMT'
-            title                       'Created by xios'
-            uuid                        'f42f46fc-d879-479b-ab60-73b76b8b5816'
   ```
   
   
@@ -7045,6 +6423,19 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
   ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:20:18 GMT'
+            title                             'Created by xios'
+            uuid                              'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
+  ```
       neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
             Conventions                  'UGRID'
@@ -7052,45 +6443,10 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             comment                      'missing neighbor faces are indicated using _FillValue'
             description                  'Created by xios'
             name                         'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
-            start_index                  np.int32(0)
+            start_index                  0
             timeStamp                    '2020-Oct-18 21:20:18 GMT'
             title                        'Created by xios'
             uuid                         'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      snowpack_density / (kg m-3)         (-- : 1; -- : 9; -- : 864)
-        Auxiliary coordinates:
-            time                            x       -       -
-            latitude                        -       -       x
-            longitude                       -       -       x
-        Cell methods:
-            0                           time: point (interval: 300 s)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            interval_operation          '300 s'
-            interval_write              '21600 s'
-            location                    'face'
-            mesh                        'Mesh2d_half_levels'
-            name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
-            online_operation            'instant'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      Maps every face to its corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
-            start_index                              np.int32(0)
-            timeStamp                                '2020-Oct-18 21:20:18 GMT'
-            title                                    'Created by xios'
-            uuid                                     'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
   ```
   
   ```
@@ -7100,97 +6456,33 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             cf_role                                            'face_face connectivity'
             description                                        'Created by xios'
             flag_meanings                                      'out_of_mesh'
-            flag_values                                        np.int32(-1)
+            flag_values                                        -1
             name                                               'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
-            start_index                                        np.int32(0)
+            start_index                                        0
             timeStamp                                          '2020-Oct-18 21:20:18 GMT'
             title                                              'Created by xios'
             uuid                                               'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
   ```
   
   ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
-            start_index                       np.int32(0)
-            timeStamp                         '2020-Oct-18 21:20:18 GMT'
-            title                             'Created by xios'
-            uuid                              'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
-            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
-            name                                      'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
-            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
-            timeStamp                                 '2020-Oct-18 21:20:18 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        np.int32(2)
-            uuid                                      'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
-            start_index                                             np.int32(0)
-            timeStamp                                               '2020-Oct-18 21:20:18 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
+      snowpack_density / (kg m-3)         (-- : 1; -- : 9; -- : 864)
+        Mesh coordinates:
+            latitude                        -       -       x
+            longitude                       -       -       x
+        Auxiliary coordinates:
+            time                            x       -       -
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    face
+        Cell methods:
+            0                           time: point (interval: 300 s)
         Attributes:
             Conventions                 'UGRID'
             description                 'Created by xios'
+            interval_operation          '300 s'
+            interval_write              '21600 s'
             name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 1728)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
+            online_operation            'instant'
             timeStamp                   '2020-Oct-18 21:20:18 GMT'
             title                       'Created by xios'
             uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
@@ -7205,31 +6497,32 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   
   ```
+      neighbor faces for edges / (unknown) (-- : 27648; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_surface'
+            start_index                  0
+            timeStamp                    '2020-Feb-07 16:23:14 GMT'
+            title                        'Created by xios'
+            uuid                         '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
+  ```
+  
+  ```
       Indicates which other faces neighbor each face / (no_unit) (-- : 13824; -- : 4)
         Attributes:
             Conventions                                        'UGRID'
             cf_role                                            'face_face connectivity'
             description                                        'Created by xios'
             flag_meanings                                      'out_of_mesh'
-            flag_values                                        np.int32(-1)
+            flag_values                                        -1
             name                                               'lfric_surface'
-            start_index                                        np.int32(0)
+            start_index                                        0
             timeStamp                                          '2020-Feb-07 16:23:14 GMT'
             title                                              'Created by xios'
             uuid                                               '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
-  ```
-  
-  ```
-      Maps every edge/link to two nodes that it connects. / (unknown) (-- : 27648; -- : 2)
-        Attributes:
-            Conventions                                             'UGRID'
-            cf_role                                                 'edge_node_connectivity'
-            description                                             'Created by xios'
-            name                                                    'lfric_surface'
-            start_index                                             np.int32(0)
-            timeStamp                                               '2020-Feb-07 16:23:14 GMT'
-            title                                                   'Created by xios'
-            uuid                                                    '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
   ```
   
   ```
@@ -7239,63 +6532,22 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             cf_role                           'face_edge_connectivity'
             description                       'Created by xios'
             name                              'lfric_surface'
-            start_index                       np.int32(0)
+            start_index                       0
             timeStamp                         '2020-Feb-07 16:23:14 GMT'
             title                             'Created by xios'
             uuid                              '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
   ```
   
   ```
-      Maps every face to its corner nodes. / (unknown) (-- : 13824; -- : 4)
-        Attributes:
-            Conventions                              'UGRID'
-            cf_role                                  'face_node_connectivity'
-            description                              'Created by xios'
-            name                                     'lfric_surface'
-            start_index                              np.int32(0)
-            timeStamp                                '2020-Feb-07 16:23:14 GMT'
-            title                                    'Created by xios'
-            uuid                                     '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
-  ```
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 27648; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_surface'
-            start_index                  np.int32(0)
-            timeStamp                    '2020-Feb-07 16:23:14 GMT'
-            title                        'Created by xios'
-            uuid                         '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
-  ```
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            edge_coordinates                          'Mesh2d_half_levels_edge_x Mesh2d_half_levels_edge_y'
-            edge_node_connectivity                    'Mesh2d_half_levels_edge_nodes'
-            face_coordinates                          'Mesh2d_half_levels_face_x Mesh2d_half_levels_face_y'
-            face_node_connectivity                    'Mesh2d_half_levels_face_nodes'
-            name                                      'lfric_surface'
-            node_coordinates                          'Mesh2d_half_levels_node_x Mesh2d_half_levels_node_y'
-            timeStamp                                 '2020-Feb-07 16:23:14 GMT'
-            title                                     'Created by xios'
-            topology_dimension                        np.int32(2)
-            uuid                                      '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
-  ```
-  
-  ```
       atmosphere_boundary_layer_thickness / (m) (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                                  x       -
+        Mesh coordinates:
             latitude                              -       x
             longitude                             -       x
+        Auxiliary coordinates:
+            time                                  x       -
+        Mesh:
+            name                              Topology data of 2D unstructured mesh
+            location                          face
         Cell methods:
             0                                 time: mean (interval: 300 s)
             1                                 time_counter: mean
@@ -7304,8 +6556,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                       'Created by xios'
             interval_operation                '300 s'
             interval_write                    '1 d'
-            location                          'face'
-            mesh                              'Mesh2d_half_levels'
             name                              'lfric_surface'
             online_operation                  'average'
             timeStamp                         '2020-Feb-07 16:23:14 GMT'
@@ -7315,10 +6565,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       convective_precipitation_flux / (kg m-2 s-1) (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                                     x       -
+        Mesh coordinates:
             latitude                                 -       x
             longitude                                -       x
+        Auxiliary coordinates:
+            time                                     x       -
+        Mesh:
+            name                                 Topology data of 2D unstructured mesh
+            location                             face
         Cell methods:
             0                                    time: mean (interval: 300 s)
             1                                    time_counter: mean
@@ -7327,8 +6581,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                          'Created by xios'
             interval_operation                   '300 s'
             interval_write                       '1 d'
-            location                             'face'
-            mesh                                 'Mesh2d_half_levels'
             name                                 'lfric_surface'
             online_operation                     'average'
             timeStamp                            '2020-Feb-07 16:23:14 GMT'
@@ -7338,10 +6590,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       convective_rainfall_flux / (kg m-2 s-1) (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                                x       -
+        Mesh coordinates:
             latitude                            -       x
             longitude                           -       x
+        Auxiliary coordinates:
+            time                                x       -
+        Mesh:
+            name                            Topology data of 2D unstructured mesh
+            location                        face
         Cell methods:
             0                               time: mean (interval: 300 s)
             1                               time_counter: mean
@@ -7350,8 +6606,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                     'Created by xios'
             interval_operation              '300 s'
             interval_write                  '1 d'
-            location                        'face'
-            mesh                            'Mesh2d_half_levels'
             name                            'lfric_surface'
             online_operation                'average'
             timeStamp                       '2020-Feb-07 16:23:14 GMT'
@@ -7361,10 +6615,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       convective_snowfall_flux / (kg m-2 s-1) (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                                x       -
+        Mesh coordinates:
             latitude                            -       x
             longitude                           -       x
+        Auxiliary coordinates:
+            time                                x       -
+        Mesh:
+            name                            Topology data of 2D unstructured mesh
+            location                        face
         Cell methods:
             0                               time: mean (interval: 300 s)
             1                               time_counter: mean
@@ -7373,8 +6631,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                     'Created by xios'
             interval_operation              '300 s'
             interval_write                  '1 d'
-            location                        'face'
-            mesh                            'Mesh2d_half_levels'
             name                            'lfric_surface'
             online_operation                'average'
             timeStamp                       '2020-Feb-07 16:23:14 GMT'
@@ -7383,55 +6639,15 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   ```
   
   ```
-      latitude / (degrees)                (-- : 13826)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_surface'
-            timeStamp                   '2020-Feb-07 16:23:14 GMT'
-            title                       'Created by xios'
-            uuid                        '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 27648)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_surface'
-            timeStamp                   '2020-Feb-07 16:23:14 GMT'
-            title                       'Created by xios'
-            uuid                        '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 13826)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_surface'
-            timeStamp                   '2020-Feb-07 16:23:14 GMT'
-            title                       'Created by xios'
-            uuid                        '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 27648)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            name                        'lfric_surface'
-            timeStamp                   '2020-Feb-07 16:23:14 GMT'
-            title                       'Created by xios'
-            uuid                        '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
-  ```
-  
-  ```
       precipitation_flux / (kg m-2 s-1)   (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                            x       -
+        Mesh coordinates:
             latitude                        -       x
             longitude                       -       x
+        Auxiliary coordinates:
+            time                            x       -
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    face
         Cell methods:
             0                           time: mean (interval: 300 s)
             1                           time_counter: mean
@@ -7440,8 +6656,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                 'Created by xios'
             interval_operation          '300 s'
             interval_write              '1 d'
-            location                    'face'
-            mesh                        'Mesh2d_half_levels'
             name                        'lfric_surface'
             online_operation            'average'
             timeStamp                   '2020-Feb-07 16:23:14 GMT'
@@ -7451,10 +6665,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       rainfall_flux / (kg m-2 s-1)        (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                            x       -
+        Mesh coordinates:
             latitude                        -       x
             longitude                       -       x
+        Auxiliary coordinates:
+            time                            x       -
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    face
         Cell methods:
             0                           time: mean (interval: 300 s)
             1                           time_counter: mean
@@ -7463,8 +6681,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                 'Created by xios'
             interval_operation          '300 s'
             interval_write              '1 d'
-            location                    'face'
-            mesh                        'Mesh2d_half_levels'
             name                        'lfric_surface'
             online_operation            'average'
             timeStamp                   '2020-Feb-07 16:23:14 GMT'
@@ -7474,10 +6690,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       sea_surface_temperature / (K)       (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                            x       -
+        Mesh coordinates:
             latitude                        -       x
             longitude                       -       x
+        Auxiliary coordinates:
+            time                            x       -
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    face
         Cell methods:
             0                           time: mean (interval: 300 s)
             1                           time_counter: mean
@@ -7486,8 +6706,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                 'Created by xios'
             interval_operation          '300 s'
             interval_write              '1 d'
-            location                    'face'
-            mesh                        'Mesh2d_half_levels'
             name                        'lfric_surface'
             online_operation            'average'
             timeStamp                   '2020-Feb-07 16:23:14 GMT'
@@ -7497,10 +6715,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       snowfall_flux / (kg m-2 s-1)        (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                            x       -
+        Mesh coordinates:
             latitude                        -       x
             longitude                       -       x
+        Auxiliary coordinates:
+            time                            x       -
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    face
         Cell methods:
             0                           time: mean (interval: 300 s)
             1                           time_counter: mean
@@ -7509,8 +6731,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                 'Created by xios'
             interval_operation          '300 s'
             interval_write              '1 d'
-            location                    'face'
-            mesh                        'Mesh2d_half_levels'
             name                        'lfric_surface'
             online_operation            'average'
             timeStamp                   '2020-Feb-07 16:23:14 GMT'
@@ -7520,10 +6740,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       stratiform_precipitation_flux / (kg m-2 s-1) (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                                     x       -
+        Mesh coordinates:
             latitude                                 -       x
             longitude                                -       x
+        Auxiliary coordinates:
+            time                                     x       -
+        Mesh:
+            name                                 Topology data of 2D unstructured mesh
+            location                             face
         Cell methods:
             0                                    time: mean (interval: 300 s)
             1                                    time_counter: mean
@@ -7532,8 +6756,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                          'Created by xios'
             interval_operation                   '300 s'
             interval_write                       '1 d'
-            location                             'face'
-            mesh                                 'Mesh2d_half_levels'
             name                                 'lfric_surface'
             online_operation                     'average'
             timeStamp                            '2020-Feb-07 16:23:14 GMT'
@@ -7543,10 +6765,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       stratiform_rainfall_flux / (kg m-2 s-1) (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                                x       -
+        Mesh coordinates:
             latitude                            -       x
             longitude                           -       x
+        Auxiliary coordinates:
+            time                                x       -
+        Mesh:
+            name                            Topology data of 2D unstructured mesh
+            location                        face
         Cell methods:
             0                               time: mean (interval: 300 s)
             1                               time_counter: mean
@@ -7555,8 +6781,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                     'Created by xios'
             interval_operation              '300 s'
             interval_write                  '1 d'
-            location                        'face'
-            mesh                            'Mesh2d_half_levels'
             name                            'lfric_surface'
             online_operation                'average'
             timeStamp                       '2020-Feb-07 16:23:14 GMT'
@@ -7566,10 +6790,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       stratiform_snowfall_flux / (kg m-2 s-1) (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                                x       -
+        Mesh coordinates:
             latitude                            -       x
             longitude                           -       x
+        Auxiliary coordinates:
+            time                                x       -
+        Mesh:
+            name                            Topology data of 2D unstructured mesh
+            location                        face
         Cell methods:
             0                               time: mean (interval: 300 s)
             1                               time_counter: mean
@@ -7578,8 +6806,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                     'Created by xios'
             interval_operation              '300 s'
             interval_write                  '1 d'
-            location                        'face'
-            mesh                            'Mesh2d_half_levels'
             name                            'lfric_surface'
             online_operation                'average'
             timeStamp                       '2020-Feb-07 16:23:14 GMT'
@@ -7589,10 +6815,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       surface_downwelling_longwave_flux_in_air / (W m-2) (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                                           x       -
+        Mesh coordinates:
             latitude                                       -       x
             longitude                                      -       x
+        Auxiliary coordinates:
+            time                                           x       -
+        Mesh:
+            name                                       Topology data of 2D unstructured mesh
+            location                                   face
         Cell methods:
             0                                          time: mean (interval: 300 s)
             1                                          time_counter: mean
@@ -7601,8 +6831,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                                'Created by xios'
             interval_operation                         '300 s'
             interval_write                             '1 d'
-            location                                   'face'
-            mesh                                       'Mesh2d_half_levels'
             name                                       'lfric_surface'
             online_operation                           'average'
             timeStamp                                  '2020-Feb-07 16:23:14 GMT'
@@ -7612,10 +6840,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       surface_downwelling_shortwave_flux_in_air / (W m-2) (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                                            x       -
+        Mesh coordinates:
             latitude                                        -       x
             longitude                                       -       x
+        Auxiliary coordinates:
+            time                                            x       -
+        Mesh:
+            name                                        Topology data of 2D unstructured mesh
+            location                                    face
         Cell methods:
             0                                           time: mean (interval: 300 s)
             1                                           time_counter: mean
@@ -7624,8 +6856,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                                 'Created by xios'
             interval_operation                          '300 s'
             interval_write                              '1 d'
-            location                                    'face'
-            mesh                                        'Mesh2d_half_levels'
             name                                        'lfric_surface'
             online_operation                            'average'
             timeStamp                                   '2020-Feb-07 16:23:14 GMT'
@@ -7635,10 +6865,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       surface_roughness_length_for_momentum_in_air / (m) (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                                           x       -
+        Mesh coordinates:
             latitude                                       -       x
             longitude                                      -       x
+        Auxiliary coordinates:
+            time                                           x       -
+        Mesh:
+            name                                       Topology data of 2D unstructured mesh
+            location                                   face
         Cell methods:
             0                                          time: mean (interval: 300 s)
             1                                          time_counter: mean
@@ -7647,8 +6881,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                                'Created by xios'
             interval_operation                         '300 s'
             interval_write                             '1 d'
-            location                                   'face'
-            mesh                                       'Mesh2d_half_levels'
             name                                       'lfric_surface'
             online_operation                           'average'
             timeStamp                                  '2020-Feb-07 16:23:14 GMT'
@@ -7658,10 +6890,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       surface_temperature / (K)           (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                            x       -
+        Mesh coordinates:
             latitude                        -       x
             longitude                       -       x
+        Auxiliary coordinates:
+            time                            x       -
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    face
         Cell methods:
             0                           time: mean (interval: 300 s)
             1                           time_counter: mean
@@ -7670,8 +6906,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                 'Created by xios'
             interval_operation          '300 s'
             interval_write              '1 d'
-            location                    'face'
-            mesh                        'Mesh2d_half_levels'
             name                        'lfric_surface'
             online_operation            'average'
             timeStamp                   '2020-Feb-07 16:23:14 GMT'
@@ -7681,10 +6915,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       surface_upward_latent_heat_flux / (W m-2) (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                                  x       -
+        Mesh coordinates:
             latitude                              -       x
             longitude                             -       x
+        Auxiliary coordinates:
+            time                                  x       -
+        Mesh:
+            name                              Topology data of 2D unstructured mesh
+            location                          face
         Cell methods:
             0                                 time: mean (interval: 300 s)
             1                                 time_counter: mean
@@ -7693,8 +6931,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                       'Created by xios'
             interval_operation                '300 s'
             interval_write                    '1 d'
-            location                          'face'
-            mesh                              'Mesh2d_half_levels'
             name                              'lfric_surface'
             online_operation                  'average'
             timeStamp                         '2020-Feb-07 16:23:14 GMT'
@@ -7704,10 +6940,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       surface_upward_sensible_heat_flux / (W m-2) (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                                    x       -
+        Mesh coordinates:
             latitude                                -       x
             longitude                               -       x
+        Auxiliary coordinates:
+            time                                    x       -
+        Mesh:
+            name                                Topology data of 2D unstructured mesh
+            location                            face
         Cell methods:
             0                                   time: mean (interval: 300 s)
             1                                   time_counter: mean
@@ -7716,8 +6956,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                         'Created by xios'
             interval_operation                  '300 s'
             interval_write                      '1 d'
-            location                            'face'
-            mesh                                'Mesh2d_half_levels'
             name                                'lfric_surface'
             online_operation                    'average'
             timeStamp                           '2020-Feb-07 16:23:14 GMT'
@@ -7727,10 +6965,14 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   ```
       surface_upward_water_flux / (kg m-2 s-1) (-- : 1; -- : 13824)
-        Auxiliary coordinates:
-            time                                 x       -
+        Mesh coordinates:
             latitude                             -       x
             longitude                            -       x
+        Auxiliary coordinates:
+            time                                 x       -
+        Mesh:
+            name                             Topology data of 2D unstructured mesh
+            location                         face
         Cell methods:
             0                                time: mean (interval: 300 s)
             1                                time_counter: mean
@@ -7739,8 +6981,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             description                      'Created by xios'
             interval_operation               '300 s'
             interval_write                   '1 d'
-            location                         'face'
-            mesh                             'Mesh2d_half_levels'
             name                             'lfric_surface'
             online_operation                 'average'
             timeStamp                        '2020-Feb-07 16:23:14 GMT'
@@ -7755,70 +6995,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   #### [NetCDF/unstructured_grid/mesh_C12.nc](test_data/NetCDF/unstructured_grid/mesh_C12.nc)
 
   
-  
-  ```
-      Maps every edge to the two nodes that it connects. / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            cf_role                                                'edge_node_connectivity'
-            start_index                                            np.int32(1)
-  ```
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            cf_role                                   'mesh_topology'
-            constructor_inputs                        'edge_cells=12;smooth_passes=0'
-            edge_node_connectivity                    'dynamics_edge_nodes'
-            face_coordinates                          'dynamics_face_x dynamics_face_y'
-            face_edge_connectivity                    'dynamics_face_edges'
-            face_face_connectivity                    'dynamics_face_links'
-            face_node_connectivity                    'dynamics_face_nodes'
-            mesh_class                                'sphere'
-            n_mesh_maps                               np.int32(0)
-            node_coordinates                          'dynamics_node_x dynamics_node_y'
-            periodic_x                                'F'
-            periodic_y                                'F'
-            topology_dimension                        np.int32(2)
-  ```
-  
-  ```
-      Maps every quadrilateral face to its four edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            cf_role                                              'face_edge_connectivity'
-            start_index                                          np.int32(1)
-  ```
-  
-  ```
-      Maps every quadrilateral face to its four corner nodes. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            cf_role                                                     'face_node_connectivity'
-            start_index                                                 np.int32(1)
-  ```
-  
-  ```
-      Indicates which other faces neighbour each face. / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            cf_role                                              'face_face_connectivity'
-            flag_meanings                                        'out_of_mesh'
-            flag_values                                          np.int32(-1)
-            start_index                                          np.int32(1)
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 864)
-  ```
-  
-  ```
-      latitude / (degrees)                (-- : 866)
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 864)
-  ```
-  
-  ```
-      longitude / (degrees)               (-- : 866)
-  ```
   
   
   
@@ -7854,30 +7030,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   ```
   
   ```
-      radius / (radians)                  (time: 1; levels: 6; -- : 866)
-        Dimension coordinates:
-            time                             x          -       -
-            levels                           -          x       -
-        Auxiliary coordinates:
-            time                             x          -       -
-            latitude                         -          -       x
-            longitude                        -          -       x
-        Cell methods:
-            0                           time: point
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01 ...'
-            interval_operation          '5 s'
-            interval_write              '5 s'
-            name                        'theta_nodal_xios'
-            online_operation            'instant'
-            production                  'An IPSL model'
-            timeStamp                   '2016-Oct-24 15:16:48 BST'
-            title                       'Created by xios'
-  ```
-  
-  ```
       Topology data of 2D unstructured mesh / (unknown) (scalar cube)
         Attributes:
             Conventions                               'UGRID'
@@ -7889,40 +7041,7 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             production                                'An IPSL model'
             timeStamp                                 '2016-Oct-24 15:16:48 BST'
             title                                     'Created by xios'
-            topology_dimension                        np.int32(2)
-  ```
-  
-  
-  
-  
-
-  #### [NetCDF/unstructured_grid/theta_nodal_xios.nc](test_data/NetCDF/unstructured_grid/theta_nodal_xios.nc)
-
-  
-  
-  ```
-      Potential Temperature / (K)         (time: 1; levels: 6; -- : 866)
-        Dimension coordinates:
-            time                             x          -       -
-            levels                           -          x       -
-        Auxiliary coordinates:
-            time                             x          -       -
-            latitude                         -          -       x
-            longitude                        -          -       x
-        Cell methods:
-            0                           time: point
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01 ...'
-            interval_operation          '5 s'
-            interval_write              '5 s'
-            invalid_standard_name       'Potential Temperature'
-            name                        'theta_nodal_xios'
-            online_operation            'instant'
-            production                  'An IPSL model'
-            timeStamp                   '2016-Oct-24 15:16:48 BST'
-            title                       'Created by xios'
+            topology_dimension                        2
   ```
   
   ```
@@ -7949,23 +7068,28 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             title                       'Created by xios'
   ```
   
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            cf_role                                   'mesh_topology'
-            description                               'Created by xios'
-            history                                   'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01 ...'
-            name                                      'theta_nodal_xios'
-            node_coordinates                          'Mesh0_node_x Mesh0_node_y'
-            production                                'An IPSL model'
-            timeStamp                                 '2016-Oct-24 15:16:48 BST'
-            title                                     'Created by xios'
-            topology_dimension                        np.int32(2)
+  
+  
+  
+
+  #### [NetCDF/unstructured_grid/theta_nodal_xios.nc](test_data/NetCDF/unstructured_grid/theta_nodal_xios.nc)
+
+  
+  
+  
+  
   ```
   
+  _WarnComboCfDefaultingIgnoring: *Assuming* 'topology_dimension'=0, from the attached connectivities of the mesh variable Mesh0.  However, Mesh0:topology_dimension = 2 -- ignoring this as it is inconsistent.
+  
+  ```
   
   
+  ```
+  
+  ValueError: Expected 'topology_dimension' in range (1, 2), got 0.
+  
+  ```
   
 
   #### [NetCDF/volcello/volcello_Ofx_CESM2_deforest-globe_r1i1p1f1_gn.nc](test_data/NetCDF/volcello/volcello_Ofx_CESM2_deforest-globe_r1i1p1f1_gn.nc)
@@ -7987,8 +7111,8 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             Conventions                       'CF-1.7 CMIP-6.2'
             activity_id                       'LUMIP'
             branch_method                     'standard'
-            branch_time_in_child              np.float64(674885.0)
-            branch_time_in_parent             np.float64(182500.0)
+            branch_time_in_child              674885.0
+            branch_time_in_parent             182500.0
             case_id                           '11'
             cesm_casename                     'b.e21.B1850.f09_g17.CMIP6-deforest-globe.001'
             comment                           'For oceans with more than 1 mesh (e.g. staggered grids), report areas that ...'
@@ -7999,13 +7123,13 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             experiment                        'idealized transient global deforestation'
             experiment_id                     'deforest-globe'
             external_variables                'areacello volcello'
-            forcing_index                     np.int64(1)
+            forcing_index                     1
             frequency                         'fx'
             further_info_url                  'https://furtherinfo.es-doc.org/CMIP6.NCAR.CESM2.deforest-globe.none.r1 ...'
             grid                              'native gx1v7 displaced pole grid (384x320 latxlon)'
             grid_label                        'gn'
             id                                'volcello'
-            initialization_index              np.int64(1)
+            initialization_index              1
             institution                       'National Center for Atmospheric Research, Climate and Global Dynamics Laboratory, ...'
             institution_id                    'NCAR'
             license                           'CMIP6 model data produced by <The National Center for Atmospheric Research> ...'
@@ -8020,10 +7144,10 @@ Gracefully creating 'time1' auxiliary coordinate instead.
             parent_source_id                  'CESM2'
             parent_time_units                 'days since 0001-01-01 00:00:00'
             parent_variant_label              'r1i1p1f1'
-            physics_index                     np.int64(1)
+            physics_index                     1
             product                           'model-output'
             prov                              'fx ((isd.003))'
-            realization_index                 np.int64(1)
+            realization_index                 1
             realm                             'ocean'
             source                            'CESM2 (2017): atmosphere: CAM6 (0.9x1.25 finite volume grid; 288 x 192 ...'
             source_id                         'CESM2'
