@@ -71,6 +71,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [FF/lbc/small_lbc](test_data/FF/lbc/small_lbc)
@@ -272,6 +278,8 @@
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   ```
   
   
@@ -320,6 +328,8 @@
   
   IrisLoadWarning: Input field skipped as PPField creation failed : error = 'Unsupported header release number: -32768'
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   ```
   
   
@@ -353,6 +363,8 @@
   IrisLoadWarning: Input field skipped as PPField creation failed : error = 'Unsupported header release number: -32768'
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
   
   ```
   
@@ -429,6 +441,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [FF/n48_multi_field_table_count](test_data/FF/n48_multi_field_table_count)
@@ -502,6 +520,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [FF/structured/small](test_data/FF/structured/small)
@@ -532,6 +556,8 @@
   ```
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
   
   ```
   
@@ -598,6 +624,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/bulletin/40bytes.grib](test_data/GRIB/bulletin/40bytes.grib)
@@ -620,6 +652,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/bulletin/41bytes.grib](test_data/GRIB/bulletin/41bytes.grib)
@@ -640,6 +678,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -663,6 +707,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/fp_units/hours.grib2](test_data/GRIB/fp_units/hours.grib2)
@@ -684,6 +734,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -707,6 +763,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/fp_units/seconds.grib2](test_data/GRIB/fp_units/seconds.grib2)
@@ -728,6 +790,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -751,6 +819,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/gaussian/regular_gg.grib2](test_data/GRIB/gaussian/regular_gg.grib2)
@@ -772,6 +846,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -797,6 +877,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/grib1_second_order_packing/GRIB_00008_FRANX01](test_data/GRIB/grib1_second_order_packing/GRIB_00008_FRANX01)
@@ -811,12 +897,18 @@
         Scalar coordinates:
             forecast_period             0 hours
             originating_centre          unknown centre lfpw
-            time                        0001-01-17 00:00:00
+            time                        0001-01-15 00:00:00
         Attributes:
             GRIB_PARAM                  GRIB1:t001c085n008
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -842,6 +934,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/ij_directions/ineg_jpos.grib2](test_data/GRIB/ij_directions/ineg_jpos.grib2)
@@ -865,6 +963,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -890,6 +994,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/ij_directions/ipos_jpos.grib2](test_data/GRIB/ij_directions/ipos_jpos.grib2)
@@ -913,6 +1023,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -938,6 +1054,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/lambert/lambert.grib1](test_data/GRIB/lambert/lambert.grib1)
@@ -959,6 +1081,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -982,6 +1110,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/missing_values/ice_severity__no_bitsPerValue.grib2](test_data/GRIB/missing_values/ice_severity__no_bitsPerValue.grib2)
@@ -1003,6 +1137,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1026,6 +1166,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/polar_stereo/CMC_glb_TMP_ISBL_1015_ps30km_2013052000_P006.grib2](test_data/GRIB/polar_stereo/CMC_glb_TMP_ISBL_1015_ps30km_2013052000_P006.grib2)
@@ -1047,6 +1193,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1070,6 +1222,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1098,6 +1256,8 @@
   
   ```
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   IrisUserWarning: Unable to create instance of HybridPressureFactory. The source data contains no field(s) for 'ref_surface_pressure'.
   
   ```
@@ -1121,6 +1281,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/reduced/reduced_ll_missing.grib1](test_data/GRIB/reduced/reduced_ll_missing.grib1)
@@ -1139,6 +1305,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1162,6 +1334,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/rotated_uk/uk_wrongparam.grib1](test_data/GRIB/rotated_uk/uk_wrongparam.grib1)
@@ -1183,6 +1361,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1208,6 +1392,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/shape_of_earth/1.grib2](test_data/GRIB/shape_of_earth/1.grib2)
@@ -1231,6 +1421,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1256,6 +1452,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/shape_of_earth/3.grib2](test_data/GRIB/shape_of_earth/3.grib2)
@@ -1279,6 +1481,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1304,6 +1512,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/shape_of_earth/5.grib2](test_data/GRIB/shape_of_earth/5.grib2)
@@ -1327,6 +1541,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1352,6 +1572,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/shape_of_earth/7.grib2](test_data/GRIB/shape_of_earth/7.grib2)
@@ -1376,6 +1602,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/shape_of_earth/global.grib1](test_data/GRIB/shape_of_earth/global.grib1)
@@ -1397,6 +1629,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1420,6 +1658,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1445,6 +1689,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/uk_t/uk_t.grib2](test_data/GRIB/uk_t/uk_t.grib2)
@@ -1466,6 +1716,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1489,6 +1745,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1526,6 +1788,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [NIMROD/uk2km/cutouts/probability_fields](test_data/NIMROD/uk2km/cutouts/probability_fields)
@@ -1545,6 +1813,7 @@
             forecast_reference_time                 2020-01-28 03:00:00
             time                                    2020-01-28 04:00:00
         Attributes:
+            clutter_map_number                      12
             field_code                              172
             institution                             'Met Office'
             nimrod_version                          2
@@ -1588,6 +1857,7 @@
             height                                                0.0 m, bound=(0.0, 304.8) m
             time                                                  2020-01-28 04:00:00
         Attributes:
+            clutter_map_number                                    12
             field_code                                            172
             institution                                           'Met Office'
             nimrod_version                                        2
@@ -1765,6 +2035,7 @@
             forecast_reference_time                  2020-01-28 03:00:00
             time                                     2020-01-28 04:00:00
         Attributes:
+            clutter_map_number                       12
             field_code                               101
             institution                              'Met Office'
             nimrod_version                           2
@@ -1805,6 +2076,7 @@
             forecast_reference_time                                2020-01-28 03:00:00
             time                                                   2020-01-28 04:00:00
         Attributes:
+            clutter_map_number                                     12
             field_code                                             101
             institution                                            'Met Office'
             nimrod_version                                         2
@@ -1869,6 +2141,7 @@
             forecast_reference_time        2020-01-28 03:00:00
             time                           2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
+            clutter_map_number             12
             field_code                     61
             institution                    'Met Office'
             nimrod_version                 2
@@ -1911,6 +2184,7 @@
             forecast_reference_time                      2020-01-28 03:00:00
             time                                         2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
+            clutter_map_number                           12
             field_code                                   61
             institution                                  'Met Office'
             nimrod_version                               2
@@ -2027,6 +2301,7 @@
             forecast_reference_time         2020-01-28 03:00:00
             time                            2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
+            clutter_map_number              12
             field_code                      63
             institution                     'Met Office'
             nimrod_version                  2
@@ -2064,10 +2339,8 @@
             experiment_number           0
             forecast_period             3600 second, bound=(0, 3600) second
             forecast_reference_time     2020-01-28 03:00:00
-            percentile                  0.1
             time                        2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
-            Probability methods         ['ST (Some Time)']
             field_code                  218
             institution                 'Met Office'
             nimrod_version              2
@@ -2112,6 +2385,7 @@
             forecast_reference_time                2020-01-28 03:00:00
             time                                   2020-01-28 04:00:00
         Attributes:
+            clutter_map_number                     12
             field_code                             12
             institution                            'Met Office'
             nimrod_version                         2
@@ -2154,6 +2428,7 @@
             height                      1.65 m
             time                        2020-01-28 04:00:00
         Attributes:
+            clutter_map_number          12
             field_code                  155
             institution                 'Met Office'
             nimrod_version              2
@@ -2196,6 +2471,7 @@
             height                      10.0 m
             time                        2020-01-28 04:00:00
         Attributes:
+            clutter_map_number          12
             field_code                  806
             institution                 'Met Office'
             nimrod_version              2
@@ -2216,6 +2492,7 @@
             height                      10.0 m
             time                        2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
+            clutter_map_number          12
             field_code                  817
             institution                 'Met Office'
             nimrod_version              2
@@ -2284,6 +2561,7 @@
             height                      10.0 m
             time                        2020-01-28 04:00:00
         Attributes:
+            clutter_map_number          12
             field_code                  804
             institution                 'Met Office'
             nimrod_version              2
@@ -2326,6 +2604,7 @@
             height                             10.0 m
             time                               2020-01-28 04:00:00
         Attributes:
+            clutter_map_number                 12
             field_code                         804
             institution                        'Met Office'
             nimrod_version                     2
@@ -2394,6 +2673,7 @@
             height                      10.0 m
             time                        2020-01-28 04:00:00
         Attributes:
+            clutter_map_number          12
             field_code                  5
             institution                 'Met Office'
             nimrod_version              2
@@ -2414,6 +2694,7 @@
             height                      10.0 m
             time                        2020-01-28 04:00:00
         Attributes:
+            clutter_map_number          12
             field_code                  6
             institution                 'Met Office'
             nimrod_version              2
@@ -2446,6 +2727,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [NIMROD/uk2km/cutouts/u1096_ng_bmr04_precip_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_bmr04_precip_2km)
@@ -2470,11 +2757,18 @@
             nimrod_version              2
             num_model_levels            1
             processing                  ['accumulation or average']
+            software_identifier         0
             source                      'STEPS'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -2499,11 +2793,18 @@
             nimrod_version              2
             num_model_levels            1
             processing                  ['accumulation or average']
+            software_identifier         0
             source                      'STEPS'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -2554,6 +2855,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -2707,6 +3014,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -2905,6 +3218,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_convwind_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_convwind_2km)
@@ -3038,6 +3357,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3211,6 +3536,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_height_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_height_2km)
@@ -3238,6 +3569,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3309,6 +3646,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_precipaccum_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_precipaccum_2km)
@@ -3338,6 +3681,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3533,6 +3882,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_pressure_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_pressure_2km)
@@ -3581,6 +3936,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_radiation_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_radiation_2km)
@@ -3603,6 +3964,7 @@
             institution                 'Met Office'
             nimrod_version              2
             num_model_levels            1
+            radiation_type              ['downward_radiation', 'diffuse_radiation', 'direct_radiation']
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3623,6 +3985,7 @@
             institution                 'Met Office'
             nimrod_version              2
             num_model_levels            1
+            radiation_type              ['downward_radiation', 'diffuse_radiation']
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3663,6 +4026,7 @@
             institution                 'Met Office'
             nimrod_version              2
             num_model_levels            1
+            radiation_type              ['instantaneous ("corrected")', 'upward_radiation', 'downward_radiation', 'diffuse_radiation', 'direct_radiation']
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3683,6 +4047,7 @@
             institution                 'Met Office'
             nimrod_version              2
             num_model_levels            1
+            radiation_type              ['instantaneous ("corrected")', 'downward_radiation', 'direct_radiation']
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3703,6 +4068,7 @@
             institution                 'Met Office'
             nimrod_version              2
             num_model_levels            1
+            radiation_type              ['instantaneous ("corrected")', 'downward_radiation', 'diffuse_radiation']
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3723,11 +4089,18 @@
             institution                 'Met Office'
             nimrod_version              2
             num_model_levels            1
+            radiation_type              ['upward_radiation', 'downward_radiation', 'diffuse_radiation', 'direct_radiation']
             source                      'ek'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3751,6 +4124,7 @@
             institution                 'Met Office'
             nimrod_version              2
             num_model_levels            1
+            radiation_type              ['downward_radiation', 'diffuse_radiation', 'direct_radiation']
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3771,6 +4145,7 @@
             institution                 'Met Office'
             nimrod_version              2
             num_model_levels            1
+            radiation_type              ['downward_radiation', 'direct_radiation']
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3791,11 +4166,18 @@
             institution                 'Met Office'
             nimrod_version              2
             num_model_levels            1
+            radiation_type              ['downward_radiation', 'diffuse_radiation', 'direct_radiation', 'clear_sky_radiation']
             source                      'ek'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3826,6 +4208,14 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity3d0060_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity3d0060_2km)
@@ -3855,6 +4245,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_relhumidity_2km)
@@ -3883,6 +4279,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3952,6 +4354,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -4047,6 +4455,8 @@
   
   ```
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   IrisNimrodTranslationWarning: Unmatched vertical coord types 12 != 0. Assuming 12
   
   ```
@@ -4122,6 +4532,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -4216,6 +4632,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -4329,6 +4751,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -4466,6 +4894,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv3d0015_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv3d0015_2km)
@@ -4516,6 +4950,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek00_winduv_2km)
@@ -4565,6 +5005,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -4695,6 +5141,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [NIMROD/uk2km/cutouts/u1096_ng_ek07_precip0540_accum180_18km](test_data/NIMROD/uk2km/cutouts/u1096_ng_ek07_precip0540_accum180_18km)
@@ -4724,6 +5176,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [NIMROD/uk2km/cutouts/u1096_ng_umqv_fog_2km](test_data/NIMROD/uk2km/cutouts/u1096_ng_umqv_fog_2km)
@@ -4752,6 +5210,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -4929,18 +5393,6 @@
   
   
   ```
-      Logarithm of surface pressure / (no_unit) (time: 1; model_level_number: 60; latitude: 181; longitude: 360)
-        Dimension coordinates:
-            time                                   x                      -             -               -
-            model_level_number                     -                      x             -               -
-            latitude                               -                      -             x               -
-            longitude                              -                      -             -               x
-        Attributes:
-            Conventions                       'CF-1.0'
-            history                           '2009-08-25 13:46:31 GMT by mars2netcdf-0.92'
-  ```
-  
-  ```
       Carbon Dioxide / (kg kg**-1)        (time: 1; model_level_number: 60; latitude: 181; longitude: 360)
         Dimension coordinates:
             time                             x                      -             -               -
@@ -4952,6 +5404,18 @@
             history                     '2009-08-25 13:46:31 GMT by mars2netcdf-0.92'
   ```
   
+  ```
+      Logarithm of surface pressure / (no_unit) (time: 1; model_level_number: 60; latitude: 181; longitude: 360)
+        Dimension coordinates:
+            time                                   x                      -             -               -
+            model_level_number                     -                      x             -               -
+            latitude                               -                      -             x               -
+            longitude                              -                      -             -               x
+        Attributes:
+            Conventions                       'CF-1.0'
+            history                           '2009-08-25 13:46:31 GMT by mars2netcdf-0.92'
+  ```
+  
   
   
   
@@ -4959,31 +5423,6 @@
   #### [NetCDF/label_and_climate/A1B-99999a-river-sep-2070-2099.nc](test_data/NetCDF/label_and_climate/A1B-99999a-river-sep-2070-2099.nc)
 
   
-  
-  ```
-      Max air temperature at 1.5m / (K)   (time: 1; -- : 23; sample number: 10000)
-        Dimension coordinates:
-            time                             x       -                  -
-            sample number                    -       -                  x
-        Auxiliary coordinates:
-            region                           -       x                  -
-        Cell methods:
-            0                           time: maximum within days
-            1                           time: mean within years
-            2                           time: mean over years
-        Attributes:
-            Conventions                 'CF-1.0'
-            base_units                  'K'
-            comment                     'Anomaly of 30-year average of monthly/seasonal/annual average of daily ...'
-            history                     '12/07/2007: MAA CREATE_PROBDF_FILE: Version Beta'
-            institution                 'Met Office Hadley Centre'
-            meaning_period              'sep'
-            realization_weights         'weights'
-            references                  'Murphy, J.M., B. B. B. Booth, M. Collins, G. R. Harris, D. M. H. Sexton ...'
-            scenario                    'IPCC SRES A1B'
-            source                      'Probabilistic climate prediction based on family of Met Office Hadley Centre ...'
-            title                       'Change in SEP mean Max air temperature at 1.5m relative to 1961-90 for ...'
-  ```
   
   ```
       Max air temperature at 1.5m / (K)        (time: 1; -- : 23; cumulative distribution function: 107)
@@ -5024,26 +5463,44 @@
             title                       'Change in SEP mean Max air temperature at 1.5m relative to 1961-90 for ...'
   ```
   
+  ```
+      Max air temperature at 1.5m / (K)   (time: 1; -- : 23; sample number: 10000)
+        Dimension coordinates:
+            time                             x       -                  -
+            sample number                    -       -                  x
+        Auxiliary coordinates:
+            region                           -       x                  -
+        Cell methods:
+            0                           time: maximum within days
+            1                           time: mean within years
+            2                           time: mean over years
+        Attributes:
+            Conventions                 'CF-1.0'
+            base_units                  'K'
+            comment                     'Anomaly of 30-year average of monthly/seasonal/annual average of daily ...'
+            history                     '12/07/2007: MAA CREATE_PROBDF_FILE: Version Beta'
+            institution                 'Met Office Hadley Centre'
+            meaning_period              'sep'
+            realization_weights         'weights'
+            references                  'Murphy, J.M., B. B. B. Booth, M. Collins, G. R. Harris, D. M. H. Sexton ...'
+            scenario                    'IPCC SRES A1B'
+            source                      'Probabilistic climate prediction based on family of Met Office Hadley Centre ...'
+            title                       'Change in SEP mean Max air temperature at 1.5m relative to 1961-90 for ...'
+  ```
   
+  
+  
+  ```
+  
+  IrisLoadWarning: Not all file objects were parsed correctly. See iris.loading.LOAD_PROBLEMS for details.
+  
+  ```
   
   
 
   #### [NetCDF/label_and_climate/small_FC_167_mon_19601101.nc](test_data/NetCDF/label_and_climate/small_FC_167_mon_19601101.nc)
 
   
-  
-  ```
-      time_bnd / (hours)                  (-- : 2; -- : 2)
-        Attributes:
-            Comment                     'Data interpolated from original model grid into a regular grid. Data restrictions: ...'
-            Conventions                 'CF-1.0'
-            Created                     'Thu Apr 16 14:36:57 2009'
-            Generator                   'SeasPy v1.1'
-            NCO                         '4.1.0'
-            References                  'http://www.ecmwf.int/research/EU_projects/ENSEMBLES/index.html, http:/ ...'
-            Title                       'ENSEMBLES project'
-            history                     'Thu Nov 29 14:26:19 2012: /project/ukmo/rhel6/nco/bin/ncks -d time,0,1 ...'
-  ```
   
   ```
       air_temperature / (K)               (-- : 2; -- : 21; -- : 73; longitude: 144)
@@ -5078,12 +5535,9 @@
   
   ```
   
-  IrisCfNonSpanningVarWarning: Ignoring variable 'time_bnd' referenced by variable 'tas': Dimensions ('time', 'time_bnd') do not span ('time', 'ensemble', 'latitude', 'longitude')
-  
   _WarnComboDefaultingLoad: Gracefully filling 'latitude' dimension coordinate masked points
   
-  _WarnComboDefaultingCfLoad: Failed to create 'latitude' dimension coordinate: The 'latitude' DimCoord points array must be strictly monotonic.
-Gracefully creating 'latitude' auxiliary coordinate instead.
+  IrisLoadWarning: Not all file objects were parsed correctly. See iris.loading.LOAD_PROBLEMS for details.
   
   ```
   
@@ -5110,6 +5564,12 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -5216,6 +5676,12 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [NetCDF/polar/toa_brightness_temperature.nc](test_data/NetCDF/polar/toa_brightness_temperature.nc)
@@ -5252,6 +5718,12 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -5296,6 +5768,12 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -5392,6 +5870,12 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [NetCDF/testing/cell_methods.nc](test_data/NetCDF/testing/cell_methods.nc)
@@ -5399,19 +5883,21 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
   ```
-      cube_maximum / (unknown)            (time: 1)
+      cube_interval_0 / (unknown)         (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
-            time                             x
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
         Cell methods:
-            0                           time: maximum
+            0                           time: mean (interval: 1 day)
   ```
   
   ```
-      cube_minimum / (unknown)            (time: 1)
+      cube_standard_deviation / (unknown) (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            0                           time: minimum
+            0                           time: standard_deviation
   ```
   
   ```
@@ -5423,23 +5909,61 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_axes_2 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+      cube_comment_4 / (unknown)          (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            0                           time: mean
-            1                           latitude: maximum
-            2                           longitude: minimum
+            0                           time: maximum (this is a time comment)
+            1                           latitude: longitude: mean (this is a shared comment this is a shared comment)
   ```
   
   ```
-      cube_point / (unknown)              (time: 1)
+      cube_comment_0 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: mean (this is a time comment)
+  ```
+  
+  ```
+      cube_mix_1 / (unknown)              (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e comment: area-weighted comment: area-weighted)
+  ```
+  
+  ```
+      cube_sum / (unknown)                (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            0                           time: point
+            0                           time: sum
+  ```
+  
+  ```
+      cube_median / (unknown)             (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            0                           time: median
+  ```
+  
+  ```
+      cube_mix_2 / (unknown)              (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e comment: area-weighted comment: area-weighted)
+            1                           time: sum (interval: 7 days comment: weekly sum)
   ```
   
   ```
@@ -5455,13 +5979,14 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_mix_0 / (unknown)              (time: 1; latitude: 2; longitude: 2)
+      cube_axes_4 / (unknown)             (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            0                           time: mean (interval: 1 day comment: daily mean time)
+            0                           latitude: longitude: mean
+            1                           time: maximum
   ```
   
   ```
@@ -5475,55 +6000,27 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_comment_0 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+      cube_maximum / (unknown)            (time: 1)
         Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
+            time                             x
         Cell methods:
-            0                           time: mean (this is a time comment)
+            0                           time: maximum
   ```
   
   ```
-      cube_axes_1 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+      cube_mode / (unknown)               (time: 1)
         Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
+            time                             x
         Cell methods:
-            0                           time: latitude: longitude: mean
+            0                           time: mode
   ```
   
   ```
-      cube_interval_1 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+      cube_mid_range / (unknown)          (time: 1)
         Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
+            time                             x
         Cell methods:
-            0                           latitude: longitude: mean (interval: 0.1 degrees interval: 0.1 degrees)
-  ```
-  
-  ```
-      cube_mix_2 / (unknown)              (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e comment: area-weighted comment: area-weighted)
-            1                           time: sum (interval: 7 days comment: weekly sum)
-  ```
-  
-  ```
-      cube_comment_4 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           time: maximum (this is a time comment)
-            1                           latitude: longitude: mean (this is a shared comment this is a shared comment)
+            0                           time: mid_range
   ```
   
   ```
@@ -5538,31 +6035,15 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_interval_2 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+      cube_axes_2 / (unknown)             (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e)
-  ```
-  
-  ```
-      cube_comment_2 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           latitude: longitude: mean (this is a shared comment this is a shared comment)
-  ```
-  
-  ```
-      cube_median / (unknown)             (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            0                           time: median
+            0                           time: mean
+            1                           latitude: maximum
+            2                           longitude: minimum
   ```
   
   ```
@@ -5576,24 +6057,11 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_axes_4 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+      cube_variance / (unknown)           (time: 1)
         Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
+            time                             x
         Cell methods:
-            0                           latitude: longitude: mean
-            1                           time: maximum
-  ```
-  
-  ```
-      cube_mix_1 / (unknown)              (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e comment: area-weighted comment: area-weighted)
+            0                           time: variance
   ```
   
   ```
@@ -5618,56 +6086,78 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_mid_range / (unknown)          (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            0                           time: mid_range
-  ```
-  
-  ```
-      cube_interval_0 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+      cube_interval_2 / (unknown)         (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            0                           time: mean (interval: 1 day)
+            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e)
   ```
   
   ```
-      cube_mode / (unknown)               (time: 1)
+      cube_interval_1 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           latitude: longitude: mean (interval: 0.1 degrees interval: 0.1 degrees)
+  ```
+  
+  ```
+      cube_mix_0 / (unknown)              (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: mean (interval: 1 day comment: daily mean time)
+  ```
+  
+  ```
+      cube_axes_1 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: latitude: longitude: mean
+  ```
+  
+  ```
+      cube_minimum / (unknown)            (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            0                           time: mode
+            0                           time: minimum
   ```
   
   ```
-      cube_sum / (unknown)                (time: 1)
+      cube_point / (unknown)              (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            0                           time: sum
+            0                           time: point
   ```
   
   ```
-      cube_variance / (unknown)           (time: 1)
+      cube_comment_2 / (unknown)          (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
-            time                             x
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
         Cell methods:
-            0                           time: variance
-  ```
-  
-  ```
-      cube_standard_deviation / (unknown) (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            0                           time: standard_deviation
+            0                           latitude: longitude: mean (this is a shared comment this is a shared comment)
   ```
   
   
+  
+  ```
+  
+  IrisLoadWarning: Not all file objects were parsed correctly. See iris.loading.LOAD_PROBLEMS for details.
+  
+  ```
   
   
 
@@ -5713,14 +6203,13 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
   ```
-      eastward_wind / (m s-1)             (-- : 3; latitude: 3; longitude: 3)
+      eastward_wind / (m s-1)             (time: 3; latitude: 3; longitude: 3)
         Dimension coordinates:
-            latitude                        -            x             -
-            longitude                       -            -             x
-        Auxiliary coordinates:
-            time                            x            -             -
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
         Attributes:
-            test                        'weak-monotonic time coordinate'
+            test                        'masked monotonic time coordinate'
   ```
   
   ```
@@ -5735,28 +6224,25 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      eastward_wind / (m s-1)             (time: 3; latitude: 3; longitude: 3)
+      eastward_wind / (m s-1)             (-- : 3; latitude: 3; longitude: 3)
         Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
+            latitude                        -            x             -
+            longitude                       -            -             x
+        Auxiliary coordinates:
+            time                            x            -             -
         Attributes:
-            test                        'masked monotonic time coordinate'
+            test                        'weak-monotonic time coordinate'
   ```
   
   
   
   ```
   
-  _WarnComboDefaultingCfLoad: Failed to create 'time1' dimension coordinate: The 'time' DimCoord points array must be strictly monotonic.
-Gracefully creating 'time1' auxiliary coordinate instead.
+  _WarnComboDefaultingLoad: Gracefully filling 'time2' dimension coordinate masked points
   
   _WarnComboDefaultingLoad: Gracefully filling 'time3' dimension coordinate masked points
   
-  _WarnComboDefaultingCfLoad: Failed to create 'time3' dimension coordinate: The 'time' DimCoord points array must be strictly monotonic.
-Gracefully creating 'time3' auxiliary coordinate instead.
-  
-  _WarnComboDefaultingLoad: Gracefully filling 'time2' dimension coordinate masked points
+  IrisLoadWarning: Not all file objects were parsed correctly. See iris.loading.LOAD_PROBLEMS for details.
   
   ```
   
@@ -5790,7 +6276,7 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   _WarnComboIgnoringCfLoad: Ignoring invalid units 'wibble' on netCDF variable 'time'.
   
-  _WarnComboIgnoringCfLoad: Ignoring invalid units 'kevin' on netCDF variable 'cube_1'.
+  IrisLoadWarning: Not all file objects were parsed correctly. See iris.loading.LOAD_PROBLEMS for details.
   
   ```
   
@@ -5858,6 +6344,66 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   
+  ```
+      model boundary conditions / (no_unit) (-- : 19)
+        Auxiliary coordinates:
+            latitude                          x
+            longitude                         x
+        Attributes:
+            Conventions                   'UGRID-0.9'
+            flag_meanings                 'no_flow_boundary  open_boundary'
+            flag_values                   '0 1'
+  ```
+  
+  ```
+      volume flux between cells / (m^3/s) (-- : 41)
+        Mesh coordinates:
+            latitude                        x
+            longitude                       x
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    edge
+        Attributes:
+            Conventions                 'UGRID-0.9'
+  ```
+  
+  ```
+      eastward_sea_water_velocity / (m/s) (-- : 21)
+        Mesh coordinates:
+            latitude                        x
+            longitude                       x
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    face
+        Attributes:
+            Conventions                 'UGRID-0.9'
+  ```
+  
+  ```
+      northward_sea_water_velocity / (m/s) (-- : 21)
+        Mesh coordinates:
+            latitude                         x
+            longitude                        x
+        Mesh:
+            name                         Topology data of 2D unstructured mesh
+            location                     face
+        Attributes:
+            Conventions                  'UGRID-0.9'
+  ```
+  
+  ```
+      sea_floor_depth_below_geoid / (m)   (-- : 20)
+        Mesh coordinates:
+            latitude                        x
+            longitude                       x
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    node
+        Attributes:
+            Conventions                 'UGRID-0.9'
+            positive                    'down'
+  ```
+  
   
   
   ```
@@ -5866,14 +6412,10 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   IrisCfMissingVarWarning: Missing CF-UGRID connectivity variable mesh_face_links, referenced by netCDF variable mesh
   
-  ```
-  
-  
-  ```
-  
-  ValueError: mesh data variable 'bnd_cond' has an invalid location='boundary'.
+  IrisLoadWarning: Not all file objects were parsed correctly. See iris.loading.LOAD_PROBLEMS for details.
   
   ```
+  
   
 
   #### [NetCDF/unstructured_grid/data_C4.nc](test_data/NetCDF/unstructured_grid/data_C4.nc)
@@ -5938,20 +6480,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:18 GMT'
-            title                        'Created by xios'
-            uuid                         '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
       Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
         Attributes:
             Conventions                                        'UGRID'
@@ -5964,6 +6492,20 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             timeStamp                                          '2020-Oct-18 21:20:18 GMT'
             title                                              'Created by xios'
             uuid                                               '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:20:18 GMT'
+            title                        'Created by xios'
+            uuid                         '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
   ```
   
   
@@ -6012,20 +6554,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:18:35 GMT'
-            title                        'Created by xios'
-            uuid                         'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
       Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
         Attributes:
             Conventions                                        'UGRID'
@@ -6040,6 +6568,20 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             uuid                                               'b3dc0fb4-9828-4663-a5ac-2a5763280159'
   ```
   
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:18:35 GMT'
+            title                        'Created by xios'
+            uuid                         'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
   
   
   
@@ -6047,32 +6589,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   #### [NetCDF/unstructured_grid/lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1.nc)
 
   
-  
-  ```
-      area_fraction / (1)                 (-- : 1; full_levels: 39; -- : 864)
-        Dimension coordinates:
-            full_levels                     -               x        -
-        Mesh coordinates:
-            latitude                        -               -        x
-            longitude                       -               -        x
-        Auxiliary coordinates:
-            time                            x               -        -
-        Mesh:
-            name                        Topology data of 2D unstructured mesh
-            location                    face
-        Cell methods:
-            0                           time: point (interval: 300 s)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            interval_operation          '300 s'
-            interval_write              '21600 s'
-            name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            online_operation            'instant'
-            timeStamp                   '2020-Oct-18 21:20:19 GMT'
-            title                       'Created by xios'
-            uuid                        'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
   
   ```
       neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
@@ -6116,6 +6632,32 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             uuid                                               'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
   ```
   
+  ```
+      area_fraction / (1)                 (-- : 1; full_levels: 39; -- : 864)
+        Dimension coordinates:
+            full_levels                     -               x        -
+        Mesh coordinates:
+            latitude                        -               -        x
+            longitude                       -               -        x
+        Auxiliary coordinates:
+            time                            x               -        -
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    face
+        Cell methods:
+            0                           time: point (interval: 300 s)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            interval_operation          '300 s'
+            interval_write              '21600 s'
+            name                        'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            online_operation            'instant'
+            timeStamp                   '2020-Oct-18 21:20:19 GMT'
+            title                       'Created by xios'
+            uuid                        'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+  ```
+  
   
   
   
@@ -6138,20 +6680,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:19 GMT'
-            title                        'Created by xios'
-            uuid                         '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
       Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
         Attributes:
             Conventions                                        'UGRID'
@@ -6164,6 +6692,20 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             timeStamp                                          '2020-Oct-18 21:20:19 GMT'
             title                                              'Created by xios'
             uuid                                               '412ffe9b-6a55-420e-940b-051e7d9f24bb'
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:20:19 GMT'
+            title                        'Created by xios'
+            uuid                         '412ffe9b-6a55-420e-940b-051e7d9f24bb'
   ```
   
   ```
@@ -6201,19 +6743,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
-            start_index                       0
-            timeStamp                         '2020-Oct-18 21:20:18 GMT'
-            title                             'Created by xios'
-            uuid                              '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
       snow_layer_temperature / (K)        (-- : 1; -- : 27; -- : 864)
         Mesh coordinates:
             latitude                        -       -        x
@@ -6238,17 +6767,16 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
         Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:18 GMT'
-            title                        'Created by xios'
-            uuid                         '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:20:18 GMT'
+            title                             'Created by xios'
+            uuid                              '798b1d5b-05e3-4380-a3b9-822709b0b74c'
   ```
   
   ```
@@ -6264,6 +6792,20 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             timeStamp                                          '2020-Oct-18 21:20:18 GMT'
             title                                              'Created by xios'
             uuid                                               '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:20:18 GMT'
+            title                        'Created by xios'
+            uuid                         '798b1d5b-05e3-4380-a3b9-822709b0b74c'
   ```
   
   
@@ -6312,20 +6854,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:18 GMT'
-            title                        'Created by xios'
-            uuid                         'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
       Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
         Attributes:
             Conventions                                        'UGRID'
@@ -6338,6 +6866,20 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             timeStamp                                          '2020-Oct-18 21:20:18 GMT'
             title                                              'Created by xios'
             uuid                                               'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:20:18 GMT'
+            title                        'Created by xios'
+            uuid                         'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
   ```
   
   
@@ -6359,35 +6901,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             timeStamp                         '2020-Oct-18 21:20:17 GMT'
             title                             'Created by xios'
             uuid                              'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:17 GMT'
-            title                        'Created by xios'
-            uuid                         'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:20:17 GMT'
-            title                                              'Created by xios'
-            uuid                                               'f42f46fc-d879-479b-ab60-73b76b8b5816'
   ```
   
   ```
@@ -6414,6 +6927,35 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             uuid                                     'f42f46fc-d879-479b-ab60-73b76b8b5816'
   ```
   
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        -1
+            name                                               'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
+            start_index                                        0
+            timeStamp                                          '2020-Oct-18 21:20:17 GMT'
+            title                                              'Created by xios'
+            uuid                                               'f42f46fc-d879-479b-ab60-73b76b8b5816'
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:20:17 GMT'
+            title                        'Created by xios'
+            uuid                         'f42f46fc-d879-479b-ab60-73b76b8b5816'
+  ```
+  
   
   
   
@@ -6433,35 +6975,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             timeStamp                         '2020-Oct-18 21:20:18 GMT'
             title                             'Created by xios'
             uuid                              'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:18 GMT'
-            title                        'Created by xios'
-            uuid                         'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
-            title                                              'Created by xios'
-            uuid                                               'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
   ```
   
   ```
@@ -6488,6 +7001,35 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
   ```
   
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        -1
+            name                                               'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
+            start_index                                        0
+            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
+            title                                              'Created by xios'
+            uuid                                               'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:20:18 GMT'
+            title                        'Created by xios'
+            uuid                         'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
   
   
   
@@ -6510,20 +7052,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
-      neighbor faces for edges / (unknown) (-- : 27648; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_surface'
-            start_index                  0
-            timeStamp                    '2020-Feb-07 16:23:14 GMT'
-            title                        'Created by xios'
-            uuid                         '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
-  ```
-  
-  ```
       Indicates which other faces neighbor each face / (no_unit) (-- : 13824; -- : 4)
         Attributes:
             Conventions                                        'UGRID'
@@ -6536,6 +7064,20 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             timeStamp                                          '2020-Feb-07 16:23:14 GMT'
             title                                              'Created by xios'
             uuid                                               '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 27648; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_surface'
+            start_index                  0
+            timeStamp                    '2020-Feb-07 16:23:14 GMT'
+            title                        'Created by xios'
+            uuid                         '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
   ```
   
   ```
@@ -6990,6 +7532,150 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  RuntimeWarning: invalid value encountered in cast
+  
+  ```
+  
   
 
   #### [NetCDF/unstructured_grid/mesh_C12.nc](test_data/NetCDF/unstructured_grid/mesh_C12.nc)
@@ -7003,21 +7689,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   #### [NetCDF/unstructured_grid/theta_nodal_not_ugrid.nc](test_data/NetCDF/unstructured_grid/theta_nodal_not_ugrid.nc)
 
   
-  
-  ```
-      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
-        Attributes:
-            Conventions                               'UGRID'
-            NOT_cf_role                               'mesh_topology'
-            NOT_node_coordinates                      'Mesh0_node_x Mesh0_node_y'
-            description                               'Created by xios'
-            history                                   'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01 ...'
-            name                                      'theta_nodal_xios'
-            production                                'An IPSL model'
-            timeStamp                                 '2016-Oct-24 15:16:48 BST'
-            title                                     'Created by xios'
-            topology_dimension                        2
-  ```
   
   ```
       radius / (radians)                  (time: 1; levels: 6; -- : 866)
@@ -7068,7 +7739,28 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             title                       'Created by xios'
   ```
   
+  ```
+      Topology data of 2D unstructured mesh / (unknown) (scalar cube)
+        Attributes:
+            Conventions                               'UGRID'
+            NOT_cf_role                               'mesh_topology'
+            NOT_node_coordinates                      'Mesh0_node_x Mesh0_node_y'
+            description                               'Created by xios'
+            history                                   'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01 ...'
+            name                                      'theta_nodal_xios'
+            production                                'An IPSL model'
+            timeStamp                                 '2016-Oct-24 15:16:48 BST'
+            title                                     'Created by xios'
+            topology_dimension                        2
+  ```
   
+  
+  
+  ```
+  
+  IrisLoadWarning: Not all file objects were parsed correctly. See iris.loading.LOAD_PROBLEMS for details.
+  
+  ```
   
   
 
@@ -7076,20 +7768,61 @@ Gracefully creating 'time3' auxiliary coordinate instead.
 
   
   
+  ```
+      radius / (radians)                  (time: 1; levels: 6; -- : 866)
+        Dimension coordinates:
+            time                             x          -       -
+            levels                           -          x       -
+        Auxiliary coordinates:
+            time                             x          -       -
+        Cell methods:
+            0                           time: point
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01 ...'
+            interval_operation          '5 s'
+            interval_write              '5 s'
+            name                        'theta_nodal_xios'
+            online_operation            'instant'
+            production                  'An IPSL model'
+            timeStamp                   '2016-Oct-24 15:16:48 BST'
+            title                       'Created by xios'
+  ```
+  
+  ```
+      Potential Temperature / (K)         (time: 1; levels: 6; -- : 866)
+        Dimension coordinates:
+            time                             x          -       -
+            levels                           -          x       -
+        Auxiliary coordinates:
+            time                             x          -       -
+        Cell methods:
+            0                           time: point
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01 ...'
+            interval_operation          '5 s'
+            interval_write              '5 s'
+            invalid_standard_name       'Potential Temperature'
+            name                        'theta_nodal_xios'
+            online_operation            'instant'
+            production                  'An IPSL model'
+            timeStamp                   '2016-Oct-24 15:16:48 BST'
+            title                       'Created by xios'
+  ```
+  
   
   
   ```
   
   _WarnComboCfDefaultingIgnoring: *Assuming* 'topology_dimension'=0, from the attached connectivities of the mesh variable Mesh0.  However, Mesh0:topology_dimension = 2 -- ignoring this as it is inconsistent.
   
-  ```
-  
-  
-  ```
-  
-  ValueError: Expected 'topology_dimension' in range (1, 2), got 0.
+  IrisLoadWarning: Not all file objects were parsed correctly. See iris.loading.LOAD_PROBLEMS for details.
   
   ```
+  
   
 
   #### [NetCDF/volcello/volcello_Ofx_CESM2_deforest-globe_r1i1p1f1_gn.nc](test_data/NetCDF/volcello/volcello_Ofx_CESM2_deforest-globe_r1i1p1f1_gn.nc)
@@ -7249,6 +7982,14 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/COLPEX/small_eastward_wind.pp](test_data/PP/COLPEX/small_eastward_wind.pp)
@@ -7280,6 +8021,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   ```
   
   
@@ -7289,19 +8032,19 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   ```
-      air_potential_temperature / (K)     (time: 6; model_level_number: 70; grid_latitude: 100; grid_longitude: 100)
+      air_potential_temperature / (K)     (model_level_number: 70; time: 6; grid_latitude: 100; grid_longitude: 100)
         Dimension coordinates:
-            time                             x                      -                  -                    -
-            model_level_number               -                      x                  -                    -
-            grid_latitude                    -                      -                  x                    -
-            grid_longitude                   -                      -                  -                    x
+            model_level_number                             x         -                 -                    -
+            time                                           -         x                 -                    -
+            grid_latitude                                  -         -                 x                    -
+            grid_longitude                                 -         -                 -                    x
         Auxiliary coordinates:
-            forecast_reference_time          x                      -                  -                    -
-            level_height                     -                      x                  -                    -
-            sigma                            -                      x                  -                    -
-            surface_altitude                 -                      -                  x                    x
+            level_height                                   x         -                 -                    -
+            sigma                                          x         -                 -                    -
+            forecast_reference_time                        -         x                 -                    -
+            surface_altitude                               -         x                 x                    x
         Derived coordinates:
-            altitude                         -                      x                  x                    x
+            altitude                                       x         x                 x                    x
         Scalar coordinates:
             forecast_period             0.0 hours
         Attributes:
@@ -7354,6 +8097,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/aPPglob1/global_little_endian.pp](test_data/PP/aPPglob1/global_little_endian.pp)
@@ -7391,6 +8140,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/aPProt1/rotated.pp](test_data/PP/aPProt1/rotated.pp)
@@ -7413,6 +8168,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7437,6 +8198,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7463,6 +8230,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/000003000000.03.236.004224.1990.12.01.00.00.b.pp](test_data/PP/cf_processing/000003000000.03.236.004224.1990.12.01.00.00.b.pp)
@@ -7488,6 +8261,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/000003000000.03.236.008320.1990.12.01.00.00.b.pp](test_data/PP/cf_processing/000003000000.03.236.008320.1990.12.01.00.00.b.pp)
@@ -7511,6 +8290,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7537,6 +8322,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/001000000000.00.000.000000.1860.01.01.00.00.f.b.pp](test_data/PP/cf_processing/001000000000.00.000.000000.1860.01.01.00.00.f.b.pp)
@@ -7555,6 +8346,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7578,6 +8375,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7632,6 +8435,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   ```
   
   
@@ -7682,6 +8487,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/aaxzc_lon_lat_press_orig.b.pp](test_data/PP/cf_processing/aaxzc_lon_lat_press_orig.b.pp)
@@ -7707,6 +8518,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7734,6 +8551,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/aaxzc_n10r13xy.b.pp](test_data/PP/cf_processing/aaxzc_n10r13xy.b.pp)
@@ -7757,6 +8580,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7861,6 +8690,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/abxpa_press_lat.b.pp](test_data/PP/cf_processing/abxpa_press_lat.b.pp)
@@ -7885,6 +8720,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/integer.b.pp](test_data/PP/cf_processing/integer.b.pp)
@@ -7908,6 +8749,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7935,6 +8782,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/ocean_xsect.b.pp](test_data/PP/cf_processing/ocean_xsect.b.pp)
@@ -7959,6 +8812,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/st0fc699.b.pp](test_data/PP/cf_processing/st0fc699.b.pp)
@@ -7982,6 +8841,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8009,6 +8874,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/st30211.b.pp](test_data/PP/cf_processing/st30211.b.pp)
@@ -8034,6 +8905,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8131,6 +9008,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   ```
   
   
@@ -8165,6 +9044,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
   
   ```
   
@@ -8201,6 +9082,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   ```
   
   
@@ -8235,6 +9118,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
   
   ```
   
@@ -8367,6 +9252,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/mdi_handmade_small/mdi_test_1000_3.pp](test_data/PP/mdi_handmade_small/mdi_test_1000_3.pp)
@@ -8389,6 +9280,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8413,6 +9310,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/mdi_handmade_small/mdi_test_800_0.pp](test_data/PP/mdi_handmade_small/mdi_test_800_0.pp)
@@ -8435,6 +9338,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8459,6 +9368,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/mdi_handmade_small/mdi_test_800_6.pp](test_data/PP/mdi_handmade_small/mdi_test_800_6.pp)
@@ -8481,6 +9396,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8505,6 +9426,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/mdi_handmade_small/mdi_test_900_6.pp](test_data/PP/mdi_handmade_small/mdi_test_900_6.pp)
@@ -8527,6 +9454,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8574,6 +9507,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   ```
   
   
@@ -8602,6 +9537,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/ocean_rle/ocean_rle.pp](test_data/PP/ocean_rle/ocean_rle.pp)
@@ -8614,7 +9555,7 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             latitude                             x               -
             longitude                            -               x
         Scalar coordinates:
-            depth                       5.0 m, bound=(0.0, -1073741800.0) m
+            depth                       5.0 m, bound=(0.0, -1.0737418e+09) m
             forecast_period             12.0 hours, bound=(0.0, 24.0) hours
             forecast_reference_time     2014-08-01 00:00:00
             model_level_number          0
@@ -8633,7 +9574,7 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             latitude                             x               -
             longitude                            -               x
         Scalar coordinates:
-            depth                       5.0 m, bound=(0.0, -1073741800.0) m
+            depth                       5.0 m, bound=(0.0, -1.0737418e+09) m
             forecast_period             12.0 hours, bound=(0.0, 24.0) hours
             forecast_reference_time     2014-08-01 00:00:00
             model_level_number          0
@@ -8652,7 +9593,7 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             latitude                             x               -
             longitude                            -               x
         Scalar coordinates:
-            depth                       5.0 m, bound=(0.0, -1073741800.0) m
+            depth                       5.0 m, bound=(0.0, -1.0737418e+09) m
             forecast_period             12.0 hours, bound=(0.0, 24.0) hours
             forecast_reference_time     2014-08-01 00:00:00
             model_level_number          0
@@ -8666,6 +9607,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8694,6 +9641,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/simple_pp/bad_global.pp](test_data/PP/simple_pp/bad_global.pp)
@@ -8716,6 +9669,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8740,6 +9699,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/simple_pp/partial_mask.pp](test_data/PP/simple_pp/partial_mask.pp)
@@ -8760,6 +9725,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8792,6 +9763,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   ```
   
   
@@ -8818,6 +9791,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/ukV1/ukVpmslont_first_field.pp](test_data/PP/ukV1/ukVpmslont_first_field.pp)
@@ -8841,6 +9820,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/ukVorog/ukv_orog_refonly.pp](test_data/PP/ukVorog/ukv_orog_refonly.pp)
@@ -8861,6 +9846,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8930,6 +9921,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/zonal_mean/zonal_mean.pp](test_data/PP/zonal_mean/zonal_mean.pp)
@@ -8956,6 +9953,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8988,6 +9991,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   IrisDeprecation: iris.fileformats.abf has been deprecated and will be removed in a future release. If you make use of this functionality, please contact the Iris Developers to discuss how to retain it (which may involve reversing the deprecation).
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
   
   ```
   
