@@ -29,18 +29,27 @@ class FileInfo(NamedTuple):
 
 
 def getDataFilepaths(path: Path) -> List[Path]:
-    path_list = []
-    for fp in path.rglob("*"):
-        if any(parent.suffix in STORE_SUFFIXES for parent in fp.parents):
-            # Inside a store. The store is the item; its contents are not.
-            continue
-        if fp.is_dir():
-            if fp.suffix in STORE_SUFFIXES:
-                path_list.append(fp)
-            continue
-        if fp.suffix not in IGNORE_SUFFIXES:
-            path_list.append(fp)
-    return path_list
+    """Return the data items at `path`, searching within it where appropriate.
+
+    A directory is searched, except one whose suffix is in STORE_SUFFIXES:
+    that is a single dataset spread over many files, so it is itself the
+    item and nothing inside it is.
+    """
+    if path.suffix in IGNORE_SUFFIXES:
+        return []
+    elif path.is_file():
+        return [path]
+    elif not path.is_dir():
+        # Neither a file nor a directory: a broken symlink, a socket, a
+        # device node. There are none in this repository, and iris.load
+        # would only raise on one.
+        return []
+    elif path.suffix in STORE_SUFFIXES:
+        return [path]
+    else:
+        return [
+            item for child in sorted(path.iterdir()) for item in getDataFilepaths(child)
+        ]
 
 
 def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
