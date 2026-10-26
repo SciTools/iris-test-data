@@ -9,6 +9,11 @@ from PIL import Image
 
 IGNORE_SUFFIXES = [".cdl", ".gz", ".md", ".npz", ".py", ".rst", ".txt"]
 
+# Suffixes of directories that are one dataset rather than a folder of them.
+# A Zarr store is a directory holding a metadata document per array and an
+# object per chunk, none of which is loadable on its own.
+STORE_SUFFIXES = [".zarr"]
+
 TEST_DATA_ROOT = Path(__file__).parent / Path("../test_data")
 TEMPLATE_FILE = Path(__file__).parent / Path("INDEX_template.md")
 OUTPUT_FILE = Path(__file__).parent / Path("../INDEX.md")
@@ -24,11 +29,27 @@ class FileInfo(NamedTuple):
 
 
 def getDataFilepaths(path: Path) -> List[Path]:
-    path_list = []
-    for fp in path.rglob("*"):
-        if fp.is_file() and fp.suffix not in IGNORE_SUFFIXES:
-            path_list.append(fp)
-    return path_list
+    """Return the data items at `path`, searching within it where appropriate.
+
+    A directory is searched, except one whose suffix is in STORE_SUFFIXES:
+    that is a single dataset spread over many files, so it is itself the
+    item and nothing inside it is.
+    """
+    if path.suffix in IGNORE_SUFFIXES:
+        return []
+    elif path.is_file():
+        return [path]
+    elif not path.is_dir():
+        # Neither a file nor a directory: a broken symlink, a socket, a
+        # device node. There are none in this repository, and iris.load
+        # would only raise on one.
+        return []
+    elif path.suffix in STORE_SUFFIXES:
+        return [path]
+    else:
+        return [
+            item for child in sorted(path.iterdir()) for item in getDataFilepaths(child)
+        ]
 
 
 def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
@@ -82,14 +103,19 @@ def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
     return file_infos
 
 
-data_filepaths = getDataFilepaths(TEST_DATA_ROOT)
+def writeIndex() -> None:
+    data_filepaths = getDataFilepaths(TEST_DATA_ROOT)
 
-readme_content = getFileInfos(data_filepaths)
+    readme_content = getFileInfos(data_filepaths)
 
-env = Environment(loader=FileSystemLoader(TEMPLATE_FILE.parent))
-template = env.get_template(TEMPLATE_FILE.name)
+    env = Environment(loader=FileSystemLoader(TEMPLATE_FILE.parent))
+    template = env.get_template(TEMPLATE_FILE.name)
 
-output = template.render(content=readme_content)
+    output = template.render(content=readme_content)
 
-with open(OUTPUT_FILE, "w+") as ff:
-    ff.write(output)
+    with open(OUTPUT_FILE, "w+") as ff:
+        ff.write(output)
+
+
+if __name__ == "__main__":
+    writeIndex()
