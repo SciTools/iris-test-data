@@ -9,6 +9,11 @@ from PIL import Image
 
 IGNORE_SUFFIXES = [".cdl", ".gz", ".md", ".npz", ".py", ".rst", ".txt"]
 
+# Suffixes of directories that are one dataset rather than a folder of them.
+# A Zarr store is a directory holding a metadata document per array and an
+# object per chunk, none of which is loadable on its own.
+STORE_SUFFIXES = [".zarr"]
+
 TEST_DATA_ROOT = Path(__file__).parent / Path("../test_data")
 TEMPLATE_FILE = Path(__file__).parent / Path("INDEX_template.md")
 OUTPUT_FILE = Path(__file__).parent / Path("../INDEX.md")
@@ -26,7 +31,14 @@ class FileInfo(NamedTuple):
 def getDataFilepaths(path: Path) -> List[Path]:
     path_list = []
     for fp in path.rglob("*"):
-        if fp.is_file() and fp.suffix not in IGNORE_SUFFIXES:
+        if any(parent.suffix in STORE_SUFFIXES for parent in fp.parents):
+            # Inside a store. The store is the item; its contents are not.
+            continue
+        if fp.is_dir():
+            if fp.suffix in STORE_SUFFIXES:
+                path_list.append(fp)
+            continue
+        if fp.suffix not in IGNORE_SUFFIXES:
             path_list.append(fp)
     return path_list
 
@@ -82,14 +94,19 @@ def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
     return file_infos
 
 
-data_filepaths = getDataFilepaths(TEST_DATA_ROOT)
+def writeIndex() -> None:
+    data_filepaths = getDataFilepaths(TEST_DATA_ROOT)
 
-readme_content = getFileInfos(data_filepaths)
+    readme_content = getFileInfos(data_filepaths)
 
-env = Environment(loader=FileSystemLoader(TEMPLATE_FILE.parent))
-template = env.get_template(TEMPLATE_FILE.name)
+    env = Environment(loader=FileSystemLoader(TEMPLATE_FILE.parent))
+    template = env.get_template(TEMPLATE_FILE.name)
 
-output = template.render(content=readme_content)
+    output = template.render(content=readme_content)
 
-with open(OUTPUT_FILE, "w+") as ff:
-    ff.write(output)
+    with open(OUTPUT_FILE, "w+") as ff:
+        ff.write(output)
+
+
+if __name__ == "__main__":
+    writeIndex()
