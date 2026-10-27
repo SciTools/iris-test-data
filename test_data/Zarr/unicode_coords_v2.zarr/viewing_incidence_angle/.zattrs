@@ -1,0 +1,11 @@
+{
+  "_ARRAY_DIMENSIONS": [
+    "band",
+    "detector",
+    "angle"
+  ],
+  "long_name": "Viewing incidence angle",
+  "units": "degrees",
+  "coordinates": "angle band detector",
+  "_FillValue": -999.0
+}

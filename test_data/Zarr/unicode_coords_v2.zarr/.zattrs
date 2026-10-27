@@ -1,0 +1,4 @@
+{
+  "Conventions": "CF-1.12",
+  "comment": "Synthetic. Shapes and dtypes follow the ESA EOPF Sentinel-2 conditions/geometry group; the values are invented."
+}
