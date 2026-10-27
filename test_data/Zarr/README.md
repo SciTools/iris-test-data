@@ -1,9 +1,9 @@
 # Zarr sample stores
 
-Published Zarr stores, cut down, for testing Iris's native Zarr reader and
-writer. Each one is third-party data redistributed under its own licence, not
-under the Open Government Licence the repository README offers for Met Office
-data.
+Zarr stores for testing Iris's native Zarr reader and writer. Some are
+published data cut down, and those are third-party, redistributed under their
+own licence rather than under the Open Government Licence the repository
+README offers for Met Office data. Each section below says which it is.
 
 A Zarr store is a directory, not a file. Point Iris at the directory.
 
@@ -49,3 +49,33 @@ exercise:
 `noaa-gfs-forecast` version 0.2.7. That endpoint was documented as closing on
 30 September 2026, which is why the subset was cut ahead of the work that
 needed it.
+
+## `unicode_coords_v2.zarr` and `unicode_coords_v3.zarr`
+
+The same tiny dataset in Zarr version 2 and version 3, holding fixed-length
+unicode coordinate arrays. 80 KB and 84 KB.
+
+**Licence:** these are ours. Synthetic data, no third party involved, so the
+repository's Open Government Licence applies as it does to everything outside
+`gfs_forecast_sample.zarr`.
+
+**What they are for.** A `<U` array is not strictly Zarr-supported — see
+[SciTools/iris#6961](https://github.com/SciTools/iris/issues/6961) — and real
+stores contain them anyway, so Iris needs a defined answer rather than an
+accident. A test that writes such an array and reads it back cannot pin that:
+if the writing library ever changes its encoding, both halves move together
+and the test still passes, while a file written years earlier stops loading.
+These stores are the frozen half of that pair.
+
+**Do not regenerate them.** Their value is that the bytes do not move.
+`make_unicode_coords.py` is here to record how they were made, not to replace
+them; re-running it against a newer zarr-python would pin only what that
+version does today. As written, with zarr-python 3.4.1, the version 2 store
+records `"dtype": "<U7"` and the version 3 store records
+`fixed_length_utf32` with `length_bytes: 28`.
+
+**Shape.** One data variable, `viewing_incidence_angle`, over `band` (13),
+`detector` (5) and `angle` (2), with a string coordinate on each dimension:
+`<U3` for band and detector, `<U7` for angle. Those shapes and dtypes follow
+the ESA EOPF Sentinel-2 products' `conditions/geometry` group, which is where
+the question came from. The values are invented.
