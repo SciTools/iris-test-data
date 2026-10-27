@@ -5881,23 +5881,14 @@
   
   
   ```
-      cube_axes_0 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+      cube_axes_3 / (unknown)             (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            0                           latitude: longitude: mean
-  ```
-  
-  ```
-      cube_mix_0 / (unknown)              (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           time: mean (interval: 1 day comment: daily mean time)
+            0                           time: mean
+            1                           latitude: longitude: maximum
   ```
   
   ```
@@ -5913,106 +5904,13 @@
   ```
   
   ```
-      cube_interval_2 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+      cube_axes_0 / (unknown)             (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e)
-  ```
-  
-  ```
-      cube_mode / (unknown)               (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            0                           time: mode
-  ```
-  
-  ```
-      cube_standard_deviation / (unknown) (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            0                           time: standard_deviation
-  ```
-  
-  ```
-      cube_point / (unknown)              (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            0                           time: point
-  ```
-  
-  ```
-      cube_axes_2 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           time: mean
-            1                           latitude: maximum
-            2                           longitude: minimum
-  ```
-  
-  ```
-      cube_comment_1 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           time: mean (this is a time comment)
-  ```
-  
-  ```
-      cube_mix_2 / (unknown)              (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e comment: area-weighted comment: area-weighted)
-            1                           time: sum (interval: 7 days comment: weekly sum)
-  ```
-  
-  ```
-      cube_axes_1 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           time: latitude: longitude: mean
-  ```
-  
-  ```
-      cube_comment_0 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           time: mean (this is a time comment)
-  ```
-  
-  ```
-      cube_variance / (unknown)           (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            0                           time: variance
-  ```
-  
-  ```
-      cube_sum / (unknown)                (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            0                           time: sum
+            0                           latitude: longitude: mean
   ```
   
   ```
@@ -6026,31 +5924,50 @@
   ```
   
   ```
-      cube_comment_2 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           latitude: longitude: mean (this is a shared comment this is a shared comment)
-  ```
-  
-  ```
-      cube_interval_1 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           latitude: longitude: mean (interval: 0.1 degrees interval: 0.1 degrees)
-  ```
-  
-  ```
-      cube_mean / (unknown)               (time: 1)
+      cube_point / (unknown)              (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            0                           time: mean
+            0                           time: point
+  ```
+  
+  ```
+      cube_comment_0 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: mean (this is a time comment)
+  ```
+  
+  ```
+      cube_interval_3 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: maximum (interval: 1 day)
+            1                           latitude: longitude: minimum (interval: 0.1 degrees interval: 0.1 degrees)
+  ```
+  
+  ```
+      cube_standard_deviation / (unknown) (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            0                           time: standard_deviation
+  ```
+  
+  ```
+      cube_axes_1 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: latitude: longitude: mean
   ```
   
   ```
@@ -6073,6 +5990,56 @@
   ```
   
   ```
+      cube_comment_1 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: mean (this is a time comment)
+  ```
+  
+  ```
+      cube_axes_2 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: mean
+            1                           latitude: maximum
+            2                           longitude: minimum
+  ```
+  
+  ```
+      cube_comment_2 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           latitude: longitude: mean (this is a shared comment this is a shared comment)
+  ```
+  
+  ```
+      cube_interval_2 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e)
+  ```
+  
+  ```
+      cube_mean / (unknown)               (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            0                           time: mean
+  ```
+  
+  ```
       cube_median / (unknown)             (time: 1)
         Dimension coordinates:
             time                             x
@@ -6081,50 +6048,39 @@
   ```
   
   ```
-      cube_interval_3 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           time: maximum (interval: 1 day)
-            1                           latitude: longitude: minimum (interval: 0.1 degrees interval: 0.1 degrees)
-  ```
-  
-  ```
-      cube_minimum / (unknown)            (time: 1)
+      cube_sum / (unknown)                (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            0                           time: minimum
+            0                           time: sum
   ```
   
   ```
-      cube_maximum / (unknown)            (time: 1)
+      cube_mix_0 / (unknown)              (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: mean (interval: 1 day comment: daily mean time)
+  ```
+  
+  ```
+      cube_mode / (unknown)               (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            0                           time: maximum
+            0                           time: mode
   ```
   
   ```
-      cube_mix_1 / (unknown)              (time: 1; latitude: 2; longitude: 2)
+      cube_interval_1 / (unknown)         (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e comment: area-weighted comment: area-weighted)
-  ```
-  
-  ```
-      cube_comment_3 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           latitude: longitude: mean (this a lat comment this is a lon comment)
+            0                           latitude: longitude: mean (interval: 0.1 degrees interval: 0.1 degrees)
   ```
   
   ```
@@ -6139,14 +6095,58 @@
   ```
   
   ```
-      cube_axes_3 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+      cube_minimum / (unknown)            (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            0                           time: minimum
+  ```
+  
+  ```
+      cube_mix_1 / (unknown)              (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            0                           time: mean
-            1                           latitude: longitude: maximum
+            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e comment: area-weighted comment: area-weighted)
+  ```
+  
+  ```
+      cube_mix_2 / (unknown)              (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e comment: area-weighted comment: area-weighted)
+            1                           time: sum (interval: 7 days comment: weekly sum)
+  ```
+  
+  ```
+      cube_variance / (unknown)           (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            0                           time: variance
+  ```
+  
+  ```
+      cube_comment_3 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           latitude: longitude: mean (this a lat comment this is a lon comment)
+  ```
+  
+  ```
+      cube_maximum / (unknown)            (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            0                           time: maximum
   ```
   
   
@@ -6162,6 +6162,24 @@
   #### [NetCDF/testing/chunked_char_data.nc](test_data/NetCDF/testing/chunked_char_data.nc)
 
   
+  
+  ```
+      field_status / (unknown)            (time: 10)
+        Dimension coordinates:
+            time                             x
+        Attributes:
+            Conventions                 'CF-1.0'
+            NCO                         'netCDF Operators version 5.0.7 (Homepage = http://nco.sf.net, Code = h ...'
+            comment                     ''
+            ensemble_member_index       0
+            ensemble_members            100
+            history                     'Mon Oct  5 14:37:28 2026: ncatted -a history,global,o,c,Subset to first ...'
+            institution                 'Met Office Hadley Centre / Climatic Research Unit, University of East  ...'
+            reference                   'Morice, C. P., J. J. Kennedy, N. A. Rayner, and P. D. Jones (2012), Quantifying ...'
+            source                      'CRUTEM.4.6.0.0, HadSST.3.1.1.0'
+            title                       'HadCRUT4 near-surface temperature ensemble data - ensemble median'
+            version                     'HadCRUT.4.6.0.0'
+  ```
   
   ```
       near_surface_temperature_anomaly / (K) (time: 10; latitude: 36; longitude: 72)
@@ -6182,24 +6200,6 @@
             source                         'CRUTEM.4.6.0.0, HadSST.3.1.1.0'
             title                          'HadCRUT4 near-surface temperature ensemble data - ensemble median'
             version                        'HadCRUT.4.6.0.0'
-  ```
-  
-  ```
-      field_status / (unknown)            (time: 10)
-        Dimension coordinates:
-            time                             x
-        Attributes:
-            Conventions                 'CF-1.0'
-            NCO                         'netCDF Operators version 5.0.7 (Homepage = http://nco.sf.net, Code = h ...'
-            comment                     ''
-            ensemble_member_index       0
-            ensemble_members            100
-            history                     'Mon Oct  5 14:37:28 2026: ncatted -a history,global,o,c,Subset to first ...'
-            institution                 'Met Office Hadley Centre / Climatic Research Unit, University of East  ...'
-            reference                   'Morice, C. P., J. J. Kennedy, N. A. Rayner, and P. D. Jones (2012), Quantifying ...'
-            source                      'CRUTEM.4.6.0.0, HadSST.3.1.1.0'
-            title                       'HadCRUT4 near-surface temperature ensemble data - ensemble median'
-            version                     'HadCRUT.4.6.0.0'
   ```
   
   
@@ -6259,16 +6259,6 @@
   ```
   
   ```
-      eastward_wind / (m s-1)             (time: 3; latitude: 3; longitude: 3)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Attributes:
-            test                        'masked monotonic time coordinate'
-  ```
-  
-  ```
       eastward_wind / (m s-1)             (-- : 3; latitude: 3; longitude: 3)
         Dimension coordinates:
             latitude                        -            x             -
@@ -6279,15 +6269,25 @@
             test                        'masked non-monotonic time coordinate'
   ```
   
+  ```
+      eastward_wind / (m s-1)             (time: 3; latitude: 3; longitude: 3)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Attributes:
+            test                        'masked monotonic time coordinate'
+  ```
+  
   
   
   ```
   
   IrisLoadWarning: Not all file objects were parsed correctly. See iris.loading.LOAD_PROBLEMS for details.
   
-  _WarnComboDefaultingLoad: Gracefully filling 'time2' dimension coordinate masked points
-  
   _WarnComboDefaultingLoad: Gracefully filling 'time3' dimension coordinate masked points
+  
+  _WarnComboDefaultingLoad: Gracefully filling 'time2' dimension coordinate masked points
   
   ```
   
@@ -6488,21 +6488,6 @@
   
   
   ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
-            title                                              'Created by xios'
-            uuid                                               '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
       Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
         Attributes:
             Conventions                       'UGRID'
@@ -6553,14 +6538,6 @@
             uuid                                    '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
   ```
   
-  
-  
-  
-
-  #### [NetCDF/unstructured_grid/lfric_ngvat_2D_72t_face_half_levels_main_conv_rain.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_2D_72t_face_half_levels_main_conv_rain.nc)
-
-  
-  
   ```
       Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
         Attributes:
@@ -6569,12 +6546,20 @@
             description                                        'Created by xios'
             flag_meanings                                      'out_of_mesh'
             flag_values                                        -1
-            name                                               'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            name                                               'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
             start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:18:35 GMT'
+            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
             title                                              'Created by xios'
-            uuid                                               'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+            uuid                                               '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
   ```
+  
+  
+  
+  
+
+  #### [NetCDF/unstructured_grid/lfric_ngvat_2D_72t_face_half_levels_main_conv_rain.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_2D_72t_face_half_levels_main_conv_rain.nc)
+
+  
   
   ```
       Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
@@ -6627,6 +6612,21 @@
             uuid                                    'b3dc0fb4-9828-4663-a5ac-2a5763280159'
   ```
   
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        -1
+            name                                               'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            start_index                                        0
+            timeStamp                                          '2020-Oct-18 21:18:35 GMT'
+            title                                              'Created by xios'
+            uuid                                               'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
   
   
   
@@ -6636,31 +6636,17 @@
   
   
   ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            start_index                       0
-            timeStamp                         '2020-Oct-18 21:20:19 GMT'
-            title                             'Created by xios'
-            uuid                              'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:20:19 GMT'
-            title                                              'Created by xios'
-            uuid                                               'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            start_index                  0
+            timeStamp                    '2020-Oct-18 21:20:19 GMT'
+            title                        'Created by xios'
+            uuid                         'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
   ```
   
   ```
@@ -6690,17 +6676,31 @@
   ```
   
   ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
         Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:19 GMT'
-            title                        'Created by xios'
-            uuid                         'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        -1
+            name                                               'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            start_index                                        0
+            timeStamp                                          '2020-Oct-18 21:20:19 GMT'
+            title                                              'Created by xios'
+            uuid                                               'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+  ```
+  
+  ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:20:19 GMT'
+            title                             'Created by xios'
+            uuid                              'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
   ```
   
   
@@ -6788,30 +6788,6 @@
   
   
   ```
-      snow_layer_temperature / (K)        (-- : 1; -- : 27; -- : 864)
-        Mesh coordinates:
-            latitude                        -       -        x
-            longitude                       -       -        x
-        Auxiliary coordinates:
-            time                            x       -        -
-        Mesh:
-            name                        Topology data of 2D unstructured mesh
-            location                    face
-        Cell methods:
-            0                           time: point (interval: 300 s)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            interval_operation          '300 s'
-            interval_write              '21600 s'
-            name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
-            online_operation            'instant'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
       Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
         Attributes:
             Conventions                       'UGRID'
@@ -6839,6 +6815,30 @@
   ```
   
   ```
+      snow_layer_temperature / (K)        (-- : 1; -- : 27; -- : 864)
+        Mesh coordinates:
+            latitude                        -       -        x
+            longitude                       -       -        x
+        Auxiliary coordinates:
+            time                            x       -        -
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    face
+        Cell methods:
+            0                           time: point (interval: 300 s)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            interval_operation          '300 s'
+            interval_write              '21600 s'
+            name                        'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
+            online_operation            'instant'
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+  ```
+  
+  ```
       Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
         Attributes:
             Conventions                                        'UGRID'
@@ -6862,6 +6862,19 @@
   
   
   ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
+            start_index                       0
+            timeStamp                         '2020-Oct-18 21:20:18 GMT'
+            title                             'Created by xios'
+            uuid                              'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
+  ```
+  
+  ```
       soil_temperature / (K)              (-- : 1; -- : 4; -- : 864)
         Mesh coordinates:
             latitude                        -       -       x
@@ -6883,19 +6896,6 @@
             timeStamp                   '2020-Oct-18 21:20:18 GMT'
             title                       'Created by xios'
             uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
-            start_index                       0
-            timeStamp                         '2020-Oct-18 21:20:18 GMT'
-            title                             'Created by xios'
-            uuid                              'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
   ```
   
   ```
@@ -7010,30 +7010,6 @@
   
   
   ```
-      snowpack_density / (kg m-3)         (-- : 1; -- : 9; -- : 864)
-        Mesh coordinates:
-            latitude                        -       -       x
-            longitude                       -       -       x
-        Auxiliary coordinates:
-            time                            x       -       -
-        Mesh:
-            name                        Topology data of 2D unstructured mesh
-            location                    face
-        Cell methods:
-            0                           time: point (interval: 300 s)
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            interval_operation          '300 s'
-            interval_write              '21600 s'
-            name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
-            online_operation            'instant'
-            timeStamp                   '2020-Oct-18 21:20:18 GMT'
-            title                       'Created by xios'
-            uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
-  ```
-  
-  ```
       Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
         Attributes:
             Conventions                       'UGRID'
@@ -7061,6 +7037,30 @@
   ```
   
   ```
+      snowpack_density / (kg m-3)         (-- : 1; -- : 9; -- : 864)
+        Mesh coordinates:
+            latitude                        -       -       x
+            longitude                       -       -       x
+        Auxiliary coordinates:
+            time                            x       -       -
+        Mesh:
+            name                        Topology data of 2D unstructured mesh
+            location                    face
+        Cell methods:
+            0                           time: point (interval: 300 s)
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            interval_operation          '300 s'
+            interval_write              '21600 s'
+            name                        'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
+            online_operation            'instant'
+            timeStamp                   '2020-Oct-18 21:20:18 GMT'
+            title                       'Created by xios'
+            uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
+  ```
       Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
         Attributes:
             Conventions                                        'UGRID'
@@ -7084,6 +7084,19 @@
   
   
   ```
+      Maps every face to its edges. / (unknown) (-- : 13824; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_surface'
+            start_index                       0
+            timeStamp                         '2020-Feb-07 16:23:14 GMT'
+            title                             'Created by xios'
+            uuid                              '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
+  ```
+  
+  ```
       Indicates which other faces neighbor each face / (no_unit) (-- : 13824; -- : 4)
         Attributes:
             Conventions                                        'UGRID'
@@ -7096,19 +7109,6 @@
             timeStamp                                          '2020-Feb-07 16:23:14 GMT'
             title                                              'Created by xios'
             uuid                                               '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
-  ```
-  
-  ```
-      Maps every face to its edges. / (unknown) (-- : 13824; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_surface'
-            start_index                       0
-            timeStamp                         '2020-Feb-07 16:23:14 GMT'
-            title                             'Created by xios'
-            uuid                              '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
   ```
   
   ```
@@ -7592,31 +7592,6 @@
   
   
   ```
-      Potential Temperature / (K)         (time: 1; levels: 6; -- : 866)
-        Dimension coordinates:
-            time                             x          -       -
-            levels                           -          x       -
-        Auxiliary coordinates:
-            time                             x          -       -
-            latitude                         -          -       x
-            longitude                        -          -       x
-        Cell methods:
-            0                           time: point
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01 ...'
-            interval_operation          '5 s'
-            interval_write              '5 s'
-            invalid_standard_name       'Potential Temperature'
-            name                        'theta_nodal_xios'
-            online_operation            'instant'
-            production                  'An IPSL model'
-            timeStamp                   '2016-Oct-24 15:16:48 BST'
-            title                       'Created by xios'
-  ```
-  
-  ```
       Topology data of 2D unstructured mesh / (unknown) (scalar cube)
         Attributes:
             Conventions                               'UGRID'
@@ -7655,6 +7630,31 @@
             title                       'Created by xios'
   ```
   
+  ```
+      Potential Temperature / (K)         (time: 1; levels: 6; -- : 866)
+        Dimension coordinates:
+            time                             x          -       -
+            levels                           -          x       -
+        Auxiliary coordinates:
+            time                             x          -       -
+            latitude                         -          -       x
+            longitude                        -          -       x
+        Cell methods:
+            0                           time: point
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01 ...'
+            interval_operation          '5 s'
+            interval_write              '5 s'
+            invalid_standard_name       'Potential Temperature'
+            name                        'theta_nodal_xios'
+            online_operation            'instant'
+            production                  'An IPSL model'
+            timeStamp                   '2016-Oct-24 15:16:48 BST'
+            title                       'Created by xios'
+  ```
+  
   
   
   ```
@@ -7668,6 +7668,28 @@
   #### [NetCDF/unstructured_grid/theta_nodal_xios.nc](test_data/NetCDF/unstructured_grid/theta_nodal_xios.nc)
 
   
+  
+  ```
+      radius / (radians)                  (time: 1; levels: 6; -- : 866)
+        Dimension coordinates:
+            time                             x          -       -
+            levels                           -          x       -
+        Auxiliary coordinates:
+            time                             x          -       -
+        Cell methods:
+            0                           time: point
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01 ...'
+            interval_operation          '5 s'
+            interval_write              '5 s'
+            name                        'theta_nodal_xios'
+            online_operation            'instant'
+            production                  'An IPSL model'
+            timeStamp                   '2016-Oct-24 15:16:48 BST'
+            title                       'Created by xios'
+  ```
   
   ```
       Potential Temperature / (K)         (time: 1; levels: 6; -- : 866)
@@ -7685,28 +7707,6 @@
             interval_operation          '5 s'
             interval_write              '5 s'
             invalid_standard_name       'Potential Temperature'
-            name                        'theta_nodal_xios'
-            online_operation            'instant'
-            production                  'An IPSL model'
-            timeStamp                   '2016-Oct-24 15:16:48 BST'
-            title                       'Created by xios'
-  ```
-  
-  ```
-      radius / (radians)                  (time: 1; levels: 6; -- : 866)
-        Dimension coordinates:
-            time                             x          -       -
-            levels                           -          x       -
-        Auxiliary coordinates:
-            time                             x          -       -
-        Cell methods:
-            0                           time: point
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01 ...'
-            interval_operation          '5 s'
-            interval_write              '5 s'
             name                        'theta_nodal_xios'
             online_operation            'instant'
             production                  'An IPSL model'
@@ -9882,6 +9882,34 @@
   ```
   
   IsADirectoryError: [Errno 21] Is a directory: '/home/runner/work/iris-test-data/iris-test-data/indexing/../test_data/Zarr/gfs_forecast_sample.zarr'
+  
+  ```
+  
+
+  #### [Zarr/unicode_coords_v2.zarr](test_data/Zarr/unicode_coords_v2.zarr)
+
+  
+  
+  
+  
+  
+  ```
+  
+  IsADirectoryError: [Errno 21] Is a directory: '/home/runner/work/iris-test-data/iris-test-data/indexing/../test_data/Zarr/unicode_coords_v2.zarr'
+  
+  ```
+  
+
+  #### [Zarr/unicode_coords_v3.zarr](test_data/Zarr/unicode_coords_v3.zarr)
+
+  
+  
+  
+  
+  
+  ```
+  
+  IsADirectoryError: [Errno 21] Is a directory: '/home/runner/work/iris-test-data/iris-test-data/indexing/../test_data/Zarr/unicode_coords_v3.zarr'
   
   ```
   
