@@ -51,15 +51,15 @@ jobs:
     runs-on: "ubuntu-latest"
     steps:
       - uses: actions/checkout@v2
-      - name: install iris-grib
-        run: |
-          source $CONDA/bin/activate base
-          conda install -q -y -c conda-forge iris-grib
+      - name: create environment
+        uses: mamba-org/setup-micromamba@f457c30a868e4760d3a6fcea5f25dc655b8edf39
+        with:
+          create-args: iris-grib
       - name: generate index
         working-directory: indexing
         run: |
           git pull
-          $CONDA/bin/python generate_index.py
+          python generate_index.py
 
       - name: Store index
         run: |
