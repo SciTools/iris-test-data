@@ -1,9 +1,8 @@
 # Zarr sample stores
 
 Zarr stores for testing Iris's native Zarr reader and writer. Some are
-published data cut down, and those are third-party, redistributed under their
-own licence rather than under the Open Government Licence the repository
-README offers for Met Office data. Each section below says which it is.
+published data cut down; others are synthetic. Licensing and attribution for
+each store are recorded in the repository's `REUSE.toml`.
 
 A Zarr store is a directory, not a file. Point Iris at the directory.
 
@@ -12,16 +11,8 @@ A Zarr store is a directory, not a file. Point Iris at the directory.
 A subset of the NOAA GFS forecast archive published by dynamical.org, in Zarr
 version 3.
 
-**Licence:** CC BY 4.0. DOI 10.5281/zenodo.18777399.
-
-**Attribution**, as the store's own root `attribution` attribute gives it:
-
-> NOAA NWS NCEP GFS data processed by dynamical.org from NOAA Open Data
-> Dissemination archives.
-
 The subset keeps every source attribute verbatim, so `license` and
-`attribution` travel in the data itself. This file is what makes them visible
-to someone reading the repository.
+`attribution` also travel in the data itself.
 
 **What the subset is.** 1.4 MB over 35 files. Two forecast initialisations,
 eight lead times, 120 x 120 points. Four data variables — `temperature_2m`,
@@ -53,11 +44,8 @@ needed it.
 ## `unicode_coords_v2.zarr` and `unicode_coords_v3.zarr`
 
 The same tiny dataset in Zarr version 2 and version 3, holding fixed-length
-unicode coordinate arrays. 80 KB and 84 KB.
-
-**Licence:** these are ours. Synthetic data, no third party involved, so the
-repository's Open Government Licence applies as it does to everything outside
-`gfs_forecast_sample.zarr`.
+unicode coordinate arrays. 80 KB and 84 KB. Synthetic data, no third party
+involved.
 
 **What they are for.** A `<U` array is not strictly Zarr-supported — see
 [SciTools/iris#6961](https://github.com/SciTools/iris/issues/6961) — and real

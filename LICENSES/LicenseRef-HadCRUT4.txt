@@ -1,0 +1,18 @@
+HadCRUT4: terms and conditions
+Source: https://www.metoffice.gov.uk/hadobs/hadcrut4/terms_and_conditions.html
+
+HadCRUT4 is subject to Crown copyright protection. The material may be
+downloaded to file or printer for the purposes of private study and scientific
+research. Any other proposed use of the material is subject to a copyright
+licence available from the Met Office. Licences and further information can be
+obtained from the Met Office IPR Officer, Met Office, FitzRoy Road, Exeter,
+Devon, EX1 3PB. E-mail: ipr@metoffice.com.
+
+For further information on Crown Copyright policy and licensing arrangements,
+see the guidance featured on HMSO's web site.
+
+When publishing work using the data, please use the following citation:
+
+Morice, C.P., J.J. Kennedy, N.A. Rayner, P.D. Jones (2011), Quantifying
+uncertainties in global and regional temperature change using an ensemble of
+observational estimates: the HadCRUT4 dataset, Journal of Geophysical Research.
