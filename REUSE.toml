@@ -1,5 +1,6 @@
 version = 1
 
+# Repo architecture.
 [[annotations]]
 path = ["*", ".github/**", "indexing/**"]
 precedence = "override"
@@ -104,6 +105,7 @@ precedence = "override"
 SPDX-FileCopyrightText = "British Crown Copyright"
 SPDX-License-Identifier = "OGL-UK-3.0"
 
+# NOAA GFS from dynamical.org.
 [[annotations]]
 SPDX-FileComment = "Subset of the NOAA GFS forecast archive published by dynamical.org (https://data.dynamical.org/noaa/gfs/forecast/, dataset noaa-gfs-forecast version 0.2.7). DOI 10.5281/zenodo.18777399. Attribution: NOAA NWS NCEP GFS data processed by dynamical.org from NOAA Open Data Dissemination archives."
 path = [
@@ -147,6 +149,7 @@ precedence = "override"
 SPDX-FileCopyrightText = "dynamical.org"
 SPDX-License-Identifier = "CC-BY-4.0"
 
+# HadCRUT4.
 [[annotations]]
 SPDX-FileComment = "Derived from HadCRUT4 (https://www.metoffice.gov.uk/hadobs/hadcrut4/). Citation: Morice, C.P., J.J. Kennedy, N.A. Rayner, P.D. Jones (2012), Quantifying uncertainties in global and regional temperature change using an ensemble of observational estimates: the HadCRUT4 dataset, J. Geophys. Res."
 path = ["test_data/NetCDF/testing/chunked_char_data.nc"]
@@ -154,6 +157,7 @@ precedence = "override"
 SPDX-FileCopyrightText = "Crown Copyright (c) Met Office"
 SPDX-License-Identifier = "LicenseRef-HadCRUT4"
 
+# CMIP6.
 [[annotations]]
 SPDX-FileComment = "CMIP6 CESM2 deforest-globe output (tracking_id hdl:21.14100/04f22776-16d5-4f4a-be75-23d2b59bd527). See https://furtherinfo.es-doc.org/CMIP6.NCAR.CESM2.deforest-globe.none.r1i1p1f1 and the CMIP6 terms of use (https://pcmdi.llnl.gov/CMIP6/TermsOfUse) for citation and acknowledgement requirements."
 path = ["test_data/NetCDF/volcello/volcello_Ofx_CESM2_deforest-globe_r1i1p1f1_gn.nc"]
@@ -533,7 +537,7 @@ SPDX-License-Identifier = "OGL-UK-3.0"
 
 # OGL assumed.
 [[annotations]]
-SPDX-FileComment = "Files added after initial OGL attribution (commit 5292225) and before 2024 (commit ad3282b)  - OGL is assumed from presence in this repository but cannot be confirmed. If you believe any attribution here is incorrect, please raise an issue and it will be corrected."
+SPDX-FileComment = "Files added after initial OGL attribution (commit 5292225) and before 2024 (commit ad3282b) - OGL is assumed from presence in this repository but cannot be confirmed. If you believe any attribution here is incorrect, please raise an issue and it will be corrected."
 path = [
     "test_data/FF/ancillary/qrparm.mask",
     "test_data/FF/landsea_masked/testdata_mini_lsm.ff",
